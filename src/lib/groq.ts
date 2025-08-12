@@ -1,7 +1,7 @@
 import Groq from "groq-sdk";
 
 const groq = new Groq({ 
-  apiKey: process.env.GROQ_API_KEY || "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" 
+  apiKey: process.env.GROQ_API_KEY
 });
 
 export default groq;
@@ -13,4 +13,4 @@ export async function getGroqChatCompletion(messages: any[]) {
     temperature: 0.7,
     max_tokens: 2000,
   });
-} 
+}
