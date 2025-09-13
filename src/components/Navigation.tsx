@@ -17,7 +17,7 @@ export default function Navigation() {
         <div className="flex justify-between items-center h-16">
           <div className="flex items-center">
             <Link href="/" className="text-2xl font-bold text-blue-600">
-              NEYALA.AI
+              Nyala
             </Link>
           </div>
 
@@ -57,6 +57,14 @@ export default function Navigation() {
               </SignInButton>
             ) : (
               <div className="flex items-center space-x-4">
+                <Link
+                  href="/affiliate"
+                  className={`${
+                    isActive('/affiliate') ? 'text-blue-600' : 'text-gray-600 hover:text-blue-600'
+                  } transition-colors`}
+                >
+                  Affiliate
+                </Link>
                 <span className="text-gray-600">
                   Welcome, {user.firstName || 'User'}
                 </span>

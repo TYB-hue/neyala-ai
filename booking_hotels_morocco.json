@@ -1,0 +1,272 @@
+[
+  {
+    "id": "hotel_1756485207510_0",
+    "name": "Riad Jnane Medina & Luxury Palace",
+    "price": 123,
+    "currency": "USD",
+    "rating": 10,
+    "stars": 10,
+    "reviewCount": 202,
+    "avgReview": "10.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/738121079.webp?k=5b479a3cf4ac642e44a96323d1a716fc38c17962b123e80869e9b9b37a9da291&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ma/riad-jnane-medina-fes3.html?aid=304142&label=gen173nr-10CAQoggJCDnNlYXJjaF9tb3JvY2NvSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC0qzHxQbAAgHSAiQ5YTZiYWIzYi02ZjFmLTQ5ZjgtYmIyNi01YzZjOWMyZmUwZDLYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=f9b97469157d0482&srepoch=1756485206&all_sr_blocks=1448353417_416748427_2_1_0&highlighted_blocks=1448353417_416748427_2_1_0&matching_block_id=1448353417_416748427_2_1_0&sr_pri_blocks=1448353417_416748427_2_1_0__10500&from=searchresults",
+    "address": "Fes El Bali, Fez",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=morocco&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T16:33:27.510Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756485207510_1",
+    "name": "Sahara Luxury Tented Camp",
+    "price": 420,
+    "currency": "USD",
+    "rating": 9.4,
+    "stars": 9,
+    "reviewCount": 673,
+    "avgReview": "9.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/401796348.webp?k=88721c147d7709b4fa49371ed56cb1ecffb4362f4b87869276248144180ff90d&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ma/sahara-luxury-tented-camp.html?aid=304142&label=gen173nr-10CAQoggJCDnNlYXJjaF9tb3JvY2NvSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC0qzHxQbAAgHSAiQ5YTZiYWIzYi02ZjFmLTQ5ZjgtYmIyNi01YzZjOWMyZmUwZDLYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=f9b97469157d0482&srepoch=1756485206&all_sr_blocks=810868201_362665911_2_1_0_1160602&highlighted_blocks=810868201_362665911_2_1_0_1160602&matching_block_id=810868201_362665911_2_1_0_1160602&sr_pri_blocks=810868201_362665911_2_1_0_1160602_36000&from=searchresults",
+    "address": "Merzouga",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=morocco&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T16:33:27.510Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756485207510_2",
+    "name": "Dar Zayane",
+    "price": 548,
+    "currency": "USD",
+    "rating": 8.4,
+    "stars": 8,
+    "reviewCount": 198,
+    "avgReview": "8.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/516591045.webp?k=7d037811a271c975f200a05b93c27332cd6b4badb8078c956c0dde7187dc7ed4&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ma/dar-zayane.html?aid=304142&label=gen173nr-10CAQoggJCDnNlYXJjaF9tb3JvY2NvSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC0qzHxQbAAgHSAiQ5YTZiYWIzYi02ZjFmLTQ5ZjgtYmIyNi01YzZjOWMyZmUwZDLYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=f9b97469157d0482&srepoch=1756485206&all_sr_blocks=542911303_362914932_3_1_0&highlighted_blocks=542911303_362914932_3_1_0&matching_block_id=542911303_362914932_3_1_0&sr_pri_blocks=542911303_362914932_3_1_0__46920&from=searchresults",
+    "address": "Khenifra",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=morocco&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T16:33:27.510Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756485207510_3",
+    "name": "Diar illi",
+    "price": 529,
+    "currency": "USD",
+    "rating": 9.5,
+    "stars": 10,
+    "reviewCount": 401,
+    "avgReview": "9.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/340224976.webp?k=42c44f37a1f77a7b9cfbf5e739eaf8e499022845baceb9238e33ba2b881248e5&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ma/diar-illi.html?aid=304142&label=gen173nr-10CAQoggJCDnNlYXJjaF9tb3JvY2NvSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC0qzHxQbAAgHSAiQ5YTZiYWIzYi02ZjFmLTQ5ZjgtYmIyNi01YzZjOWMyZmUwZDLYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=f9b97469157d0482&srepoch=1756485206&all_sr_blocks=590952816_231846426_0_41_0&highlighted_blocks=590952816_231846426_0_41_0&matching_block_id=590952816_231846426_0_41_0&sr_pri_blocks=590952816_231846426_0_41_0__45306&from=searchresults",
+    "address": "Touama",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=morocco&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T16:33:27.510Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756485207510_4",
+    "name": "Riad Zidania",
+    "price": 376,
+    "currency": "USD",
+    "rating": 8.9,
+    "stars": 9,
+    "reviewCount": 958,
+    "avgReview": "8.9/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/187534012.webp?k=40dbda49753d2c27c44af002a4e4e940b45c9b0414bbaa08ca8e93ef8627680e&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ma/riad-zidania.html?aid=304142&label=gen173nr-10CAQoggJCDnNlYXJjaF9tb3JvY2NvSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC0qzHxQbAAgHSAiQ5YTZiYWIzYi02ZjFmLTQ5ZjgtYmIyNi01YzZjOWMyZmUwZDLYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=f9b97469157d0482&srepoch=1756485206&all_sr_blocks=478424409_393315601_0_33_0_441259&highlighted_blocks=478424409_393315601_0_33_0_441259&matching_block_id=478424409_393315601_0_33_0_441259&sr_pri_blocks=478424409_393315601_0_33_0_441259_32237&from=searchresults",
+    "address": "Meknès",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=morocco&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T16:33:27.510Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756485207510_5",
+    "name": "Nomadica Luxury Camp",
+    "price": 394,
+    "currency": "USD",
+    "rating": 9.5,
+    "stars": 10,
+    "reviewCount": 732,
+    "avgReview": "9.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/530174648.webp?k=3baaeb8e9c7ddb4f5c48dfa7da4194ffdfa8539ccf83927a10127352ab735a3c&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ma/luxury-tented-camp.html?aid=304142&label=gen173nr-10CAQoggJCDnNlYXJjaF9tb3JvY2NvSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC0qzHxQbAAgHSAiQ5YTZiYWIzYi02ZjFmLTQ5ZjgtYmIyNi01YzZjOWMyZmUwZDLYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=f9b97469157d0482&srepoch=1756485206&all_sr_blocks=336449601_116207494_0_33_0_1160633&highlighted_blocks=336449601_116207494_0_33_0_1160633&matching_block_id=336449601_116207494_0_33_0_1160633&sr_pri_blocks=336449601_116207494_0_33_0_1160633_33750&from=searchresults",
+    "address": "Merzouga",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=morocco&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T16:33:27.510Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756485207510_6",
+    "name": "Kasbah Azalay Merzouga",
+    "price": 238,
+    "currency": "USD",
+    "rating": 8.9,
+    "stars": 9,
+    "reviewCount": 320,
+    "avgReview": "8.9/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/351770683.webp?k=21c642a253f5e9f4a93571511248de22109459734afc8fec1261fb64f417bfda&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ma/kasbah-azalay-merzouga.html?aid=304142&label=gen173nr-10CAQoggJCDnNlYXJjaF9tb3JvY2NvSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC0qzHxQbAAgHSAiQ5YTZiYWIzYi02ZjFmLTQ5ZjgtYmIyNi01YzZjOWMyZmUwZDLYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=f9b97469157d0482&srepoch=1756485206&all_sr_blocks=40004401_195678852_2_41_0&highlighted_blocks=40004401_195678852_2_41_0&matching_block_id=40004401_195678852_2_41_0&sr_pri_blocks=40004401_195678852_2_41_0__20400&from=searchresults",
+    "address": "Merzouga",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=morocco&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T16:33:27.510Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756485207510_7",
+    "name": "Weedan Hôtel Marrakech",
+    "price": 349,
+    "currency": "USD",
+    "rating": 9.4,
+    "stars": 9,
+    "reviewCount": 141,
+    "avgReview": "9.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/605126671.webp?k=2eb42f0f305cd0838d2c96560471106fdcd2cd929388c3d1e8d849c3e79395cf&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ma/ferme-d-ha-tes-weedan.html?aid=304142&label=gen173nr-10CAQoggJCDnNlYXJjaF9tb3JvY2NvSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC0qzHxQbAAgHSAiQ5YTZiYWIzYi02ZjFmLTQ5ZjgtYmIyNi01YzZjOWMyZmUwZDLYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=f9b97469157d0482&srepoch=1756485206&all_sr_blocks=88319902_419631927_0_41_0_871657&highlighted_blocks=88319902_419631927_0_41_0_871657&matching_block_id=88319902_419631927_0_41_0_871657&sr_pri_blocks=88319902_419631927_0_41_0_871657_29883&from=searchresults",
+    "address": "Oulad Snaguia",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=morocco&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T16:33:27.510Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756485207510_8",
+    "name": "Hotel Leonor",
+    "price": 228,
+    "currency": "USD",
+    "rating": 7.9,
+    "stars": 8,
+    "reviewCount": 458,
+    "avgReview": "7.9/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/221648272.webp?k=93aef4efc987eb6f5f78c37aa55e2e742389d4bff58aaad2e2fd2f900c622b28&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ma/leonor.html?aid=304142&label=gen173nr-10CAQoggJCDnNlYXJjaF9tb3JvY2NvSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC0qzHxQbAAgHSAiQ5YTZiYWIzYi02ZjFmLTQ5ZjgtYmIyNi01YzZjOWMyZmUwZDLYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=f9b97469157d0482&srepoch=1756485206&all_sr_blocks=566586901_364475119_2_1_0&highlighted_blocks=566586901_364475119_2_1_0&matching_block_id=566586901_364475119_2_1_0&sr_pri_blocks=566586901_364475119_2_1_0__19500&from=searchresults",
+    "address": "Had Beni Chiker",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=morocco&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T16:33:27.510Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756485207510_9",
+    "name": "Hotel Kasbah Sahara Services - M'Hamid El Ghizlane",
+    "price": 214,
+    "currency": "USD",
+    "rating": 8.6,
+    "stars": 9,
+    "reviewCount": 210,
+    "avgReview": "8.6/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/658435332.webp?k=acb59d9ce51133e0b965864838772631397e3261aea32da0cde7832b7ac1cf79&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ma/kasbah-sahara-services.html?aid=304142&label=gen173nr-10CAQoggJCDnNlYXJjaF9tb3JvY2NvSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC0qzHxQbAAgHSAiQ5YTZiYWIzYi02ZjFmLTQ5ZjgtYmIyNi01YzZjOWMyZmUwZDLYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=f9b97469157d0482&srepoch=1756485206&all_sr_blocks=24270224_397221622_2_1_0&highlighted_blocks=24270224_397221622_2_1_0&matching_block_id=24270224_397221622_2_1_0&sr_pri_blocks=24270224_397221622_2_1_0__18333&from=searchresults",
+    "address": "Mhamid",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=morocco&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T16:33:27.510Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

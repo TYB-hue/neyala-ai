@@ -1,0 +1,272 @@
+[
+  {
+    "id": "hotel_1755804531824_0",
+    "name": "MyFlower 3 Hotel",
+    "price": 174,
+    "currency": "USD",
+    "rating": 8.2,
+    "stars": 8,
+    "reviewCount": 907,
+    "avgReview": "8.2/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/658709895.webp?k=af3d6cae61fcc31806e497aed3e672025e880b4fbb4e40b6e3e4c32c622a03fd&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/iq/my-flower.html?aid=304142&label=gen173nr-10CAQoggJCC3NlYXJjaF9pcmFxSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC7uadxQbAAgHSAiRkZThhOWVkMi1mY2M1LTQwNzUtYjI5OC1iMmZlY2NjZmRkYTbYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=920188f77cbc0157&srepoch=1755804530&all_sr_blocks=274970208_407498274_2_1_0_453297&highlighted_blocks=274970208_407498274_2_1_0_453297&matching_block_id=274970208_407498274_2_1_0_453297&sr_pri_blocks=274970208_407498274_2_1_0_453297_17438&from=searchresults",
+    "address": "Erbil",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Iraq&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-21T19:28:51.824Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755804531824_1",
+    "name": "Parwar Hotel",
+    "price": 225,
+    "currency": "USD",
+    "rating": 8.7,
+    "stars": 9,
+    "reviewCount": 544,
+    "avgReview": "8.7/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/478510661.webp?k=c21396b768f5dba64ea71613cccb304c44c977267746dc18b988fa59df1d3f48&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/iq/parwar-duhok.html?aid=304142&label=gen173nr-10CAQoggJCC3NlYXJjaF9pcmFxSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC7uadxQbAAgHSAiRkZThhOWVkMi1mY2M1LTQwNzUtYjI5OC1iMmZlY2NjZmRkYTbYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=920188f77cbc0157&srepoch=1755804530&all_sr_blocks=992293209_372195586_2_1_0&highlighted_blocks=992293209_372195586_2_1_0&matching_block_id=992293209_372195586_2_1_0&sr_pri_blocks=992293209_372195586_2_1_0__22500&from=searchresults",
+    "address": "Duhok",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Iraq&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-21T19:28:51.824Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755804531824_2",
+    "name": "Erbil Rotana",
+    "price": 560,
+    "currency": "USD",
+    "rating": 8.8,
+    "stars": 9,
+    "reviewCount": 401,
+    "avgReview": "8.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/567521703.webp?k=be273ff8d15df63931981ec27a98d0292cc2724448f8bb49c1622d1cbeee2cff&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/iq/erbil-rotana.html?aid=304142&label=gen173nr-10CAQoggJCC3NlYXJjaF9pcmFxSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC7uadxQbAAgHSAiRkZThhOWVkMi1mY2M1LTQwNzUtYjI5OC1iMmZlY2NjZmRkYTbYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=920188f77cbc0157&srepoch=1755804530&all_sr_blocks=36983001_403630039_0_10_0&highlighted_blocks=36983001_403630039_0_10_0&matching_block_id=36983001_403630039_0_10_0&sr_pri_blocks=36983001_403630039_0_10_0__56034&from=searchresults",
+    "address": "Erbil",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Iraq&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-21T19:28:51.824Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755804531824_3",
+    "name": "Radisson Hotel & Residences Erbil",
+    "price": 757,
+    "currency": "USD",
+    "rating": 9.4,
+    "stars": 9,
+    "reviewCount": 356,
+    "avgReview": "9.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/508242864.webp?k=f06e9a3795f4a7311ef318ce89a8a9b728d07806df6ef16caf2e3806b5ea3436&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/iq/radisson-hotel-and-residences-erbil.html?aid=304142&label=gen173nr-10CAQoggJCC3NlYXJjaF9pcmFxSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC7uadxQbAAgHSAiRkZThhOWVkMi1mY2M1LTQwNzUtYjI5OC1iMmZlY2NjZmRkYTbYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=920188f77cbc0157&srepoch=1755804530&all_sr_blocks=834652009_381246307_2_2_0&highlighted_blocks=834652009_381246307_2_2_0&matching_block_id=834652009_381246307_2_2_0&sr_pri_blocks=834652009_381246307_2_2_0__75700&from=searchresults",
+    "address": "Erbil",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Iraq&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-21T19:28:51.824Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755804531824_4",
+    "name": "King Hotel Karbala",
+    "price": 210,
+    "currency": "USD",
+    "rating": 7.3,
+    "stars": 7,
+    "reviewCount": 229,
+    "avgReview": "7.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/535579862.webp?k=8ec839b29c80e6b6273b5bc12f7d631a0d81b9953c174119ef67985e35db1607&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/iq/noor-al-zahraa.html?aid=304142&label=gen173nr-10CAQoggJCC3NlYXJjaF9pcmFxSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC7uadxQbAAgHSAiRkZThhOWVkMi1mY2M1LTQwNzUtYjI5OC1iMmZlY2NjZmRkYTbYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=920188f77cbc0157&srepoch=1755804530&all_sr_blocks=973969602_408240425_0_2_0&highlighted_blocks=973969602_408240425_0_2_0&matching_block_id=973969602_408240425_0_2_0&sr_pri_blocks=973969602_408240425_0_2_0__21000&from=searchresults",
+    "address": "Karbala",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Iraq&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-21T19:28:51.824Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755804531824_5",
+    "name": "La Roche Hotel",
+    "price": 346,
+    "currency": "USD",
+    "rating": 7.4,
+    "stars": 7,
+    "reviewCount": 348,
+    "avgReview": "7.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/96708994.webp?k=8fb1a25ccbc53ddab69635b88784afbedfd12c271168942e4e3f0d179bc40ef0&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/iq/la-roche-erbil.html?aid=304142&label=gen173nr-10CAQoggJCC3NlYXJjaF9pcmFxSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC7uadxQbAAgHSAiRkZThhOWVkMi1mY2M1LTQwNzUtYjI5OC1iMmZlY2NjZmRkYTbYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=920188f77cbc0157&srepoch=1755804530&all_sr_blocks=218422115_200177097_2_41_0&highlighted_blocks=218422115_200177097_2_41_0&matching_block_id=218422115_200177097_2_41_0&sr_pri_blocks=218422115_200177097_2_41_0__34560&from=searchresults",
+    "address": "Erbil",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Iraq&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-21T19:28:51.824Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755804531825_6",
+    "name": "Najaf Do Hotel",
+    "price": 420,
+    "currency": "USD",
+    "rating": 9,
+    "stars": 9,
+    "reviewCount": 463,
+    "avgReview": "9.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/599032023.webp?k=bcc4a26d1cbf987160bd7986d8f3de331d16c545dc3a4e46f51f7e3b8c26087e&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/iq/najaf-do.html?aid=304142&label=gen173nr-10CAQoggJCC3NlYXJjaF9pcmFxSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC7uadxQbAAgHSAiRkZThhOWVkMi1mY2M1LTQwNzUtYjI5OC1iMmZlY2NjZmRkYTbYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=920188f77cbc0157&srepoch=1755804530&all_sr_blocks=1271267201_409390833_2_1_0&highlighted_blocks=1271267201_409390833_2_1_0&matching_block_id=1271267201_409390833_2_1_0&sr_pri_blocks=1271267201_409390833_2_1_0__42000&from=searchresults",
+    "address": "An Najaf",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Iraq&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-21T19:28:51.825Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755804531825_7",
+    "name": "Mariana Hotel Erbil",
+    "price": 390,
+    "currency": "USD",
+    "rating": 7.8,
+    "stars": 8,
+    "reviewCount": 382,
+    "avgReview": "7.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/40369972.webp?k=742c8a4e7023a381e105fc492bc15ef8e0646444f7d3d9becae0f490f4c7a0b9&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/iq/mariana-erbil.html?aid=304142&label=gen173nr-10CAQoggJCC3NlYXJjaF9pcmFxSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC7uadxQbAAgHSAiRkZThhOWVkMi1mY2M1LTQwNzUtYjI5OC1iMmZlY2NjZmRkYTbYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=920188f77cbc0157&srepoch=1755804530&all_sr_blocks=127643602_102260639_0_41_0&highlighted_blocks=127643602_102260639_0_41_0&matching_block_id=127643602_102260639_0_41_0&sr_pri_blocks=127643602_102260639_0_41_0__39000&from=searchresults",
+    "address": "Erbil",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Iraq&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-21T19:28:51.825Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755804531825_8",
+    "name": "Classy Hotel Erbil",
+    "price": 347,
+    "currency": "USD",
+    "rating": 8.2,
+    "stars": 8,
+    "reviewCount": 630,
+    "avgReview": "8.2/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/30050560.webp?k=6373959693e07f7951bfbd21831fc4d04e747f6b9c26eb531eb34acaa4db8c8b&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/iq/classy.html?aid=304142&label=gen173nr-10CAQoggJCC3NlYXJjaF9pcmFxSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC7uadxQbAAgHSAiRkZThhOWVkMi1mY2M1LTQwNzUtYjI5OC1iMmZlY2NjZmRkYTbYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=920188f77cbc0157&srepoch=1755804530&all_sr_blocks=68397602_367643423_2_41_0&highlighted_blocks=68397602_367643423_2_41_0&matching_block_id=68397602_367643423_2_41_0&sr_pri_blocks=68397602_367643423_2_41_0__34650&from=searchresults",
+    "address": "Erbil",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Iraq&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-21T19:28:51.825Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755804531825_9",
+    "name": "Van Royal Hotel",
+    "price": 345,
+    "currency": "USD",
+    "rating": 8.5,
+    "stars": 9,
+    "reviewCount": 1047,
+    "avgReview": "8.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/43071288.webp?k=b82ab5fba3f1e3c41f48d6235af9885bd68766dbd45a2bd6808fa2656304ba19&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/iq/van-royal.html?aid=304142&label=gen173nr-10CAQoggJCC3NlYXJjaF9pcmFxSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC7uadxQbAAgHSAiRkZThhOWVkMi1mY2M1LTQwNzUtYjI5OC1iMmZlY2NjZmRkYTbYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=920188f77cbc0157&srepoch=1755804530&all_sr_blocks=38495302_395700440_2_1_0&highlighted_blocks=38495302_395700440_2_1_0&matching_block_id=38495302_395700440_2_1_0&sr_pri_blocks=38495302_395700440_2_1_0__34500&from=searchresults",
+    "address": "Erbil",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Iraq&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-21T19:28:51.825Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

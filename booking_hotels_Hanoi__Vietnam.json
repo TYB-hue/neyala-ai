@@ -1,0 +1,272 @@
+[
+  {
+    "id": "hotel_1756475429337_0",
+    "name": "Nature Hotel Ha Noi Westlake",
+    "price": 80,
+    "currency": "USD",
+    "rating": 8.6,
+    "stars": 9,
+    "reviewCount": 405,
+    "avgReview": "8.6/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/717735555.webp?k=bb4b2aeeff548cd49fe8f17379d42469041ac7fe0db0282002b57671bb5de987&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/vn/nature-ha-noi-westlake.html?aid=304142&label=gen173nr-10CAQoggJCFXNlYXJjaF9oYW5vaSwgdmlldG5hbUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AqDgxsUGwAIB0gIkNmY2ZGIwYTYtMmYxMS00M2EyLWE3MWYtZjUyZTlhMmIxYmQ42AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=d4b2615076eb03f5&srepoch=1756475428&all_sr_blocks=1461376601_417435701_2_1_0&highlighted_blocks=1461376601_417435701_2_1_0&matching_block_id=1461376601_417435701_2_1_0&sr_pri_blocks=1461376601_417435701_2_1_0__210000000&from=searchresults",
+    "address": "Tay Ho, Hanoi",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Hanoi%2C+Vietnam&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T13:50:29.337Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756475429337_1",
+    "name": "HanoiStaycation",
+    "price": 73,
+    "currency": "USD",
+    "rating": 3.1608341086606666,
+    "stars": 3,
+    "reviewCount": 965,
+    "avgReview": "3.2/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/737085814.webp?k=84b55255b8f7ab3b90f0b93d30c72e6ba2afb63c741e8c75598b66390d6ae673&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/vn/hanoistaycation.html?aid=304142&label=gen173nr-10CAQoggJCFXNlYXJjaF9oYW5vaSwgdmlldG5hbUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AqDgxsUGwAIB0gIkNmY2ZGIwYTYtMmYxMS00M2EyLWE3MWYtZjUyZTlhMmIxYmQ42AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=d4b2615076eb03f5&srepoch=1756475428&all_sr_blocks=1482598701_419753675_2_0_0&highlighted_blocks=1482598701_419753675_2_0_0&matching_block_id=1482598701_419753675_2_0_0&sr_pri_blocks=1482598701_419753675_2_0_0__191250000&from=searchresults",
+    "address": "Hanoi",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Hanoi%2C+Vietnam&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T13:50:29.337Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756475429337_2",
+    "name": "MAY DE VILLE Crown Hotel",
+    "price": 331,
+    "currency": "USD",
+    "rating": 9.6,
+    "stars": 10,
+    "reviewCount": 554,
+    "avgReview": "9.6/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/696376091.webp?k=1361aa73e94bd231e149417d061e42aa9afea029ad2e3324e4adbb4592d0eb1d&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/vn/may-de-ville-premier-amp-spa.html?aid=304142&label=gen173nr-10CAQoggJCFXNlYXJjaF9oYW5vaSwgdmlldG5hbUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AqDgxsUGwAIB0gIkNmY2ZGIwYTYtMmYxMS00M2EyLWE3MWYtZjUyZTlhMmIxYmQ42AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=d4b2615076eb03f5&srepoch=1756475428&all_sr_blocks=886447314_393092234_0_41_0_1154950&highlighted_blocks=886447314_393092234_0_41_0_1154950&matching_block_id=886447314_393092234_0_41_0_1154950&sr_pri_blocks=886447314_393092234_0_41_0_1154950_871200000&from=searchresults",
+    "address": "Hoan Kiem, Hanoi (Old Quarter)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Hanoi%2C+Vietnam&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T13:50:29.337Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756475429337_3",
+    "name": "TrangTrang Luxury Hotel",
+    "price": 112,
+    "currency": "USD",
+    "rating": 9.1,
+    "stars": 9,
+    "reviewCount": 1046,
+    "avgReview": "9.1/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/565920373.webp?k=2e50757eb2b1697986c0c25252ca3ec82d897726d7af1f328d67430ac39136da&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/vn/trangtrang-luxury.html?aid=304142&label=gen173nr-10CAQoggJCFXNlYXJjaF9oYW5vaSwgdmlldG5hbUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AqDgxsUGwAIB0gIkNmY2ZGIwYTYtMmYxMS00M2EyLWE3MWYtZjUyZTlhMmIxYmQ42AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=d4b2615076eb03f5&srepoch=1756475428&all_sr_blocks=1216361001_393815429_2_1_0&highlighted_blocks=1216361001_393815429_2_1_0&matching_block_id=1216361001_393815429_2_1_0&sr_pri_blocks=1216361001_393815429_2_1_0__294450000&from=searchresults",
+    "address": "Hoan Kiem, Hanoi (Old Quarter)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Hanoi%2C+Vietnam&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T13:50:29.337Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756475429337_4",
+    "name": "Lotusama Central Hanoi Hotel",
+    "price": 123,
+    "currency": "USD",
+    "rating": 9.5,
+    "stars": 10,
+    "reviewCount": 366,
+    "avgReview": "9.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/683875673.webp?k=944d668b9ba37dcbf3ec7f5e6d6ed13e5e6efd942f11b0b89469608e51afc3de&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/vn/lotusama-central-hanoi.html?aid=304142&label=gen173nr-10CAQoggJCFXNlYXJjaF9oYW5vaSwgdmlldG5hbUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AqDgxsUGwAIB0gIkNmY2ZGIwYTYtMmYxMS00M2EyLWE3MWYtZjUyZTlhMmIxYmQ42AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=d4b2615076eb03f5&srepoch=1756475428&all_sr_blocks=1413795001_413126205_0_2_0&highlighted_blocks=1413795001_413126205_0_2_0&matching_block_id=1413795001_413126205_0_2_0&sr_pri_blocks=1413795001_413126205_0_2_0__323759100&from=searchresults",
+    "address": "Hoan Kiem, Hanoi (Old Quarter)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Hanoi%2C+Vietnam&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T13:50:29.337Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756475429337_5",
+    "name": "Luxe Paradise Premium Hotel Pham Hong Thai",
+    "price": 142,
+    "currency": "USD",
+    "rating": 8.7,
+    "stars": 9,
+    "reviewCount": 574,
+    "avgReview": "8.7/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/583357140.webp?k=2cb75a75008c284eb39f2007dd8128ea51d0d3e57470924938e89f8423f108f2&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/vn/lux-paradise-premium.html?aid=304142&label=gen173nr-10CAQoggJCFXNlYXJjaF9oYW5vaSwgdmlldG5hbUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AqDgxsUGwAIB0gIkNmY2ZGIwYTYtMmYxMS00M2EyLWE3MWYtZjUyZTlhMmIxYmQ42AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=d4b2615076eb03f5&srepoch=1756475428&all_sr_blocks=1174597110_419430763_0_1_0_835800&highlighted_blocks=1174597110_419430763_0_1_0_835800&matching_block_id=1174597110_419430763_0_1_0_835800&sr_pri_blocks=1174597110_419430763_0_1_0_835800_374100000&from=searchresults",
+    "address": "Ba Dinh, Hanoi",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Hanoi%2C+Vietnam&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T13:50:29.337Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756475429337_6",
+    "name": "Hanoi Lion Boutique Hotel & Spa",
+    "price": 174,
+    "currency": "USD",
+    "rating": 9.5,
+    "stars": 10,
+    "reviewCount": 278,
+    "avgReview": "9.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/687902920.webp?k=324faa36ab82f776ed7d83e21fda040f9f64d130ce874ec7490bbc235b92da82&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/vn/hanoi-lion-boutique.html?aid=304142&label=gen173nr-10CAQoggJCFXNlYXJjaF9oYW5vaSwgdmlldG5hbUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AqDgxsUGwAIB0gIkNmY2ZGIwYTYtMmYxMS00M2EyLWE3MWYtZjUyZTlhMmIxYmQ42AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=d4b2615076eb03f5&srepoch=1756475428&all_sr_blocks=903115709_361142410_0_41_0_1157012&highlighted_blocks=903115709_361142410_0_41_0_1157012&matching_block_id=903115709_361142410_0_41_0_1157012&sr_pri_blocks=903115709_361142410_0_41_0_1157012_458640000&from=searchresults",
+    "address": "Hoan Kiem, Hanoi (Old Quarter)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Hanoi%2C+Vietnam&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T13:50:29.337Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756475429337_7",
+    "name": "Babylon Premium Hotel & Spa",
+    "price": 151,
+    "currency": "USD",
+    "rating": 9.2,
+    "stars": 9,
+    "reviewCount": 892,
+    "avgReview": "9.2/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/239320554.webp?k=d73d3ab772688b5852321a5d14f05d4420015740ce4b08ac32d284b71f0a44f8&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/vn/babylon-premium-amp-spa.html?aid=304142&label=gen173nr-10CAQoggJCFXNlYXJjaF9oYW5vaSwgdmlldG5hbUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AqDgxsUGwAIB0gIkNmY2ZGIwYTYtMmYxMS00M2EyLWE3MWYtZjUyZTlhMmIxYmQ42AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=d4b2615076eb03f5&srepoch=1756475428&all_sr_blocks=517400501_411454408_2_1_0&highlighted_blocks=517400501_411454408_2_1_0&matching_block_id=517400501_411454408_2_1_0&sr_pri_blocks=517400501_411454408_2_1_0__399000000&from=searchresults",
+    "address": "Hoan Kiem, Hanoi (Old Quarter)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Hanoi%2C+Vietnam&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T13:50:29.337Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756475429337_8",
+    "name": "H Hôtel L'Art Hanoi",
+    "price": 194,
+    "currency": "USD",
+    "rating": 10,
+    "stars": 10,
+    "reviewCount": 70,
+    "avgReview": "10.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/713004041.webp?k=9d042e53f34e52fb9b136b4b0f518b4dd5975c8c6b9d7c67426ac8b63dbc07d4&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/vn/h-hanoi.html?aid=304142&label=gen173nr-10CAQoggJCFXNlYXJjaF9oYW5vaSwgdmlldG5hbUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AqDgxsUGwAIB0gIkNmY2ZGIwYTYtMmYxMS00M2EyLWE3MWYtZjUyZTlhMmIxYmQ42AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=d4b2615076eb03f5&srepoch=1756475428&all_sr_blocks=1369976002_419408216_2_1_0_1147056&highlighted_blocks=1369976002_419408216_2_1_0_1147056&matching_block_id=1369976002_419408216_2_1_0_1147056&sr_pri_blocks=1369976002_419408216_2_1_0_1147056_511110000&from=searchresults",
+    "address": "Hoan Kiem, Hanoi (Old Quarter)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Hanoi%2C+Vietnam&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T13:50:29.337Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756475429337_9",
+    "name": "Casa Valentina Hanoi Hotel",
+    "price": 114,
+    "currency": "USD",
+    "rating": 9.5,
+    "stars": 10,
+    "reviewCount": 655,
+    "avgReview": "9.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/548720028.webp?k=143673d978b1f985fe46ea9824f80abaed941026f7dd07abf66e2030caefe2b3&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/vn/casa-valentino-hanoi.html?aid=304142&label=gen173nr-10CAQoggJCFXNlYXJjaF9oYW5vaSwgdmlldG5hbUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AqDgxsUGwAIB0gIkNmY2ZGIwYTYtMmYxMS00M2EyLWE3MWYtZjUyZTlhMmIxYmQ42AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=d4b2615076eb03f5&srepoch=1756475428&all_sr_blocks=1179601001_415335988_2_1_0_332224&highlighted_blocks=1179601001_415335988_2_1_0_332224&matching_block_id=1179601001_415335988_2_1_0_332224&sr_pri_blocks=1179601001_415335988_2_1_0_332224_300798000&from=searchresults",
+    "address": "Hoan Kiem, Hanoi (Old Quarter)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Hanoi%2C+Vietnam&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T13:50:29.337Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

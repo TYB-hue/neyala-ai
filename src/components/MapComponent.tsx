@@ -1,6 +1,6 @@
 'use client';
 
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet';
 import 'leaflet/dist/leaflet.css';
 import L from 'leaflet';
@@ -33,11 +33,36 @@ interface MapProps {
 }
 
 const MapComponent: React.FC<MapProps> = ({ center, markers }) => {
+  const [isLoaded, setIsLoaded] = useState(false);
+
+  useEffect(() => {
+    // Ensure Leaflet is properly loaded
+    if (typeof window !== 'undefined' && window.L) {
+      setIsLoaded(true);
+    } else {
+      // Fallback: set loaded after a short delay
+      const timer = setTimeout(() => setIsLoaded(true), 100);
+      return () => clearTimeout(timer);
+    }
+  }, []);
+
+  if (!isLoaded) {
+    return (
+      <div className="flex items-center justify-center h-64 bg-gray-100 rounded-lg">
+        <div className="text-center">
+          <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-blue-600 mx-auto mb-2"></div>
+          <p className="text-gray-600">Initializing map...</p>
+        </div>
+      </div>
+    );
+  }
+
   return (
     <MapContainer
       center={[center.lat, center.lng]}
-      zoom={13}
+      zoom={12}
       style={{ width: '100%', height: '100%' }}
+      scrollWheelZoom={true}
     >
       <TileLayer
         attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'

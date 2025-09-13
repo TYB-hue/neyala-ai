@@ -1,0 +1,272 @@
+[
+  {
+    "id": "hotel_1757243453045_0",
+    "name": "Villa Sunshine at Vivo Villa",
+    "price": 583,
+    "currency": "USD",
+    "rating": 10,
+    "stars": 10,
+    "reviewCount": 1034,
+    "avgReview": "10.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/695807213.webp?k=90ca760d06c9a290ee82f61f704caa860261c90af725440f881d13d204abc778&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/id/villa-sunshine-at-vivo-villa.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9iYWxpLCBpbmRvbmVzaWFIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAK40PXFBsACAdICJDVhZjhjMTZhLWJkMzktNDU4YS05ZDQ3LTIwMDE3YjE1YzNlOdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=d5b24e9cee26030f&srepoch=1757243451&all_sr_blocks=1434817101_414999829_2_0_0&highlighted_blocks=1434817101_414999829_2_0_0&matching_block_id=1434817101_414999829_2_0_0&sr_pri_blocks=1434817101_414999829_2_0_0__957168000&from=searchresults",
+    "address": "Kutuh, Uluwatu",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Bali%2C+Indonesia&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:10:53.045Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757243453045_1",
+    "name": "Mandala Residences",
+    "price": 545,
+    "currency": "USD",
+    "rating": 9.2,
+    "stars": 9,
+    "reviewCount": 905,
+    "avgReview": "9.2/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/703879334.webp?k=595e969ce1b76ed080380f7a2e2d25db4df85bd61868ee4d1cd05b8c0fde6ebb&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/id/mandala-the-townhouse.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9iYWxpLCBpbmRvbmVzaWFIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAK40PXFBsACAdICJDVhZjhjMTZhLWJkMzktNDU4YS05ZDQ3LTIwMDE3YjE1YzNlOdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=d5b24e9cee26030f&srepoch=1757243451&all_sr_blocks=776245801_335923937_4_0_0_1128499&highlighted_blocks=776245801_335923937_4_0_0_1128499&matching_block_id=776245801_335923937_4_0_0_1128499&sr_pri_blocks=776245801_335923937_4_0_0_1128499_894157000&nad_id=38f3729b-5440-44d5-be73-43aa3a1cd9c9_0&nad_cpc=0.5&nad_track=eyJhdWN0aW9uRXBvY2giOjE3NTcyNDM0NDkwNDEsInJhbmsiOjEsImtvZGRpVHJhY2tpbmdJbmZvIjoicXZOZUt4bWN5cFVudytrQWI4eHVSVnNQaWNSMHlmajBRbG1pRmxOTmUvallyTFA5UXIvTlorSEZuYmxySElvNU41UTEwR0Vxd25yWmZrNkJLRWU1anI3dVlWZFlnMVNyalFoYWQxQzJzQXRnNXBKTGMvWEtqZ1lBd2lvY3lIcjh1VTFvc0hqa1BoOHFnMG9LTkc0b2pjclhPVWV4TFFVbllleWIvcmh2b2hNOFBjUFd5ZXBBREd2cUdOU2o3d2lUZVNBWHNrWnJKQUEzU3NBTk9hTkRMMkxuRUpLNGE4VzVCVWhjTlU0VFpiYkFpMU8zcy9teFJyZGs2RTRBYThIS0pvMU1VejhiaG9TQlpUWGtCWG1rcFU1OEdnOWUzK3hHQ3FnSHNqaEVNbjFxZ3pjdm5XWDN5K0VBekxCbGxQajNNdjFBalBzOVZNYWd3VGRhYStWTUt4NnFoSGhKekZQNEpQWitlVHpOTmY5bDRSMlIzaktTT20yaVJLSStLRjZwS1hJcmUydTh1dEtGUy9qTXB1Z2RTQitmUDB0STZ5U3F1U3dLNjdMelpUajRQWGtVOER6TFFvTEFCdHN2UDdnN3pONS9BTk55eGIvR0xOaVRBd0N5Q2drWEg5ampHN01hMkw4eWJrR1ZRY3RZTmlrQnE3a1BUL2xuOVBsK1orMllseWpFcXdDRTBHN1Z5SVE3azQ5Zzk4QktVNzVJSEJCNVJFWXVhWXlqZDBsT0h1SVFoNkYxdUMwMXVocVA3YkUrRmhhQVlhQ2x0SUJoQ3VDaVBhZmtCK0xyMnlucmp0TTMrdElWMW9hVHpFc1RoV2NZNjVQbjIvak41OHdqTDNRNElVSlM3Y3ZwQjNKSW5ERUZJSnlnZEM1YUpraFlYaTNSZnQzNXNqcEtybjBwckxFMCtFZCs1TG1sYWlYa1ZPTTN5eDhjcys5VUdOb0cvaTJyK21CSXFkclBicUhrbit4NklkdUE5UmtITmlhYWtncmdLeGZoeTJzcVhFYTNkMXZSWG1NbTN2Mm9VeWJ0TlNXaEZVM24xTVMwLzJOa1RNTk9tK245ZnRBZXc3VDJTdnBDNDZ6Z3VrUDJFNGpTUUVlMnBaTVNjWFowNDdpUkp0QW5zZTQ2U2dzY053Nk9GRERSNlBBcmpTZ0EzQ1VNV0ZhNU4xSzluTHQweHJGdGw5S0wyN1BwTEZMaDBEUHZOcU1wNmx6T2VPVnJDQ2FXTWNQWlB2Z3ZXR0ZVeXd2cU9QOHB1aWNTckZGQkR2dGNyMjFoQUVhZ1d6RVVMVk11d2srZHNycjJ1TEZEODBJU3hRSlBsaEdqSDZKRFJTUGVYZjM4WEVRcjd1WFhaODVJMGFBVHUrWGRsR0cxMnVCeVFOWk9VZFJvdWVzN0cwYVlXbE1GTXVkWlcwNXNBUFJZY2VVL0tGa1VSc0srN1dmeFpubS81MHlZeDlGakVHNHkzU3R0VUtDVlkxOG1Gekw2UTFuZXFKL28vdzJ0OFpGWmMzM3hsQTdtbGdpYVR5bS9EV05jeGk1eXNicklwemd0RXB6SW4xdFhtYndTd1pYWTFoVVZuTW5nak16MVNMN25IR1IrYXdBVzFDbDZMTDBHYm1aRTR3ODdPTWNCMHhOa2pHNVJ1aG9HcmppeWZoSTFjQVhkTmNCMXFNeGFOeldtVUc3QXF6UjlwR21tWGRGS1ZEdkt4MnFyNmp0bmpGaDc2VkVyV0ZQZkhkNFZZZTdoUEN2Nk1yQkc1RlBZMy9UNld5RHlCYy96OEtQbHFDVCtQQUlqaHN5MVA2Rkt5bEZ2cmphRGdBRWVZK0ppZkh2RS8wVHhUWWR3eTk0eDd1MHc4ZkRrMytUV0VwQXZPTEdFRWZocmdCT21sTEswTWttZ1luOGpjQXlhdW9kbWZYYzlSM3d3U1RpUS9EeFN3bGU3QUp4RjkrZ1JSWjJ2VTZFRVM4anRVOXU4eks0VTlvQlliWkVqdVFlaVRXUklqL3hJYUsrSEw0anBsRFUyMEk0Vi8wYmVqMC9KREV1MXdxN3VId1c5aHVxb2ZmRlF1SEFmbDlRdVZiRy9STFA2Qi9DODgzTk9wSEFpbTdDRHp2VGdTZnl1aGVScVUzTzdoNUlkajhiZ2FKS0xTQ05sNXFEMWlyUVFjZnZ1aWx2Q00rMTlPVEZCR1hXcWlhRWtEY0JET3RZV1dQV0dwb1Fqa09yUmh6OVYvOC9aeTg1WVB6VXhjcFNlM1ZIdEpMRG9OQkZNbjhzN3ZOdCs0QkRLaDBJcG1KOWd5Ty9LTmJRK1VQZXdKcFlibHA0dVpXR1VTVEQwTDZFK2Y1YTM4MExDN2xtTmZSOEtVOFBHWE80RVB4am96YVhGQmNqeDZwWW9UTFozSlhyWmd0MFVpeUlmMFJWMHFURTNwbDVyUXBKYmF5b1phSVAzRE9oU01raGlPOVRDRlFKeVFpV0Y2YlpLb0RnYTlqZitxL3VncTVydVJpdStZajFqZmxyUVdXUnU1VGFBaDFUV05sdU1CaUVad3hwQjhJT00xYitnOWFyVHdzZEtuaHJtaHY2dWtrb2ZGOFEwZEF1QUYzaUxESmxLVmhlbmRRRVR6LzJRSFFRQkN5LzhtOC9MaW4rbks0OTQyUFlxRGoxTUwrZVJhaWxvSkl3UE84Q3dxQmV6VnVrWkJyNDZzZnBaTklKLy9weXkxSmV3bkxUb2lGQmpPV2Q1OUpreC9EM3QrQ0RLaStTYWpmUllkK2hKVGVyRjhwTktKdVJjbk5HeUdSNTNvL09Ec25FazdGZEx6ZmRhNlY1MHpsMnNwaFJjR2VHSitnWlpXdWVjSmJFTEVrRmFET1E5dmc4bjdjVHg3NWljSmd0d1J2TE1EdGVZQmJrTlFyd1N6Ukc4SXIxbDBLUkNyYWZRM3J2WjhGclgzWGpCbUdhSVF3cWVESnl4cTdvY2ladmw2R24wVmhzSGh5MC9kNEtqQTNNT2l4UUZVbzJSNjB4VkRURWpFRlA3ajdJSWpUNEhvOWdKcGtGZEtpV1NJSVBOcm84cm52andmbTZIWWlTbzZ3ckw2N2R3UUZKYzIraENnSWFMNTExTUZDT2tlanhoVmxNeVVkREt1MTlkajBzWEtLRCtzek92cklkWGpGaEtyajdQbDk2WEtuekt2T0c1cXQ5YnNkMktSQWs2QWlnenNHM0pLRmRuM2JSLzVOZkNmVWM1VUNNT3QvS2xYUXpqOW5MeWR4TWhteWVMTkpoRytJdVRWQjZjUU1JajJwclBLWm9WbGdia2N1VUpJRjdkakd3dmtsYVhxS0tQQkRxR3pwTXVjNXkydlozNzZ1QkRGY0VQL2F5RncwQUY2QnJneFBxWHc0RkpSOTIrU0MyVXNWK2ZXSDhvaURWK3VzNzcrQUg3N0IxZEI4REI3ZlF3TkhOd0RaWTFqRVlyVlBJRWdHZXNBM3ZwdzhWeS9NYTRlTTY2a0RkeCJ9&from=searchresults",
+    "address": "Canggu",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Bali%2C+Indonesia&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:10:53.045Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757243453045_2",
+    "name": "Amnaya Resort Nusa Dua",
+    "price": 588,
+    "currency": "USD",
+    "rating": 9.3,
+    "stars": 9,
+    "reviewCount": 234,
+    "avgReview": "9.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/326866725.webp?k=12a812b9d2affa74f27b58776f41d9a6a934119ad5aa5f067cf25aee4930544c&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/id/amnaya-resort-nusa-dua.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9iYWxpLCBpbmRvbmVzaWFIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAK40PXFBsACAdICJDVhZjhjMTZhLWJkMzktNDU4YS05ZDQ3LTIwMDE3YjE1YzNlOdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=d5b24e9cee26030f&srepoch=1757243451&all_sr_blocks=791530804_406173869_0_1_0_428580&highlighted_blocks=791530804_406173869_0_1_0_428580&matching_block_id=791530804_406173869_0_1_0_428580&sr_pri_blocks=791530804_406173869_0_1_0_428580_965599800&from=searchresults",
+    "address": "Nusa Dua",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Bali%2C+Indonesia&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:10:53.045Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757243453045_3",
+    "name": "Bliss Ubud Spa Resort",
+    "price": 381,
+    "currency": "USD",
+    "rating": 8.7,
+    "stars": 9,
+    "reviewCount": 605,
+    "avgReview": "8.7/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/232455191.webp?k=6fa0337e59f26ba4235423201764189596d41dff899b3bfc82de801cbb73e89c&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/id/bliss-bungalow-ubud.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9iYWxpLCBpbmRvbmVzaWFIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAK40PXFBsACAdICJDVhZjhjMTZhLWJkMzktNDU4YS05ZDQ3LTIwMDE3YjE1YzNlOdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=d5b24e9cee26030f&srepoch=1757243451&all_sr_blocks=32068614_381736625_2_1_0_210973&highlighted_blocks=32068614_381736625_2_1_0_210973&matching_block_id=32068614_381736625_2_1_0_210973&sr_pri_blocks=32068614_381736625_2_1_0_210973_625000000&from=searchresults",
+    "address": "Campuhan, Ubud (Campuhan)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Bali%2C+Indonesia&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:10:53.045Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757243453046_4",
+    "name": "Sumitra Luxury Villas & Resort by Pramana",
+    "price": 1,
+    "currency": "USD",
+    "rating": 9.3,
+    "stars": 9,
+    "reviewCount": 861,
+    "avgReview": "9.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/674596434.webp?k=56156df5ae349272c4edac95a3fcebaca673845dc6da00b70a1d0342eba51a14&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/id/sumitra-and-resort-a-pramana-experience.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9iYWxpLCBpbmRvbmVzaWFIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAK40PXFBsACAdICJDVhZjhjMTZhLWJkMzktNDU4YS05ZDQ3LTIwMDE3YjE1YzNlOdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=d5b24e9cee26030f&srepoch=1757243451&all_sr_blocks=1066749808_0_2_0_0&highlighted_blocks=1066749808_0_2_0_0&matching_block_id=1066749808_0_2_0_0&sr_pri_blocks=1066749808_0_2_0_0__2156576244&from=searchresults",
+    "address": "Sanur",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Bali%2C+Indonesia&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:10:53.046Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757243453046_5",
+    "name": "Grandmas Plus Hotel Seminyak",
+    "price": 89,
+    "currency": "USD",
+    "rating": 8.3,
+    "stars": 8,
+    "reviewCount": 1033,
+    "avgReview": "8.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/74369788.webp?k=27199e2f6e2442a3265efe22db008b3a750610c1a154524e1eb951adbb212c69&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/id/grandmas.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9iYWxpLCBpbmRvbmVzaWFIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAK40PXFBsACAdICJDVhZjhjMTZhLWJkMzktNDU4YS05ZDQ3LTIwMDE3YjE1YzNlOdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=d5b24e9cee26030f&srepoch=1757243451&all_sr_blocks=31791701_0_2_0_0&highlighted_blocks=31791701_0_2_0_0&matching_block_id=31791701_0_2_0_0&sr_pri_blocks=31791701_0_2_0_0__146566463&from=searchresults",
+    "address": "Dyanapura, Seminyak (Dyanapura)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Bali%2C+Indonesia&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:10:53.046Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757243453046_6",
+    "name": "Akohara Buahan Village Retreat",
+    "price": 1,
+    "currency": "USD",
+    "rating": 9.4,
+    "stars": 9,
+    "reviewCount": 879,
+    "avgReview": "9.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/640574103.webp?k=1e9205f1ba1376f007e66d34bf56f22c6cf3e2e14f7f160e0f8e3cb982e4b575&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/id/akohara-buahan-village-retreat.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9iYWxpLCBpbmRvbmVzaWFIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAK40PXFBsACAdICJDVhZjhjMTZhLWJkMzktNDU4YS05ZDQ3LTIwMDE3YjE1YzNlOdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=d5b24e9cee26030f&srepoch=1757243451&all_sr_blocks=1312399102_404089982_0_1_0_781764&highlighted_blocks=1312399102_404089982_0_1_0_781764&matching_block_id=1312399102_404089982_0_1_0_781764&sr_pri_blocks=1312399102_404089982_0_1_0_781764_2869939700&from=searchresults",
+    "address": "Payangan",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Bali%2C+Indonesia&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:10:53.046Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757243453046_7",
+    "name": "Amnaya Resort Kuta",
+    "price": 309,
+    "currency": "USD",
+    "rating": 9.2,
+    "stars": 9,
+    "reviewCount": 304,
+    "avgReview": "9.2/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/49112982.webp?k=51e80dc4dcc8c44b802ede477022f57cc9c93b443d66152e4ff92b61e9091655&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/id/amnaya-resort-kuta.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9iYWxpLCBpbmRvbmVzaWFIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAK40PXFBsACAdICJDVhZjhjMTZhLWJkMzktNDU4YS05ZDQ3LTIwMDE3YjE1YzNlOdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=d5b24e9cee26030f&srepoch=1757243451&all_sr_blocks=134937601_0_2_1_0&highlighted_blocks=134937601_0_2_1_0&matching_block_id=134937601_0_2_1_0&sr_pri_blocks=134937601_0_2_1_0__507186299&from=searchresults",
+    "address": "Kartika Plaza, Kuta (Kartika Plaza)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Bali%2C+Indonesia&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:10:53.046Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757243453046_8",
+    "name": "Bali Beach Hotel",
+    "price": 744,
+    "currency": "USD",
+    "rating": 9,
+    "stars": 9,
+    "reviewCount": 332,
+    "avgReview": "9.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/575289444.webp?k=c3497c3e7e32d3612bf2a51263f4759bbd3d243a02bc12c82d377fcf28367872&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/id/bali-beach-hotel.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9iYWxpLCBpbmRvbmVzaWFIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAK40PXFBsACAdICJDVhZjhjMTZhLWJkMzktNDU4YS05ZDQ3LTIwMDE3YjE1YzNlOdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=d5b24e9cee26030f&srepoch=1757243451&all_sr_blocks=234753226_0_2_1_0&highlighted_blocks=234753226_0_2_1_0&matching_block_id=234753226_0_2_1_0&sr_pri_blocks=234753226_0_2_1_0__1221611601&from=searchresults",
+    "address": "Sanur",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Bali%2C+Indonesia&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:10:53.046Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757243453046_9",
+    "name": "Desa Di Bali Villas",
+    "price": 452,
+    "currency": "USD",
+    "rating": 9.1,
+    "stars": 9,
+    "reviewCount": 492,
+    "avgReview": "9.1/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/664071445.webp?k=554c06e88e1cab98c2b74356db6e1701985c96f0a2efb9a9be77ce35435d1ffb&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/id/desa-di-bali-villas.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9iYWxpLCBpbmRvbmVzaWFIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAK40PXFBsACAdICJDVhZjhjMTZhLWJkMzktNDU4YS05ZDQ3LTIwMDE3YjE1YzNlOdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=d5b24e9cee26030f&srepoch=1757243451&all_sr_blocks=164115201_89341152_0_1_0&highlighted_blocks=164115201_89341152_0_1_0&matching_block_id=164115201_89341152_0_1_0&sr_pri_blocks=164115201_89341152_0_1_0__741711400&from=searchresults",
+    "address": "Kerobokan",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Bali%2C+Indonesia&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:10:53.046Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

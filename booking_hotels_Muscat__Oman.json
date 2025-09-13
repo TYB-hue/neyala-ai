@@ -1,0 +1,272 @@
+[
+  {
+    "id": "hotel_1757242165117_0",
+    "name": "Mercure Muscat",
+    "price": 126,
+    "currency": "USD",
+    "rating": 8.8,
+    "stars": 9,
+    "reviewCount": 627,
+    "avgReview": "8.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/702894478.webp?k=73380849685c1422415ddc0fe679d5e497d6086b6dbc064a2f7e36bdc75ced79&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/om/mercure-muscat.html?aid=304142&label=gen173nr-10CAQoggJCE3NlYXJjaF9tdXNjYXQsIG9tYW5IM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKwxvXFBsACAdICJDAwYTAxOWIzLWIwYjYtNDgwNi1iYTZmLTVjMGUyZTg0NGVmYdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=d8bd4c189ed50573&srepoch=1757242163&all_sr_blocks=1281177307_401038971_2_42_0_683546&highlighted_blocks=1281177307_401038971_2_42_0_683546&matching_block_id=1281177307_401038971_2_42_0_683546&sr_pri_blocks=1281177307_401038971_2_42_0_683546_4845&from=searchresults",
+    "address": "Muscat",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Muscat%2C+Oman&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T10:49:25.117Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757242165117_1",
+    "name": "Al Falaj Hotel",
+    "price": 125,
+    "currency": "USD",
+    "rating": 8.5,
+    "stars": 9,
+    "reviewCount": 344,
+    "avgReview": "8.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/739104583.webp?k=f891120477cbc0f4230505b8127730a8f6eb91042a4c4417847d0418f3b1411a&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/om/al-falaj.html?aid=304142&label=gen173nr-10CAQoggJCE3NlYXJjaF9tdXNjYXQsIG9tYW5IM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKwxvXFBsACAdICJDAwYTAxOWIzLWIwYjYtNDgwNi1iYTZmLTVjMGUyZTg0NGVmYdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=d8bd4c189ed50573&srepoch=1757242163&all_sr_blocks=7437907_399172744_2_42_0_1184563&highlighted_blocks=7437907_399172744_2_42_0_1184563&matching_block_id=7437907_399172744_2_42_0_1184563&sr_pri_blocks=7437907_399172744_2_42_0_1184563_4830&from=searchresults",
+    "address": "Muscat",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Muscat%2C+Oman&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T10:49:25.117Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757242165118_2",
+    "name": "Muscat Express Hotel",
+    "price": 96,
+    "currency": "USD",
+    "rating": 8.3,
+    "stars": 8,
+    "reviewCount": 684,
+    "avgReview": "8.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/423366687.webp?k=8bdc8a15e44b3ee82e5cb236434881f1447407f9150fd9d4db486f7b3a549c0f&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/om/muscat-express.html?aid=304142&label=gen173nr-10CAQoggJCE3NlYXJjaF9tdXNjYXQsIG9tYW5IM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKwxvXFBsACAdICJDAwYTAxOWIzLWIwYjYtNDgwNi1iYTZmLTVjMGUyZTg0NGVmYdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=d8bd4c189ed50573&srepoch=1757242163&all_sr_blocks=875115602_0_2_0_0&highlighted_blocks=875115602_0_2_0_0&matching_block_id=875115602_0_2_0_0&sr_pri_blocks=875115602_0_2_0_0__3689&from=searchresults",
+    "address": "Muscat",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Muscat%2C+Oman&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T10:49:25.118Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757242165118_3",
+    "name": "Mandarin Oriental, Muscat",
+    "price": 764,
+    "currency": "USD",
+    "rating": 9.3,
+    "stars": 9,
+    "reviewCount": 336,
+    "avgReview": "9.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/589298400.webp?k=2cdb7770120b71a8041d259ec9e84153c19f2328d21b19618952cbe15468fcb5&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/om/mandarin-oriental-muscat.html?aid=304142&label=gen173nr-10CAQoggJCE3NlYXJjaF9tdXNjYXQsIG9tYW5IM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKwxvXFBsACAdICJDAwYTAxOWIzLWIwYjYtNDgwNi1iYTZmLTVjMGUyZTg0NGVmYdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=d8bd4c189ed50573&srepoch=1757242163&all_sr_blocks=1056387612_407826036_2_41_0&highlighted_blocks=1056387612_407826036_2_41_0&matching_block_id=1056387612_407826036_2_41_0&sr_pri_blocks=1056387612_407826036_2_41_0__29400&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Muscat",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Muscat%2C+Oman&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T10:49:25.118Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757242165118_4",
+    "name": "W Muscat",
+    "price": 599,
+    "currency": "USD",
+    "rating": 9,
+    "stars": 9,
+    "reviewCount": 353,
+    "avgReview": "9.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/630444617.webp?k=772b2a25015cd01e99115678c9f6874e1e22f052452fd0b9d404c3c651beb5bb&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/om/w-muscat.html?aid=304142&label=gen173nr-10CAQoggJCE3NlYXJjaF9tdXNjYXQsIG9tYW5IM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKwxvXFBsACAdICJDAwYTAxOWIzLWIwYjYtNDgwNi1iYTZmLTVjMGUyZTg0NGVmYdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=d8bd4c189ed50573&srepoch=1757242163&all_sr_blocks=465403202_143198355_2_2_0_656211&highlighted_blocks=465403202_143198355_2_2_0_656211&matching_block_id=465403202_143198355_2_2_0_656211&sr_pri_blocks=465403202_143198355_2_2_0_656211_23055&from=searchresults",
+    "address": "Muscat",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Muscat%2C+Oman&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T10:49:25.118Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757242165118_5",
+    "name": "The Chedi Muscat",
+    "price": 974,
+    "currency": "USD",
+    "rating": 9.3,
+    "stars": 9,
+    "reviewCount": 205,
+    "avgReview": "9.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/196999280.webp?k=1c7ff3e045e498c3f91f4d67336424098563c4a269409873503d8bdbba3c2b93&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/om/the-chedi-muscat.html?aid=304142&label=gen173nr-10CAQoggJCE3NlYXJjaF9tdXNjYXQsIG9tYW5IM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKwxvXFBsACAdICJDAwYTAxOWIzLWIwYjYtNDgwNi1iYTZmLTVjMGUyZTg0NGVmYdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=d8bd4c189ed50573&srepoch=1757242163&all_sr_blocks=25483903_415094436_2_1_0_1183086&highlighted_blocks=25483903_415094436_2_1_0_1183086&matching_block_id=25483903_415094436_2_1_0_1183086&sr_pri_blocks=25483903_415094436_2_1_0_1183086_37500&from=searchresults",
+    "address": "Muscat",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Muscat%2C+Oman&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T10:49:25.118Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757242165118_6",
+    "name": "ibis Muscat",
+    "price": 89,
+    "currency": "USD",
+    "rating": 7.4,
+    "stars": 7,
+    "reviewCount": 801,
+    "avgReview": "7.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/273957867.webp?k=285f8e5d666a906f28459a98d5d0ae1c19b191fa936c318c17f97baca57e0a64&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/om/ibis-muscat.html?aid=304142&label=gen173nr-10CAQoggJCE3NlYXJjaF9tdXNjYXQsIG9tYW5IM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKwxvXFBsACAdICJDAwYTAxOWIzLWIwYjYtNDgwNi1iYTZmLTVjMGUyZTg0NGVmYdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=d8bd4c189ed50573&srepoch=1757242163&all_sr_blocks=18516702_94336355_2_42_0_546278&highlighted_blocks=18516702_94336355_2_42_0_546278&matching_block_id=18516702_94336355_2_42_0_546278&sr_pri_blocks=18516702_94336355_2_42_0_546278_3420&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Muscat",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Muscat%2C+Oman&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T10:49:25.118Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757242165118_7",
+    "name": "Wyndham Garden Muscat Al Khuwair",
+    "price": 131,
+    "currency": "USD",
+    "rating": 8.4,
+    "stars": 8,
+    "reviewCount": 500,
+    "avgReview": "8.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/290873869.webp?k=1ed2a948c4e1a390501c18b66a208dd83fda00645e4676c28e057fe58a11624b&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/om/wyndham-garden-muscat-al-khuwair.html?aid=304142&label=gen173nr-10CAQoggJCE3NlYXJjaF9tdXNjYXQsIG9tYW5IM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKwxvXFBsACAdICJDAwYTAxOWIzLWIwYjYtNDgwNi1iYTZmLTVjMGUyZTg0NGVmYdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=d8bd4c189ed50573&srepoch=1757242163&all_sr_blocks=592297716_380695677_2_42_0_882397&highlighted_blocks=592297716_380695677_2_42_0_882397&matching_block_id=592297716_380695677_2_42_0_882397&sr_pri_blocks=592297716_380695677_2_42_0_882397_5040&from=searchresults",
+    "address": "Muscat",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Muscat%2C+Oman&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T10:49:25.118Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757242165118_8",
+    "name": "Ramada Encore by Wyndham Muscat Al-Ghubra",
+    "price": 140,
+    "currency": "USD",
+    "rating": 8.8,
+    "stars": 9,
+    "reviewCount": 981,
+    "avgReview": "8.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/291043965.webp?k=a74f33a483b1b8db80ccb57e3ac740a4d028444109733632a9d5fd9222306c67&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/om/ramada-encore-by-wyndham-muscat-al-ghubrah.html?aid=304142&label=gen173nr-10CAQoggJCE3NlYXJjaF9tdXNjYXQsIG9tYW5IM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKwxvXFBsACAdICJDAwYTAxOWIzLWIwYjYtNDgwNi1iYTZmLTVjMGUyZTg0NGVmYdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=d8bd4c189ed50573&srepoch=1757242163&all_sr_blocks=621236704_242280139_2_42_0&highlighted_blocks=621236704_242280139_2_42_0&matching_block_id=621236704_242280139_2_42_0&sr_pri_blocks=621236704_242280139_2_42_0__5396&from=searchresults",
+    "address": "Muscat",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Muscat%2C+Oman&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T10:49:25.118Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757242165118_9",
+    "name": "Crowne Plaza Muscat by IHG",
+    "price": 397,
+    "currency": "USD",
+    "rating": 8.9,
+    "stars": 9,
+    "reviewCount": 651,
+    "avgReview": "8.9/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/443110602.webp?k=b1f33d6d481c437078d1279e9b341b9ffbb4872da176ba0fd3db60fb755f4dd2&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/om/crowne-plaza-muscat.html?aid=304142&label=gen173nr-10CAQoggJCE3NlYXJjaF9tdXNjYXQsIG9tYW5IM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKwxvXFBsACAdICJDAwYTAxOWIzLWIwYjYtNDgwNi1iYTZmLTVjMGUyZTg0NGVmYdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=d8bd4c189ed50573&srepoch=1757242163&all_sr_blocks=7221621_94287307_2_34_0_242284&highlighted_blocks=7221621_94287307_2_34_0_242284&matching_block_id=7221621_94287307_2_34_0_242284&sr_pri_blocks=7221621_94287307_2_34_0_242284_15300&from=searchresults",
+    "address": "Muscat",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Muscat%2C+Oman&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T10:49:25.118Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

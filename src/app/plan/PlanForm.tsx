@@ -5,6 +5,7 @@ import { useRouter } from 'next/navigation';
 import LoadingSpinner from '@/components/LoadingSpinner';
 import { useUser } from '@clerk/nextjs';
 import SpecialRequirements from '@/components/SpecialRequirements';
+import { usePlanContext } from './PlanContext';
 
 interface PlanFormState {
   destination: string;
@@ -25,6 +26,7 @@ interface Suggestion {
 export default function PlanForm() {
   const router = useRouter();
   const { user } = useUser();
+  const { setPlanData } = usePlanContext();
   const [formData, setFormData] = useState<PlanFormState>({
     destination: '',
     startDate: '',
@@ -38,7 +40,6 @@ export default function PlanForm() {
 
   const [suggestions, setSuggestions] = useState<Suggestion[]>([]);
   const [showSuggestions, setShowSuggestions] = useState(false);
-  const [itinerary, setItinerary] = useState<any>(null);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const searchRef = useRef<HTMLDivElement>(null);
@@ -50,8 +51,12 @@ export default function PlanForm() {
 
   useEffect(() => {
     const handleClickOutside = (event: MouseEvent) => {
-      if (searchRef.current && !searchRef.current.contains(event.target as Node)) {
-        setShowSuggestions(false);
+      try {
+        if (searchRef.current && !searchRef.current.contains(event.target as Node)) {
+          setShowSuggestions(false);
+        }
+      } catch (error) {
+        console.error('Error handling click outside:', error);
       }
     };
 
@@ -209,11 +214,148 @@ export default function PlanForm() {
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    setLoading(true);
     setError(null);
-    setItinerary(null);
+    setLoading(true);
 
     try {
+      // DEMO MODE: Create a sample itinerary for testing collections
+      if (formData.destination.toLowerCase().includes('demo') || formData.destination.toLowerCase().includes('test')) {
+        console.log('Demo mode activated - creating sample itinerary');
+        
+        const demoItinerary = {
+          id: `demo_${Date.now()}`,
+          destination: formData.destination,
+          dates: {
+            start: formData.startDate,
+            end: formData.endDate
+          },
+          headerImage: "https://images.unsplash.com/photo-1511739001486-6bfe10ce785f?w=800",
+          overview: {
+            history: `Discover the rich history of ${formData.destination}`,
+            culture: `Immerse yourself in the vibrant culture of ${formData.destination}`
+          },
+          airport: {
+            name: `${formData.destination} International Airport`,
+            image: "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=800",
+            photos: [
+              "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=800",
+              "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800"
+            ],
+            info: "Modern international airport with excellent facilities"
+          },
+          hotels: [
+            {
+              name: "Demo Luxury Hotel",
+              image: "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+              rating: 4.8,
+              price: 300,
+              link: "#",
+              location: {
+                lat: 48.8566,
+                lng: 2.3522
+              }
+            }
+          ],
+          itineraries: [
+            {
+              day: 1,
+              date: formData.startDate,
+              title: "Day 1 - Arrival & Exploration",
+              morning: {
+                activity: "Visit Demo Museum",
+                description: "Start your journey with a visit to the famous Demo Museum",
+                image: "https://images.unsplash.com/photo-1541961017774-22349e4a1262?w=800",
+                time: "9:00 AM - 12:00 PM",
+                location: {
+                  lat: 48.8566,
+                  lng: 2.3522
+                }
+              },
+              afternoon: {
+                activity: "Explore Demo Park",
+                description: "Relax and enjoy the beautiful Demo Park",
+                image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+                time: "2:00 PM - 5:00 PM",
+                location: {
+                  lat: 48.8566,
+                  lng: 2.3522
+                }
+              },
+              restaurant: {
+                name: "Demo Fine Dining",
+                cuisine: "International",
+                description: "Elegant restaurant with city views",
+                location: {
+                  lat: 48.8566,
+                  lng: 2.3522
+                }
+              }
+            },
+            {
+              day: 2,
+              date: formData.endDate,
+              title: "Day 2 - City Tour & Shopping",
+              morning: {
+                activity: "Demo City Tour",
+                description: "Take a guided tour of the city's highlights",
+                image: "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=800",
+                time: "9:00 AM - 12:00 PM",
+                location: {
+                  lat: 48.8566,
+                  lng: 2.3522
+                }
+              },
+              afternoon: {
+                activity: "Shopping at Demo Mall",
+                description: "Shop for souvenirs and local products",
+                image: "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800",
+                time: "2:00 PM - 5:00 PM",
+                location: {
+                  lat: 48.8566,
+                  lng: 2.3522
+                }
+              },
+              restaurant: {
+                name: "Demo Bistro",
+                cuisine: "Local",
+                description: "Authentic local cuisine in a cozy setting",
+                location: {
+                  lat: 48.8566,
+                  lng: 2.3522
+                }
+              }
+            }
+          ],
+          transportation: [
+            {
+              type: "Public Transport",
+              description: "Efficient metro and bus system",
+              icon: "🚇"
+            },
+            {
+              type: "Walking",
+              description: "Most attractions are within walking distance",
+              icon: "🚶"
+            }
+          ],
+          estimatedCost: {
+            accommodation: 400,
+            activities: 150,
+            transportation: 50,
+            food: 200,
+            total: 800
+          }
+        };
+
+        // Store demo itinerary
+        localStorage.setItem(`itinerary_${demoItinerary.id}`, JSON.stringify(demoItinerary));
+        router.push(`/itinerary/${demoItinerary.id}`);
+        return;
+      }
+
+      // Original API logic continues here...
+      console.log('Generating itinerary for:', formData.destination);
+
       if (!formData.destination || !formData.startDate || !formData.endDate) {
         throw new Error('Please fill in all required fields');
       }
@@ -258,21 +400,64 @@ export default function PlanForm() {
           if (line.startsWith('data: ')) {
             try {
               const data = JSON.parse(line.slice(6));
+              console.log('Received stream data:', data);
               
               if (data.status === 'completed' && data.data) {
+                console.log('Received completed itinerary data');
                 itineraryData = data.data;
                 const tempId = `temp_${Date.now()}`;
                 
+                // Validate the itinerary data structure
+                if (!itineraryData.destination || !itineraryData.hotels) {
+                  console.error('Invalid itinerary structure:', itineraryData);
+                  throw new Error('Invalid itinerary data structure received');
+                }
+                
+                console.log('Itinerary data validated, storing in localStorage');
                 // Store the full itinerary data in localStorage for immediate display
                 localStorage.setItem(`itinerary_${tempId}`, JSON.stringify(itineraryData));
                 
-                setItinerary({ id: tempId, ...itineraryData });
                 router.push(`/itinerary/${tempId}`);
                 return;
               } else if (data.status === 'error') {
                 throw new Error(data.error);
               }
             } catch (parseError) {
+              console.log('Parse error for line:', line.substring(0, 200) + '...', parseError);
+              
+              // Check if it's a rate limit error
+              if (line.includes('429') || line.includes('Rate limit') || line.includes('Too Many Requests')) {
+                console.log('Rate limit error detected in stream');
+                throw new Error('Rate limit exceeded. Please wait a moment and try again.');
+              }
+              
+              // If it's a completed status but parsing failed, try to extract partial data
+              if (line.includes('"status": "completed"')) {
+                console.error('Failed to parse completed itinerary data');
+                console.error('Line length:', line.length);
+                console.error('Line preview:', line.substring(0, 500));
+                
+                // Try to extract the data part manually
+                try {
+                  const dataMatch = line.match(/"data":\s*(\{[\s\S]*\})/);
+                  if (dataMatch) {
+                    const extractedData = JSON.parse(dataMatch[1]);
+                    if (extractedData.destination && extractedData.itineraries) {
+                      console.log('Successfully extracted data from malformed response');
+                      itineraryData = extractedData;
+                      const tempId = `temp_${Date.now()}`;
+                      localStorage.setItem(`itinerary_${tempId}`, JSON.stringify(itineraryData));
+                      router.push(`/itinerary/${tempId}`);
+                      return;
+                    }
+                  }
+                } catch (extractError) {
+                  console.error('Failed to extract data from malformed response:', extractError);
+                }
+                
+                throw new Error('Failed to parse itinerary response. Please try again.');
+              }
+              
               // Ignore parse errors for non-JSON lines
             }
           }
@@ -280,32 +465,96 @@ export default function PlanForm() {
       }
 
       if (!itineraryData) {
-        throw new Error('No itinerary was generated');
+        throw new Error('No itinerary was generated. Please try again with a different destination or check your internet connection.');
       }
 
     } catch (err) {
       console.error('Error generating itinerary:', err);
-      setError(err instanceof Error ? err.message : 'An unexpected error occurred');
+      
+      // Try fallback to regular API if streaming fails
+      if (err instanceof Error && (err.message.includes('No itinerary was generated') || err.message.includes('Failed to parse'))) {
+        try {
+          console.log('Trying fallback to regular API...');
+          const fallbackResponse = await fetch(`${window.location.origin}/api/generate-itinerary`, {
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({
+              ...formData,
+              userId: user?.id || 'anonymous'
+            }),
+          });
+
+          if (fallbackResponse.ok) {
+            const fallbackData = await fallbackResponse.json();
+            if (fallbackData.success && fallbackData.itinerary) {
+              const tempId = `temp_${Date.now()}`;
+              localStorage.setItem(`itinerary_${tempId}`, JSON.stringify(fallbackData.itinerary));
+              router.push(`/itinerary/${tempId}`);
+              return;
+            } else if (fallbackData.error) {
+              console.error('Fallback API returned error:', fallbackData.error);
+            }
+          } else {
+            console.error('Fallback API returned status:', fallbackResponse.status);
+            
+            // Handle specific error statuses
+            if (fallbackResponse.status === 429) {
+              throw new Error('Rate limit exceeded. Please wait a moment and try again.');
+            } else if (fallbackResponse.status >= 500) {
+              throw new Error('Server error. Please try again later.');
+            }
+          }
+        } catch (fallbackErr) {
+          console.error('Fallback API also failed:', fallbackErr);
+        }
+      }
+      
+      // Provide more user-friendly error messages
+      let errorMessage = 'An unexpected error occurred. Please try again.';
+      
+      if (err instanceof Error) {
+        if (err.message.includes('Rate limit exceeded')) {
+          errorMessage = 'Rate limit exceeded. Please wait a moment and try again.';
+        } else if (err.message.includes('No itinerary was generated')) {
+          errorMessage = 'Unable to generate itinerary. Please try a different destination or check your internet connection.';
+        } else if (err.message.includes('Failed to parse')) {
+          errorMessage = 'There was an issue processing the itinerary. Please try again.';
+        } else if (err.message.includes('generic terms')) {
+          errorMessage = 'The AI generated generic attractions. Please try again with a more specific destination.';
+        } else if (err.message.includes('Server error')) {
+          errorMessage = 'Server error. Please try again later.';
+        } else {
+          errorMessage = err.message;
+        }
+      }
+      
+      setError(errorMessage);
     } finally {
       setLoading(false);
     }
   };
 
   return (
-    <div className="h-full p-8 overflow-y-auto">
+    <div className="h-full p-6 md:p-8 overflow-y-auto bg-gradient-to-br from-blue-50 to-indigo-100">
       {loading && (
         <div className="fixed inset-0 bg-black/50 flex items-center justify-center z-50">
-          <div className="bg-white p-6 rounded-lg shadow-xl flex items-center space-x-4">
-            <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-blue-600"></div>
-            <p className="text-lg">Generating your perfect itinerary...</p>
+          <div className="card p-8 flex items-center space-x-4 max-w-md mx-4">
+            <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-primary-600"></div>
+            <p className="text-lg font-medium text-gray-800">Generating your perfect itinerary...</p>
           </div>
         </div>
       )}
-      <h1 className="text-3xl font-bold mb-8">Plan Your Trip</h1>
+      <div className="text-center mb-8">
+        <h1 className="heading-responsive font-bold text-gradient mb-4">Plan Your Perfect Trip</h1>
+        <p className="text-responsive text-secondary-600 max-w-lg mx-auto">Tell us about your travel preferences and we'll create a personalized itinerary just for you.</p>
+      </div>
+      
       <form onSubmit={handleSubmit} className="space-y-8">
-        <div className="space-y-4">
+        <div className="space-y-6">
           <div ref={searchRef} className="relative">
-            <label className="block text-sm font-medium mb-2">Destination</label>
+            <label className="block text-sm font-semibold text-gray-700 mb-3">Destination</label>
             <input
               type="text"
               name="destination"
@@ -313,44 +562,44 @@ export default function PlanForm() {
               onChange={handleDestinationChange}
               onFocus={handleDestinationFocus}
               placeholder="Where do you want to go?"
-              className="w-full p-2 border rounded-md"
+              className="input-field text-lg"
               required
             />
             {showSuggestions && suggestions.length > 0 && (
-              <div className="absolute z-10 w-full mt-1 bg-white border rounded-md shadow-lg max-h-60 overflow-auto">
+              <div className="absolute z-10 w-full mt-2 card max-h-60 overflow-auto">
                 {suggestions.map((suggestion) => (
                   <div
                     key={suggestion.id}
-                    className="p-2 hover:bg-gray-100 cursor-pointer"
+                    className="p-3 hover:bg-gray-50 cursor-pointer transition-colors duration-200 border-b border-gray-100 last:border-b-0"
                     onClick={() => handleSuggestionClick(suggestion)}
                   >
-                    {suggestion.name}
+                    <span className="text-gray-800 font-medium">{suggestion.name}</span>
                   </div>
                 ))}
               </div>
             )}
           </div>
 
-          <div className="grid grid-cols-2 gap-4">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div>
-              <label className="block text-sm font-medium mb-2">Start Date</label>
+              <label className="block text-sm font-semibold text-gray-700 mb-3">Start Date</label>
               <input
                 type="date"
                 name="startDate"
                 value={formData.startDate}
                 onChange={handleInputChange}
-                className="w-full p-2 border rounded-md"
+                className="input-field"
                 required
               />
             </div>
             <div>
-              <label className="block text-sm font-medium mb-2">End Date</label>
+              <label className="block text-sm font-semibold text-gray-700 mb-3">End Date</label>
               <input
                 type="date"
                 name="endDate"
                 value={formData.endDate}
                 onChange={handleInputChange}
-                className="w-full p-2 border rounded-md"
+                className="input-field"
                 required
               />
             </div>
@@ -429,102 +678,31 @@ export default function PlanForm() {
           </div>
         </div>
 
-        <div className="mt-8">
+        <div className="mt-10">
           <button
             type="submit"
-            className={`w-full py-3 px-4 bg-blue-600 text-white rounded-md font-medium ${
-              loading ? 'opacity-50 cursor-not-allowed' : 'hover:bg-blue-700'
+            className={`w-full py-4 px-6 btn-primary text-lg font-semibold transition-smooth ${
+              loading ? 'opacity-50 cursor-not-allowed' : 'hover:shadow-medium'
             }`}
             disabled={loading}
           >
-            {loading ? 'Generating Itinerary...' : 'Generate Itinerary'}
+            {loading ? (
+              <div className="flex items-center justify-center space-x-2">
+                <div className="animate-spin rounded-full h-5 w-5 border-b-2 border-white"></div>
+                <span>Generating...</span>
+              </div>
+            ) : (
+              'Generate My Perfect Itinerary'
+            )}
           </button>
         </div>
 
         {error && (
-          <div className="mt-4 p-4 bg-red-50 border border-red-200 rounded-md">
-            <p className="text-red-600">{error}</p>
+          <div className="mt-6 p-4 bg-red-50 border border-red-200 rounded-lg shadow-soft">
+            <p className="text-red-600 font-medium">{error}</p>
           </div>
         )}
 
-        {itinerary && (
-          <div className="mt-8 p-6 bg-gray-50 rounded-lg">
-            <h3 className="text-xl font-semibold mb-4">Your Itinerary</h3>
-            <div className="space-y-4">
-              <div>
-                <h4 className="font-semibold">Destination</h4>
-                <p>{itinerary.destination}</p>
-              </div>
-              
-              <div>
-                <h4 className="font-semibold">Dates</h4>
-                <p>{itinerary.dates.start} - {itinerary.dates.end}</p>
-              </div>
-
-              <div>
-                <h4 className="font-semibold">Overview</h4>
-                <div className="ml-4">
-                  <p><strong>History:</strong> {itinerary.overview.history}</p>
-                  <p><strong>Culture:</strong> {itinerary.overview.culture}</p>
-                </div>
-              </div>
-
-              <div>
-                <h4 className="font-semibold">Airport Information</h4>
-                <p>{itinerary.airport.name}</p>
-                <p>{itinerary.airport.info}</p>
-              </div>
-
-              <div>
-                <h4 className="font-semibold">Hotels</h4>
-                <div className="space-y-2">
-                  {itinerary.hotels.map((hotel: any, index: number) => (
-                    <div key={index} className="ml-4">
-                      <p><strong>{hotel.name}</strong></p>
-                      <p>Rating: {hotel.rating} ⭐️ - ${Math.round(hotel.price)}/night</p>
-                    </div>
-                  ))}
-                </div>
-              </div>
-
-              <div>
-                <h4 className="font-semibold">Activities</h4>
-                <div className="space-y-2">
-                  {itinerary.activities.map((activity: any, index: number) => (
-                    <div key={index} className="ml-4">
-                      <p><strong>{activity.name}</strong> - Day {activity.day}</p>
-                      <p className="text-sm text-gray-600">{activity.description}</p>
-                      <p className="text-sm text-gray-500">{activity.time}</p>
-                    </div>
-                  ))}
-                </div>
-              </div>
-
-              <div>
-                <h4 className="font-semibold">Transportation</h4>
-                <div className="space-y-2">
-                  {itinerary.transportation.map((transport: any, index: number) => (
-                    <div key={index} className="ml-4">
-                      <p><strong>{transport.type}</strong></p>
-                      <p className="text-sm text-gray-600">{transport.description}</p>
-                    </div>
-                  ))}
-                </div>
-              </div>
-
-              <div>
-                <h4 className="font-semibold">Estimated Costs</h4>
-                <div className="ml-4">
-                  <p>Accommodation: ${itinerary.estimatedCost.accommodation}</p>
-                  <p>Activities: ${itinerary.estimatedCost.activities}</p>
-                  <p>Transportation: ${itinerary.estimatedCost.transportation}</p>
-                  <p>Food: ${itinerary.estimatedCost.food}</p>
-                  <p className="font-bold mt-2">Total: ${itinerary.estimatedCost.total}</p>
-                </div>
-              </div>
-            </div>
-          </div>
-        )}
       </form>
     </div>
   );

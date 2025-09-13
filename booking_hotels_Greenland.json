@@ -1,0 +1,272 @@
+[
+  {
+    "id": "hotel_1755808743326_0",
+    "name": "HOTEL SØMA Sisimiut",
+    "price": 654,
+    "currency": "USD",
+    "rating": 8.1,
+    "stars": 8,
+    "reviewCount": 650,
+    "avgReview": "8.1/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/558193139.webp?k=9838a48699580173662e67336ab515a4048e629473cf752553558bb0f4204cf1&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/gl/sisimut-somandshjem-og.html?aid=304142&label=gen173nr-10CAQoggJCEHNlYXJjaF9ncmVlbmxhbmRIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALhh57FBsACAdICJDdhNWZlMTFkLTNkMDYtNDA5ZS05NTM5LTkxNDVjNzYyMjczMtgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=1a2191308ebb02a3&srepoch=1755808743&all_sr_blocks=74272801_277292399_2_1_0_645912&highlighted_blocks=74272801_277292399_2_1_0_645912&matching_block_id=74272801_277292399_2_1_0_645912&sr_pri_blocks=74272801_277292399_2_1_0_645912_418500&from=searchresults",
+    "address": "Sisimiut",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Greenland&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-21T20:39:03.326Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755808743326_1",
+    "name": "Inuk Hostels",
+    "price": 527,
+    "currency": "USD",
+    "rating": 8,
+    "stars": 8,
+    "reviewCount": 862,
+    "avgReview": "8.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/227769379.webp?k=7b45042ccf6c5fe9b60b3ec2088ddc7946fc8bd8e4e57153e4d471bb62bb56b5&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/gl/inuk-hostels.html?aid=304142&label=gen173nr-10CAQoggJCEHNlYXJjaF9ncmVlbmxhbmRIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALhh57FBsACAdICJDdhNWZlMTFkLTNkMDYtNDA5ZS05NTM5LTkxNDVjNzYyMjczMtgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=1a2191308ebb02a3&srepoch=1755808743&all_sr_blocks=226267303_200043106_2_2_0&highlighted_blocks=226267303_200043106_2_2_0&matching_block_id=226267303_200043106_2_2_0&sr_pri_blocks=226267303_200043106_2_2_0__337500&from=searchresults",
+    "address": "Nuuk",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Greenland&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-21T20:39:03.326Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755808743326_2",
+    "name": "Nattoralik",
+    "price": 602,
+    "currency": "USD",
+    "rating": 7.4,
+    "stars": 7,
+    "reviewCount": 334,
+    "avgReview": "7.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/181897441.webp?k=21e48367f1cf3a83062f4634dac60332aa940071e1120c3723c95c74e2d356b2&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/gl/nattoralik.html?aid=304142&label=gen173nr-10CAQoggJCEHNlYXJjaF9ncmVlbmxhbmRIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALhh57FBsACAdICJDdhNWZlMTFkLTNkMDYtNDA5ZS05NTM5LTkxNDVjNzYyMjczMtgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=1a2191308ebb02a3&srepoch=1755808743&all_sr_blocks=440413302_390240831_2_0_0&highlighted_blocks=440413302_390240831_2_0_0&matching_block_id=440413302_390240831_2_0_0&sr_pri_blocks=440413302_390240831_2_0_0__385500&from=searchresults",
+    "address": "Aasiaat",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Greenland&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-21T20:39:03.326Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755808743326_3",
+    "name": "Tuukkaq Apartments",
+    "price": 644,
+    "currency": "USD",
+    "rating": 7.7,
+    "stars": 8,
+    "reviewCount": 719,
+    "avgReview": "7.7/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/320847771.webp?k=c7f44afd8c91180dbc9a417ed154d0f794dacb3e36df503c5537f0b4c9465795&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/gl/tuukkaq-apartments.html?aid=304142&label=gen173nr-10CAQoggJCEHNlYXJjaF9ncmVlbmxhbmRIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALhh57FBsACAdICJDdhNWZlMTFkLTNkMDYtNDA5ZS05NTM5LTkxNDVjNzYyMjczMtgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=1a2191308ebb02a3&srepoch=1755808743&all_sr_blocks=777003805_336012490_2_0_0&highlighted_blocks=777003805_336012490_2_0_0&matching_block_id=777003805_336012490_2_0_0&sr_pri_blocks=777003805_336012490_2_0_0__412500&from=searchresults",
+    "address": "Nuuk",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Greenland&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-21T20:39:03.326Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755808743326_4",
+    "name": "Ilulissat City Apartments - Apartment 1",
+    "price": 1,
+    "currency": "USD",
+    "rating": 3.614001912265831,
+    "stars": 4,
+    "reviewCount": 625,
+    "avgReview": "3.6/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/718446817.webp?k=34c10f81cdfdaa2e222c8a18b939f85a0ef4ed477b64adaf2f461c5816327427&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/gl/ilulissat-city-apartments.html?aid=304142&label=gen173nr-10CAQoggJCEHNlYXJjaF9ncmVlbmxhbmRIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALhh57FBsACAdICJDdhNWZlMTFkLTNkMDYtNDA5ZS05NTM5LTkxNDVjNzYyMjczMtgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=1a2191308ebb02a3&srepoch=1755808743&all_sr_blocks=1462116901_418426635_2_0_0&highlighted_blocks=1462116901_418426635_2_0_0&matching_block_id=1462116901_418426635_2_0_0&sr_pri_blocks=1462116901_418426635_2_0_0__658800&from=searchresults",
+    "address": "Ilulissat",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Greenland&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-21T20:39:03.326Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755808743326_5",
+    "name": "Hotel Nuka",
+    "price": 844,
+    "currency": "USD",
+    "rating": 8.6,
+    "stars": 9,
+    "reviewCount": 958,
+    "avgReview": "8.6/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/539343471.webp?k=423d75156b94a4760e1170ee801cf99fa7077176a36d67b53a438989fa72de84&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/gl/nuka-hostel.html?aid=304142&label=gen173nr-10CAQoggJCEHNlYXJjaF9ncmVlbmxhbmRIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALhh57FBsACAdICJDdhNWZlMTFkLTNkMDYtNDA5ZS05NTM5LTkxNDVjNzYyMjczMtgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=1a2191308ebb02a3&srepoch=1755808743&all_sr_blocks=368465401_123377344_0_1_0&highlighted_blocks=368465401_123377344_0_1_0&matching_block_id=368465401_123377344_0_1_0&sr_pri_blocks=368465401_123377344_0_1_0__540000&from=searchresults",
+    "address": "Ilulissat",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Greenland&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-21T20:39:03.326Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755808743326_6",
+    "name": "Ilulissat Harbour Stay",
+    "price": 801,
+    "currency": "USD",
+    "rating": 8,
+    "stars": 8,
+    "reviewCount": 343,
+    "avgReview": "8.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/728882483.webp?k=e278c5eddf43162727ac9f78b017a13f58c1d2a7f29e8313e8ac9c0cda6c3c97&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/gl/ilulissat-harbour-stay.html?aid=304142&label=gen173nr-10CAQoggJCEHNlYXJjaF9ncmVlbmxhbmRIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALhh57FBsACAdICJDdhNWZlMTFkLTNkMDYtNDA5ZS05NTM5LTkxNDVjNzYyMjczMtgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=1a2191308ebb02a3&srepoch=1755808743&all_sr_blocks=1446366901_416025872_2_0_0&highlighted_blocks=1446366901_416025872_2_0_0&matching_block_id=1446366901_416025872_2_0_0&sr_pri_blocks=1446366901_416025872_2_0_0__513000&from=searchresults",
+    "address": "Ilulissat",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Greenland&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-21T20:39:03.326Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755808743326_7",
+    "name": "Igdlo Guesthouse",
+    "price": 433,
+    "currency": "USD",
+    "rating": 8.2,
+    "stars": 8,
+    "reviewCount": 792,
+    "avgReview": "8.2/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/27352461.webp?k=193713feaf04c748f83b085ca73fd91c54d838353408c8e966d38f01bf0c89e3&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/gl/igdlo-guesthouse.html?aid=304142&label=gen173nr-10CAQoggJCEHNlYXJjaF9ncmVlbmxhbmRIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALhh57FBsACAdICJDdhNWZlMTFkLTNkMDYtNDA5ZS05NTM5LTkxNDVjNzYyMjczMtgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=1a2191308ebb02a3&srepoch=1755808743&all_sr_blocks=87386802_206344046_2_1_0&highlighted_blocks=87386802_206344046_2_1_0&matching_block_id=87386802_206344046_2_1_0&sr_pri_blocks=87386802_206344046_2_1_0__277350&from=searchresults",
+    "address": "Narsaq",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Greenland&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-21T20:39:03.326Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755808743326_8",
+    "name": "Hope Hostel",
+    "price": 560,
+    "currency": "USD",
+    "rating": 8,
+    "stars": 8,
+    "reviewCount": 758,
+    "avgReview": "8.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/326600464.webp?k=e54327cd90957d2ced03784bc1785889760dc63189d46dbb5900991607c9cdac&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/gl/hope-hostel.html?aid=304142&label=gen173nr-10CAQoggJCEHNlYXJjaF9ncmVlbmxhbmRIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALhh57FBsACAdICJDdhNWZlMTFkLTNkMDYtNDA5ZS05NTM5LTkxNDVjNzYyMjczMtgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=1a2191308ebb02a3&srepoch=1755808743&all_sr_blocks=791947302_338983855_2_0_0&highlighted_blocks=791947302_338983855_2_0_0&matching_block_id=791947302_338983855_2_0_0&sr_pri_blocks=791947302_338983855_2_0_0__358500&from=searchresults",
+    "address": "Aasiaat",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Greenland&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-21T20:39:03.326Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755808743326_9",
+    "name": "Aurora Hut by InukTravel",
+    "price": 1,
+    "currency": "USD",
+    "rating": 8.4,
+    "stars": 8,
+    "reviewCount": 1042,
+    "avgReview": "8.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/369379405.webp?k=a4de01bb85cfc130aa12ff40f61e4de967a090a64859f549b65c4d3986f66608&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/gl/aurora-hut-by-inuktravel.html?aid=304142&label=gen173nr-10CAQoggJCEHNlYXJjaF9ncmVlbmxhbmRIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALhh57FBsACAdICJDdhNWZlMTFkLTNkMDYtNDA5ZS05NTM5LTkxNDVjNzYyMjczMtgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=1a2191308ebb02a3&srepoch=1755808743&all_sr_blocks=869988501_355602056_2_0_0&highlighted_blocks=869988501_355602056_2_0_0&matching_block_id=869988501_355602056_2_0_0&sr_pri_blocks=869988501_355602056_2_0_0__675000&from=searchresults",
+    "address": "Nuuk",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Greenland&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-21T20:39:03.326Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

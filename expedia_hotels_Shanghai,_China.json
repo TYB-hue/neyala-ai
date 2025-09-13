@@ -1,0 +1,125 @@
+[
+  {
+    "id": "hotel_1755803093452_0",
+    "name": "Fairmont Peace Hotel on the Bund",
+    "price": 0,
+    "currency": "USD",
+    "rating": 0,
+    "reviewCount": 740,
+    "avgReview": "0/5",
+    "images": [
+      "https://www.expedia.com/Hotel-Search?destination=Shanghai%2C+China&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED"
+    ],
+    "bookingUrl": "https://www.expedia.com/user/signin?uurl=e3id%3Dredr%26rurl%3D%2FHotel-Search%3FregionId%3D180026%26destination%3DShanghai%2B%2528and%2Bvicinity%2529%252C%2BChina%26startDate%3D2025-08-28%26endDate%3D2025-08-31%26adults%3D2%26userIntent%3D%26sort%3DRECOMMENDED%26vip%3Dfalse%26selected%3D44282&partnerLang=en_US",
+    "address": {
+      "ancestorOrigins": {},
+      "href": "https://www.expedia.com/Hotel-Search?destination=Shanghai%2C+China&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+      "origin": "https://www.expedia.com",
+      "protocol": "https:",
+      "host": "www.expedia.com",
+      "hostname": "www.expedia.com",
+      "port": "",
+      "pathname": "/Hotel-Search",
+      "search": "?destination=Shanghai%2C+China&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+      "hash": "",
+      "assign": {},
+      "reload": {},
+      "replace": {},
+      "toString": {}
+    },
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.expedia.com/Hotel-Search?destination=Shanghai%2C+China&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+    "scrapedAt": "2025-08-21T19:04:53.452Z",
+    "source": "Expedia (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755803093452_1",
+    "name": "Hilton Shanghai City Center",
+    "price": 0,
+    "currency": "USD",
+    "rating": 0,
+    "reviewCount": 591,
+    "avgReview": "0/5",
+    "images": [
+      "https://www.expedia.com/Hotel-Search?destination=Shanghai%2C+China&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED"
+    ],
+    "bookingUrl": "https://www.expedia.com/Shanghai-Hotels-Hilton-Shanghai-City-Center.h15431321.Hotel-Information?chkin=2025-08-28&chkout=2025-08-31&x_pwa=1&rfrr=HSR&pwa_ts=1755803056666&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=180026&destination=Shanghai+%28and+vicinity%29%2C+China&destType=MARKET&neighborhoodId=6049074&latLong=31.2357%2C121.47&trackingData=AAAAAQAAAAEAAAAQqykwiHAb4gXuz0SN7iMmsORH4Y9iMIaH-utcxBIHQPYsYyKL5XqHDIvbw7iQp7JZk7eMIGsboSNhVSTk5iAu75JryUtJtCIknzq1byiBcT4M5G1n6JMztV5KBYgfUmjv1aiv3Ki_lGW_7xFFcm58Hrfql476-wP24wUQAr81prnoECJMdXurareJcbTjR66KcNaU22JT0xQeG2SwBH9-wK7tQvJQnRdt-Dc6H9ylfaGbqd0cKfmjxhqyWR_-xDGlypLxf3lKnEH1x0BjBdzIVb8ewLVZaPPfu42l0aOx4h4IwL0DIhC3s6Tt9ZCjRGWP-OgO4Kjv3OB04dn6DKIE0-FozAx36VE8vYgWj-RlfkuY-mK0WH16Xw61vo0sslEH_zSvVBqYfuz0biBmK5_pz1GIThP5KFl28oEvNkwMHC9OgI2AHNWJmGFdkwN3PAFvtuz6A2m7jOwuVR9xH2mN2WZd51f8eSpVgrcXXum3ywPgfCibDcXj7Lj-8m1xop5Uj_PlYPihJED9fR65mBN3sWYYH_pECQZ-B42-NxU_pjKvstNc_I9gmC9jT0KS0rOEdow_2_DHSPErfbCHaBxmWLBENtc8M4vq8nDnAzgARQBZ_0iEp3yFFbWwgEesM-dxrlGE2jDzKTUINd6-w-4AWcbuUkmxG-BTSx8MPSLIjNGGUnbLnsR-97J_x9r5gkVthlfuCDY4L_YM0QhYL_dlknA7ivqECsoJAA04jytX0w6OudvJ4plb0yCrjBu2kNpheHdoMJ9F2h7NjAwhKfj_8LiZOElaTjtPx4vBPddq6d9fizeNFPO3Rn7-DnjiHf8V62XstwaljAzaJLLVwfPjKFjLA9jvlbKnLcX8PyklBq-6kgXMND5KrgSi4AxaDI7BmdVxTiQdYiT3JKxCn-iHeMeHPmkU6sI6jK4Yj9D2kfnUYlzC_suxYbf43Mi4mjQaQkm0LoAtr9V4ag7L09Y3nmMejnjQFwqoOw30tDtcSdUoiGigCCpI_1ZwxWnyLaaO46_mVRZp4Izr7aITYK7G-aj7f8JZMX6CW_Iqt94vcCl2DmnKeTKuN6BY_XX3UvSxJ6AuFEpg3Kszia_zGW3fqEn5KiQ_YfE16ULHYhDP_g53ihGBw3D63mxuLma6fXpGKjlqoUnhZSH1OdelLXS3hSawtTbFFWC39qU239kJpJs0oAVSUGCMbUsWL6uiKKmOFOru6f9rPFY_pkpd4bZzojr_smFMyJAEAk1AKBD2R7EccTfMp1NePVux9gonLrQXzA5Cm84UQzSj33WdjKFnOvegLTOpqB99k80kHQBa4Otgt0HChn8mWN1suxtohXckqLa3FSuFihYr7LF1eVvrPw%3D%3D&rank=2&testVersionOverride=Buttercup%2C39483.0.0%2C50028.0.0%2C50813.0.0%2C51642.169494.0%2C51690.201908.0%2C52131.187852.1%2C54709.194717.1%2C59134.227540.1%2C50988.158353.0%2C60140.211636.0%2C54072.0.0%2C57292.0.0&slots=&position=2&beaconIssued=&sort=RECOMMENDED&top_dp=492&top_cur=USD&userIntent=&selectedRoomType=325074789&selectedRatePlan=396594203&searchId=d9fb72c7-2cc0-4ace-a22d-e59e6d57ada2",
+    "address": {
+      "ancestorOrigins": {},
+      "href": "https://www.expedia.com/Hotel-Search?destination=Shanghai%2C+China&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+      "origin": "https://www.expedia.com",
+      "protocol": "https:",
+      "host": "www.expedia.com",
+      "hostname": "www.expedia.com",
+      "port": "",
+      "pathname": "/Hotel-Search",
+      "search": "?destination=Shanghai%2C+China&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+      "hash": "",
+      "assign": {},
+      "reload": {},
+      "replace": {},
+      "toString": {}
+    },
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.expedia.com/Hotel-Search?destination=Shanghai%2C+China&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+    "scrapedAt": "2025-08-21T19:04:53.452Z",
+    "source": "Expedia (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755803093452_2",
+    "name": "Radisson Blu Hotel Shanghai New World",
+    "price": 0,
+    "currency": "USD",
+    "rating": 8.8,
+    "reviewCount": 378,
+    "avgReview": "8.8/5",
+    "images": [
+      "https://www.expedia.com/Hotel-Search?destination=Shanghai%2C+China&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED"
+    ],
+    "bookingUrl": "https://www.expedia.com/user/signin?uurl=e3id%3Dredr%26rurl%3D%2FHotel-Search%3FregionId%3D180026%26destination%3DShanghai%2B%2528and%2Bvicinity%2529%252C%2BChina%26startDate%3D2025-08-28%26endDate%3D2025-08-31%26adults%3D2%26userIntent%3D%26sort%3DRECOMMENDED%26vip%3Dfalse%26selected%3D1271421&partnerLang=en_US",
+    "address": {
+      "ancestorOrigins": {},
+      "href": "https://www.expedia.com/Hotel-Search?destination=Shanghai%2C+China&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+      "origin": "https://www.expedia.com",
+      "protocol": "https:",
+      "host": "www.expedia.com",
+      "hostname": "www.expedia.com",
+      "port": "",
+      "pathname": "/Hotel-Search",
+      "search": "?destination=Shanghai%2C+China&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+      "hash": "",
+      "assign": {},
+      "reload": {},
+      "replace": {},
+      "toString": {}
+    },
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.expedia.com/Hotel-Search?destination=Shanghai%2C+China&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+    "scrapedAt": "2025-08-21T19:04:53.452Z",
+    "source": "Expedia (ScraperAPI)"
+  }
+]

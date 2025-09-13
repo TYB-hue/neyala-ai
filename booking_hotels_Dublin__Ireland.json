@@ -1,0 +1,272 @@
+[
+  {
+    "id": "hotel_1757405887898_0",
+    "name": "Travelodge PLUS Dublin City Centre",
+    "price": 810,
+    "currency": "USD",
+    "rating": 8.5,
+    "stars": 9,
+    "reviewCount": 101,
+    "avgReview": "8.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/346726166.webp?k=455d26d5af68d2a23939b6dc46a03f0f03a8e1788c4e9ad437dd8f0918d0abb0&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ie/travelodge-dublin-city-centre.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9kdWJsaW4sIGlyZWxhbmRIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAK7xf_FBsACAdICJDA4YzIwNDZkLTM1YzItNDJkMS05OGY3LTdhOTMwMjMwYjBkNNgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=4cfa3a5d46720053&srepoch=1757405886&all_sr_blocks=710859303_295938046_2_2_0&highlighted_blocks=710859303_295938046_2_2_0&matching_block_id=710859303_295938046_2_2_0&sr_pri_blocks=710859303_295938046_2_2_0__69000&from=searchresults",
+    "address": "Dublin City Centre, Dublin",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Dublin%2C+Ireland&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T08:18:07.898Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757405887898_1",
+    "name": "easyHotel Dublin",
+    "price": 528,
+    "currency": "USD",
+    "rating": 7.5,
+    "stars": 8,
+    "reviewCount": 166,
+    "avgReview": "7.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/423640823.webp?k=c830ea3e1631c82b3682c2e7650b622215a7065eba8ae12a97e85de38bf2a179&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ie/easyhotel-dublin.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9kdWJsaW4sIGlyZWxhbmRIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAK7xf_FBsACAdICJDA4YzIwNDZkLTM1YzItNDJkMS05OGY3LTdhOTMwMjMwYjBkNNgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=4cfa3a5d46720053&srepoch=1757405886&all_sr_blocks=869011201_355407587_0_0_0_644634&highlighted_blocks=869011201_355407587_0_0_0_644634&matching_block_id=869011201_355407587_0_0_0_644634&sr_pri_blocks=869011201_355407587_0_0_0_644634_44965&from=searchresults",
+    "address": "Dublin City Centre, Dublin",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Dublin%2C+Ireland&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T08:18:07.898Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757405887898_2",
+    "name": "The Grafton Hotel",
+    "price": 1,
+    "currency": "USD",
+    "rating": 9,
+    "stars": 9,
+    "reviewCount": 427,
+    "avgReview": "9.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/328936544.webp?k=2e1c22ac7ec04f0d488c1acb7ad91e2a6ad9d7227cae5e2dd099920d3b77ef11&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ie/the-grafton.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9kdWJsaW4sIGlyZWxhbmRIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAK7xf_FBsACAdICJDA4YzIwNDZkLTM1YzItNDJkMS05OGY3LTdhOTMwMjMwYjBkNNgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=4cfa3a5d46720053&srepoch=1757405886&all_sr_blocks=0_0_2_1_0&highlighted_blocks=0_0_2_1_0&matching_block_id=0_0_2_1_0&sr_pri_blocks=0_0_2_1_0__115433&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Saint Stephen's Green, Dublin",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Dublin%2C+Ireland&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T08:18:07.898Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757405887898_3",
+    "name": "The Chancery Hotel",
+    "price": 1,
+    "currency": "USD",
+    "rating": 9,
+    "stars": 9,
+    "reviewCount": 225,
+    "avgReview": "9.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/565598880.webp?k=3719a503f50b8b2f12f6c7c531cf8391bbd03cfa21a196f6dbe5e9e406cc621e&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ie/the-chancery.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9kdWJsaW4sIGlyZWxhbmRIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAK7xf_FBsACAdICJDA4YzIwNDZkLTM1YzItNDJkMS05OGY3LTdhOTMwMjMwYjBkNNgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=4cfa3a5d46720053&srepoch=1757405886&all_sr_blocks=0_0_2_0_0&highlighted_blocks=0_0_2_0_0&matching_block_id=0_0_2_0_0&sr_pri_blocks=0_0_2_0_0__106683&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Dublin City Centre, Dublin",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Dublin%2C+Ireland&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T08:18:07.898Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757405887898_4",
+    "name": "Harveys Guest House",
+    "price": 709,
+    "currency": "USD",
+    "rating": 8.7,
+    "stars": 9,
+    "reviewCount": 723,
+    "avgReview": "8.7/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/273564710.webp?k=15e87be8db273d2811eb0d07df986a7131d713a3117a81a37fd726d60803df81&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ie/harveys-guest-house.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9kdWJsaW4sIGlyZWxhbmRIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAK7xf_FBsACAdICJDA4YzIwNDZkLTM1YzItNDJkMS05OGY3LTdhOTMwMjMwYjBkNNgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=4cfa3a5d46720053&srepoch=1757405886&all_sr_blocks=18004012_327152385_2_2_0&highlighted_blocks=18004012_327152385_2_2_0&matching_block_id=18004012_327152385_2_2_0&sr_pri_blocks=18004012_327152385_2_2_0__60376&from=searchresults",
+    "address": "Dublin City Centre, Dublin",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Dublin%2C+Ireland&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T08:18:07.898Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757405887898_5",
+    "name": "citizenM Dublin St Patrick's",
+    "price": 781,
+    "currency": "USD",
+    "rating": 8.9,
+    "stars": 9,
+    "reviewCount": 960,
+    "avgReview": "8.9/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/715792254.webp?k=1a77085c0cbeb16179d41baa5b1faf50f1b06d332ffe34b7d8f6affd0b61d071&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ie/citizenm-dublin-st-patricks.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9kdWJsaW4sIGlyZWxhbmRIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAK7xf_FBsACAdICJDA4YzIwNDZkLTM1YzItNDJkMS05OGY3LTdhOTMwMjMwYjBkNNgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=4cfa3a5d46720053&srepoch=1757405886&all_sr_blocks=1343704701_406986423_2_2_0&highlighted_blocks=1343704701_406986423_2_2_0&matching_block_id=1343704701_406986423_2_2_0&sr_pri_blocks=1343704701_406986423_2_2_0__66470&from=searchresults",
+    "address": "Dublin City Centre, Dublin",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Dublin%2C+Ireland&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T08:18:07.898Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757405887898_6",
+    "name": "Academy Plaza Hotel",
+    "price": 754,
+    "currency": "USD",
+    "rating": 8.4,
+    "stars": 8,
+    "reviewCount": 630,
+    "avgReview": "8.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/519912331.webp?k=114997d935a19836252e6b21f297c905774ab6b7ab0536de7cc4462eea1b7727&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ie/academyhoteldublin.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9kdWJsaW4sIGlyZWxhbmRIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAK7xf_FBsACAdICJDA4YzIwNDZkLTM1YzItNDJkMS05OGY3LTdhOTMwMjMwYjBkNNgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=4cfa3a5d46720053&srepoch=1757405886&all_sr_blocks=22867715_410785319_2_34_0_1093926&highlighted_blocks=22867715_410785319_2_34_0_1093926&matching_block_id=22867715_410785319_2_34_0_1093926&sr_pri_blocks=22867715_410785319_2_34_0_1093926_64200&from=searchresults",
+    "address": "Parnell Square, Dublin",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Dublin%2C+Ireland&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T08:18:07.898Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757405887898_7",
+    "name": "Motel One Dublin",
+    "price": 883,
+    "currency": "USD",
+    "rating": 8.8,
+    "stars": 9,
+    "reviewCount": 914,
+    "avgReview": "8.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/482686372.webp?k=db1b53116b1520ca2e5219addf3db6f906a07c1edfcf496d87253e84bfffbbfe&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ie/motel-one-dublin-dublin.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9kdWJsaW4sIGlyZWxhbmRIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAK7xf_FBsACAdICJDA4YzIwNDZkLTM1YzItNDJkMS05OGY3LTdhOTMwMjMwYjBkNNgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=4cfa3a5d46720053&srepoch=1757405886&all_sr_blocks=843008101_381862080_2_2_0&highlighted_blocks=843008101_381862080_2_2_0&matching_block_id=843008101_381862080_2_2_0&sr_pri_blocks=843008101_381862080_2_2_0__75200&from=searchresults",
+    "address": "Dublin City Centre, Dublin",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Dublin%2C+Ireland&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T08:18:07.898Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757405887898_8",
+    "name": "Handel's Hotel",
+    "price": 807,
+    "currency": "USD",
+    "rating": 8.1,
+    "stars": 8,
+    "reviewCount": 969,
+    "avgReview": "8.1/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/673071370.webp?k=7e27f79b58dc92c08b771f9ac50b8514e190519472b1aec852aa33c2cf59ba51&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ie/handels-hotel-temple-bar.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9kdWJsaW4sIGlyZWxhbmRIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAK7xf_FBsACAdICJDA4YzIwNDZkLTM1YzItNDJkMS05OGY3LTdhOTMwMjMwYjBkNNgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=4cfa3a5d46720053&srepoch=1757405886&all_sr_blocks=30222932_404974245_2_2_0&highlighted_blocks=30222932_404974245_2_2_0&matching_block_id=30222932_404974245_2_2_0&sr_pri_blocks=30222932_404974245_2_2_0__68700&from=searchresults",
+    "address": "Temple Bar, Dublin",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Dublin%2C+Ireland&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T08:18:07.898Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757405887898_9",
+    "name": "Blooms Hotel",
+    "price": 634,
+    "currency": "USD",
+    "rating": 8,
+    "stars": 8,
+    "reviewCount": 217,
+    "avgReview": "8.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/46176190.webp?k=5f96bd799667d49608183e76c447dda4ed69faf0d3bd5e589850f6099fc9157f&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ie/blooms-dublin-2.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9kdWJsaW4sIGlyZWxhbmRIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAK7xf_FBsACAdICJDA4YzIwNDZkLTM1YzItNDJkMS05OGY3LTdhOTMwMjMwYjBkNNgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=4cfa3a5d46720053&srepoch=1757405886&all_sr_blocks=17607102_415490154_0_2_0&highlighted_blocks=17607102_415490154_0_2_0&matching_block_id=17607102_415490154_0_2_0&sr_pri_blocks=17607102_415490154_0_2_0__54004&from=searchresults",
+    "address": "Temple Bar, Dublin",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Dublin%2C+Ireland&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T08:18:07.898Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

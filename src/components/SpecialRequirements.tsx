@@ -74,8 +74,8 @@ export default function SpecialRequirements({ selectedRequirements, onRequiremen
               <input 
                 type="checkbox" 
                 checked={isSelected}
-                onChange={() => onRequirementChange(requirement.id)}
-                className="h-5 w-5 text-blue-500 rounded border-gray-300 focus:ring-blue-500"
+                readOnly
+                className="h-5 w-5 text-blue-500 rounded border-gray-300 focus:ring-blue-500 pointer-events-none"
               />
               <Icon className={`h-6 w-6 ${requirement.iconColor}`} />
               <label className="flex-grow font-medium cursor-pointer">

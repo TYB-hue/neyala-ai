@@ -1,0 +1,272 @@
+[
+  {
+    "id": "hotel_1756139739388_0",
+    "name": "Four Seasons Resort Sharm El Sheikh",
+    "price": 845,
+    "currency": "USD",
+    "rating": 9.2,
+    "stars": 9,
+    "reviewCount": 786,
+    "avgReview": "9.2/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/241890691.webp?k=d6963d9e2b18bbd5ca6e22560e712e683b80ca4d70c03f33988b8cc2f9b05d71&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/eg/four-seasons-sharm-el-sheikh.html?aid=304142&label=gen173nr-10CAQoggJCDHNlYXJjaF9lZ3lidEgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AtWhssUGwAIB0gIkNjQzYWNkZWUtODhmMS00MjM0LWE0YTktZTdmNjRhZjhlN2Zm2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-01&checkout=2025-09-04&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=916b74aa16ff024a&srepoch=1756139739&all_sr_blocks=44643501_127457588_2_1_0_924445&highlighted_blocks=44643501_127457588_2_1_0_924445&matching_block_id=44643501_127457588_2_1_0_924445&sr_pri_blocks=44643501_127457588_2_1_0_924445_84500&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Sharks Bay, Sharm El Sheikh (Sharks Bay)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=egybt&checkin=2025-09-01&checkout=2025-09-04&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-25T16:35:39.388Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756139739388_1",
+    "name": "Baron Palms Adults Friendly Only 16 years plus Boutique Hotel Style",
+    "price": 554,
+    "currency": "USD",
+    "rating": 9.5,
+    "stars": 10,
+    "reviewCount": 602,
+    "avgReview": "9.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/728144511.webp?k=c9c4fc8d136e34be0e29a87824805b9b2ff35adfe5a39652285e386673c15dbd&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/eg/baron-palms-resort-sharm-el-sheikh.html?aid=304142&label=gen173nr-10CAQoggJCDHNlYXJjaF9lZ3lidEgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AtWhssUGwAIB0gIkNjQzYWNkZWUtODhmMS00MjM0LWE0YTktZTdmNjRhZjhlN2Zm2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-01&checkout=2025-09-04&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=916b74aa16ff024a&srepoch=1756139739&all_sr_blocks=30501919_0_2_21_0&highlighted_blocks=30501919_0_2_21_0&matching_block_id=30501919_0_2_21_0&sr_pri_blocks=30501919_0_2_21_0__55419&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Sharm El Sheikh",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=egybt&checkin=2025-09-01&checkout=2025-09-04&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-25T16:35:39.388Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756139739388_2",
+    "name": "JAZ Mirabel Resort",
+    "price": 428,
+    "currency": "USD",
+    "rating": 8.7,
+    "stars": 9,
+    "reviewCount": 412,
+    "avgReview": "8.7/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/140455844.webp?k=d12c2f2658726b153959992e4ee8a8835d6e53c248313b0280ef2c0e11b66017&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/eg/jaz-mirabel-beach.html?aid=304142&label=gen173nr-10CAQoggJCDHNlYXJjaF9lZ3lidEgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AtWhssUGwAIB0gIkNjQzYWNkZWUtODhmMS00MjM0LWE0YTktZTdmNjRhZjhlN2Zm2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-01&checkout=2025-09-04&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=916b74aa16ff024a&srepoch=1756139739&all_sr_blocks=17295724_375502369_2_85_0_262305&highlighted_blocks=17295724_375502369_2_85_0_262305&matching_block_id=17295724_375502369_2_85_0_262305&sr_pri_blocks=17295724_375502369_2_85_0_262305_42769&from=searchresults",
+    "address": "Nabq Bay, Sharm El Sheikh (Nabq Bay)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=egybt&checkin=2025-09-01&checkout=2025-09-04&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-25T16:35:39.388Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756139739388_3",
+    "name": "Pickalbatros Palace Sharm - \"Aqua Park\"",
+    "price": 554,
+    "currency": "USD",
+    "rating": 9.3,
+    "stars": 9,
+    "reviewCount": 949,
+    "avgReview": "9.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/244357996.webp?k=8e180f63dc2baa60a00bf9c96a55cbd0ed8d51463ba60316b364c8e503bc90f4&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/eg/melia-sharm-resort-spa.html?aid=304142&label=gen173nr-10CAQoggJCDHNlYXJjaF9lZ3lidEgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AtWhssUGwAIB0gIkNjQzYWNkZWUtODhmMS00MjM0LWE0YTktZTdmNjRhZjhlN2Zm2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-01&checkout=2025-09-04&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=916b74aa16ff024a&srepoch=1756139739&all_sr_blocks=24830001_413164632_2_85_0_241168&highlighted_blocks=24830001_413164632_2_85_0_241168&matching_block_id=24830001_413164632_2_85_0_241168&sr_pri_blocks=24830001_413164632_2_85_0_241168_55434&from=searchresults",
+    "address": "Sharm El Sheikh",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=egybt&checkin=2025-09-01&checkout=2025-09-04&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-25T16:35:39.388Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756139739388_4",
+    "name": "Royal Savoy Sharm El Sheikh",
+    "price": 832,
+    "currency": "USD",
+    "rating": 9.3,
+    "stars": 9,
+    "reviewCount": 939,
+    "avgReview": "9.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/691549571.webp?k=77679de5e6b222064797ae5ae5e6cf77afbd85796dba417ac974690572d79a9e&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/eg/royal-savoy.html?aid=304142&label=gen173nr-10CAQoggJCDHNlYXJjaF9lZ3lidEgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AtWhssUGwAIB0gIkNjQzYWNkZWUtODhmMS00MjM0LWE0YTktZTdmNjRhZjhlN2Zm2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-01&checkout=2025-09-04&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=916b74aa16ff024a&srepoch=1756139739&all_sr_blocks=26640412_397894776_2_33_0_649030&highlighted_blocks=26640412_397894776_2_33_0_649030&matching_block_id=26640412_397894776_2_33_0_649030&sr_pri_blocks=26640412_397894776_2_33_0_649030_83153&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Sharks Bay, Sharm El Sheikh (Sharks Bay)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=egybt&checkin=2025-09-01&checkout=2025-09-04&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-25T16:35:39.388Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756139739388_5",
+    "name": "DoubleTree by Hilton Sharks Bay Resort",
+    "price": 357,
+    "currency": "USD",
+    "rating": 8.9,
+    "stars": 9,
+    "reviewCount": 1024,
+    "avgReview": "8.9/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/654427202.webp?k=f44c3a70754dd86e53f88cb4bf5665f58c2a018be87a10e560a9fb6a94e95a4c&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/eg/hilton-sharks-bay-resort.html?aid=304142&label=gen173nr-10CAQoggJCDHNlYXJjaF9lZ3lidEgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AtWhssUGwAIB0gIkNjQzYWNkZWUtODhmMS00MjM0LWE0YTktZTdmNjRhZjhlN2Zm2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-01&checkout=2025-09-04&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=916b74aa16ff024a&srepoch=1756139739&all_sr_blocks=4725616_94269490_2_41_0&highlighted_blocks=4725616_94269490_2_41_0&matching_block_id=4725616_94269490_2_41_0&sr_pri_blocks=4725616_94269490_2_41_0__35700&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Sharks Bay, Sharm El Sheikh (Sharks Bay)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=egybt&checkin=2025-09-01&checkout=2025-09-04&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-25T16:35:39.388Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756139739388_6",
+    "name": "Steigenberger Alcazar",
+    "price": 699,
+    "currency": "USD",
+    "rating": 9.6,
+    "stars": 10,
+    "reviewCount": 298,
+    "avgReview": "9.6/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/122207252.webp?k=df755d6fcf4f63f3826feffc2c9658beb3e7d5e4bf931bbf6556f97548c493b6&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/eg/steigenberger-alcazar.html?aid=304142&label=gen173nr-10CAQoggJCDHNlYXJjaF9lZ3lidEgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AtWhssUGwAIB0gIkNjQzYWNkZWUtODhmMS00MjM0LWE0YTktZTdmNjRhZjhlN2Zm2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-01&checkout=2025-09-04&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=916b74aa16ff024a&srepoch=1756139739&all_sr_blocks=166491804_89514086_2_85_0_262307&highlighted_blocks=166491804_89514086_2_85_0_262307&matching_block_id=166491804_89514086_2_85_0_262307&sr_pri_blocks=166491804_89514086_2_85_0_262307_69911&from=searchresults",
+    "address": "Nabq Bay, Sharm El Sheikh (Nabq Bay)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=egybt&checkin=2025-09-01&checkout=2025-09-04&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-25T16:35:39.388Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756139739388_7",
+    "name": "V Hotel Sharm El Shiekh",
+    "price": 698,
+    "currency": "USD",
+    "rating": 8.8,
+    "stars": 9,
+    "reviewCount": 508,
+    "avgReview": "8.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/581507308.webp?k=33a2f281f76c618432c704cd3431d6d202e975471e5ebd31c7ef22d4463dd0bc&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/eg/pyramisa-resort.html?aid=304142&label=gen173nr-10CAQoggJCDHNlYXJjaF9lZ3lidEgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AtWhssUGwAIB0gIkNjQzYWNkZWUtODhmMS00MjM0LWE0YTktZTdmNjRhZjhlN2Zm2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-01&checkout=2025-09-04&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=916b74aa16ff024a&srepoch=1756139739&all_sr_blocks=39245829_198614817_2_85_0&highlighted_blocks=39245829_198614817_2_85_0&matching_block_id=39245829_198614817_2_85_0&sr_pri_blocks=39245829_198614817_2_85_0__69812&from=searchresults",
+    "address": "Sharks Bay, Sharm El Sheikh (Sharks Bay)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=egybt&checkin=2025-09-01&checkout=2025-09-04&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-25T16:35:39.388Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756139739388_8",
+    "name": "Movenpick Resort Sharm El Sheikh",
+    "price": 474,
+    "currency": "USD",
+    "rating": 8.8,
+    "stars": 9,
+    "reviewCount": 99,
+    "avgReview": "8.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/275710067.webp?k=dad34d84774ba535b2d76f12db2d660fecd38e8b9cfa8173a991a4a8916008a5&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/eg/mapvenpick-resort-sharm-el-sheikh.html?aid=304142&label=gen173nr-10CAQoggJCDHNlYXJjaF9lZ3lidEgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AtWhssUGwAIB0gIkNjQzYWNkZWUtODhmMS00MjM0LWE0YTktZTdmNjRhZjhlN2Zm2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-01&checkout=2025-09-04&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=916b74aa16ff024a&srepoch=1756139739&all_sr_blocks=38677041_335379921_2_41_0&highlighted_blocks=38677041_335379921_2_41_0&matching_block_id=38677041_335379921_2_41_0&sr_pri_blocks=38677041_335379921_2_41_0__47428&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Naama Bay, Sharm El Sheikh",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=egybt&checkin=2025-09-01&checkout=2025-09-04&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-25T16:35:39.388Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756139739388_9",
+    "name": "JAZ Fanara Resort",
+    "price": 579,
+    "currency": "USD",
+    "rating": 9,
+    "stars": 9,
+    "reviewCount": 747,
+    "avgReview": "9.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/320773337.webp?k=ea79b87af613b3e750a609e4a35720e619759894321799b47a17fbf5c5e87a22&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/eg/iberotel-club-fanara-residence.html?aid=304142&label=gen173nr-10CAQoggJCDHNlYXJjaF9lZ3lidEgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AtWhssUGwAIB0gIkNjQzYWNkZWUtODhmMS00MjM0LWE0YTktZTdmNjRhZjhlN2Zm2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-01&checkout=2025-09-04&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=916b74aa16ff024a&srepoch=1756139739&all_sr_blocks=1604808_418526781_2_85_0_262289&highlighted_blocks=1604808_418526781_2_85_0_262289&matching_block_id=1604808_418526781_2_85_0_262289&sr_pri_blocks=1604808_418526781_2_85_0_262289_57926&from=searchresults",
+    "address": "El Hadaba, Sharm El Sheikh (El Hadaba)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=egybt&checkin=2025-09-01&checkout=2025-09-04&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-25T16:35:39.388Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

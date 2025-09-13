@@ -1,0 +1,272 @@
+[
+  {
+    "id": "hotel_1757414794496_0",
+    "name": "Premier Inn Doha Education City",
+    "price": 115,
+    "currency": "USD",
+    "rating": 8.3,
+    "stars": 8,
+    "reviewCount": 986,
+    "avgReview": "8.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/138015052.webp?k=87de7b6cf5cbdef117f4309f6264fe129e4dea4bddec6d7af91a933afc84ed64&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/qa/premier-inn-doha-education-city.html?aid=304142&label=gen173nr-10CAQoggJCEnNlYXJjaF9kb2hhLCBxYXRhckgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AoeLgMYGwAIB0gIkYWNhY2I5MDAtOGY5NS00YzVjLTgzODMtNTI5ZWViZjJiZTRm2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=5a6c4bc3054f002f&srepoch=1757414794&all_sr_blocks=212730901_96294096_2_2_0_837575&highlighted_blocks=212730901_96294096_2_2_0_837575&matching_block_id=212730901_96294096_2_2_0_837575&sr_pri_blocks=212730901_96294096_2_2_0_837575_42000&from=searchresults",
+    "address": "Doha",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Doha%2C+Qatar&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757414790604&force_referer=",
+    "scrapedAt": "2025-09-09T10:46:34.496Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757414794496_1",
+    "name": "The St. Regis Marsa Arabia Island, The Pearl Qatar",
+    "price": 767,
+    "currency": "USD",
+    "rating": 9.1,
+    "stars": 9,
+    "reviewCount": 495,
+    "avgReview": "9.1/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/615060047.webp?k=1275ebc2010684251f7203d23c12159d47ea4a6b7e5953d254fbf50e56f02ec4&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/qa/the-st-regis-marsa-arabia-island-the-pearl-qatar.html?aid=304142&label=gen173nr-10CAQoggJCEnNlYXJjaF9kb2hhLCBxYXRhckgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AoeLgMYGwAIB0gIkYWNhY2I5MDAtOGY5NS00YzVjLTgzODMtNTI5ZWViZjJiZTRm2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=5a6c4bc3054f002f&srepoch=1757414794&all_sr_blocks=902735004_393557629_2_34_0&highlighted_blocks=902735004_393557629_2_34_0&matching_block_id=902735004_393557629_2_34_0&sr_pri_blocks=902735004_393557629_2_34_0__279125&nad_id=3a669cb0-a3c0-4939-bf2f-200873ebb8a9_0&nad_cpc=1.08&nad_track=eyJhdWN0aW9uRXBvY2giOjE3NTc0MTQ3OTI2MzcsInJhbmsiOjEsImtvZGRpVHJhY2tpbmdJbmZvIjoiYUlXbm4zRlNnTW5xNzFIRnRMU0g0YzJHMUtySHdibTRoSU9vbVZnbFc0bWZMSTlBMG1lbjgwbGQxYnpML2hxZWxQYXZ4bWlSTjFpUVZJRWl2WGpuM0tWQVhnc1JIOGVybDIyOFhpaTBIaEtZQ1NOVzJwVXFYakxwaGJVRzMySnUwelhiN2psekwwVnA0NWZDcnZ2ZWFmOW5KWGk3TzFYVjB0b0x4TU9hMDNWcFFadVhlanNLWTBUTEYzdFI5TE05RWoxWStTYUtlQkMxTUZ3NFRjM0s1RzFZMFV3K2h6WHMzN0U4MThVQllWcGwraHFRSDJHdUwydEdDN1NtbFNOalF0ZVVGdVI4V1FuRWxwOGFzc3BLeUpkdGhvTW11Q1gyL0tyT3FjcXgxTlRuTE9ONzdUaFA4cmk5R08wdEtobUQxVVdlRjdqaWpqUDFIOUgvdC81dUFxY2VMRHFDVG9LMUxEVGE3VVdOUS9PUTFFcXdodGtRTTJCdHJtckl1OFlwYWhYTkhNMGlFbG8xYml3WWRKNnZEK2JWV3BBWkI1cUdxNm5QSEN1VTBLbW04NnN4c0REN2NnTXFUQzNFQUZFUDVHa1hKZmh4RnVWOXlRbjdmNUgzMWpGaWpmdW10WGRkcEg1eDBwVmxZdGN5V3RjNUJJZzFURVRRNXRQem5OcXQ1L2h3MzFKNEZaMmMrcStBeWt5ZGRGRlZTTkhIaE5RdTBxWU41a3lDS1p6Z3lzSGlSVDQ5VlZ1R3d2aWYrUVBsKzJTVUdUOXM1VFVSaVFOdlY4UzdJTjB3UDVIZlpmMDhBOTA3VFRPeEFTQll6S3lEbHdBZWRXWmRkaEU0dWw1MG9BSlFLQWMxSTQ1allpRHp6RTlrOHkvUGxEUUluTTlZeHhyV3RVdnlLdW5Kakl5dUlvRU84N244M1c5K2dLRjFoYnF5RUVlNjZ2QkVyaEl0c0Z2VkNxR0pyVFZFM2w0RmU5WjNzY2FheDU3QmYxVDM4Rk1iK2JaV050cTltTm42R1h2QWRGUW41YmtZSVdhc1VwaSsvcDlVU2Y2ajExZm9VT1dxNmh5cEc2THhUR0svODJHVGc0dXo2c3NGdUFxWVUwM0U1VUNzaUJHVXRiOVYvc3FNN3lweGlYZmdXWi96ZU9kaXR2NWNBU0R1TnNQdVcvVmFUNFBTM3M4bVNoYks3cWZuQXh3MndsVzZkR2QvaCt4aHlnZXFtRUVqTk45WTFLY2t3MkVxVHRZaEFZWXBFejVmUWhBUThNWmxJSDQ1UFJPNzk5K0dUT0crRFVPcldwVE5MMENvWVdDK292QVNPSUVUSS93Y2ZSV2N0RXZDM1Zxd0VCYW9YSFU1MkhCUUpTVTN0YmptZ0dldkp0L1JxSHlnRlVXem5vd2Z5LzZrVDErRFlpUHkxMG5qdXpxaUt4SFd6djZyTzZuSGFRYm1INHc0ODFJYng4VnRNaXEvdHlMTnpjM2FCaVY3MUF3UWdIbTFhRmEyRWRyYnYvamh6SWpzTmpXc21XYUJLWXBPOHZLUnYvWWFkM3ZKZnU4dU1ONlluVHZ0R2QzV25CQ3RzZTJFQWVqS1JjTE16UXhRRlk1aytIOWIwenZCWWpSalM3Q3VYMmNOMExwWTUzYWRkTk5zSWhVNi81dzBKbkpYbEJlMndQUW5ET0tiejloMS83ZTQwOGozRjB5UXhhekd3Z3JYbTlzVFBaYmgzbzR1cFA0SWFXUUVlSFNuNzN5aTl2Vm9qY0hJSjA3RGo2SXM2NDA0U3V1cHBrQkprUWlML1RaWWQwVlJuZzNHNUI2dWdTOExoZEZtbDhyREVxWVNQb0U0U28rcG1Pc3BGb2lodFY2VXRER24xMHg4K1RvUCtxZHB5RXZkTUZHVG9ZZ2h1eW1Qc3Zka3lPZWY1OXo1KzMxclhrQ25mdk5Jdld3RHdOZE56Uk1VZ3pwOGdJTnV3YWtjQjNvLzJRbXd3RUJJTWVLWTJuR1AxVzEwd0RCT3RjNWg4b3plaTB2ckdZVEZSVlFBNEpRdFlEZGwrU1A1dVhDeXIvb1pQOWdzeTB5dzJOS3lnRmJGZXNPc2ZlVTFwOWZveVF0RDdkRDFVZkorbGg0QkVrQldhZjF0czNxUFBiSDFldGpaL1JObWp4RjhFd1ppUFBzbWhJS29vbnZGdHFiMnZ5WFphT2IrZjI5MmFFWEJOWHlJRGpkZ0k3SUpLTXJhRGhQQVZNbXk1Z3AwRVpLd1NLUm0wbmJjL2RLSGh1K2F0ZlZydFNCM2FDRElLU1ZraVlaWjMxRHFreUlPM1Rkb2Vna2swdS9wNzJTV3ZCQTA1NDAwMkJzN1R4TEJvb2lQZ1dja0luRFk1azdRcWI4ZHpDdnlwallsVTFYUVBSaWNFc1UzQW5hdm5xVDBjYklFUy9SSlU5bzdzcWRXTjE4MzVScjNyaUtpSmFuMk5IZDJpbzBBaU5YMWo3M0ltaEtTU3RwZHc4N3k4MHk2c3crVEVKSTY3TkZkQlhOdXRBeXVNMVBHTlB2ZTIxcWZqdTh1MkNOWHI3Wnc1ZVJCcEY5OXhodkI2ZGF4RW5ubzB1SkpHK0UzbHpHN0xxTWtWRjZubmRtRFlIMDlQUWREOU5xY1R5MnorN0xTb1F0REczWXpLTmVvZ2Vmd3c4TitpTFUydVBnbGlsaUkwUVpSOWErVDh1Q3pmcm9XY3ZrbWZBV0lleUs3dFRCWVBGVlNCMlM0amNwc2VhNERNamNrQU5sVkwvYm53SENTcUNZcjdFY3dIelBJZEFVT3E5Z3RsaEdhSmI2emxoZDV2Qy94YXVPZU1rU25HYm94eURUU2pMNG1xSGpiblRZN1RaZjFoRHpqRHVIUnFuWHNEZldIQXdVS1ZZRU1GZXU4dmwvKzdJb1c2MUEyR0NBZFNvNFFMUkRGdHdrajR3RmJQZzZmNFlVdGZzTW1sSk8rSUJxQ09ybGdpTlFLUWhzbkpYemtDWVN1MGJqYXBCS3VyUVlqdmtKcHhadFk5U2xSSmhVWmEwbUJocGZLZ0dnYm5pRDNhMWxtYjV4KytkZ3dXVkhSWTdsWUJsMWNGQ2NVbGN3VXVHWEdTbXR2aTBrWFNDZHl4am1zQ3pqRnVTYWVNVVJqampFWmd2N0Q5QWl4R1hGZ09xRWJNTGh0VEdUUlUvTXdKbE8xeVp5TmVuMnYzbVNqVjZraDhudHB4UDMxeGgzK2tVWE44dnJvY3NJNkxRWEEvSVY3VmZ4ajJlbSs2NkRicWlRaUJNWWZDVTJzeHZnSVZQMzJ3SHRrT0Z3Y0RCWmpPakg5ZEFFdXF4cFZJWjZHbzlwVFhrTUMxTWpKYnhiTGdOTjdZcDVwSFlDWHc3S1lTTGhleHBMREw4a0NzcHJuNnRDTkl6K0p6dEIveEZVVUhWSU9XSEJIc2pHRkZ5bStJRks4YnhUd09aRzQwODBla0tXWTJWK2t0dU1yRVZIUEN1UnR3b3lGZVE0MGNRRUlzdUpISEhFT0p6Y0xHTVdSejFzSGdTV08renFSUnVjPSJ9&from_sustainable_property_sr=1&from=searchresults",
+    "address": "The Pearl, Doha (West Bay)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Doha%2C+Qatar&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757414790604&force_referer=",
+    "scrapedAt": "2025-09-09T10:46:34.496Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757414794496_2",
+    "name": "Dusit Doha Hotel",
+    "price": 247,
+    "currency": "USD",
+    "rating": 8.7,
+    "stars": 9,
+    "reviewCount": 460,
+    "avgReview": "8.7/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/638607557.webp?k=e236c0b7909463d84f8cb751b009129bf8c0b91a4ca4f6ea8b690f16c6ec9538&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/qa/dusit-doha.html?aid=304142&label=gen173nr-10CAQoggJCEnNlYXJjaF9kb2hhLCBxYXRhckgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AoeLgMYGwAIB0gIkYWNhY2I5MDAtOGY5NS00YzVjLTgzODMtNTI5ZWViZjJiZTRm2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=5a6c4bc3054f002f&srepoch=1757414794&all_sr_blocks=408554502_0_2_0_0&highlighted_blocks=408554502_0_2_0_0&matching_block_id=408554502_0_2_0_0&sr_pri_blocks=408554502_0_2_0_0__90027&from=searchresults",
+    "address": "Diplomatic Area, Doha (West Bay)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Doha%2C+Qatar&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757414790604&force_referer=",
+    "scrapedAt": "2025-09-09T10:46:34.496Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757414794496_3",
+    "name": "Sheraton Grand Doha Resort & Convention Hotel",
+    "price": 721,
+    "currency": "USD",
+    "rating": 9,
+    "stars": 9,
+    "reviewCount": 524,
+    "avgReview": "9.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/643163849.webp?k=b4a5e7af274c5d97184f7b440ad1d6c7eee14c993db08c22d32cc58beef1b41d&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/qa/sheraton-doha-resort-convention.html?aid=304142&label=gen173nr-10CAQoggJCEnNlYXJjaF9kb2hhLCBxYXRhckgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AoeLgMYGwAIB0gIkYWNhY2I5MDAtOGY5NS00YzVjLTgzODMtNTI5ZWViZjJiZTRm2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=5a6c4bc3054f002f&srepoch=1757414794&all_sr_blocks=6999428_246420640_2_41_0&highlighted_blocks=6999428_246420640_2_41_0&matching_block_id=6999428_246420640_2_41_0&sr_pri_blocks=6999428_246420640_2_41_0__262500&nad_id=3a669cb0-a3c0-4939-bf2f-200873ebb8a9_1&nad_cpc=1.36&nad_track=eyJhdWN0aW9uRXBvY2giOjE3NTc0MTQ3OTI2MzksInJhbmsiOjIsImtvZGRpVHJhY2tpbmdJbmZvIjoiYUlXbm4zRlNnTW5xNzFIRnRMU0g0YzJHMUtySHdibTRoSU9vbVZnbFc0bWZMSTlBMG1lbjgwbGQxYnpML2hxZWxQYXZ4bWlSTjFpUVZJRWl2WGpuM0tWQVhnc1JIOGVybDIyOFhpaTBIaEtZQ1NOVzJwVXFYakxwaGJVRzMySnUwelhiN2psekwwVnA0NWZDcnZ2ZWFmOW5KWGk3TzFYVjB0b0x4TU9hMDNWcFFadVhlanNLWTBUTEYzdFI5TE05RWoxWStTYUtlQkMxTUZ3NFRjM0s1RzFZMFV3K2h6WHMzN0U4MThVQllWcGwraHFRSDJHdUwydEdDN1Noa1NOalF0ZVVGdVI4V1FuRWxwOGFzc3BLeUpkdGhvTW11Q1gyL0tyT3FjcXgxTlRoTE9ONzdUaFA4cmk5R08wdEtobUQxVVdlRUx6aWpqUDFIOUgvc2Y1dUFxY2VMRHFDVG9LMUxEVGE3VVdOUS9PUTFFcXdodGtRTTJCdHJtckl1OFlwYWhYTkhNMGlFbG8xYml3WWRKNnZEK2JWV3BBWkI1cUdxNm5QSEMyUzBLbW04NnN4c0REN2NnTXFUQzNFQUZFUDVHa1hKZmh4RnVWOXlRbjdmNUgzMWpGaWpmdW10WGRkcEg1eDBwVmxZdGN5V3RjNUJJZzFURVRRNXRQem5OcXQ1L2h3MzFKNEZaMmMrcStBeWt5ZGRGRlZTTkhIaE5RdTBxWU41a3lDS1p6Z3lzSGlSVDQ5VlZ1R3d2aWYrUVBsKzJTVUh6bHM1VFVSaVFOdlY4UzdJTjB3UDVIZlpmMDhBOTA3VFRPeEFTTll6S3lEbHdBZWRXWmRkaEU0dUY1MHBBSlhLZzgxSVl0dVp5ejF4MDVnOHkvUGxEUUluTTlZeHhyV3RVdnlLdW5Kakl5dUlvRU84N244M1c5K2dLRjFoYnF5RUVlNjZ2QkVyaEl0c0Z2VkNxR0pyVFZFM2w0RmU5WjNzY2FheDU3QmYxVDM4Rk1iK2JaV050cTltTm42R1h2QWRGUW41YmtZSVdhc1VwaSsvcDlVU2Y2ajExZm9VT1dxNmh5cEc2THhUR0svODJHVGc0dXo2c3NGdUFxWVUwM0U1VUNzaUJHVXRiOVYvc3FNN3lweGlYZmdXWi96ZU9kaXR2NWNBU0R1TnNQdVcvVmFUNFBTM3M4a1NoYk83cWZuQXh3MndsVzZkR2QvaCt4aHlnZXFtRUVqTk45WTFLY2t3MkVxVHRZaEFZWXBFejVmUWhBUThNWmxJSDQ1UFJPNzk5K0dUT0crRFVPcldwVE5MMENvWVdDK292QVNPSUVUSS93Y2ZSV2N0RXZDM1Zxd0VCYW9YSFU1MkhCUUpTVTN0YmptZ0dldkp0L1JxSHlnRlVXem5vd2Z5LzZrVDErRFlpUHkxMG5qdXpxaUt4SFd6djZyTzZuSGFRYm1INHc0ODFJYng4VnRNaXEvdHlMTnpjM2FCaVY3MUF3UWdIbTFhRmEyRWRyYnYvamh6SWpzTmpXc21XYUJLWXBPOHZLUnYvWWFkM2pKZnU4dU1ONlluVHZ0R2QzV25CQ3RzZTJFQWVqS1JjTE16UXhjRklsbHJYSlpnenZITUdoalM3Q3RYakVOaUx3T3RIYklkZE0rSTBCcHI1a3dJU1JYbEJlMndQUW5ET0tiejloMS83ZTQwOGozRjB5UXhhekd3Z3JYbTlzVFBaYmgzbzR1cFA0SWFXUUVlSFNuNzN5aTl2Vm9qY0hJSjA3RGo2SXM2NDA0U3V1cHBrQkprUWlML1RaWWQwVlJtZzNFNHh5bWlTc05oZEZtbDhyREVxWVNQb0U0U28rcG1Pc3BGb2lodFY2VXRER24xMHg4K1RvUCtxZHB5RXZkTUZHVG9ZZ2h1eW1Qc3Zka3lPZWY1OXo1KzMxclhrQ25mdk5Jdld3RHdOZE56Uk1VZ3pwOGdJTnV3YWtjQjNvLzJRbXd3RUJJTWVLWTJuR1AxVzEwd0RCT3RjNWg4b3plaTB2ckdZUERSRkFMNEpRdFlEZGwrU1A1dVhDeXIvb1pQOWdzeTB5dzJOS3lnRmJGZXNPc2ZlVTFwOWZveVF0RDdkRDFVZkorbGg0QkVrQldhZjF0czNxUFBiSDFldGpaL1JObWp4RjhFd1ppUFBzbWhJS29vbnZGdHFiMnZ5WFphT2IrZjI5MmFFWEJOWHlJRGpkZ0k3SUpLTXJhRGhQQVZNbXk1Z3AwRVpLd1NLUm0wbmJjL2RLSGh1K2F0ZlZydFNCM2FDRElLU1ZraVlaWjMxRHFreUlPM1Rkb2Vna2swdS9wNzJTV3ZCQTA1NDAwMkJzN1R4TEJvb2lQZ1dja0luRFk1azdRcWI4ZHpDdnlwallsVTFYUVBSaWNFc1UzQW5hdm5xVDBjYklFUy9SSlU5bzdzcWRXTjE4MzVScjNyaUtpSmFuMk5IZDJpbzBBaU5YMWo3M0ltaEtTU3RwZHc4N3k4MHk2c3crVEVKSTY3TkZkQlhOdXRBeXVNMVBHTlB2ZTIxcWZqdTh1MkNOWHI3Wnc1ZVJCcEY5OXhodkI2ZGF4RW5ubzB1SkpHK0UzbHpHN0xxTWtWRjZubmRtRFlIMDlQUWREOU5xY1R5MnorN0xTb1F0REczWXpLTmVvZ2Vmd3c4TitpTFUydVBnbGlsaUkwUVpSOWErVDh1Q3pmcm9XY3ZrbWZBV0lleUs3dFRCWVBGVlNCMlM0amNwc2VhNERNamNrQU5sVkwvYm53SENTcUNZcjdFY3dIelBJZEFVT3E5Z3RsaEdhSmI2emxoZDV2Qy94YXVPZU1rU25HYm94eURUU2pMNG1xSGpiblRZN1RaZjFoRHpqRHVIUnFuWHNEZldIQXdVS1ZZRU1GZXU4dmwvKzdJb1c2MUEyR0NBZFNvNFFMUkRGdHdrajR3RmJQZzZmNFlVdGZzTW1sSk8rSUJxQ09ybGdpTlFLUWhzbkpYemtDWVN1MGJqYXBCS3VyUVlqdmtKcHhadFk5U2xSSmhVWmEwbUJocGZLZ0dnYm5pRDNhMWxtYjV4KytkZ3dXVkhSWTdsWUJsMWNGQ2NVbGN3VXVHWEdTbXR2aTBrWFNDZHl4am1zQ3pqRnVTYWVNVVJqampFWmd2N0Q5QWl4R1hGZ09xRWJNTGh0VEdUUlUvTXdKbE8xeVp5TmVuMnYzbVNqVjZraDhudHB4UDMxeGgzK2tVWE44dnJvY3NJNkxRWEEvSVY3VmZ4ajJlbSs2NkRicWlRaUJNWWZDVTJzeHZnSVZQMzJ3SHRrT0Z3Y0RCWmpPakg5ZEFFaG9oRmJKb21hbzRJUWRWRXAxZDNQYXdYWHhaQjdPdDF5R1lyZnhQcWZXZVpIanA3SVk4UlpvODY1Nm9uY016NnoxTzVrelhrZU4xTVFYbThBL0NXSkRUM2dka0twVWhmR1A1eTV4ZmNCb0t5UzBSanl0dnNsRVErSUZPUjN4cFNIYmpJK1RSMFp1TElZRGphT2NkYVFyVGVqbFRTNkVBeHNmT1NNIn0%3D&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Corniche, Doha (West Bay)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Doha%2C+Qatar&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757414790604&force_referer=",
+    "scrapedAt": "2025-09-09T10:46:34.496Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757414794496_4",
+    "name": "Wyndham Grand Doha West Bay Beach",
+    "price": 330,
+    "currency": "USD",
+    "rating": 8.9,
+    "stars": 9,
+    "reviewCount": 255,
+    "avgReview": "8.9/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/636538999.webp?k=e756f336d18f65bcce9bdfd1da4d2f6c4d68b28fbdc78fd5e1b25e3ab8fa1143&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/qa/wyndham-grand-doha-west-bay-beach.html?aid=304142&label=gen173nr-10CAQoggJCEnNlYXJjaF9kb2hhLCBxYXRhckgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AoeLgMYGwAIB0gIkYWNhY2I5MDAtOGY5NS00YzVjLTgzODMtNTI5ZWViZjJiZTRm2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=5a6c4bc3054f002f&srepoch=1757414794&all_sr_blocks=892822902_359585427_2_42_0&highlighted_blocks=892822902_359585427_2_42_0&matching_block_id=892822902_359585427_2_42_0&sr_pri_blocks=892822902_359585427_2_42_0__120000&from=searchresults",
+    "address": "Diplomatic Area, Doha (West Bay)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Doha%2C+Qatar&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757414790604&force_referer=",
+    "scrapedAt": "2025-09-09T10:46:34.496Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757414794496_5",
+    "name": "La Maison Hotel Doha",
+    "price": 170,
+    "currency": "USD",
+    "rating": 8.4,
+    "stars": 8,
+    "reviewCount": 840,
+    "avgReview": "8.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/469851735.webp?k=691a83caf477b73be6b21a13da15545a6bbd15310d8c7afdb3fac51f264d8509&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/qa/la-maison-doha.html?aid=304142&label=gen173nr-10CAQoggJCEnNlYXJjaF9kb2hhLCBxYXRhckgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AoeLgMYGwAIB0gIkYWNhY2I5MDAtOGY5NS00YzVjLTgzODMtNTI5ZWViZjJiZTRm2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=5a6c4bc3054f002f&srepoch=1757414794&all_sr_blocks=915119801_407845278_2_2_0&highlighted_blocks=915119801_407845278_2_2_0&matching_block_id=915119801_407845278_2_2_0&sr_pri_blocks=915119801_407845278_2_2_0__61740&from=searchresults",
+    "address": "Doha",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Doha%2C+Qatar&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757414790604&force_referer=",
+    "scrapedAt": "2025-09-09T10:46:34.496Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757414794496_6",
+    "name": "Alwadi Hotel Doha - MGallery Collection",
+    "price": 346,
+    "currency": "USD",
+    "rating": 9.1,
+    "stars": 9,
+    "reviewCount": 447,
+    "avgReview": "9.1/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/672940711.webp?k=ccc14e13a7cf7523a5ef1f8b5555fae5f3fd37830adbeea16d71ff527e0c307f&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/qa/alwadi-doha-mgallery-by-accorhotels.html?aid=304142&label=gen173nr-10CAQoggJCEnNlYXJjaF9kb2hhLCBxYXRhckgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AoeLgMYGwAIB0gIkYWNhY2I5MDAtOGY5NS00YzVjLTgzODMtNTI5ZWViZjJiZTRm2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=5a6c4bc3054f002f&srepoch=1757414794&all_sr_blocks=271228606_106254089_2_2_0&highlighted_blocks=271228606_106254089_2_2_0&matching_block_id=271228606_106254089_2_2_0&sr_pri_blocks=271228606_106254089_2_2_0__126000&from=searchresults",
+    "address": "Doha",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Doha%2C+Qatar&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757414790604&force_referer=",
+    "scrapedAt": "2025-09-09T10:46:34.496Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757414794496_7",
+    "name": "Fairmont Doha",
+    "price": 754,
+    "currency": "USD",
+    "rating": 8.9,
+    "stars": 9,
+    "reviewCount": 564,
+    "avgReview": "8.9/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/741919493.webp?k=cd5e008d92c68d4a245c436a5d857379311aa718abe0e0695c6da7fdc998d9f7&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/qa/fairmont-doha.html?aid=304142&label=gen173nr-10CAQoggJCEnNlYXJjaF9kb2hhLCBxYXRhckgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AoeLgMYGwAIB0gIkYWNhY2I5MDAtOGY5NS00YzVjLTgzODMtNTI5ZWViZjJiZTRm2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=5a6c4bc3054f002f&srepoch=1757414794&all_sr_blocks=919491503_363571276_2_2_0&highlighted_blocks=919491503_363571276_2_2_0&matching_block_id=919491503_363571276_2_2_0&sr_pri_blocks=919491503_363571276_2_2_0__274500&from=searchresults",
+    "address": "Doha",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Doha%2C+Qatar&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757414790604&force_referer=",
+    "scrapedAt": "2025-09-09T10:46:34.496Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757414794496_8",
+    "name": "Radisson Blu Hotel, Doha",
+    "price": 294,
+    "currency": "USD",
+    "rating": 8.3,
+    "stars": 8,
+    "reviewCount": 767,
+    "avgReview": "8.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/324586055.webp?k=e24990fee507edcf4b205ae61c1d51a38f01f30aaa00d4333c53de9a05bd4195&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/qa/radisson-blu-doha.html?aid=304142&label=gen173nr-10CAQoggJCEnNlYXJjaF9kb2hhLCBxYXRhckgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AoeLgMYGwAIB0gIkYWNhY2I5MDAtOGY5NS00YzVjLTgzODMtNTI5ZWViZjJiZTRm2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=5a6c4bc3054f002f&srepoch=1757414794&all_sr_blocks=6728001_94108114_2_42_0_611210&highlighted_blocks=6728001_94108114_2_42_0_611210&matching_block_id=6728001_94108114_2_42_0_611210&sr_pri_blocks=6728001_94108114_2_42_0_611210_106900&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Doha",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Doha%2C+Qatar&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757414790604&force_referer=",
+    "scrapedAt": "2025-09-09T10:46:34.496Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757414794496_9",
+    "name": "Hampton By Hilton Doha Old Town",
+    "price": 196,
+    "currency": "USD",
+    "rating": 8.6,
+    "stars": 9,
+    "reviewCount": 1021,
+    "avgReview": "8.6/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/474974557.webp?k=dc14a25db1ba2cec9f10bbf6475236cdab60a2c5554ece7e480a21494e220051&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/qa/hampton-by-hilton-doha-old-town.html?aid=304142&label=gen173nr-10CAQoggJCEnNlYXJjaF9kb2hhLCBxYXRhckgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AoeLgMYGwAIB0gIkYWNhY2I5MDAtOGY5NS00YzVjLTgzODMtNTI5ZWViZjJiZTRm2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=5a6c4bc3054f002f&srepoch=1757414794&all_sr_blocks=798277906_340027928_2_1_0_953925&highlighted_blocks=798277906_340027928_2_1_0_953925&matching_block_id=798277906_340027928_2_1_0_953925&sr_pri_blocks=798277906_340027928_2_1_0_953925_71376&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Corniche, Doha (Corniche)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Doha%2C+Qatar&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757414790604&force_referer=",
+    "scrapedAt": "2025-09-09T10:46:34.496Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

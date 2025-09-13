@@ -1,0 +1,272 @@
+[
+  {
+    "id": "hotel_1757414842060_0",
+    "name": "DAMAC Royal Two Bedroom Apartment Al Olaya",
+    "price": 792,
+    "currency": "USD",
+    "rating": 9.8,
+    "stars": 10,
+    "reviewCount": 189,
+    "avgReview": "9.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/710322192.webp?k=263a1a3887ee7e8d846c53511f9f9cada05258f1352479ee4c51ce071bc4cdc3&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/sa/damac-royal-two-bedroom-apartment-al-olaya.html?aid=304142&label=gen173nr-10CAQoggJCG3NlYXJjaF9yaXlhZGgsIHNhdWRpIGFyYWJpYUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4ArSLgMYGwAIB0gIkNzExM2IzZWYtNTQ4Mi00MTI3LWJkMDUtNTg5MDRhNTg3MzM12AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=694a4bdafb5a026f&srepoch=1757414840&all_sr_blocks=1452792701_416635049_5_0_0&highlighted_blocks=1452792701_416635049_5_0_0&matching_block_id=1452792701_416635049_5_0_0&sr_pri_blocks=1452792701_416635049_5_0_0__297000&from=searchresults",
+    "address": "Al Olaya, Riyadh",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Riyadh%2C+Saudi+Arabia&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T10:47:22.060Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757414842060_1",
+    "name": "DoubleTree by Hilton Hotel Riyadh - Al Muroj Business Gate",
+    "price": 484,
+    "currency": "USD",
+    "rating": 7.7,
+    "stars": 8,
+    "reviewCount": 223,
+    "avgReview": "7.7/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/483746672.webp?k=37060be2122852a581b6c07fb777c6958d7dccd379d2e9dab1573e18bcbf88bf&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/sa/doubletree-by-hilton-al-muroj.html?aid=304142&label=gen173nr-10CAQoggJCG3NlYXJjaF9yaXlhZGgsIHNhdWRpIGFyYWJpYUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4ArSLgMYGwAIB0gIkNzExM2IzZWYtNTQ4Mi00MTI3LWJkMDUtNTg5MDRhNTg3MzM12AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=694a4bdafb5a026f&srepoch=1757414840&all_sr_blocks=109766810_93774959_2_42_0&highlighted_blocks=109766810_93774959_2_42_0&matching_block_id=109766810_93774959_2_42_0&sr_pri_blocks=109766810_93774959_2_42_0__181457&nad_id=d1439265-a9d6-45aa-8655-44289a3a1e8f_3&nad_cpc=0.69&nad_track=eyJhdWN0aW9uRXBvY2giOjE3NTc0MTQ4Mzc2NDAsInJhbmsiOjEsImtvZGRpVHJhY2tpbmdJbmZvIjoiYUlXbm4zRlNnTW5xNzFIRnRMU0g0YzJHMUtySHdibTRoSU9vbVZnbFc0bWZMSTlBMG1lbjgwbGQxYnpML2hxZWxQYXZ4bWlSTjFpUVZJRWl2WGpuM0tWQVhnc1JIOGVybDIyOFhpaTBIaEtZQ1NOVzJwVXFYakxwaGJVRzMySnUwelhiN2psekwwVnA0NWZDcnZ2ZWFmOW5KWGk3TzFYVjB0b0x4TU9hMDNWcFFadVhlanNLWTBUTEYzdFI5TE05RWoxWStTYUtlQkMxTUZ3NFRjM0s1RzFZMFV3K2h6WHMzN0U4MThVQllWcGwraHFRSDJHdUwydElCN09obENOalF0ZVVGdVI4V1FuRWxwOGFzc3BLeUpkdGhvTW11Q1gyL0tyT3FjaTEwTi9oTE9ONzdUaFA4cmk5R08wdEtobUQyMG1aRUxuaWpqUDNHOVgwc2Y1dUFxY2VMRHFDVG9LMUxEVGE3VVdOUlBDZDAwMjNnWU1RWXpwb3Ftckk2OFp6YWhXZFRKOGlGUXRpWVhvUWNabitXcnJjV3BBWkI1cUdxNm5PSENxUzBLbW04NnN4c0REN2NnTXFUQzNFQUZFUDVHa1hKZmh4RnVWOXlRbjdmNUgzMWpGaWpmdW10WGRkcEg1eDBwVmxZdGN5V3RjNUJJZzFURVRRNXRQem5OcXQ1L2h3MzFKNEZaMmMrcStBeWt5ZGRGRlZTTkhIaE5RdTBxWU41a3lDS1p6Z3lzSGlSVDQ5VlZ1R3d2aWYrUVBsKzJXVUdEbHM1VFVSaVFOdlY4UzdJTjB3UDVIZlpmMDhBOTA3VFRPeEFTVll6S3lEbHdBZWRXWmRkaEU0dVY1M3B4MUNmMVpvZGRFeU9Uci8zVVppOEQyZDAyQlN4NVlVeVFLWDdSKytjYmVUeVpla01KTVQvdXFtbHowczMrUWppNkx6U0IvNXZyQU84UWtuc0ZYYlM2NklvVGRVeFY5Slk5MTJxc2pieUlMSVpWWHM4Vk1iNnVJUE40MnR6NW1zQ0diSU53ZHJvdTBYSTJMNVVOaTEvcGxjVHZldmpocnlCYjZtK0FHcEY3bitSaVc0dmphY25vWGg5Y1VhcXcrR1NFeVhxZ2p1MEZhZDl2MEZxb25TcURabGxHYjlXSnE4TGFNODh2QkVYRytoWVlhb1YvUlVWb3JKbFpFM1hoTFU0T3Z2RndrNHpGNjNkVGMweE9KNWxFN3duRUl0TmRWY3k3TjEyM2w3QVpjK0RZd2pHVDVHVGwxRS9OUmpJbU0zT0NPdDg5aWFUL3ZqSVVXalhJNkhYQkM5YzJHNnYrZHZZY1ZXZHZ4QUtnZVJxVkREM0FyL1RrTDJHWEFsM2o0RGREMDlpL3ptMVVTK0tkaU41V093TGw3QmlJQlN1LzNUWldMbEJqN3NreHFFdVViYmVUL0Z5Y2pzRnFudlFDbVBkOU5xOXdSSzZvUktOQjZ6K21lTG5vU0tSWFZ2d0FFYmhtU29PUS9xVDUySThLaWhoNDcwS3ozaDBUZVBNY2tOdisyRDg2Y0pZV2lSTHZ3aU5OcUYyR2FwWEp1QTFGUDY2YnlPQmVxTlRvdllsVWhkQzk1cCtDTkMyU1NTTUNCaFZlV29WMkVVMis1YnNqMkliY2h2Y1FWdDc5OXFaM0lIMFZIMW5yTnpUS0xFakl3cnRMNy9oSnVqVngvVW11bWFrdzdHazlBU2JjdXh4b3dwK2ZVVFkyWUpOQ21yKzJTNCtyc2xpY1hGTFVDSWdya292ZGh6UmFiMzhCc1l6MHZSdm5vQkswdEp3VXl2c0ZyOTUzWkkySTgybDkzNEZMaFRXNGd2UTQ2KzNhMGtBTG5nLzFXcXR6U25pUng4N2dFSjVPZ013VnpVTVViVzU1d3h0MmZjcC81dHlldlg1NWE5b1QwZ1QwMmpiL1ZDL0NSWG1ZOEt5eGNCaFhjb3djTTdrdWhVVXlKbWpCTGUwMEpDTitDUDIzK00wV1lUd2pOR3RzeHVtNXpjbXhTb1RzZUdHQVJjeU5Od056MWc2Q1hpdlhIMTU3MVllbzF1a2dqb21JZWg3a1RGY01PdGF1VTAwTVgxdjE4V29ZbW1EclkzdkZrUENnWVJNN1p2dW1LWk9yR3ZNSitKdUZ4aWpRbHlFQXAxSXJ4dWk0Nmh2MnFJNEtMMnRXS1BZT2IvYVNoZ2FBcUNjMjJCRXlKN0krSkFZNGVZRGwzK2VwSG05Z3RpQ3BTNlNLUWZyWGJjL2RLSGh1V0w1YjBzK1c4c1AybVBEaFZWMmRnZXhWTGgxbjFZNFFwTGVoOTloTy8vL1cyV3BseHA5NXR0bVJJNldSWHF1TVNYaVdrMGNTcUlxQlcyN2VBSjFDWGk5V3gxSFE2MmVVZjFWSWhzUG5Hc29yak9mYmQ1RmJka2VkQXVpYkZLY0JnM3ZGREd1Q3lPTHIzN05HRjIyOVZYM3BPYTJlV05nUXFjV29rSG40K211QVRscUJlUEh0TTI0TXRRRkhOZitVVzhKVlBtTlA3Y3pGQ3d3N0F1aG1SbG82Wit6djlJOWhaOW1Geno1Y2EvT1dMaGdLdEpSckVjaHpMeVlPNGFWRjZubHNTZk56Y3NLd2QvdVpuVFVHRDY2S1REL2tCRkVUdGtlWUxseCtXdzM4VmhoUGxydE93OWtGVEduQjFJL2JlUnNOeXJldlplUC9wMkowVEJOUWkvdVN4alAwMFRYQ2Y5d05FOUp2NG9MSG82VFk5Skx1eWtpRFdEcm1FeW54TWtIVExNZFVCUnBNQmw2eFNYSnIrbGhFTWlyajY4S3Z5WGZ3cm5WTzR6MUNyQmk3d2c4eXVNa3k1cEZNZnFoRGJwRnZqWjZTRzBSZlhRVmsxQldaUUVIZVNtcmcrbHFNTlQvMXcyVTN0ZUV0NFNPQUhIcVE4MXFGNFlNQmFTOVowa05ZNGtqNSt1WjMrS0k3cGoxdFJBQUZ4eGJBSHlGNEtpeHNXRytGUDA4M3NudFZ0dmd2NGMraXBYTVNRWlRWcVIxdCtOaldjTHBDUHFXbVZ4ZElvNXU1a3Nma3pkZjQ5ZkFWb2JaMndWejRaQSt5Q0JSbUZ1aTFRS0duZ2NubkdzVTJDTnhEMlJKRk5PampGZTU2eWZ0VVg5VEM4d1BMTWJIYWwwU3lPMEFLOS9heC9nbDh5TGJIR1gxSHF2R2N4eXJqb2tqS1MralJ6dGxIM0g3UGltRjVGbVlraUlwYzR3V3U1ODQvNjlwTGlQNzJSc1NaY09CVjI3Z2JBNVNQVzQxbnMzWVFGUFgxSUVjWG45T2tKSTZGd1FjOS9UNW85VEVBQSt5TkxQZkEzQ3hZWjdMYzl1RHFhYTBleUVjcWxmaUpURE9vVVY1OXU1Nm83Yk5DMnozdVp6d1VNT0hWMFVYMzVPNUNtZEF6T3djRVdrYUFQT05adWw2TnNQb0xxU253RDQ2ZU45WHo1Z3pCY2RST05YY05RNlhIcz0ifQ%3D%3D&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Riyadh",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Riyadh%2C+Saudi+Arabia&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T10:47:22.060Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757414842060_2",
+    "name": "Grand Plaza Hotel - Dhabab Riyadh",
+    "price": 298,
+    "currency": "USD",
+    "rating": 8.4,
+    "stars": 8,
+    "reviewCount": 396,
+    "avgReview": "8.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/266429925.webp?k=ba50edd06e8af4767c6d7cc6f1a8ad6990163660032a50ce493f0c1723f82e5d&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/sa/grand-plaza-al-dhabab.html?aid=304142&label=gen173nr-10CAQoggJCG3NlYXJjaF9yaXlhZGgsIHNhdWRpIGFyYWJpYUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4ArSLgMYGwAIB0gIkNzExM2IzZWYtNTQ4Mi00MTI3LWJkMDUtNTg5MDRhNTg3MzM12AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=694a4bdafb5a026f&srepoch=1757414840&all_sr_blocks=148137401_0_2_0_0&highlighted_blocks=148137401_0_2_0_0&matching_block_id=148137401_0_2_0_0&sr_pri_blocks=148137401_0_2_0_0__111867&from=searchresults",
+    "address": "Riyadh",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Riyadh%2C+Saudi+Arabia&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T10:47:22.060Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757414842060_3",
+    "name": "Riyadh Airport Marriott Hotel",
+    "price": 752,
+    "currency": "USD",
+    "rating": 8.3,
+    "stars": 8,
+    "reviewCount": 97,
+    "avgReview": "8.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/446559806.webp?k=7c93ad65826f288bb07e2485b9f1d2a6ab99e10c5614dcf5383f38622a16d3c1&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/sa/marriott-airport-riyadh.html?aid=304142&label=gen173nr-10CAQoggJCG3NlYXJjaF9yaXlhZGgsIHNhdWRpIGFyYWJpYUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4ArSLgMYGwAIB0gIkNzExM2IzZWYtNTQ4Mi00MTI3LWJkMDUtNTg5MDRhNTg3MzM12AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=694a4bdafb5a026f&srepoch=1757414840&all_sr_blocks=24650311_246424546_2_42_0&highlighted_blocks=24650311_246424546_2_42_0&matching_block_id=24650311_246424546_2_42_0&sr_pri_blocks=24650311_246424546_2_42_0__282000&nad_id=d1439265-a9d6-45aa-8655-44289a3a1e8f_1&nad_cpc=0.74&nad_track=eyJhdWN0aW9uRXBvY2giOjE3NTc0MTQ4Mzc2NDIsInJhbmsiOjIsImtvZGRpVHJhY2tpbmdJbmZvIjoiYUlXbm4zRlNnTW5xNzFIRnRMU0g0YzJHMUtySHdibTRoSU9vbVZnbFc0bWZMSTlBMG1lbjgwbGQxYnpML2hxZWxQYXZ4bWlSTjFpUVZJRWl2WGpuM0tWQVhnc1JIOGVybDIyOFhpaTBIaEtZQ1NOVzJwVXFYakxwaGJVRzMySnUwelhiN2psekwwVnA0NWZDcnZ2ZWFmOW5KWGk3TzFYVjB0b0x4TU9hMDNWcFFadVhlanNLWTBUTEYzdFI5TE05RWoxWStTYUtlQkMxTUZ3NFRjM0s1RzFZMFV3K2h6WHMzN0U4MThVQllWcGwraHFRSDJHdUwydEdDN1NqbFNOalF0ZVVGdVI4V1FuRWxwOGFzc3BLeUpkdGhvTW11Q1gyL0tyT3FjcXgxTm5uTE9ONzdUaFA4cmk5R08wdEtobUQxVVdlRXJqaWpqUDFIOUh5dC81dUFxY2VMRHFDVG9LMUxEVGE3VVdOUlBDZDAwMjNnWU1RWXpwb3Ftckk2OFp6YWhXZFRKOGlGUXRpWVhvUWNabitXcnJjV3BBWkI1cUdxNm5PSENhUDN1Uy80THd4cXozNlZDOHJWRDdUQVVzSjVWVWtNT2syRHU1Z3gwanhZcHlzemlsaWcvWDNzbUpJdFRscHlwVnJiSlkrUU13akFvTnVWRnpRNk4yaG1jMmo0dUpyMGtWWkpaR0I3ZWlZd1ZHVE5FWkRRTi9XdWZsb3lyRVIrMExCTEpEbjBkRHJYU1VtUUZhYXdPT1YvMFQ5OFh1REFTb2hveUVaaUJ3NUh0U3RNSkJuUFpEVmZ2b2hETUV4QVdLaEZ6TVdoNnFkbGg0Y2RIVVhPQU1zc0Z4aThWa0ZmMVZrZUpoaGRTajAwRVppOER5VnpHRkoyNFJWalVXWDdoV29idnJjbjRXdlBaTVEvdXV0aUR3M3cvWml6K244UkFUd3RPQlJyd2MvNHhXUVRheVZyVDBDbGdwYWJzQmwvcEdWMzRMV2RBS2t0aFJQNWZJU09OVDhpZHJqRFdETGRGUW45NkJDZW5maEVkR3ovNVViUS8vc3oxbTlWK0RyN3dHbkhhTDdDWGJ4clNDVHdzaTcrY0FSdUE2RVQweVZxd2o1aGduSTVQY1l1TlNmOGpsdGlHWDVVNDYvTnZSb3R2eEhRR1A3T012bVhmZGNYcytjek5rM0NrZUF0dWZqQ3hrLzEwdWdNbjkxbStJenhRVzNna0luTlprSGhMYzBnalIzRDVzMUFaVWxFakVjVkZkTG9NUnVIR014SXdtejR0aXdRT2JrQndUbUNvZkVCRnFrZGpmbys3SmhlWmdTT0xKWkxBMllzbGJZM0FydFNFN2dYRDl1eW5OMVp6NWlscnZ2aXkybmRvVDM1bmJzR0VpeWk4ZFNpc1MwVUVuQmEwTGkxQkhSdDFUYldWZTRrODIvTkppT0RuR25KcHduOUJKSTZaRkFQQmIycnozRG5zL01DRHQzd1JrRWpIK2pMMDYvRE5TSXVQamp6dDZ2ZDNyaG1Xek1mc2hBNnJIYzgrbEtMQ21PTmZNbU9NYUMyeVBtRjVyR2pSWDk0N0RUUzdxT0ZjRER3eDhMRXNjem8zNE96SFNUWW01aEJiYXVVRzBUMnZ0QTlUck9ONDk4WVJwNytObHFjRFZQaVFUbGtMUnlUcnJRMGRocTlMYm9qb3VwVUFqVm5PaVBpUU9RekpzQk9JYTkwNVF4dlA0U2F5TUROU09udENtK3QvTmppOC9QUFVDWmxhUWw2NXNvRTd6ODl4OGV4a1hYcFcxWVlEZ0kyRnl2dkZ6N3ltdFgyWmtoa0p1bUY3Y2RFb3RpRFpTb3J1dzlIcm5zK1YySHFpdW1ud3Q3cUY4SzY2WkZ3aEdhTWxhWXFZVTN2VzdIdmZJcWdiT0w2WTd1L0hCaFFrYWhmdjlONnpOV21ZOEtqVXhYMG1VZzF0dzdtZkJKV2s5NmpCRysxVWhKTlBtQjJIdVEwRzBReVRFdW85UjVyc2lWeXdtM1Q5Q0dGQkZNMzhWMU5qRisrWE94OGlUbjdhNUZlb3h5andtTmhZZXFpa1RQZXNQSGN2a203b0t2OUZnV281bTFEdUIwN2g0QkVrVmZjL3Q1czNhR0tLYStMWitWcFZCemloSjlSbGw4TGZJbmlNUHZvV0RBcDZQM3NHcUdMTDJ3TGlaNFBrM2RKVytCRWlWa0tmNFJNTE9yQUVYUVZOaTI2aHdsUXQvOFJyeEkvRCtNNjlTUWh1T1E5TFpyclM0QVRoZVBkMlJsbW9aYjFFZjYzMzhPc2g4T09VRnp5dnJvcWp2UStWd3dyZElza1NVMlZGeVA4NWlGZ1g0cmNTR1F0Qk90N1BOY25teWovVnQ1RURxTmNWRDFYNDlLRm51dmx1MlJPb2d1U3VaVWJjeC93ZkpRT2xGMnRHZk1yalB6ZStxOUptbGh4TlZjeG8rVHd1U2UyMERaRkk0ZGs0M2c4RkducUVuYVJKZ3g0T0pXQkRRNnRITDdiQnJXUHYyVmxCMmtoT3BsZ1dSTXZyeHI5S2tMcERjNjBSWEQ3OFgyWVMvMjBPZ2VVZUZKMEF6eWR1NDRHUUdud0pqQU4zOXdhRWgrOU15UEQyQ3pzUHlFcnhNVEEyNHBkWmY5MzZDNzNzMGtqdmhodUtOd2lRU0x5QXhXdzdhZHN1ZXpaTG9BWjZGMmFBQ0laU0tnc3oxZEowc2ZVM0d1amN0dFBxRndmQzBwRmN4T0ovMnhuemE1ckdVNnRRQTJVMzNTZTA1SnJORW12UlNhUDZxL2lWUWhxemYvY3FQZWYxT2hDcjQxenp2S2g3WmhzSFBFazNrOVhJem1rVDdoR2VIUnFuWHREZldIQXdVS1ZZSVVCdVNodnhxOXRjSVd2QVYrVXlJUFNwa1dOZ2ZMcXhObCsxVWVma0RRb29FNmNNOHhvcENoYlUrZWJlODhpc05XRWdJMktVRG5PbzJ0elBXU3kwamk4VUZ4OWdscHpLMWI5ekpoTno4ZllGeUt4OVMzam0wY3BDenFVQmcvUDR0ajU5NDdiMW5XYm9ObEJsMWNBalJBd1o0VG8yajhVSEY2c1g4YURqOTV4am1zQmlmRWxDQ09KVVJqaENWWW12WGYra1dvQ21aZ0lhd2FDb1IrWHl2SldlOCthMHFpMG9tTmNIbWM0bmUrRnJFcjduVWsyZWI3eUJyeG5IYng0ZW1uYXNnbUkwalQ1cEYzVCs0dHZPUzc2dTdOdUdwcEFkRUpIbWEyZ09CY0E2T3UybXcyWWhwVVN4QmREQ2FyUEVKai9rOGJNSkdVNHBrZlhsQXl5NTZYTEJmZGd0Z0dNTjE0RkthUXhmeUhTTDhJMGNtUllvVmRwWTcwbDU3R01paUp6dEI2eWtJWkxoSkJHVGtPNUdIYVRYcmtZMDZyZENyY09KZXUwb3BXLzdYVTVHU0JQUnlnTTNkaHRrTGRKSWFGIn0%3D&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Riyadh",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Riyadh%2C+Saudi+Arabia&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T10:47:22.060Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757414842061_4",
+    "name": "Nova M Hotel, Edge by Rotana",
+    "price": 429,
+    "currency": "USD",
+    "rating": 8.6,
+    "stars": 9,
+    "reviewCount": 224,
+    "avgReview": "8.6/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/592140724.webp?k=0c943d3dcaa605c12cfe9a1ee89b53425ab25888eefe2a61f070f20ed144b16d&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/sa/nova-m-olaya-edge-by-rotana.html?aid=304142&label=gen173nr-10CAQoggJCG3NlYXJjaF9yaXlhZGgsIHNhdWRpIGFyYWJpYUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4ArSLgMYGwAIB0gIkNzExM2IzZWYtNTQ4Mi00MTI3LWJkMDUtNTg5MDRhNTg3MzM12AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=694a4bdafb5a026f&srepoch=1757414840&all_sr_blocks=1216423902_393820397_2_42_0_1081781&highlighted_blocks=1216423902_393820397_2_42_0_1081781&matching_block_id=1216423902_393820397_2_42_0_1081781&sr_pri_blocks=1216423902_393820397_2_42_0_1081781_161100&from=searchresults",
+    "address": "Al Worood, Riyadh",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Riyadh%2C+Saudi+Arabia&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T10:47:22.061Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757414842061_5",
+    "name": "Comfort Hotel Riyadh Olaya",
+    "price": 374,
+    "currency": "USD",
+    "rating": 8.9,
+    "stars": 9,
+    "reviewCount": 828,
+    "avgReview": "8.9/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/476592963.webp?k=563bd33a8273b41329c300346d87dc0a88a13cfbfe742ab509324bd7d92a4039&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/sa/comfort-riyadh-olaya.html?aid=304142&label=gen173nr-10CAQoggJCG3NlYXJjaF9yaXlhZGgsIHNhdWRpIGFyYWJpYUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4ArSLgMYGwAIB0gIkNzExM2IzZWYtNTQ4Mi00MTI3LWJkMDUtNTg5MDRhNTg3MzM12AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=694a4bdafb5a026f&srepoch=1757414840&all_sr_blocks=948139702_0_2_0_0&highlighted_blocks=948139702_0_2_0_0&matching_block_id=948139702_0_2_0_0&sr_pri_blocks=948139702_0_2_0_0__140306&from=searchresults",
+    "address": "Al Olaya, Riyadh",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Riyadh%2C+Saudi+Arabia&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T10:47:22.061Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757414842061_6",
+    "name": "Palm Gate Hotel Suites",
+    "price": 535,
+    "currency": "USD",
+    "rating": 9.4,
+    "stars": 9,
+    "reviewCount": 670,
+    "avgReview": "9.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/488361048.webp?k=84e93fb437d60878a1cf7cedc4f6d6d45c0fece1cca65cd558b70944b8d2afb8&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/sa/bwb-lnkhyl-llshqq-lfndqy.html?aid=304142&label=gen173nr-10CAQoggJCG3NlYXJjaF9yaXlhZGgsIHNhdWRpIGFyYWJpYUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4ArSLgMYGwAIB0gIkNzExM2IzZWYtNTQ4Mi00MTI3LWJkMDUtNTg5MDRhNTg3MzM12AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=694a4bdafb5a026f&srepoch=1757414840&all_sr_blocks=1051574701_402949216_2_0_0&highlighted_blocks=1051574701_402949216_2_0_0&matching_block_id=1051574701_402949216_2_0_0&sr_pri_blocks=1051574701_402949216_2_0_0__200700&from=searchresults",
+    "address": "Riyadh",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Riyadh%2C+Saudi+Arabia&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T10:47:22.061Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757414842061_7",
+    "name": "Novotel Riyadh Sahafa",
+    "price": 573,
+    "currency": "USD",
+    "rating": 9.2,
+    "stars": 9,
+    "reviewCount": 562,
+    "avgReview": "9.2/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/562805597.webp?k=fbf63255a3f2959c98779bc5d2d6c67e0e88ee8b34d247d13317ad1660bb0051&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/sa/novotel-riyadh-sahafa.html?aid=304142&label=gen173nr-10CAQoggJCG3NlYXJjaF9yaXlhZGgsIHNhdWRpIGFyYWJpYUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4ArSLgMYGwAIB0gIkNzExM2IzZWYtNTQ4Mi00MTI3LWJkMDUtNTg5MDRhNTg3MzM12AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=694a4bdafb5a026f&srepoch=1757414840&all_sr_blocks=1174108604_405605405_2_42_0_622759&highlighted_blocks=1174108604_405605405_2_42_0_622759&matching_block_id=1174108604_405605405_2_42_0_622759&sr_pri_blocks=1174108604_405605405_2_42_0_622759_215000&from=searchresults",
+    "address": "Riyadh",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Riyadh%2C+Saudi+Arabia&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T10:47:22.061Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757414842061_8",
+    "name": "Centro Waha by Rotana",
+    "price": 372,
+    "currency": "USD",
+    "rating": 8.4,
+    "stars": 8,
+    "reviewCount": 583,
+    "avgReview": "8.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/134876658.webp?k=0e5e7a5b3ca0965c99311a83fad9a3dcc68ac8bb4601197d93222dec38b469e0&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/sa/centro-waha.html?aid=304142&label=gen173nr-10CAQoggJCG3NlYXJjaF9yaXlhZGgsIHNhdWRpIGFyYWJpYUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4ArSLgMYGwAIB0gIkNzExM2IzZWYtNTQ4Mi00MTI3LWJkMDUtNTg5MDRhNTg3MzM12AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=694a4bdafb5a026f&srepoch=1757414840&all_sr_blocks=239972402_101580680_0_42_0&highlighted_blocks=239972402_101580680_0_42_0&matching_block_id=239972402_101580680_0_42_0&sr_pri_blocks=239972402_101580680_0_42_0__139500&from=searchresults",
+    "address": "Riyadh",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Riyadh%2C+Saudi+Arabia&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T10:47:22.061Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757414842061_9",
+    "name": "Hilton Riyadh Hotel & Residences",
+    "price": 833,
+    "currency": "USD",
+    "rating": 9,
+    "stars": 9,
+    "reviewCount": 328,
+    "avgReview": "9.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/483748426.webp?k=928de6afd13658893f5ff4b9d468362f4e0c7ea65cf752b137b75b4cb66c5fa6&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/sa/hilton-riyadh-residences.html?aid=304142&label=gen173nr-10CAQoggJCG3NlYXJjaF9yaXlhZGgsIHNhdWRpIGFyYWJpYUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4ArSLgMYGwAIB0gIkNzExM2IzZWYtNTQ4Mi00MTI3LWJkMDUtNTg5MDRhNTg3MzM12AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=694a4bdafb5a026f&srepoch=1757414840&all_sr_blocks=417265719_127203146_2_42_0&highlighted_blocks=417265719_127203146_2_42_0&matching_block_id=417265719_127203146_2_42_0&sr_pri_blocks=417265719_127203146_2_42_0__312682&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Riyadh",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Riyadh%2C+Saudi+Arabia&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T10:47:22.061Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

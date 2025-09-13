@@ -1,0 +1,320 @@
+[
+  {
+    "id": "hotel_1755801651584_2",
+    "name": "Hôtel Filigrane & Spa",
+    "price": 0,
+    "currency": "USD",
+    "rating": 0,
+    "reviewCount": 978,
+    "avgReview": "0/5",
+    "images": [
+      "https://images.trvl-media.com/lodging/104000000/103150000/103144700/103144671/9360ef52.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    ],
+    "bookingUrl": "https://www.expedia.com/Paris-Hotels-Hotel-Filigrane-Spa.h103144671.Hotel-Information?chkin=2025-08-28&chkout=2025-08-31&x_pwa=1&rfrr=HSR&pwa_ts=1755801617020&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=179898&destination=Paris+%28and+vicinity%29%2C+France&destType=MARKET&neighborhoodId=553248635212957563&latLong=48.853564%2C2.348095&trackingData=AAAAAQAAAAEAAAAQ-Y24Fz9tRMQRQ01Ze_Gc8wttQ-rZjzz3z5d_RLI3cLiPOy_Y8RLXE1B21ub2G34KMbl4zBCsXCL6-uRS7fUHJetIUUxU2BSB7zjO11YrK_JoCc9WSVI1uY7D41xP8e2paFaley_l6RCSU_AcHowRViobxGzRZk-dHjEBhWhvI1pbbpeLT3tGkjeYX-KnyZnXDLAoso8Nwyegvm1T2s5Jodj8YCcAXauOtOqw5zRp_ffH1ccLsbBve-EUtYSNESx0rZg5BpK6YEwxCDd7F2TKkJAy7sh0MuTpYGqsuv8PR0sjSQAv9qlzUTA3H2FGn4T3f7SI8hJGnpQBcHFvCU4eKxkrhg52rANHlGbNFF0v9DI5KttuVqx646W2k08FwRLZOuuSIsJjjYSiVwxZMkn8AdufaPPJyFAyB1rjh3UNWRQFpCilcPb6ErcMk43NioJlh2482MiV4JIaIqZlWuWiEuXZWEoF8L7CpaiHyLMauEQ4ThmYRdsizZI2CYB7NNgTgA94F-0EyJSfm0kB8eULCDJOGqbfccXAfm1cO6EVkqcP14-nhdm4uvLUMHaYGgLE_5i3z8Is9yF7SXr1WCx8drvUE9BcnHPW_0FKQhiMOPcIBFuKXeEmqJ8Md1GqfPovpZLrxoofaafDNVLaXJpAk4Yec5IkkvzFpcaCsIZNa9h5gqYGHW-dspvFrLMMrcqGFiuGCxjIwDHFDhj2HDiTvwh1BVoxirRqmsUY7RIFgbPMofLat28EVmGXnSv5kfWhI-3fuwB42bEO9K6PlfZDYsxEE_tHg7NZwfkTWgEKNbMpTn3vhtvE2oclThDdNn3nlaPIBceJ8_EeLVyNtQh2AC-hAKJ2VjKSgLx-s1MAnRYmhrQrCo-sW7i4OJXVjNG9TvCoAf2qZG6H18zIqUXWshDEFZxuFaf8Sy3N6ps5eMPmJ9W3a4gQmnW_Pwa1IuHIVL7CYtXhQ97urjdAcT-IXA5DyQDDpjf4tw84oNQs419YjxE0lxG3sSLanfWisLYjx2Zhi2mCIaNWMy8AkwOKvkxyZKZpKOs7hRHZLPMsL6fg603_skBUCn4ugysDSavEgnBR6kv0zoEmXFdpmsn0F82Y3p8rPZHD8kxHt4Zq0O60LMLTMpS0rWSjvacOl8UlZNR-2KRa9JcfxnZX7yt_dRa4pzbhRW4-LWfdUofsKSlRJubXljHEtNJfiAJB1dcVmtUItQPkRhWim4wsfiOO7We1O7Oe_Zo18pOMI-iDokUIsk9pTdOW8zNeYMjTROgn-FkijCdOWoJaC5rXWXWWMKwsP2CHOf8iBOVYWFhOAnqkaqjraCI0ZObeVEWcxjAvA9-FtAglsQwhz4jrNR8lKr1ieKf5VpmqfgDVRhEI6Ec%3D&rank=1&testVersionOverride=Buttercup%2C39483.0.0%2C50028.0.0%2C50813.0.0%2C51642.169494.0%2C51690.201908.0%2C52131.187852.1%2C54709.194717.1%2C59134.227540.0%2C50988.158353.0%2C60140.211636.0%2C54072.0.0%2C57292.0.0&slots=&position=1&beaconIssued=&sort=RECOMMENDED&top_dp=947&top_cur=USD&userIntent=&selectedRoomType=324386962&selectedRatePlan=394387578&searchId=15719e5e-e071-4515-a925-710c4581bcc6",
+    "address": {
+      "ancestorOrigins": {},
+      "href": "https://www.expedia.com/Hotel-Search?destination=Paris&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+      "origin": "https://www.expedia.com",
+      "protocol": "https:",
+      "host": "www.expedia.com",
+      "hostname": "www.expedia.com",
+      "port": "",
+      "pathname": "/Hotel-Search",
+      "search": "?destination=Paris&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+      "hash": "",
+      "assign": {},
+      "reload": {},
+      "replace": {},
+      "toString": {}
+    },
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.expedia.com/Hotel-Search?destination=Paris&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+    "scrapedAt": "2025-08-21T18:40:51.584Z",
+    "source": "Expedia (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755801651585_3",
+    "name": "citizenM Paris Champs-Élysées",
+    "price": 0,
+    "currency": "USD",
+    "rating": 0,
+    "reviewCount": 709,
+    "avgReview": "0/5",
+    "images": [
+      "https://images.trvl-media.com/lodging/66000000/65300000/65299600/65299565/149fe1bd.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    ],
+    "bookingUrl": "https://www.expedia.com/Paris-Hotels-CitizenM-Paris-Champs-Elysees.h65299565.Hotel-Information?chkin=2025-08-28&chkout=2025-08-31&x_pwa=1&rfrr=HSR&pwa_ts=1755801617022&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=179898&destination=Paris+%28and+vicinity%29%2C+France&destType=MARKET&neighborhoodId=553248635212956116&latLong=48.853564%2C2.348095&trackingData=AAAAAQAAAAEAAAAQKrJQnddkP7hLrslw61a4NgM-0yAla6fjj_eGwk_WCpvOay_dQZzctfGu5n7WuvaBdEGGAXHQYXxIV5zA6zPhKfY-VCsI1wk97r4cSqDWxCu4THaG2GY2zt1lG5hlpfEEXyLi9GI6OtqPKc_RpThHYbHYDpbaMtYSeczrtg5iD0zN-mPQXgm0ww_Zq--ho_ZVq0__PdIssG51UjWz8B6EEhzJVKZMTteBNo6IIHK8ajfbRmUvFXXmxohuQm0HfkJ-DkZCVbQhZnG3RSnedei_M-1_SbCNdcRtriW4YR5C4PUbHMgwnpVqpSMgGcI9zewtBFXixfJ0Eew4RS9tSl4lepF5lOQDcbqw2nyq9BSsI0gXy4wTW9_dvr7keFfpXIRXSsKB7e4tDHWJd-1_Fjc3PX8w1LwyTgqwcoDyfsbmmApBgPZ4IbbkYVqHQ8jmnu1-m-n-sBid0WQsNuZYNrVEV5Iuc9OwYFGrgoTGKKCQNFZOOPq017jy4-8dKiA5zoF07I4xvKTLxCdBjExlvl-jerIA9FNkotsmc2lffnJE5lox_SAoNVyTzi19w7Ktdu1rry2d8B8oc-u7c-8LAYJs9ZA2a94zl7kswbOsMk7BDbOnUsFxFRmJuKiWs8KgoPhtSUYy2qRDMcnhTmxdwPWMAhIyJ6mBEuV7ThPtEarNl2_BgHsBGCSYTkSy_rXzXIDTHy9UXhX4xDIC4dj6S57AKqJ3_bXrNeK2f7j-v68yHUiAyed4MEbx9hO-2_WDIbafOB-PyFhxqpv1dgOLcXpxY1I5tmp-9-3TVxJnGewaSlTgtgXOyKjm3LaNjVdmulUFyyx2K-WkMoUAQzbVESXhbjOYaxeRqPMdVAXz4AInuSROMlNFN63Df8_Bxj1p6aWiDrN-BA-pf57dtjWbj0ZYrjx97hXMVqsvmuP8q2HcAuMZGtACWSikmdDTl2cutKbbLh2qxLLgbe715K4LLCjs9FGhCj3b_PVxHbmJx9uwrsYxjxLTp6VmGIt6dxbu4d2peNbtqUc0Gsx9EXJ7EmY9BA4-hq4F63xi2A72FISphvz0ZCtcJHn7r7x7Ux04blcBcZPJCSuJn6-h8N1XvVFAQ2me6Na8ZsX7FM7PJPhIXKCXpftikWVfIHN6TMKCkDJLQ_Lgq16X7rn17sIOzoqhFzBDZIOZGRTb67X2l6RfovUULJ4umWw8QHl6EXc0r-Mj-XbKL2dxL0hw10gUMruYnGkxCE-YRbLEZJf4HPFr7-QGQHiaJ3sOgr-D-0NZatXSxOjtna3XsUyBLnoZnLz31yNkGCDFqvdDcMz4YGgEm9BEmVO9PPV0mUdNNIcEBXBvgbWAjdyR4y5OHtXjKvHcPQ%3D%3D&rank=2&testVersionOverride=Buttercup%2C39483.0.0%2C50028.0.0%2C50813.0.0%2C51642.169494.0%2C51690.201908.0%2C52131.187852.1%2C54709.194717.1%2C59134.227540.0%2C50988.158353.0%2C60140.211636.0%2C54072.0.0%2C57292.0.0&slots=&position=2&beaconIssued=&sort=RECOMMENDED&top_dp=774&top_cur=USD&userIntent=&selectedRoomType=230480172&selectedRatePlan=276413054&searchId=15719e5e-e071-4515-a925-710c4581bcc6",
+    "address": {
+      "ancestorOrigins": {},
+      "href": "https://www.expedia.com/Hotel-Search?destination=Paris&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+      "origin": "https://www.expedia.com",
+      "protocol": "https:",
+      "host": "www.expedia.com",
+      "hostname": "www.expedia.com",
+      "port": "",
+      "pathname": "/Hotel-Search",
+      "search": "?destination=Paris&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+      "hash": "",
+      "assign": {},
+      "reload": {},
+      "replace": {},
+      "toString": {}
+    },
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.expedia.com/Hotel-Search?destination=Paris&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+    "scrapedAt": "2025-08-21T18:40:51.585Z",
+    "source": "Expedia (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755801651585_4",
+    "name": "Libertel Montmartre Opéra",
+    "price": 0,
+    "currency": "USD",
+    "rating": 8.6,
+    "reviewCount": 373,
+    "avgReview": "8.6/5",
+    "images": [
+      "https://images.trvl-media.com/lodging/1000000/10000/3800/3703/e232eccc.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    ],
+    "bookingUrl": "https://www.expedia.com/Paris-Hotels-Libertel-Montmartre-Opera.h3703.Hotel-Information?chkin=2025-08-28&chkout=2025-08-31&x_pwa=1&rfrr=HSR&pwa_ts=1755801617024&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=179898&destination=Paris+%28and+vicinity%29%2C+France&destType=MARKET&neighborhoodId=873142191231561728&latLong=48.853564%2C2.348095&sort=RECOMMENDED&top_dp=402&top_cur=USD&userIntent=&selectedRoomType=232104&selectedRatePlan=200817764&searchId=15719e5e-e071-4515-a925-710c4581bcc6",
+    "address": {
+      "ancestorOrigins": {},
+      "href": "https://www.expedia.com/Hotel-Search?destination=Paris&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+      "origin": "https://www.expedia.com",
+      "protocol": "https:",
+      "host": "www.expedia.com",
+      "hostname": "www.expedia.com",
+      "port": "",
+      "pathname": "/Hotel-Search",
+      "search": "?destination=Paris&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+      "hash": "",
+      "assign": {},
+      "reload": {},
+      "replace": {},
+      "toString": {}
+    },
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.expedia.com/Hotel-Search?destination=Paris&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+    "scrapedAt": "2025-08-21T18:40:51.585Z",
+    "source": "Expedia (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755801651585_5",
+    "name": "Les Patios du Marais",
+    "price": 0,
+    "currency": "USD",
+    "rating": 7.8,
+    "reviewCount": 1031,
+    "avgReview": "7.8/5",
+    "images": [],
+    "bookingUrl": "https://www.expedia.com/Paris-Hotels-Les-Patios-Du-Marais.h16520004.Hotel-Information?chkin=2025-08-28&chkout=2025-08-31&x_pwa=1&rfrr=HSR&pwa_ts=1755801618487&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=179898&destination=Paris+%28and+vicinity%29%2C+France&destType=MARKET&neighborhoodId=553248635212955967&latLong=48.853564%2C2.348095&sort=RECOMMENDED&top_dp=410&top_cur=USD&userIntent=&selectedRoomType=201752210&selectedRatePlan=209166130&searchId=15719e5e-e071-4515-a925-710c4581bcc6",
+    "address": {
+      "ancestorOrigins": {},
+      "href": "https://www.expedia.com/Hotel-Search?destination=Paris&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+      "origin": "https://www.expedia.com",
+      "protocol": "https:",
+      "host": "www.expedia.com",
+      "hostname": "www.expedia.com",
+      "port": "",
+      "pathname": "/Hotel-Search",
+      "search": "?destination=Paris&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+      "hash": "",
+      "assign": {},
+      "reload": {},
+      "replace": {},
+      "toString": {}
+    },
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.expedia.com/Hotel-Search?destination=Paris&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+    "scrapedAt": "2025-08-21T18:40:51.585Z",
+    "source": "Expedia (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755801651585_6",
+    "name": "Hôtel Baudelaire Opéra",
+    "price": 0,
+    "currency": "USD",
+    "rating": 8.4,
+    "reviewCount": 444,
+    "avgReview": "8.4/5",
+    "images": [],
+    "bookingUrl": "https://www.expedia.com/Paris-Hotels-Hotel-Baudelaire-Opera.h63326.Hotel-Information?chkin=2025-08-28&chkout=2025-08-31&x_pwa=1&rfrr=HSR&pwa_ts=1755801618490&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=179898&destination=Paris+%28and+vicinity%29%2C+France&destType=MARKET&neighborhoodId=553248635212957563&latLong=48.853564%2C2.348095&sort=RECOMMENDED&top_dp=450&top_cur=USD&userIntent=&selectedRoomType=316453756&selectedRatePlan=386081767&searchId=15719e5e-e071-4515-a925-710c4581bcc6",
+    "address": {
+      "ancestorOrigins": {},
+      "href": "https://www.expedia.com/Hotel-Search?destination=Paris&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+      "origin": "https://www.expedia.com",
+      "protocol": "https:",
+      "host": "www.expedia.com",
+      "hostname": "www.expedia.com",
+      "port": "",
+      "pathname": "/Hotel-Search",
+      "search": "?destination=Paris&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+      "hash": "",
+      "assign": {},
+      "reload": {},
+      "replace": {},
+      "toString": {}
+    },
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.expedia.com/Hotel-Search?destination=Paris&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+    "scrapedAt": "2025-08-21T18:40:51.585Z",
+    "source": "Expedia (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755801651585_7",
+    "name": "L'Empire Paris",
+    "price": 0,
+    "currency": "USD",
+    "rating": 9.2,
+    "reviewCount": 693,
+    "avgReview": "9.2/5",
+    "images": [],
+    "bookingUrl": "https://www.expedia.com/Paris-Hotels-LEmpire-Paris.h1637283.Hotel-Information?chkin=2025-08-28&chkout=2025-08-31&x_pwa=1&rfrr=HSR&pwa_ts=1755801618492&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=179898&destination=Paris+%28and+vicinity%29%2C+France&destType=MARKET&neighborhoodId=553248635212953516&latLong=48.853564%2C2.348095&trackingData=AAAAAQAAAAEAAAAQ_eYhIOmEkDl-jTrB4PVIX-EtxfxuLCvLuBlqMywrgRf2LWWNm0NSBzMqyWDUWCFy9dDaNqJeAknK4_L8wdlpnnccGKo_J-pbrQ4y-XmZwvf5gyfq33hfTlhf3uJg5Igtb23noVceQojBVc6XtD5M4FPjKr4qi-BUtsaF3E5zv_ytLZ3AhPkSK51-_RQ09nkxJGQ2QSZOrfUV0g9uKpqZ477QHrIRcubgmfksIy4ORB5QDn85FHZfnHcvBscYOEf1tZnObwvOCbnresOe8jH3kYOe2xXyisdodQVmzV_K6OozsV5ToM02Jw7dpDptEWz209b6GO7qEwxAl9Mb9fTupSFKXpr5e0jFWPo4HENxwa78pFdhoaE6ymcN5IjhGo1iNu6DOVquOgvLaBvoW1T9B_oSlPF5HMdbxrTarE3dXapueysgpC6-RDvphkNByBN1C4STe2up0ERueZuBytGQAqrf6_ufv_6AbSdJ7cCXLn0kJkK1YvUxJ5CjAY7JJUXYlL21RP9LMK-iGAYkkaGQPjEFIU_8TC566tMhOBDMhnUAIuBpalIWn1HljxvjjbFMnww1fo0e7kYd2uh2vgdqGYRKCX1C_KAHZmGCaLyUA6xsKNehccoO5SGkwU42ZfhSRUBcQ1aB6GJjdBy4dmhZdlJ58bGl2j2ZFFBe4x898euw0biClnKt12SztFdQV0_37TovmhlVbupa1gmKku9NqIfJwpiKlZnOLy800CyWmFPyN0RfYPbMvk-GKgwe5V5lmr9Bq-wNokTAg7wWLrUPEuE5qSPNu7qGn5QYKR91UTPhqJi2ZAGut2sWJX37GgQzGqYrKdVTj56I47SlHy_lyXtYIu1dTDyTCnXSfcxmeXdrMZNUmgVWB8pOVzOI9iWZZFI6lk-tTJrje38REksZscCF0cA1jpyFtK4o6W9lq1BmUCpulhfA8SdmWGrIHQO9RE94aTiZA6Tl5Bi506Vw98zkKPpgBMgipjMiof_l4FUqG5hFnY7jua54VaJrPDiWYlCyG686-GuMOO6kyqmidIlNIi0-3El7HOfpH191pr1jYy4uQvoBTTyVissDcthNl5QYvqagK85xqV1G81T4NmLCKWJhSXqF5BfIrjp9UeJL3EcyNGFcbX0JoyXRxPgK6OVpFYjxQLxScFo1V39M11TgqJPo253tQ_mQ8EumCnrPvtQ_5eCegX3iJ38wqV1aBGut3M52A8-RWcjNgfyxG3vGE8a8OEx8i-Gp8o4wTXsmfuSQmsUsCy04HstuGiZaQzDA5pKdExLwopvM1bs4HCG9Me6u0nMYJsw5tMTrxkGBeE-3q5Xmi_IM5KK8P8b0dqRz7Tdq3KRPgjPv-ZFYNg%3D%3D&rank=3&testVersionOverride=Buttercup%2C39483.0.0%2C50028.0.0%2C50813.0.0%2C51642.169494.0%2C51690.201908.0%2C52131.187852.1%2C54709.194717.1%2C59134.227540.0%2C50988.158353.0%2C60140.211636.0%2C54072.0.0%2C57292.0.0&slots=&position=6&beaconIssued=&sort=RECOMMENDED&top_dp=979&top_cur=USD&userIntent=&selectedRoomType=168458&selectedRatePlan=537112&searchId=15719e5e-e071-4515-a925-710c4581bcc6",
+    "address": {
+      "ancestorOrigins": {},
+      "href": "https://www.expedia.com/Hotel-Search?destination=Paris&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+      "origin": "https://www.expedia.com",
+      "protocol": "https:",
+      "host": "www.expedia.com",
+      "hostname": "www.expedia.com",
+      "port": "",
+      "pathname": "/Hotel-Search",
+      "search": "?destination=Paris&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+      "hash": "",
+      "assign": {},
+      "reload": {},
+      "replace": {},
+      "toString": {}
+    },
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.expedia.com/Hotel-Search?destination=Paris&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+    "scrapedAt": "2025-08-21T18:40:51.585Z",
+    "source": "Expedia (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755801651585_8",
+    "name": "Hotel Residence Foch",
+    "price": 0,
+    "currency": "USD",
+    "rating": 9,
+    "reviewCount": 939,
+    "avgReview": "9/5",
+    "images": [],
+    "bookingUrl": "https://www.expedia.com/Paris-Hotels-Hotel-Residence-Foch.h3146.Hotel-Information?chkin=2025-08-28&chkout=2025-08-31&x_pwa=1&rfrr=HSR&pwa_ts=1755801618495&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=179898&destination=Paris+%28and+vicinity%29%2C+France&destType=MARKET&neighborhoodId=553248635212955974&latLong=48.853564%2C2.348095&trackingData=AAAAAQAAAAEAAAAQXuXxT_I8_4y6uUrcdKpgRUiD_mNytlLEYwmIarFWEEMbisFXoIEwY3TudUEzAj6ID5aOiBALIWUOAb3kQXxtnXm7rurj4qSidDtVPOEQzk17fars_6ehyK22A8l9kuZ-LPtWchmnir1M5Wo29uX5aK0I3xUHawxDh5I8emmiHiK0wdGrF56-ctANcs_MAB0cnetUfRdcdUOBWFbTGLzNaw4tMSvNQb8phBoeyqXXXak8LQkrB95WGf2xmJTRw8J5TUqTK68rFlDKODLIW5N45TKcO3Raf2qrG5sosvVBdJLtVC8w7tTFYJf_YxUAOvykQwUuUg19DlpHrxcynczl4VKtwCiNIMs6QIRoOAEuww3q3sLJOeYj70hGnWDX55db58qy6cylCZo43R--lyMP_YrZZ7wd67ZxDq5L_4kUPSqfi0I-BD-3SK8DtVnGwwV6vV0Ndku8QSWfDVom83Bv71FqzQM6HmblBwem1sGApA1UXhzJ93Mqo8PlQD3A9vbLFKpY2arhgiAIIj8Upy-wbcm46z-GQCcJv5kWvPZK-fF5T_VGW1f0oJMOaaJYRg2Igo2lQymQiOuUYSBIYOjyBF1wVyhiO4gUVm7gCw56qXpewWBtXiIM9bi4TuaeGql7pahMht6AcMHrtBRD-W-ruc889BYn59tYmnV5r84L5YgCHwHcBp2ObjUREhEgSCArF7XCyAcbUe5ehO7QudEnrEqWn065eORWDcE_GK1t10Kq1vNL2pI7kqIFC2oNZoxY14RvUg1s37vvQhW9drz_2w9NGZYWA1ksPWmWQ7Gh-_nNP37RANK-OOSkJ0be641ln1mqe3KbJCHtJjgGcKy0noPjNzMqrG3QAh2W5OEhSKaGOtXBvM3BogWHxIkE7S4ay9g0wunLuFZJBICzNIGlYAtkJZ79bJTDcd1pALjbLNaDdaBAYu8Or3bza3fFhzRuxm-PLRaswoMHYcrIvQpoUZ3Za7EAYXTZRNK9soLlnk3UJSadt9inA0f92RASu5Ux2EVOlJcZ_j1QftV_yiPtck-1SgFHz8xTfw-qdkRSLD92y7DZ4gO_osDT9dTCD3tsBfRadYscyaUPm90ognJ_xHyvn3KPCZIa4EN5l4GdJoJsr5OxZB1igzFpOr_UngmW_OcFEbAHOTnOVO4iIlbGAXcGSF6YKoxd0GheOVd91lsKswI8YrQCfWjUnexPBqptDfNyApEhDlj_UFk4LY3Ks_WDKy_kf7krFpd7lGR7TG1eAZBJJfp3lq1PAxw4DXUFDTA-YmksfsxJxNgusGrOVjMALzXtC0ru8m5WbAPTvJbbRxcsNNc8PoLvz8TYAiDyeL1fAxnc2oW9-8ifOBJ05A%3D%3D&rank=4&testVersionOverride=Buttercup%2C39483.0.0%2C50028.0.0%2C50813.0.0%2C51642.169494.0%2C51690.201908.0%2C52131.187852.1%2C54709.194717.1%2C59134.227540.0%2C50988.158353.0%2C60140.211636.0%2C54072.0.0%2C57292.0.0&slots=&position=7&beaconIssued=&sort=RECOMMENDED&top_dp=780&top_cur=USD&userIntent=&selectedRoomType=200071752&selectedRatePlan=236234620&searchId=15719e5e-e071-4515-a925-710c4581bcc6",
+    "address": {
+      "ancestorOrigins": {},
+      "href": "https://www.expedia.com/Hotel-Search?destination=Paris&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+      "origin": "https://www.expedia.com",
+      "protocol": "https:",
+      "host": "www.expedia.com",
+      "hostname": "www.expedia.com",
+      "port": "",
+      "pathname": "/Hotel-Search",
+      "search": "?destination=Paris&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+      "hash": "",
+      "assign": {},
+      "reload": {},
+      "replace": {},
+      "toString": {}
+    },
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.expedia.com/Hotel-Search?destination=Paris&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+    "scrapedAt": "2025-08-21T18:40:51.585Z",
+    "source": "Expedia (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755801651585_9",
+    "name": "Hotel Le Cercle Tour Eiffel",
+    "price": 0,
+    "currency": "USD",
+    "rating": 9,
+    "reviewCount": 441,
+    "avgReview": "9/5",
+    "images": [],
+    "bookingUrl": "https://www.expedia.com/Paris-Hotels-Hotel-Le-Cercle-Tour-Eiffel.h2523375.Hotel-Information?chkin=2025-08-28&chkout=2025-08-31&x_pwa=1&rfrr=HSR&pwa_ts=1755801618497&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=179898&destination=Paris+%28and+vicinity%29%2C+France&destType=MARKET&neighborhoodId=553248635212953090&latLong=48.853564%2C2.348095&sort=RECOMMENDED&top_dp=605&top_cur=USD&userIntent=&selectedRoomType=214347136&selectedRatePlan=248288175&searchId=15719e5e-e071-4515-a925-710c4581bcc6",
+    "address": {
+      "ancestorOrigins": {},
+      "href": "https://www.expedia.com/Hotel-Search?destination=Paris&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+      "origin": "https://www.expedia.com",
+      "protocol": "https:",
+      "host": "www.expedia.com",
+      "hostname": "www.expedia.com",
+      "port": "",
+      "pathname": "/Hotel-Search",
+      "search": "?destination=Paris&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+      "hash": "",
+      "assign": {},
+      "reload": {},
+      "replace": {},
+      "toString": {}
+    },
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.expedia.com/Hotel-Search?destination=Paris&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+    "scrapedAt": "2025-08-21T18:40:51.585Z",
+    "source": "Expedia (ScraperAPI)"
+  }
+]

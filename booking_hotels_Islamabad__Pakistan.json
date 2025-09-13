@@ -1,0 +1,272 @@
+[
+  {
+    "id": "hotel_1757244920969_0",
+    "name": "Elysium Tower Mountain View Luxurious Apartments Islamabad",
+    "price": 201,
+    "currency": "USD",
+    "rating": 8.4,
+    "stars": 8,
+    "reviewCount": 938,
+    "avgReview": "8.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/690501163.webp?k=2a7f74fcaa531f40b8be92c1b0a6bba175e9420df2b1b00beb88767549759c8c&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/pk/elysium-tower-mountain-view-luxurious-apartments-islamabad.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9pc2xhbWFiYWQsIHBha2lzdGFuSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC9Nv1xQbAAgHSAiRmNjFhZjAyNy04YjU3LTQyYmYtYWIwMy1hNGMyZjBhMjA0NmLYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=fed6517aa59901de&srepoch=1757244919&all_sr_blocks=1426199801_414207918_2_1_0_1098004&highlighted_blocks=1426199801_414207918_2_1_0_1098004&matching_block_id=1426199801_414207918_2_1_0_1098004&sr_pri_blocks=1426199801_414207918_2_1_0_1098004_5670000&from=searchresults",
+    "address": "Blue Area, Islamabad",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Islamabad%2C+Pakistan&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:35:20.969Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757244920969_1",
+    "name": "Shelton's Ambassador Hotel Blue Area",
+    "price": 149,
+    "currency": "USD",
+    "rating": 8.5,
+    "stars": 9,
+    "reviewCount": 974,
+    "avgReview": "8.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/681815171.webp?k=9ee33d390a558956aa97fa2606b4ef35b25d960b733373701a79bbb4630ffc18&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/pk/shelton-blue-area.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9pc2xhbWFiYWQsIHBha2lzdGFuSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC9Nv1xQbAAgHSAiRmNjFhZjAyNy04YjU3LTQyYmYtYWIwMy1hNGMyZjBhMjA0NmLYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=fed6517aa59901de&srepoch=1757244919&all_sr_blocks=1337364701_406188744_0_1_0&highlighted_blocks=1337364701_406188744_0_1_0&matching_block_id=1337364701_406188744_0_1_0&sr_pri_blocks=1337364701_406188744_0_1_0__4200000&from=searchresults",
+    "address": "Blue Area, Islamabad",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Islamabad%2C+Pakistan&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:35:20.969Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757244920970_2",
+    "name": "Islamabad Marriott Hotel",
+    "price": 419,
+    "currency": "USD",
+    "rating": 8.4,
+    "stars": 8,
+    "reviewCount": 765,
+    "avgReview": "8.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/590629017.webp?k=c43d51eb321c1f049e2f367e13d626496268c69f72c99e4708a08b67defd5849&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/pk/islamabad-marriott.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9pc2xhbWFiYWQsIHBha2lzdGFuSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC9Nv1xQbAAgHSAiRmNjFhZjAyNy04YjU3LTQyYmYtYWIwMy1hNGMyZjBhMjA0NmLYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=fed6517aa59901de&srepoch=1757244919&all_sr_blocks=39924401_118440414_2_1_0&highlighted_blocks=39924401_118440414_2_1_0&matching_block_id=39924401_118440414_2_1_0&sr_pri_blocks=39924401_118440414_2_1_0__11800000&from=searchresults",
+    "address": "Islamabad",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Islamabad%2C+Pakistan&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:35:20.970Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757244920970_3",
+    "name": "Movenpick Hotel Centaurus Islamabad",
+    "price": 349,
+    "currency": "USD",
+    "rating": 8.9,
+    "stars": 9,
+    "reviewCount": 956,
+    "avgReview": "8.9/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/711642291.webp?k=40a4d6216f2d88067987f8a66b8b3c24cc4d335bb2d0f110ef5234494938d1ae&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/pk/movenpick-centaurus-islamabad.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9pc2xhbWFiYWQsIHBha2lzdGFuSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC9Nv1xQbAAgHSAiRmNjFhZjAyNy04YjU3LTQyYmYtYWIwMy1hNGMyZjBhMjA0NmLYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=fed6517aa59901de&srepoch=1757244919&all_sr_blocks=1350489208_407397611_2_42_0&highlighted_blocks=1350489208_407397611_2_42_0&matching_block_id=1350489208_407397611_2_42_0&sr_pri_blocks=1350489208_407397611_2_42_0__34850&from=searchresults",
+    "address": "Blue Area, Islamabad",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Islamabad%2C+Pakistan&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:35:20.970Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757244920970_4",
+    "name": "Reina Boutique Hotel - G6",
+    "price": 86,
+    "currency": "USD",
+    "rating": 8.3,
+    "stars": 8,
+    "reviewCount": 522,
+    "avgReview": "8.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/476712221.webp?k=6cc1cd8ec114847961eb77ea56de701520995cb357bb1353976177f4f915abfc&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/pk/reina-boutique-g6-islamabad.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9pc2xhbWFiYWQsIHBha2lzdGFuSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC9Nv1xQbAAgHSAiRmNjFhZjAyNy04YjU3LTQyYmYtYWIwMy1hNGMyZjBhMjA0NmLYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=fed6517aa59901de&srepoch=1757244919&all_sr_blocks=1042610901_376665903_3_2_0&highlighted_blocks=1042610901_376665903_3_2_0&matching_block_id=1042610901_376665903_3_2_0&sr_pri_blocks=1042610901_376665903_3_2_0__2419875&from=searchresults",
+    "address": "G-6 Sector, Islamabad",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Islamabad%2C+Pakistan&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:35:20.970Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757244920970_5",
+    "name": "Shelton's Ambassador",
+    "price": 192,
+    "currency": "USD",
+    "rating": 8.4,
+    "stars": 8,
+    "reviewCount": 797,
+    "avgReview": "8.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/263823251.webp?k=33d4e521257884585d729cba1165f21e1d0e0c66e993eea58b46b9edd2059c1a&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/pk/shelton-39-s-ambassador.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9pc2xhbWFiYWQsIHBha2lzdGFuSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC9Nv1xQbAAgHSAiRmNjFhZjAyNy04YjU3LTQyYmYtYWIwMy1hNGMyZjBhMjA0NmLYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=fed6517aa59901de&srepoch=1757244919&all_sr_blocks=663958401_272295001_2_1_0_665498&highlighted_blocks=663958401_272295001_2_1_0_665498&matching_block_id=663958401_272295001_2_1_0_665498&sr_pri_blocks=663958401_272295001_2_1_0_665498_5400000&from=searchresults",
+    "address": "Blue Area, Islamabad",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Islamabad%2C+Pakistan&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:35:20.970Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757244920970_6",
+    "name": "Roomy Signature Hotel, Islamabad",
+    "price": 298,
+    "currency": "USD",
+    "rating": 8.1,
+    "stars": 8,
+    "reviewCount": 441,
+    "avgReview": "8.1/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/463295676.webp?k=7875d270d9a806b06fd226248ec0dfee733d24db8c27b99a530e0880f844301f&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/pk/roomy-signature-islamabad.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9pc2xhbWFiYWQsIHBha2lzdGFuSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC9Nv1xQbAAgHSAiRmNjFhZjAyNy04YjU3LTQyYmYtYWIwMy1hNGMyZjBhMjA0NmLYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=fed6517aa59901de&srepoch=1757244919&all_sr_blocks=1011554301_373946535_2_1_0_1177557&highlighted_blocks=1011554301_373946535_2_1_0_1177557&matching_block_id=1011554301_373946535_2_1_0_1177557&sr_pri_blocks=1011554301_373946535_2_1_0_1177557_8400000&from=searchresults",
+    "address": "F-6 Sector, Islamabad",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Islamabad%2C+Pakistan&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:35:20.970Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757244920970_7",
+    "name": "Shelton Guest House",
+    "price": 107,
+    "currency": "USD",
+    "rating": 8.3,
+    "stars": 8,
+    "reviewCount": 546,
+    "avgReview": "8.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/407742620.webp?k=17389c82192d9dee9ccbfc63662a122c2cced14f97eb04f51a099e3585671256&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/pk/shelton-guest-house-islamabad12.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9pc2xhbWFiYWQsIHBha2lzdGFuSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC9Nv1xQbAAgHSAiRmNjFhZjAyNy04YjU3LTQyYmYtYWIwMy1hNGMyZjBhMjA0NmLYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=fed6517aa59901de&srepoch=1757244919&all_sr_blocks=723226503_309819865_2_1_0&highlighted_blocks=723226503_309819865_2_1_0&matching_block_id=723226503_309819865_2_1_0&sr_pri_blocks=723226503_309819865_2_1_0__2999250&from=searchresults",
+    "address": "F-8 Sector, Islamabad",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Islamabad%2C+Pakistan&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:35:20.970Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757244920970_8",
+    "name": "Shelton Boulevard Islamabad",
+    "price": 108,
+    "currency": "USD",
+    "rating": 8.4,
+    "stars": 8,
+    "reviewCount": 494,
+    "avgReview": "8.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/548966444.webp?k=5e4d6a9f9f58df4d62ef8784659a1de7db7a92695a5dadbc52cfec66e9b1a3a2&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/pk/shelton-boulevard-islamabad.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9pc2xhbWFiYWQsIHBha2lzdGFuSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC9Nv1xQbAAgHSAiRmNjFhZjAyNy04YjU3LTQyYmYtYWIwMy1hNGMyZjBhMjA0NmLYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=fed6517aa59901de&srepoch=1757244919&all_sr_blocks=1193516001_391652465_0_1_0&highlighted_blocks=1193516001_391652465_0_1_0&matching_block_id=1193516001_391652465_0_1_0&sr_pri_blocks=1193516001_391652465_0_1_0__3037500&from=searchresults",
+    "address": "F-6 Sector, Islamabad",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Islamabad%2C+Pakistan&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:35:20.970Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757244920970_9",
+    "name": "The Gateway islamabad",
+    "price": 59,
+    "currency": "USD",
+    "rating": 8.5,
+    "stars": 9,
+    "reviewCount": 539,
+    "avgReview": "8.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/520595478.webp?k=e1e8ba6cb6d3a471e4f93c4bf3ff36f3968111578bf1ac0db340fd8b7c0baf33&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/pk/the-gateway-islamabad-islamabad.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9pc2xhbWFiYWQsIHBha2lzdGFuSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC9Nv1xQbAAgHSAiRmNjFhZjAyNy04YjU3LTQyYmYtYWIwMy1hNGMyZjBhMjA0NmLYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=fed6517aa59901de&srepoch=1757244919&all_sr_blocks=1138554501_386571000_2_1_0&highlighted_blocks=1138554501_386571000_2_1_0&matching_block_id=1138554501_386571000_2_1_0&sr_pri_blocks=1138554501_386571000_2_1_0__1650000&from=searchresults",
+    "address": "Islamabad",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Islamabad%2C+Pakistan&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:35:20.970Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

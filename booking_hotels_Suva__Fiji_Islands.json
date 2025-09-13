@@ -1,0 +1,272 @@
+[
+  {
+    "id": "hotel_1755804675243_0",
+    "name": "Novotel Suva Lami Bay",
+    "price": 458,
+    "currency": "USD",
+    "rating": 7.9,
+    "stars": 8,
+    "reviewCount": 327,
+    "avgReview": "7.9/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/658460734.webp?k=e42014ff5eb91a2b3b6b043e5edb27940229dc39d3d9d3968d9b6b58fa160ff2&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/fj/novotel-suva-lami-bay.html?aid=304142&label=gen173nr-10CAQoggJCGXNlYXJjaF9zdXZhLCBmaWppIGlzbGFuZHNIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAL-553FBsACAdICJDVlNzc3Y2RlLTQ4OTctNDIxNS1hYWM2LTVkYmI4MjM0ODA1NtgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=d821893fa76e0c45&srepoch=1755804673&all_sr_blocks=9908105_95455462_0_0_0&highlighted_blocks=9908105_95455462_0_0_0&matching_block_id=9908105_95455462_0_0_0&sr_pri_blocks=9908105_95455462_0_0_0__104500&from=searchresults",
+    "address": "Suva",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Suva%2C+Fiji+Islands&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-21T19:31:15.243Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755804675243_1",
+    "name": "Grand Pacific Hotel",
+    "price": 946,
+    "currency": "USD",
+    "rating": 8.6,
+    "stars": 9,
+    "reviewCount": 385,
+    "avgReview": "8.6/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/476844871.webp?k=73606f9232f0af4de2d3b3038623f87a389dd7c0211d0940ba2c94bd499848a9&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/fj/grand-pacific.html?aid=304142&label=gen173nr-10CAQoggJCGXNlYXJjaF9zdXZhLCBmaWppIGlzbGFuZHNIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAL-553FBsACAdICJDVlNzc3Y2RlLTQ4OTctNDIxNS1hYWM2LTVkYmI4MjM0ODA1NtgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=d821893fa76e0c45&srepoch=1755804673&all_sr_blocks=110866730_91946690_2_42_0&highlighted_blocks=110866730_91946690_2_42_0&matching_block_id=110866730_91946690_2_42_0&sr_pri_blocks=110866730_91946690_2_42_0__216000&from=searchresults",
+    "address": "Suva",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Suva%2C+Fiji+Islands&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-21T19:31:15.243Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755804675243_2",
+    "name": "Yatulau Hotel and Conference",
+    "price": 131,
+    "currency": "USD",
+    "rating": 6.9,
+    "stars": 7,
+    "reviewCount": 293,
+    "avgReview": "6.9/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/494770308.webp?k=36421af1e15fbd89a16f77077e6989904bb6ff1124c1898e1b3ad947b6e1123e&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/fj/yatulau-and-conference.html?aid=304142&label=gen173nr-10CAQoggJCGXNlYXJjaF9zdXZhLCBmaWppIGlzbGFuZHNIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAL-553FBsACAdICJDVlNzc3Y2RlLTQ4OTctNDIxNS1hYWM2LTVkYmI4MjM0ODA1NtgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=d821893fa76e0c45&srepoch=1755804673&all_sr_blocks=1082159503_403663654_0_2_0&highlighted_blocks=1082159503_403663654_0_2_0&matching_block_id=1082159503_403663654_0_2_0&sr_pri_blocks=1082159503_403663654_0_2_0__30000&from=searchresults",
+    "address": "Suva",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Suva%2C+Fiji+Islands&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-21T19:31:15.243Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755804675243_3",
+    "name": "Doctors Apartment",
+    "price": 145,
+    "currency": "USD",
+    "rating": 8.2,
+    "stars": 8,
+    "reviewCount": 227,
+    "avgReview": "8.2/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/625821362.webp?k=0abb3d3acd6515aaf24d661ab219e65faf1f8838e00d38f772bb94ed3da16c15&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/fj/doctors-apartment.html?aid=304142&label=gen173nr-10CAQoggJCGXNlYXJjaF9zdXZhLCBmaWppIGlzbGFuZHNIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAL-553FBsACAdICJDVlNzc3Y2RlLTQ4OTctNDIxNS1hYWM2LTVkYmI4MjM0ODA1NtgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=d821893fa76e0c45&srepoch=1755804673&all_sr_blocks=1326625802_405271975_0_0_0&highlighted_blocks=1326625802_405271975_0_0_0&matching_block_id=1326625802_405271975_0_0_0&sr_pri_blocks=1326625802_405271975_0_0_0__33000&from=searchresults",
+    "address": "Suva",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Suva%2C+Fiji+Islands&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-21T19:31:15.243Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755804675243_4",
+    "name": "Holiday Inn Suva by IHG",
+    "price": 835,
+    "currency": "USD",
+    "rating": 8.5,
+    "stars": 9,
+    "reviewCount": 722,
+    "avgReview": "8.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/626984396.webp?k=279402872fc79541b65b35b6979be0ba5267ac8b1422f78d1e834992fb024f46&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/fj/holiday-inn-suva.html?aid=304142&label=gen173nr-10CAQoggJCGXNlYXJjaF9zdXZhLCBmaWppIGlzbGFuZHNIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAL-553FBsACAdICJDVlNzc3Y2RlLTQ4OTctNDIxNS1hYWM2LTVkYmI4MjM0ODA1NtgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=d821893fa76e0c45&srepoch=1755804673&all_sr_blocks=29508712_246026820_2_2_0&highlighted_blocks=29508712_246026820_2_2_0&matching_block_id=29508712_246026820_2_2_0&sr_pri_blocks=29508712_246026820_2_2_0__190700&from=searchresults",
+    "address": "Suva",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Suva%2C+Fiji+Islands&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-21T19:31:15.243Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755804675243_5",
+    "name": "Quest Suva",
+    "price": 418,
+    "currency": "USD",
+    "rating": 8.2,
+    "stars": 8,
+    "reviewCount": 569,
+    "avgReview": "8.2/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/133911872.webp?k=c4f751648cae88a6cbdcf12a89176376741a1a4ec71bfb2b3c76a564e5157cad&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/fj/quest-suva.html?aid=304142&label=gen173nr-10CAQoggJCGXNlYXJjaF9zdXZhLCBmaWppIGlzbGFuZHNIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAL-553FBsACAdICJDVlNzc3Y2RlLTQ4OTctNDIxNS1hYWM2LTVkYmI4MjM0ODA1NtgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=d821893fa76e0c45&srepoch=1755804673&all_sr_blocks=41948601_0_2_0_0&highlighted_blocks=41948601_0_2_0_0&matching_block_id=41948601_0_2_0_0&sr_pri_blocks=41948601_0_2_0_0__95437&from=searchresults",
+    "address": "Suva",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Suva%2C+Fiji+Islands&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-21T19:31:15.243Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755804675243_6",
+    "name": "Rainforest Eco Lodge",
+    "price": 88,
+    "currency": "USD",
+    "rating": 7.3,
+    "stars": 7,
+    "reviewCount": 228,
+    "avgReview": "7.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/119982507.webp?k=1da91b461023d2d2d55cf386bd4cc023060cdf94b78b40d012a83ef851488977&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/fj/colo-i-suva-rainforest-eco-resort.html?aid=304142&label=gen173nr-10CAQoggJCGXNlYXJjaF9zdXZhLCBmaWppIGlzbGFuZHNIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAL-553FBsACAdICJDVlNzc3Y2RlLTQ4OTctNDIxNS1hYWM2LTVkYmI4MjM0ODA1NtgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=d821893fa76e0c45&srepoch=1755804673&all_sr_blocks=115114403_0_2_0_0&highlighted_blocks=115114403_0_2_0_0&matching_block_id=115114403_0_2_0_0&sr_pri_blocks=115114403_0_2_0_0__20183&from=searchresults",
+    "address": "Suva",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Suva%2C+Fiji+Islands&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-21T19:31:15.243Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755804675243_7",
+    "name": "Tanoa Plaza Hotel",
+    "price": 966,
+    "currency": "USD",
+    "rating": 8.2,
+    "stars": 8,
+    "reviewCount": 555,
+    "avgReview": "8.2/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/276363581.webp?k=ba88f412feddb3aa9a3a0f16d58615b2fc8d0e175362f901cc3e9fd033c61abd&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/fj/tanoa-plaza.html?aid=304142&label=gen173nr-10CAQoggJCGXNlYXJjaF9zdXZhLCBmaWppIGlzbGFuZHNIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAL-553FBsACAdICJDVlNzc3Y2RlLTQ4OTctNDIxNS1hYWM2LTVkYmI4MjM0ODA1NtgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=d821893fa76e0c45&srepoch=1755804673&all_sr_blocks=30417204_0_2_1_0&highlighted_blocks=30417204_0_2_1_0&matching_block_id=30417204_0_2_1_0&sr_pri_blocks=30417204_0_2_1_0__220546&from=searchresults",
+    "address": "Suva",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Suva%2C+Fiji+Islands&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-21T19:31:15.243Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755804675243_8",
+    "name": "Peninsula International Hotel",
+    "price": 298,
+    "currency": "USD",
+    "rating": 4.760176015671257,
+    "stars": 5,
+    "reviewCount": 302,
+    "avgReview": "4.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/596850044.webp?k=6309e093b5ca9aac48759cdfe96b388afa9f3b196a78408042298bc78cf4a31c&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/fj/po-peninsula-international-hotel-suva.html?aid=304142&label=gen173nr-10CAQoggJCGXNlYXJjaF9zdXZhLCBmaWppIGlzbGFuZHNIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAL-553FBsACAdICJDVlNzc3Y2RlLTQ4OTctNDIxNS1hYWM2LTVkYmI4MjM0ODA1NtgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=d821893fa76e0c45&srepoch=1755804673&all_sr_blocks=0_0_2_0_0&highlighted_blocks=0_0_2_0_0&matching_block_id=0_0_2_0_0&sr_pri_blocks=0_0_2_0_0__68014&from=searchresults",
+    "address": "Suva",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Suva%2C+Fiji+Islands&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-21T19:31:15.243Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755804675243_9",
+    "name": "Toorak Central",
+    "price": 591,
+    "currency": "USD",
+    "rating": 9,
+    "stars": 9,
+    "reviewCount": 563,
+    "avgReview": "9.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/415666469.webp?k=0634a96ba62fa99631d4fe089cf95a7334d471eeeba5b3890aa95f7736ac93b2&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/fj/toorak-central-suva.html?aid=304142&label=gen173nr-10CAQoggJCGXNlYXJjaF9zdXZhLCBmaWppIGlzbGFuZHNIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAL-553FBsACAdICJDVlNzc3Y2RlLTQ4OTctNDIxNS1hYWM2LTVkYmI4MjM0ODA1NtgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=d821893fa76e0c45&srepoch=1755804673&all_sr_blocks=921597802_363830030_2_42_0&highlighted_blocks=921597802_363830030_2_42_0&matching_block_id=921597802_363830030_2_42_0&sr_pri_blocks=921597802_363830030_2_42_0__135000&from=searchresults",
+    "address": "Suva",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Suva%2C+Fiji+Islands&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-21T19:31:15.243Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

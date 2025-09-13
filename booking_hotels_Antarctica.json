@@ -1,0 +1,272 @@
+[
+  {
+    "id": "hotel_1755808081207_0",
+    "name": "Antarctica Hostel",
+    "price": 393,
+    "currency": "USD",
+    "rating": 9.3,
+    "stars": 9,
+    "reviewCount": 107,
+    "avgReview": "9.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/337115041.webp?k=f15477e096fa2ff8d5c84b780a462d14c300f9796331e0f395f61bae095cb1c9&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ar/antartica-hostel.html?aid=304142&label=gen173nr-10CAQoggJCEXNlYXJjaF9hbnRhcmN0aWNhSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCzoKexQbAAgHSAiRiYTgwYzU4Zi0yMDNiLTRlODktYTVkYS1kYWNlNmU3OTI3N2HYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=00bd8fe74f3a0350&srepoch=1755808081&soh=1&from=searchresults#no_availability_msg",
+    "address": "Ushuaia",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Antarctica&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1755808075465&force_referer=",
+    "scrapedAt": "2025-08-21T20:28:01.207Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755808081207_1",
+    "name": "Departamento Ushuaia",
+    "price": 136,
+    "currency": "USD",
+    "rating": 9.8,
+    "stars": 10,
+    "reviewCount": 646,
+    "avgReview": "9.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/507316685.webp?k=8063be39dd47d20b47ee547b470197d991027d9f9f716d4ee8638be50d99fa4a&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ar/departamento-ushuaia-ushuaia4.html?aid=304142&label=gen173nr-10CAQoggJCEXNlYXJjaF9hbnRhcmN0aWNhSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCzoKexQbAAgHSAiRiYTgwYzU4Zi0yMDNiLTRlODktYTVkYS1kYWNlNmU3OTI3N2HYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=00bd8fe74f3a0350&srepoch=1755808081&all_sr_blocks=917814401_363383193_0_0_0&highlighted_blocks=917814401_363383193_0_0_0&matching_block_id=917814401_363383193_0_0_0&sr_pri_blocks=917814401_363383193_0_0_0__13629&from=searchresults",
+    "address": "Ushuaia",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Antarctica&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1755808075465&force_referer=",
+    "scrapedAt": "2025-08-21T20:28:01.207Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755808081207_2",
+    "name": "Departamento IRENE",
+    "price": 144,
+    "currency": "USD",
+    "rating": 9.4,
+    "stars": 9,
+    "reviewCount": 662,
+    "avgReview": "9.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/710466641.webp?k=da89e981c4b0c9ace4bd5302dd695e7f858037fc3fb8231169c1b5a8cdb20546&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ar/departamento-irene.html?aid=304142&label=gen173nr-10CAQoggJCEXNlYXJjaF9hbnRhcmN0aWNhSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCzoKexQbAAgHSAiRiYTgwYzU4Zi0yMDNiLTRlODktYTVkYS1kYWNlNmU3OTI3N2HYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=00bd8fe74f3a0350&srepoch=1755808081&all_sr_blocks=1114669101_395544736_2_0_0&highlighted_blocks=1114669101_395544736_2_0_0&matching_block_id=1114669101_395544736_2_0_0&sr_pri_blocks=1114669101_395544736_2_0_0__14400&from=searchresults",
+    "address": "Ushuaia",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Antarctica&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1755808075465&force_referer=",
+    "scrapedAt": "2025-08-21T20:28:01.207Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755808081207_3",
+    "name": "GFS Tower",
+    "price": 460,
+    "currency": "USD",
+    "rating": 4,
+    "stars": 4,
+    "reviewCount": 885,
+    "avgReview": "4.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/661275749.webp?k=930b73cc0b342f148866e3243fe692fac82ea65e198dbd1618e34d692e184737&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ar/gfs-tower.html?aid=304142&label=gen173nr-10CAQoggJCEXNlYXJjaF9hbnRhcmN0aWNhSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCzoKexQbAAgHSAiRiYTgwYzU4Zi0yMDNiLTRlODktYTVkYS1kYWNlNmU3OTI3N2HYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=00bd8fe74f3a0350&srepoch=1755808081&all_sr_blocks=1380659302_410241829_4_0_0&highlighted_blocks=1380659302_410241829_4_0_0&matching_block_id=1380659302_410241829_4_0_0&sr_pri_blocks=1380659302_410241829_4_0_0__46000&from=searchresults",
+    "address": "Ushuaia",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Antarctica&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1755808075465&force_referer=",
+    "scrapedAt": "2025-08-21T20:28:01.207Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755808081207_4",
+    "name": "Monseñor Fagnano 592 \"A\"",
+    "price": 156,
+    "currency": "USD",
+    "rating": 9.5,
+    "stars": 10,
+    "reviewCount": 954,
+    "avgReview": "9.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/180911275.webp?k=f895a4c8a73944d9fe05c4d94335500ca1339223eb04bc2afb2b1ef549d47f7d&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ar/592-monsenor-fagnano.html?aid=304142&label=gen173nr-10CAQoggJCEXNlYXJjaF9hbnRhcmN0aWNhSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCzoKexQbAAgHSAiRiYTgwYzU4Zi0yMDNiLTRlODktYTVkYS1kYWNlNmU3OTI3N2HYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=00bd8fe74f3a0350&srepoch=1755808081&all_sr_blocks=460992401_360520544_0_0_0&highlighted_blocks=460992401_360520544_0_0_0&matching_block_id=460992401_360520544_0_0_0&sr_pri_blocks=460992401_360520544_0_0_0__15600&from=searchresults",
+    "address": "Ushuaia",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Antarctica&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1755808075465&force_referer=",
+    "scrapedAt": "2025-08-21T20:28:01.207Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755808081207_5",
+    "name": "Alvere ll Temporary Apartments Ushuaia",
+    "price": 120,
+    "currency": "USD",
+    "rating": 8.6,
+    "stars": 9,
+    "reviewCount": 765,
+    "avgReview": "8.6/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/447217501.webp?k=ef477e754df2ae2599468db95887eaf0067a009d8cfdb0aafda91095d18adec0&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ar/alvere-temporary-apartments-ushuaia-ushuaia.html?aid=304142&label=gen173nr-10CAQoggJCEXNlYXJjaF9hbnRhcmN0aWNhSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCzoKexQbAAgHSAiRiYTgwYzU4Zi0yMDNiLTRlODktYTVkYS1kYWNlNmU3OTI3N2HYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=00bd8fe74f3a0350&srepoch=1755808081&all_sr_blocks=717014601_394134573_2_0_0_467640&highlighted_blocks=717014601_394134573_2_0_0_467640&matching_block_id=717014601_394134573_2_0_0_467640&sr_pri_blocks=717014601_394134573_2_0_0_467640_12000&from=searchresults",
+    "address": "Ushuaia",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Antarctica&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1755808075465&force_referer=",
+    "scrapedAt": "2025-08-21T20:28:01.207Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755808081207_6",
+    "name": "Monseñor Fagnano 592 \"B\"",
+    "price": 156,
+    "currency": "USD",
+    "rating": 9.4,
+    "stars": 9,
+    "reviewCount": 907,
+    "avgReview": "9.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/354348685.webp?k=19d781ed81359f440bb6123dd40fee028bb15bb9d43d10726eed4d6d89211260&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ar/monsenor-fagnano-592-b.html?aid=304142&label=gen173nr-10CAQoggJCEXNlYXJjaF9hbnRhcmN0aWNhSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCzoKexQbAAgHSAiRiYTgwYzU4Zi0yMDNiLTRlODktYTVkYS1kYWNlNmU3OTI3N2HYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=00bd8fe74f3a0350&srepoch=1755808081&all_sr_blocks=845180801_360520542_2_0_0&highlighted_blocks=845180801_360520542_2_0_0&matching_block_id=845180801_360520542_2_0_0&sr_pri_blocks=845180801_360520542_2_0_0__15600&from=searchresults",
+    "address": "Ushuaia",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Antarctica&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1755808075465&force_referer=",
+    "scrapedAt": "2025-08-21T20:28:01.207Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755808081207_7",
+    "name": "Arakur Ushuaia Resort & Spa",
+    "price": 3,
+    "currency": "USD",
+    "rating": 9.5,
+    "stars": 10,
+    "reviewCount": 703,
+    "avgReview": "9.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/37986124.webp?k=40f428ab31fa01ffbb2ca7b3f1a2ac783e0b3b892031bc0a1a54d0d8060c1dd6&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ar/arakur-ushuaia.html?aid=304142&label=gen173nr-10CAQoggJCEXNlYXJjaF9hbnRhcmN0aWNhSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCzoKexQbAAgHSAiRiYTgwYzU4Zi0yMDNiLTRlODktYTVkYS1kYWNlNmU3OTI3N2HYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=00bd8fe74f3a0350&srepoch=1755808081&all_sr_blocks=106688715_123808908_0_1_0_370017&highlighted_blocks=106688715_123808908_0_1_0_370017&matching_block_id=106688715_123808908_0_1_0_370017&sr_pri_blocks=106688715_123808908_0_1_0_370017_314190&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Ushuaia",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Antarctica&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1755808075465&force_referer=",
+    "scrapedAt": "2025-08-21T20:28:01.207Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755808081207_8",
+    "name": "Bed and Breakfast Aijpel",
+    "price": 150,
+    "currency": "USD",
+    "rating": 9.6,
+    "stars": 10,
+    "reviewCount": 545,
+    "avgReview": "9.6/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/43588589.webp?k=604079eb080c5af216db126efe420141c0d32c01832694e269633317247b9b51&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ar/aijpel.html?aid=304142&label=gen173nr-10CAQoggJCEXNlYXJjaF9hbnRhcmN0aWNhSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCzoKexQbAAgHSAiRiYTgwYzU4Zi0yMDNiLTRlODktYTVkYS1kYWNlNmU3OTI3N2HYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=00bd8fe74f3a0350&srepoch=1755808081&all_sr_blocks=45360602_213631732_0_1_0&highlighted_blocks=45360602_213631732_0_1_0&matching_block_id=45360602_213631732_0_1_0&sr_pri_blocks=45360602_213631732_0_1_0__15000&from=searchresults",
+    "address": "Ushuaia",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Antarctica&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1755808075465&force_referer=",
+    "scrapedAt": "2025-08-21T20:28:01.207Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755808081207_9",
+    "name": "AAA Ushuaia MidTown",
+    "price": 165,
+    "currency": "USD",
+    "rating": 9.4,
+    "stars": 9,
+    "reviewCount": 1046,
+    "avgReview": "9.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/376694571.webp?k=80a6cd136d94dfdbb64b8ec479d7381bfa4820fb3b01487119ef07869d08388b&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ar/aaa-ushuaia-midtown.html?aid=304142&label=gen173nr-10CAQoggJCEXNlYXJjaF9hbnRhcmN0aWNhSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCzoKexQbAAgHSAiRiYTgwYzU4Zi0yMDNiLTRlODktYTVkYS1kYWNlNmU3OTI3N2HYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=00bd8fe74f3a0350&srepoch=1755808081&all_sr_blocks=883977502_405731564_2_0_0&highlighted_blocks=883977502_405731564_2_0_0&matching_block_id=883977502_405731564_2_0_0&sr_pri_blocks=883977502_405731564_2_0_0__16500&from=searchresults",
+    "address": "Ushuaia",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Antarctica&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1755808075465&force_referer=",
+    "scrapedAt": "2025-08-21T20:28:01.207Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

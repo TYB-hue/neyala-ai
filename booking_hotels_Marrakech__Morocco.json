@@ -1,0 +1,272 @@
+[
+  {
+    "id": "hotel_1756485218160_0",
+    "name": "Domaine Marradise",
+    "price": 2,
+    "currency": "USD",
+    "rating": 10,
+    "stars": 10,
+    "reviewCount": 376,
+    "avgReview": "10.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/692144748.webp?k=5704d02b92a9c47a4a3d9fe45881e02705e0f20c14d22c494f81cc3d50190f7a&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ma/villa-elia-marrakech.html?aid=304142&label=gen173nr-10CAQoggJCGXNlYXJjaF9tYXJyYWtlY2gsIG1vcm9jY29IM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALdrMfFBsACAdICJGYyNDFmOTEwLWFmYzYtNGMxZi04ODIzLTdmNTUyY2VjY2UyZNgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=190c746e95b905be&srepoch=1756485216&all_sr_blocks=1426307602_414214892_6_42_0_1105205&highlighted_blocks=1426307602_414214892_6_42_0_1105205&matching_block_id=1426307602_414214892_6_42_0_1105205&sr_pri_blocks=1426307602_414214892_6_42_0_1105205_174625&from=searchresults",
+    "address": "Marrakesh",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Marrakech%2C+Morocco&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T16:33:38.160Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756485218160_1",
+    "name": "Riad Sultan Suleiman",
+    "price": 253,
+    "currency": "USD",
+    "rating": 9.3,
+    "stars": 9,
+    "reviewCount": 518,
+    "avgReview": "9.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/357563990.webp?k=2b20eb7dff73fee5b5f869730a6518e3c24ddf7c79f6432f9cf3c24bd226e642&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ma/riad-sultan-suleiman-marrakech.html?aid=304142&label=gen173nr-10CAQoggJCGXNlYXJjaF9tYXJyYWtlY2gsIG1vcm9jY29IM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALdrMfFBsACAdICJGYyNDFmOTEwLWFmYzYtNGMxZi04ODIzLTdmNTUyY2VjY2UyZNgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=190c746e95b905be&srepoch=1756485216&all_sr_blocks=770080015_338326712_2_2_0&highlighted_blocks=770080015_338326712_2_2_0&matching_block_id=770080015_338326712_2_2_0&sr_pri_blocks=770080015_338326712_2_2_0__21675&from=searchresults",
+    "address": "Kasbah, Marrakesh",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Marrakech%2C+Morocco&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T16:33:38.160Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756485218160_2",
+    "name": "Riad Arabkech",
+    "price": 373,
+    "currency": "USD",
+    "rating": 9,
+    "stars": 9,
+    "reviewCount": 626,
+    "avgReview": "9.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/387184584.webp?k=adf287c1ed318ce028ea7fa0e3e1e1db222d784945bed73545dd27025e086d84&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ma/arabkech.html?aid=304142&label=gen173nr-10CAQoggJCGXNlYXJjaF9tYXJyYWtlY2gsIG1vcm9jY29IM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALdrMfFBsACAdICJGYyNDFmOTEwLWFmYzYtNGMxZi04ODIzLTdmNTUyY2VjY2UyZNgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=190c746e95b905be&srepoch=1756485216&all_sr_blocks=897792701_382365586_2_41_0&highlighted_blocks=897792701_382365586_2_41_0&matching_block_id=897792701_382365586_2_41_0&sr_pri_blocks=897792701_382365586_2_41_0__31944&from=searchresults",
+    "address": "Medina, Marrakesh",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Marrakech%2C+Morocco&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T16:33:38.160Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756485218160_3",
+    "name": "Riad Deux Palmiers",
+    "price": 196,
+    "currency": "USD",
+    "rating": 8.8,
+    "stars": 9,
+    "reviewCount": 83,
+    "avgReview": "8.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/395584737.webp?k=291f419f31410f3ff80263ac358a8a161e727d490f260744cd4f67b8554b4e48&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ma/riad-deux-palmiers.html?aid=304142&label=gen173nr-10CAQoggJCGXNlYXJjaF9tYXJyYWtlY2gsIG1vcm9jY29IM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALdrMfFBsACAdICJGYyNDFmOTEwLWFmYzYtNGMxZi04ODIzLTdmNTUyY2VjY2UyZNgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=190c746e95b905be&srepoch=1756485216&all_sr_blocks=906006402_416687279_2_0_0&highlighted_blocks=906006402_416687279_2_0_0&matching_block_id=906006402_416687279_2_0_0&sr_pri_blocks=906006402_416687279_2_0_0__16800&from=searchresults",
+    "address": "Medina, Marrakesh",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Marrakech%2C+Morocco&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T16:33:38.160Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756485218160_4",
+    "name": "Maison Dar Saada",
+    "price": 592,
+    "currency": "USD",
+    "rating": 9.5,
+    "stars": 10,
+    "reviewCount": 78,
+    "avgReview": "9.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/573917302.webp?k=a6a9afa2f3fbc11edf1bd924ccd75c8b7969ea94757dd3e44d9eef7e2a74483e&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ma/dar-saada-marrakech3.html?aid=304142&label=gen173nr-10CAQoggJCGXNlYXJjaF9tYXJyYWtlY2gsIG1vcm9jY29IM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALdrMfFBsACAdICJGYyNDFmOTEwLWFmYzYtNGMxZi04ODIzLTdmNTUyY2VjY2UyZNgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=190c746e95b905be&srepoch=1756485216&all_sr_blocks=1219083101_417667423_2_1_0&highlighted_blocks=1219083101_417667423_2_1_0&matching_block_id=1219083101_417667423_2_1_0&sr_pri_blocks=1219083101_417667423_2_1_0__50700&from=searchresults",
+    "address": "Medina, Marrakesh",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Marrakech%2C+Morocco&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T16:33:38.160Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756485218160_5",
+    "name": "Riad LallaBaya",
+    "price": 471,
+    "currency": "USD",
+    "rating": 9.6,
+    "stars": 10,
+    "reviewCount": 816,
+    "avgReview": "9.6/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/698126489.webp?k=6284ca0ceb420805c7c3ac2f8d1df8356ee42e0cd8ba0422e88a4fb948b9f2b0&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ma/riad-lallabaya.html?aid=304142&label=gen173nr-10CAQoggJCGXNlYXJjaF9tYXJyYWtlY2gsIG1vcm9jY29IM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALdrMfFBsACAdICJGYyNDFmOTEwLWFmYzYtNGMxZi04ODIzLTdmNTUyY2VjY2UyZNgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=190c746e95b905be&srepoch=1756485216&all_sr_blocks=1059886004_378235617_2_41_0_163992&highlighted_blocks=1059886004_378235617_2_41_0_163992&matching_block_id=1059886004_378235617_2_41_0_163992&sr_pri_blocks=1059886004_378235617_2_41_0_163992_40399&from=searchresults",
+    "address": "Kasbah, Marrakesh",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Marrakech%2C+Morocco&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T16:33:38.160Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756485218160_6",
+    "name": "Palais-Riad Razala & Spa",
+    "price": 459,
+    "currency": "USD",
+    "rating": 9.4,
+    "stars": 9,
+    "reviewCount": 437,
+    "avgReview": "9.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/596419266.webp?k=e68ac0f0cd85bd52cf4fe43d52f1fb314e515c6543cba62f7649da54e9428040&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ma/palais-didier-six-marrakesh.html?aid=304142&label=gen173nr-10CAQoggJCGXNlYXJjaF9tYXJyYWtlY2gsIG1vcm9jY29IM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALdrMfFBsACAdICJGYyNDFmOTEwLWFmYzYtNGMxZi04ODIzLTdmNTUyY2VjY2UyZNgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=190c746e95b905be&srepoch=1756485216&all_sr_blocks=850587701_370028773_2_41_0&highlighted_blocks=850587701_370028773_2_41_0&matching_block_id=850587701_370028773_2_41_0&sr_pri_blocks=850587701_370028773_2_41_0__39313&from=searchresults",
+    "address": "Medina, Marrakesh",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Marrakech%2C+Morocco&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T16:33:38.160Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756485218160_7",
+    "name": "Riad Ksar Saad & Spa",
+    "price": 246,
+    "currency": "USD",
+    "rating": 9.3,
+    "stars": 9,
+    "reviewCount": 838,
+    "avgReview": "9.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/428105381.webp?k=2c3fbae235d4bf6a83c8b804c2c548d0dd584f90568956045f2a575cf265c80b&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ma/ksarriadsaad-amp-spa.html?aid=304142&label=gen173nr-10CAQoggJCGXNlYXJjaF9tYXJyYWtlY2gsIG1vcm9jY29IM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALdrMfFBsACAdICJGYyNDFmOTEwLWFmYzYtNGMxZi04ODIzLTdmNTUyY2VjY2UyZNgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=190c746e95b905be&srepoch=1756485216&all_sr_blocks=829337001_373862876_2_41_0&highlighted_blocks=829337001_373862876_2_41_0&matching_block_id=829337001_373862876_2_41_0&sr_pri_blocks=829337001_373862876_2_41_0__21093&from=searchresults",
+    "address": "Kasbah, Marrakesh",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Marrakech%2C+Morocco&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T16:33:38.160Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756485218160_8",
+    "name": "Four Seasons Resort Marrakech",
+    "price": 1,
+    "currency": "USD",
+    "rating": 9.2,
+    "stars": 9,
+    "reviewCount": 300,
+    "avgReview": "9.2/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/14444240.webp?k=cf22c34c2162d7ad8f349a104f3713db421750dcf66386eb5c560d620cd314d6&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ma/four-seasons.html?aid=304142&label=gen173nr-10CAQoggJCGXNlYXJjaF9tYXJyYWtlY2gsIG1vcm9jY29IM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALdrMfFBsACAdICJGYyNDFmOTEwLWFmYzYtNGMxZi04ODIzLTdmNTUyY2VjY2UyZNgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=190c746e95b905be&srepoch=1756485216&all_sr_blocks=41723521_412796858_2_2_0_830626&highlighted_blocks=41723521_412796858_2_2_0_830626&matching_block_id=41723521_412796858_2_2_0_830626&sr_pri_blocks=41723521_412796858_2_2_0_830626_161075&from=searchresults",
+    "address": "Hivernage, Marrakesh",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Marrakech%2C+Morocco&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T16:33:38.160Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756485218160_9",
+    "name": "Riad Hamdane et SPA",
+    "price": 473,
+    "currency": "USD",
+    "rating": 9.4,
+    "stars": 9,
+    "reviewCount": 542,
+    "avgReview": "9.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/599068317.webp?k=b07910e1fab18ea1861c729c40034ee33ba3de9ae547c6c1c5115f3d0becfe77&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ma/riad-hamdane-et-spa.html?aid=304142&label=gen173nr-10CAQoggJCGXNlYXJjaF9tYXJyYWtlY2gsIG1vcm9jY29IM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALdrMfFBsACAdICJGYyNDFmOTEwLWFmYzYtNGMxZi04ODIzLTdmNTUyY2VjY2UyZNgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=190c746e95b905be&srepoch=1756485216&all_sr_blocks=33441903_88804844_2_41_0&highlighted_blocks=33441903_88804844_2_41_0&matching_block_id=33441903_88804844_2_41_0&sr_pri_blocks=33441903_88804844_2_41_0__40543&from=searchresults",
+    "address": "Medina, Marrakesh",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Marrakech%2C+Morocco&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T16:33:38.160Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

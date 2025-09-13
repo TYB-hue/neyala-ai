@@ -1,0 +1,272 @@
+[
+  {
+    "id": "hotel_1757415012681_0",
+    "name": "Domus Solis",
+    "price": 276,
+    "currency": "USD",
+    "rating": 9.1,
+    "stars": 9,
+    "reviewCount": 907,
+    "avgReview": "9.1/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/642532841.webp?k=b01b619db4dd8cd4a42e615832b29bccb7e7d142c83b76c7c4d4d403335383e8&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/it/domus-solis-rome.html?aid=304142&label=gen173nr-10CAQoggJCEnNlYXJjaF9yb21lLCBpdGFseUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AuCMgMYGwAIB0gIkNmFmYzU1ZGUtNjNmMi00MWI4LThkZTEtZmE3ZGQzYzM0MTNm2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=ce394c30cfa206d3&srepoch=1757415011&all_sr_blocks=1351804302_407535835_2_0_0&highlighted_blocks=1351804302_407535835_2_0_0&matching_block_id=1351804302_407535835_2_0_0&sr_pri_blocks=1351804302_407535835_2_0_0__23501&from=searchresults",
+    "address": "Rome",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Rome%2C+Italy&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T10:50:12.681Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757415012681_1",
+    "name": "citizenM Rome Isola Tiberina",
+    "price": 1,
+    "currency": "USD",
+    "rating": 8.9,
+    "stars": 9,
+    "reviewCount": 329,
+    "avgReview": "8.9/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/511668904.webp?k=baf2efe2b7162c018fd8ee1dc7337825f948cd3feca56e867211b9e851fe3ffd&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/it/citizenm-rome-isola-tiberina.html?aid=304142&label=gen173nr-10CAQoggJCEnNlYXJjaF9yb21lLCBpdGFseUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AuCMgMYGwAIB0gIkNmFmYzU1ZGUtNjNmMi00MWI4LThkZTEtZmE3ZGQzYzM0MTNm2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=ce394c30cfa206d3&srepoch=1757415011&all_sr_blocks=1061383901_406253086_2_2_0_636808&highlighted_blocks=1061383901_406253086_2_2_0_636808&matching_block_id=1061383901_406253086_2_2_0_636808&sr_pri_blocks=1061383901_406253086_2_2_0_636808_103190&nad_id=20130d56-74e3-4c29-9ecc-87c271986db0_0&nad_cpc=0.5&nad_track=eyJhdWN0aW9uRXBvY2giOjE3NTc0MTUwMDg4MjksInJhbmsiOjEsImtvZGRpVHJhY2tpbmdJbmZvIjoiMTZuV1Z6UDMxYUEydjJpeHJNdHdFYkNRUWxORDZzUWtHSDdOK21sOFZTQU50cTVhcWZXUlF4OVBSQXRjZThJc05idWV2a3dkUUd6aWoyNjU5bTJLODBOOHZtMWgycjBRaEE2anNVZkpNQmFqWTZ1TUJhTFVLbWRrcWY3ZUtLK1F4UmkyeGJzRHdRQ25LZ3Jsd2M4Tm9kTzBNUVNQMkFPWUI4bW03OGh5Y05FbWhEZWFkdGxtK2RSY0ZQSk80V1BmMk5XT1Z6cE1wNnp2dHlnZ3BZdFJJeHJ0aVNBQnVDS2tmTmZ0WmlQN3RGMnA0TU1qSTRuaUd1aHQwRDN6L2VhY1ZLN3BsWFVzRW9HbGM2b2Q0QlRISmduZm56UHBKMXlIb0N0SjdIV1FYL0RhVWxrUzRyNGt1SGh1d0lvOWl0b1hseVplZ2RpSGtBQ2l1VFBYdFAvc1BHcHZhZDhEUmIwYjNoczhJZUdNUGh1RFFWNGpFa2hxZG1zSjIyYTFOL2ZBYUQvZ1ZScEJqNmJBNFpjQ2FoaEhEakxudGpybis4UTFCdHNPYnYwc25GMWM3N1hoZWQxWHNlZlI1UU9hc1pCY0paMjRQUHZKNmtIVmtQdXl1eEdKSmRkaVVYRGRReHNhMWRyN1dlVWxIcFBQdnh0a2p0RXNrM0RrUlVRRm9vQmxwUHNkNzV6OTA1UzVuMDBSSUhyM1lWWGxtSGFkdFJ1YmFIVWl3d0tmN3VnWlRYRWRneHM5THYxb0p0SXlGN1dBMDMxRllKWVlMQyttVnYzdnNUYWpOT2hvQk9MWFV3WFNra3NXT0w3ZjBFbVRPZU5NZ1ppTVlVcXoxd2ZDdHVKZ25GT2RDZUQ3ZURhT3RXc29GU29XMWN1bmFib0wvOE54NVdDWGczdVBQNEdKQzc2UFBpRno0SExFRjBvTWR5VGlyUm9OZ0lUWjZTSzFmaTRoN2EyM283Znl3UHFPNVFtaXFaRmJERXRCMXpmRGxld2R6dFpTbUNLQ1loZjA1L2FNMmcxcy9PaWxmY2FTZmRlUVdkaG0xc1BOWmRXeGhjcWtpbUtBcTNXMEhyZkhUMTN1K3VVYUlMOWdMOENIRmlMWFZsODN6S2Y3allVUDJhTHZ1V29zY20raXNkZlIxc2tOd0o5S2Y1MXJja3RaUXQwUzNSR1lRdGJhWDVlWTlLWk9vdHhzNG13N2Rvck5EejZOU1F0aGlodnlwS0xGeUhIei9pSXRLL0diTjZtRDdaZzVRM3FISXREMFVyUVRJTnpjRDBzZnhEQW5QMC9FbHFIbzQvNXN5bmxobkwzVTVqUUkrWTVNbkhJb2NWdzNpaUV4ZnE4SGlZSmExODd3blRDMEc5K28wbnJoWDdPSFJ2ckRka0I2elphMzlObTRqcll6NUg1WTVyR3B4Q21wYURSZytXeExGZHRoSVhLajVpemVzaWlMcENvVGNNdVhHZGUyT0d0azZpajFQK1ZWTW5Cb3RJL2pIMm12R3N4Y1VpaVdhVzRxOXFyTHN4dksxNXQ3QmJvT0JKYU4rWnBHaDZvVzIzMG9PbkMxVWFRQkZlOXB0eHI5Y2VGZmZiNmdHRkpLcG1yUTFBSll2QWlKTGZodUtJRzc0V2ppWU15SHhIL3VFWSs1NnJhbkhmZEorSTlIUzc1dmVSYjY1YlZiazlVUm1jWVA4NUYzTXVsd3ptVW94bzNEd3NzL0VvMnVLbjY5Mk1pTkNkK256OThOOS9ISy8vRXA1K0NtclNxbUdiN1dOdnZ3L3R2ckdPTGk0R2k3R3g2ZnY4RzIwWFAvczU0Y3VNTjRYYU1MU3IySE5BTXAxQTNSb1ZqTk1vcFI2VDJxclB6WTBqYStRaEdHYitZOGI3eGdaNjZHMkNUa2FGSWlFdlF2VzhhUnZZYlhZcUc2VVJ4SG1pWHBycDZPUk9PNnNBdFJqaHltR3N3eU9wWGlUWDhpLzF6RW40Lzhsd3NQbUc3RFFNRWM5aU9pVWtka24zSkNIQ2RpelNvNG1iaFE4SHJqT3VITWlIdXhRbEhZOGlLeEIxSFpWNEV0TlJleGh4UUt3YnlYYUZuSHNla1VuS1hRbjBBSEFDMHkzWEF6Y2lHblQwNkNla3lVR0ZLVWxsbXVRbHFDeVBCWVJuWXJ6U3RlTlF3N3RRUHpPby9ZcEVEdEx1eHdtb0svTVhZY3dTTlZNL1FjT3M0L3dJcUdZTHFLZUQyck15c0VpelZHWElQVUl5SUxBTW9BNy9nU2MvNnR5dWs5SGZ1ejdUa2NOek1QSHFYYWpMMzZKTzRJcGY3TzVXMURaeUFYNktiWllEeU81bGFYUTV2MTNTcDNkUjR2bFI0eWdYRThYTHZNRWcyd05PTEpNbThQK3MxTjZ2YW1sU09XN3g4OFphekNDV2FUbk9ENU5iWWxLaTdqaXZ0ejFIeTJGYVdyRWZZYUhWWG9jYk1ZZVNjZWd5OGw2T0xsNlVYTGo1a0hWODFrQ2NHN1VCblVzVDZCZHlPaVluVU5iaHlaUFZZcFRsUFA2dnRHMXNhaktFT1lGNTdRc1NhYlFLZmI5Rk9xMGlLWTdlUTR1M1ZpOHQ0RE42QUpGZVV5VERzRGMyNm9wVUFHdW1ib0M1QzJ5ZmRETnFjSnRBdHZvMFE3ZWZqRVUxRVY1MWVUN2djZFp2TjNJZUNjOXVVbzRFQkptTmN1YkgzdCs5R2M0Q2hUeHlZakJqcEU4U3BBeEtQd3lzdCtjUjQ3N0Rmb0Yrd3JRYnZueGJKTXFzbjZGZ0lHcitCbDZJWUdOMUFhVXdzSnNBMDBkNDJ0UnFsc1lkNkdqMWZKRDhVbkExQ0NJajJQdkhVbFdLQXRwWUM2RXRDUlk2VDF5WWg3UTM0eFdZTllBUFpkKys5WHEweGwza1puUXhBMHFUOWx6KzFwWERndGFIWk0wVHk0aXBsbSthMTIxaEhSNlJFaDByOTU2Q2V5WS9nYWZyYVkrRTJqMyt1UHVsbUlKYWhHbUcwdE9XNkZsTjBGSmRKYTd1RVlBWVFrdzJwd3hjSFJXZmVHTUtMeXN0ZjRsSXJTbGk4TkxuNmM5VWdDTlVreGpCTTJyUFB2dU9JUjMxYmE1L2ROOGhZdTBTUEZxWEhENmNmSnF1TnlFY3QwbkhIOHFNSkJPckFxb0gvOHY3aHc5RWVNYWtWUGpsb1FvZnQ0cTdPblBnQmpjUWFzTVUySFNSUzBqMmJmOW11VVhUOWNDbEVSQndBeXlYOTdkNGJ2MHNUSnNXS29WYXBNckJrcTZSK0pFRGRaK1V1MXU3NHFscE00b3RTMzFiL3N2bEorbnp2RFZTb1hXcUZzeXpnUjFxNWx1aG1FMVZsd0xhZms5N3lobC84OVdtdUNqMFZOdXMvVDZvVGRWYmhwQkJCSEUzVWpXUDJ4QmNKUzJSQTBMdk5QMWpjRU80RXBxZ1VJcEVnRnpRK3gxUXNuT2FSbHZJVmNCdm5MZE9Ub0dVejByZ2FBOEx2VjMrUUZHeHFCNHFQeXJ3TGEifQ%3D%3D&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Pantheon, Rome",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Rome%2C+Italy&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T10:50:12.681Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757415012681_2",
+    "name": "504 Corso Suites",
+    "price": 686,
+    "currency": "USD",
+    "rating": 9.2,
+    "stars": 9,
+    "reviewCount": 741,
+    "avgReview": "9.2/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/46009429.webp?k=9031d7ddd774f3a0bd07287753847d51cbc54249d37aa1027544a186da72eb09&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/it/504-corso-suites.html?aid=304142&label=gen173nr-10CAQoggJCEnNlYXJjaF9yb21lLCBpdGFseUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AuCMgMYGwAIB0gIkNmFmYzU1ZGUtNjNmMi00MWI4LThkZTEtZmE3ZGQzYzM0MTNm2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=ce394c30cfa206d3&srepoch=1757415011&all_sr_blocks=135447101_86433147_2_0_0&highlighted_blocks=135447101_86433147_2_0_0&matching_block_id=135447101_86433147_2_0_0&sr_pri_blocks=135447101_86433147_2_0_0__58368&from=searchresults",
+    "address": "Spagna, Rome",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Rome%2C+Italy&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T10:50:12.681Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757415012681_3",
+    "name": "Teulada Luxury Rooms",
+    "price": 394,
+    "currency": "USD",
+    "rating": 9.7,
+    "stars": 10,
+    "reviewCount": 657,
+    "avgReview": "9.7/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/656732037.webp?k=dc19b2b3122bcaef99f02d6518898d1c80ea3bfb1b40e28615eae01ceaae64a3&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/it/teulada-luxury-rooms.html?aid=304142&label=gen173nr-10CAQoggJCEnNlYXJjaF9yb21lLCBpdGFseUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AuCMgMYGwAIB0gIkNmFmYzU1ZGUtNjNmMi00MWI4LThkZTEtZmE3ZGQzYzM0MTNm2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=ce394c30cfa206d3&srepoch=1757415011&all_sr_blocks=1361124502_408421650_0_1_0_820113&highlighted_blocks=1361124502_408421650_0_1_0_820113&matching_block_id=1361124502_408421650_0_1_0_820113&sr_pri_blocks=1361124502_408421650_0_1_0_820113_33538&from=searchresults",
+    "address": "Rome",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Rome%2C+Italy&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T10:50:12.681Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757415012681_4",
+    "name": "Hotel Laurentia",
+    "price": 519,
+    "currency": "USD",
+    "rating": 8.1,
+    "stars": 8,
+    "reviewCount": 780,
+    "avgReview": "8.1/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/60479063.webp?k=c605e6a3ff5d6ccfadcd92464c6727282d121f16228ff93a16702393b52bbee9&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/it/laurentia-roma.html?aid=304142&label=gen173nr-10CAQoggJCEnNlYXJjaF9yb21lLCBpdGFseUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AuCMgMYGwAIB0gIkNmFmYzU1ZGUtNjNmMi00MWI4LThkZTEtZmE3ZGQzYzM0MTNm2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=ce394c30cfa206d3&srepoch=1757415011&all_sr_blocks=23890504_0_2_1_0&highlighted_blocks=23890504_0_2_1_0&matching_block_id=23890504_0_2_1_0&sr_pri_blocks=23890504_0_2_1_0__44231&from=searchresults",
+    "address": "San Lorenzo, Rome",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Rome%2C+Italy&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T10:50:12.681Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757415012681_5",
+    "name": "Borgognona Rooms",
+    "price": 748,
+    "currency": "USD",
+    "rating": 8.7,
+    "stars": 9,
+    "reviewCount": 937,
+    "avgReview": "8.7/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/421118247.webp?k=6e7b23cd392e9334c5e44dfb0d59be6af4b0c99c719855ac1688dd76bfee4515&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/it/borgognonarooms.html?aid=304142&label=gen173nr-10CAQoggJCEnNlYXJjaF9yb21lLCBpdGFseUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AuCMgMYGwAIB0gIkNmFmYzU1ZGUtNjNmMi00MWI4LThkZTEtZmE3ZGQzYzM0MTNm2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=ce394c30cfa206d3&srepoch=1757415011&all_sr_blocks=213251102_96389155_2_0_0&highlighted_blocks=213251102_96389155_2_0_0&matching_block_id=213251102_96389155_2_0_0&sr_pri_blocks=213251102_96389155_2_0_0__63706&from=searchresults",
+    "address": "Spagna, Rome",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Rome%2C+Italy&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T10:50:12.681Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757415012681_6",
+    "name": "Steps from the Vatican Guesthouse",
+    "price": 423,
+    "currency": "USD",
+    "rating": 8.5,
+    "stars": 9,
+    "reviewCount": 983,
+    "avgReview": "8.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/166028371.webp?k=5094587ada009ec11712b199eee14f95a974c3486ff7f5d4e903f7bc138ea2a6&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/it/steps-from-the-vatican-guesthouse.html?aid=304142&label=gen173nr-10CAQoggJCEnNlYXJjaF9yb21lLCBpdGFseUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AuCMgMYGwAIB0gIkNmFmYzU1ZGUtNjNmMi00MWI4LThkZTEtZmE3ZGQzYzM0MTNm2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=ce394c30cfa206d3&srepoch=1757415011&all_sr_blocks=221601406_98110160_2_0_0&highlighted_blocks=221601406_98110160_2_0_0&matching_block_id=221601406_98110160_2_0_0&sr_pri_blocks=221601406_98110160_2_0_0__36000&from=searchresults",
+    "address": "Aurelio, Rome",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Rome%2C+Italy&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T10:50:12.681Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757415012681_7",
+    "name": "Rome Times Hotel",
+    "price": 1,
+    "currency": "USD",
+    "rating": 8.1,
+    "stars": 8,
+    "reviewCount": 616,
+    "avgReview": "8.1/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/91330122.webp?k=2226bb43f2805ebca9055f56838347f6d991dc7cdf0e8405570d59ead70f845d&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/it/rome-times.html?aid=304142&label=gen173nr-10CAQoggJCEnNlYXJjaF9yb21lLCBpdGFseUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AuCMgMYGwAIB0gIkNmFmYzU1ZGUtNjNmMi00MWI4LThkZTEtZmE3ZGQzYzM0MTNm2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=ce394c30cfa206d3&srepoch=1757415011&all_sr_blocks=49678805_138948356_2_2_0&highlighted_blocks=49678805_138948356_2_2_0&matching_block_id=49678805_138948356_2_2_0&sr_pri_blocks=49678805_138948356_2_2_0__90765&from=searchresults",
+    "address": "Rione Monti, Rome",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Rome%2C+Italy&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T10:50:12.681Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757415012681_8",
+    "name": "Fantastic Rome Guest House",
+    "price": 424,
+    "currency": "USD",
+    "rating": 8.5,
+    "stars": 9,
+    "reviewCount": 867,
+    "avgReview": "8.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/619464405.webp?k=cd7f226863837b421e7ca895bbbd79e6ad3dec432e3936ee5d0e121d11fa8981&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/it/fantastic-rome-guest-house.html?aid=304142&label=gen173nr-10CAQoggJCEnNlYXJjaF9yb21lLCBpdGFseUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AuCMgMYGwAIB0gIkNmFmYzU1ZGUtNjNmMi00MWI4LThkZTEtZmE3ZGQzYzM0MTNm2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=ce394c30cfa206d3&srepoch=1757415011&all_sr_blocks=1317107207_404446903_2_0_0&highlighted_blocks=1317107207_404446903_2_0_0&matching_block_id=1317107207_404446903_2_0_0&sr_pri_blocks=1317107207_404446903_2_0_0__36115&from=searchresults",
+    "address": "Rione Monti, Rome",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Rome%2C+Italy&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T10:50:12.681Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757415012682_9",
+    "name": "Relais Aquarium",
+    "price": 467,
+    "currency": "USD",
+    "rating": 8.8,
+    "stars": 9,
+    "reviewCount": 832,
+    "avgReview": "8.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/224672867.webp?k=d06e25652cca229360713fae2acef807fd74e292ad15d18a319fa1f940c8b7b2&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/it/relais-aquarium-roma.html?aid=304142&label=gen173nr-10CAQoggJCEnNlYXJjaF9yb21lLCBpdGFseUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AuCMgMYGwAIB0gIkNmFmYzU1ZGUtNjNmMi00MWI4LThkZTEtZmE3ZGQzYzM0MTNm2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=ce394c30cfa206d3&srepoch=1757415011&all_sr_blocks=573723701_278121519_0_0_0&highlighted_blocks=573723701_278121519_0_0_0&matching_block_id=573723701_278121519_0_0_0&sr_pri_blocks=573723701_278121519_0_0_0__39744&from=searchresults",
+    "address": "Central Station, Rome",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Rome%2C+Italy&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T10:50:12.682Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

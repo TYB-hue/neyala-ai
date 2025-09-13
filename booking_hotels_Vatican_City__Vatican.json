@@ -1,0 +1,272 @@
+[
+  {
+    "id": "hotel_1757067001009_0",
+    "name": "Vatican Suites Apartment - Vatican City",
+    "price": 272,
+    "currency": "USD",
+    "rating": 8.1,
+    "stars": 8,
+    "reviewCount": 727,
+    "avgReview": "8.1/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/679757768.webp?k=6ca10d6eb7ade1b51d33ab41e39522e1b881db3145432b3c387bed64a7d5d8a6&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/it/vatican-suites-roma2.html?aid=304142&label=gen173nr-10CAQoggJCHHNlYXJjaF92YXRpY2FuIGNpdHksIHZhdGljYW5IM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAL07erFBsACAdICJDdiOTBlMjU1LTNhNDQtNGU4Zi05ZjJjLWQ1ZTE1YWY2MzA1M9gCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-12&checkout=2025-09-15&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=2327477aded60212&srepoch=1757066999&soh=1&from=searchresults#no_availability_msg",
+    "address": "Vaticano Prati, Rome",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Vatican+City%2C+Vatican&checkin=2025-09-12&checkout=2025-09-15&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-05T10:10:01.009Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757067001009_1",
+    "name": "Cielo Vaticano Guest House",
+    "price": 465,
+    "currency": "USD",
+    "rating": 8.3,
+    "stars": 8,
+    "reviewCount": 438,
+    "avgReview": "8.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/428696361.webp?k=e18ece3c33c20a0e383fa3e9ef4fa3f5af6b3b14c64d929ce9ab2ccf7d0fdc87&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/it/cielo-vaticano-guest-house.html?aid=304142&label=gen173nr-10CAQoggJCHHNlYXJjaF92YXRpY2FuIGNpdHksIHZhdGljYW5IM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAL07erFBsACAdICJDdiOTBlMjU1LTNhNDQtNGU4Zi05ZjJjLWQ1ZTE1YWY2MzA1M9gCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-12&checkout=2025-09-15&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=2327477aded60212&srepoch=1757066999&all_sr_blocks=31839011_354566682_2_0_0&highlighted_blocks=31839011_354566682_2_0_0&matching_block_id=31839011_354566682_2_0_0&sr_pri_blocks=31839011_354566682_2_0_0__39993&from=searchresults",
+    "address": "Vaticano Prati, Rome",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Vatican+City%2C+Vatican&checkin=2025-09-12&checkout=2025-09-15&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-05T10:10:01.009Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757067001009_2",
+    "name": "Fabulous village",
+    "price": 145,
+    "currency": "USD",
+    "rating": 8.3,
+    "stars": 8,
+    "reviewCount": 105,
+    "avgReview": "8.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/501838589.webp?k=d219203ccd3c47805b5bcfe2160fc97db0a68f4d4b91738eaf9ee94921717a58&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/it/camping-village-fabulous.html?aid=304142&label=gen173nr-10CAQoggJCHHNlYXJjaF92YXRpY2FuIGNpdHksIHZhdGljYW5IM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAL07erFBsACAdICJDdiOTBlMjU1LTNhNDQtNGU4Zi05ZjJjLWQ1ZTE1YWY2MzA1M9gCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-12&checkout=2025-09-15&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=2327477aded60212&srepoch=1757066999&all_sr_blocks=25729619_0_2_0_0&highlighted_blocks=25729619_0_2_0_0&matching_block_id=25729619_0_2_0_0&sr_pri_blocks=25729619_0_2_0_0__12490&from=searchresults",
+    "address": "Casal Palocco",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Vatican+City%2C+Vatican&checkin=2025-09-12&checkout=2025-09-15&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-05T10:10:01.009Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757067001009_3",
+    "name": "Hotel Roma Tor Vergata",
+    "price": 242,
+    "currency": "USD",
+    "rating": 7.6,
+    "stars": 8,
+    "reviewCount": 196,
+    "avgReview": "7.6/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/150156166.webp?k=422a2df43d6a2e2e9e8e6b3c9482a94a32bb3d38b23d306eacc8b06492504b13&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/it/roma-tor-vergata.html?aid=304142&label=gen173nr-10CAQoggJCHHNlYXJjaF92YXRpY2FuIGNpdHksIHZhdGljYW5IM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAL07erFBsACAdICJDdiOTBlMjU1LTNhNDQtNGU4Zi05ZjJjLWQ1ZTE1YWY2MzA1M9gCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-12&checkout=2025-09-15&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=2327477aded60212&srepoch=1757066999&all_sr_blocks=0_0_2_0_0&highlighted_blocks=0_0_2_0_0&matching_block_id=0_0_2_0_0&sr_pri_blocks=0_0_2_0_0__20836&from=searchresults",
+    "address": "Tor Vergata",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Vatican+City%2C+Vatican&checkin=2025-09-12&checkout=2025-09-15&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-05T10:10:01.009Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757067001009_4",
+    "name": "Flat Piazza Victorio",
+    "price": 879,
+    "currency": "USD",
+    "rating": 10,
+    "stars": 10,
+    "reviewCount": 521,
+    "avgReview": "10.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/740878902.webp?k=4038849e2e32e02622a7ca813a3ca79a54e92da60c793432c366890d3608cc07&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/it/flat-piazza-victorio.html?aid=304142&label=gen173nr-10CAQoggJCHHNlYXJjaF92YXRpY2FuIGNpdHksIHZhdGljYW5IM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAL07erFBsACAdICJDdiOTBlMjU1LTNhNDQtNGU4Zi05ZjJjLWQ1ZTE1YWY2MzA1M9gCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-12&checkout=2025-09-15&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=2327477aded60212&srepoch=1757066999&all_sr_blocks=1481751101_419670358_10_0_0&highlighted_blocks=1481751101_419670358_10_0_0&matching_block_id=1481751101_419670358_10_0_0&sr_pri_blocks=1481751101_419670358_10_0_0__75514&from=searchresults",
+    "address": "Rione Monti, Rome",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Vatican+City%2C+Vatican&checkin=2025-09-12&checkout=2025-09-15&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-05T10:10:01.009Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757067001009_5",
+    "name": "Flora Guest House - by Openroma",
+    "price": 435,
+    "currency": "USD",
+    "rating": 4.811093980830201,
+    "stars": 5,
+    "reviewCount": 866,
+    "avgReview": "4.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/716222527.webp?k=2300dc16a0577638a0e2beac4ec2ec9b25f04b7bf1c5bf2d1a58841a0c620e88&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/it/flora-guest-house.html?aid=304142&label=gen173nr-10CAQoggJCHHNlYXJjaF92YXRpY2FuIGNpdHksIHZhdGljYW5IM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAL07erFBsACAdICJDdiOTBlMjU1LTNhNDQtNGU4Zi05ZjJjLWQ1ZTE1YWY2MzA1M9gCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-12&checkout=2025-09-15&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=2327477aded60212&srepoch=1757066999&all_sr_blocks=1458539302_417176937_3_0_0&highlighted_blocks=1458539302_417176937_3_0_0&matching_block_id=1458539302_417176937_3_0_0&sr_pri_blocks=1458539302_417176937_3_0_0__37421&from=searchresults",
+    "address": "Villa Borghese Parioli, Rome",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Vatican+City%2C+Vatican&checkin=2025-09-12&checkout=2025-09-15&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-05T10:10:01.009Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757067001009_6",
+    "name": "Tritone Top House",
+    "price": 674,
+    "currency": "USD",
+    "rating": 8,
+    "stars": 8,
+    "reviewCount": 499,
+    "avgReview": "8.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/43708334.webp?k=5c268eae70bcf896f2fab6b52a9fd77767efebd391ffd6c29e1509398bb30774&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/it/tritone-top-house.html?aid=304142&label=gen173nr-10CAQoggJCHHNlYXJjaF92YXRpY2FuIGNpdHksIHZhdGljYW5IM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAL07erFBsACAdICJDdiOTBlMjU1LTNhNDQtNGU4Zi05ZjJjLWQ1ZTE1YWY2MzA1M9gCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-12&checkout=2025-09-15&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=2327477aded60212&srepoch=1757066999&all_sr_blocks=60574715_88469330_2_0_0&highlighted_blocks=60574715_88469330_2_0_0&matching_block_id=60574715_88469330_2_0_0&sr_pri_blocks=60574715_88469330_2_0_0__57897&from=searchresults",
+    "address": "Spagna, Rome",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Vatican+City%2C+Vatican&checkin=2025-09-12&checkout=2025-09-15&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-05T10:10:01.009Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757067001009_7",
+    "name": "Vacanze Romane da Manuela",
+    "price": 532,
+    "currency": "USD",
+    "rating": 9.8,
+    "stars": 10,
+    "reviewCount": 483,
+    "avgReview": "9.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/622546017.webp?k=bc78f334f9ae1cf64b04c68e476ac598096e2301827ef28814713bf95a8ae6c0&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/it/vacanze-romane-da-manuela.html?aid=304142&label=gen173nr-10CAQoggJCHHNlYXJjaF92YXRpY2FuIGNpdHksIHZhdGljYW5IM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAL07erFBsACAdICJDdiOTBlMjU1LTNhNDQtNGU4Zi05ZjJjLWQ1ZTE1YWY2MzA1M9gCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-12&checkout=2025-09-15&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=2327477aded60212&srepoch=1757066999&all_sr_blocks=1321074801_404798329_2_0_0&highlighted_blocks=1321074801_404798329_2_0_0&matching_block_id=1321074801_404798329_2_0_0&sr_pri_blocks=1321074801_404798329_2_0_0__45706&from=searchresults",
+    "address": "Appio Latino, Rome",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Vatican+City%2C+Vatican&checkin=2025-09-12&checkout=2025-09-15&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-05T10:10:01.009Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757067001009_8",
+    "name": "Lovely Design Apartment with Balcony",
+    "price": 302,
+    "currency": "USD",
+    "rating": 10,
+    "stars": 10,
+    "reviewCount": 693,
+    "avgReview": "10.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/507156840.webp?k=630119bfc26e12b5141ca1a6dd7b9fb22c9bfbefc6e3338953600c8b30d4a754&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/it/lovely-design-apartment-with-balcony.html?aid=304142&label=gen173nr-10CAQoggJCHHNlYXJjaF92YXRpY2FuIGNpdHksIHZhdGljYW5IM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAL07erFBsACAdICJDdiOTBlMjU1LTNhNDQtNGU4Zi05ZjJjLWQ1ZTE1YWY2MzA1M9gCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-12&checkout=2025-09-15&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=2327477aded60212&srepoch=1757066999&all_sr_blocks=1109467502_383692158_2_0_0&highlighted_blocks=1109467502_383692158_2_0_0&matching_block_id=1109467502_383692158_2_0_0&sr_pri_blocks=1109467502_383692158_2_0_0__25971&from=searchresults",
+    "address": "Rome",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Vatican+City%2C+Vatican&checkin=2025-09-12&checkout=2025-09-15&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-05T10:10:01.009Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757067001009_9",
+    "name": "La piccola terrazza in Vaticano Otranto Terrace",
+    "price": 983,
+    "currency": "USD",
+    "rating": 3.631188536641515,
+    "stars": 4,
+    "reviewCount": 61,
+    "avgReview": "3.6/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/590210763.webp?k=4c0cd1c8688d4238ec9ed1348d5a7307c2df94a09579f8c8ebb892e79b22995a&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/it/la-piccola-terrazza-in-vaticano.html?aid=304142&label=gen173nr-10CAQoggJCHHNlYXJjaF92YXRpY2FuIGNpdHksIHZhdGljYW5IM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAL07erFBsACAdICJDdiOTBlMjU1LTNhNDQtNGU4Zi05ZjJjLWQ1ZTE1YWY2MzA1M9gCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-12&checkout=2025-09-15&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=2327477aded60212&srepoch=1757066999&all_sr_blocks=584333401_228291206_2_0_0&highlighted_blocks=584333401_228291206_2_0_0&matching_block_id=584333401_228291206_2_0_0&sr_pri_blocks=584333401_228291206_2_0_0__84456&from=searchresults",
+    "address": "Vaticano Prati, Rome",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Vatican+City%2C+Vatican&checkin=2025-09-12&checkout=2025-09-15&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-05T10:10:01.009Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

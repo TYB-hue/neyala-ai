@@ -1,0 +1,272 @@
+[
+  {
+    "id": "hotel_1756139483512_0",
+    "name": "Chinese Culture Boutique Hotel TangFu, Liangma Riverside, Near Sanlitun & Embassy Area, Metro Access, 20min to Wangfujing, Forbidden City & Tian'anmen Square, Airport & the Great Wall Travel Assistance",
+    "price": 186,
+    "currency": "USD",
+    "rating": 9.4,
+    "stars": 9,
+    "reviewCount": 208,
+    "avgReview": "9.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/719713671.webp?k=dcadca744e15ab0114b9bc0c51aae5dda87575df66c4363cdccd0b03b55a6d6e&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/cn/beijing-tang-fu-boutique.html?aid=304142&label=gen173nr-10CAQoggJCDXNlYXJjaF9jaGluYSBIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALWn7LFBsACAdICJGQyZjgzODI3LTIyYWUtNDE1ZC05MThlLWUzZWNkMjk5NzQxN9gCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-01&checkout=2025-09-04&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=fed6742b092f02b0&srepoch=1756139483&all_sr_blocks=1445576602_415958570_2_0_0&highlighted_blocks=1445576602_415958570_2_0_0&matching_block_id=1445576602_415958570_2_0_0&sr_pri_blocks=1445576602_415958570_2_0_0__133200&from=searchresults",
+    "address": "Chaoyang, Beijing (Yansha)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=china+&checkin=2025-09-01&checkout=2025-09-04&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-25T16:31:23.512Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756139483512_1",
+    "name": "Pandora Vista Retreat",
+    "price": 350,
+    "currency": "USD",
+    "rating": 9.5,
+    "stars": 10,
+    "reviewCount": 946,
+    "avgReview": "9.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/692066607.webp?k=9ea9ff1a606903d68945e8ec261e4bc17f180d5b23ef7fbedae0190dc8016239&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/cn/homeward-mountain-hotelzhang-jia-jie-hui-jia-hai-zi-ye-she-du-jia-wu.html?aid=304142&label=gen173nr-10CAQoggJCDXNlYXJjaF9jaGluYSBIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALWn7LFBsACAdICJGQyZjgzODI3LTIyYWUtNDE1ZC05MThlLWUzZWNkMjk5NzQxN9gCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-01&checkout=2025-09-04&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=fed6742b092f02b0&srepoch=1756139483&all_sr_blocks=227652228_265860924_0_1_0_801518&highlighted_blocks=227652228_265860924_0_1_0_801518&matching_block_id=227652228_265860924_0_1_0_801518&sr_pri_blocks=227652228_265860924_0_1_0_801518_251160&from=searchresults",
+    "address": "Wu Lingyuan, Zhangjiajie (Yangjiajie)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=china+&checkin=2025-09-01&checkout=2025-09-04&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-25T16:31:23.512Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756139483512_2",
+    "name": "Datong Yunzhong Traditional Courtyard",
+    "price": 671,
+    "currency": "USD",
+    "rating": 9.6,
+    "stars": 10,
+    "reviewCount": 183,
+    "avgReview": "9.6/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/660120364.webp?k=51a75a8659af15f7294909efda88317eb95ff2267d4f18dfdb4340434e2fb226&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/cn/datong-yunzhongyi-clubhourse.html?aid=304142&label=gen173nr-10CAQoggJCDXNlYXJjaF9jaGluYSBIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALWn7LFBsACAdICJGQyZjgzODI3LTIyYWUtNDE1ZC05MThlLWUzZWNkMjk5NzQxN9gCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-01&checkout=2025-09-04&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=fed6742b092f02b0&srepoch=1756139483&all_sr_blocks=86021516_372008997_2_41_0&highlighted_blocks=86021516_372008997_2_41_0&matching_block_id=86021516_372008997_2_41_0&sr_pri_blocks=86021516_372008997_2_41_0__481950&from=searchresults",
+    "address": "Datong City Center, Datong",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=china+&checkin=2025-09-01&checkout=2025-09-04&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-25T16:31:23.512Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756139483512_3",
+    "name": "Shanghai Zhuzhu Hotel - 24-hour free airport pick-up and drop-off at Pudong Airport",
+    "price": 168,
+    "currency": "USD",
+    "rating": 8.4,
+    "stars": 8,
+    "reviewCount": 987,
+    "avgReview": "8.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/677676738.webp?k=5ac8389f1c45fa423151c35f4a01b8a5ff714942c3dc99a0d91daf6af14d5279&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/cn/zhu-zhu-jiu-dian.html?aid=304142&label=gen173nr-10CAQoggJCDXNlYXJjaF9jaGluYSBIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALWn7LFBsACAdICJGQyZjgzODI3LTIyYWUtNDE1ZC05MThlLWUzZWNkMjk5NzQxN9gCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-01&checkout=2025-09-04&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=fed6742b092f02b0&srepoch=1756139483&all_sr_blocks=1405684501_412434052_2_1_0_1082786&highlighted_blocks=1405684501_412434052_2_1_0_1082786&matching_block_id=1405684501_412434052_2_1_0_1082786&sr_pri_blocks=1405684501_412434052_2_1_0_1082786_120870&from=searchresults",
+    "address": "Pudong, Shanghai",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=china+&checkin=2025-09-01&checkout=2025-09-04&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-25T16:31:23.512Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756139483512_4",
+    "name": "Jiangmen Poltton Executive Service Apartment",
+    "price": 196,
+    "currency": "USD",
+    "rating": 9.8,
+    "stars": 10,
+    "reviewCount": 653,
+    "avgReview": "9.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/641120564.webp?k=5c091f3181bfa956b72676129b97268e6e96c01ef96452f57a0bfea0725e2d2e&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/cn/bo-dun-guo-ji-gong-yu-jiang-men-gao-er-fu-dian.html?aid=304142&label=gen173nr-10CAQoggJCDXNlYXJjaF9jaGluYSBIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALWn7LFBsACAdICJGQyZjgzODI3LTIyYWUtNDE1ZC05MThlLWUzZWNkMjk5NzQxN9gCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-01&checkout=2025-09-04&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=fed6742b092f02b0&srepoch=1756139483&all_sr_blocks=1254067201_397924104_2_41_0_647162&highlighted_blocks=1254067201_397924104_2_41_0_647162&matching_block_id=1254067201_397924104_2_41_0_647162&sr_pri_blocks=1254067201_397924104_2_41_0_647162_140400&from=searchresults",
+    "address": "Pengjiang, Jiangmen",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=china+&checkin=2025-09-01&checkout=2025-09-04&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-25T16:31:23.512Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756139483512_5",
+    "name": "Guilin HeShe Lakeside Resort-Free pick up service stay two nights",
+    "price": 203,
+    "currency": "USD",
+    "rating": 9.3,
+    "stars": 9,
+    "reviewCount": 560,
+    "avgReview": "9.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/145422937.webp?k=1e21a5b981bd77131e809574da103fb27a288f2087ea51a50111f05aa899402a&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/cn/gui-lin-he-she-du-jia-jiu-dian.html?aid=304142&label=gen173nr-10CAQoggJCDXNlYXJjaF9jaGluYSBIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALWn7LFBsACAdICJGQyZjgzODI3LTIyYWUtNDE1ZC05MThlLWUzZWNkMjk5NzQxN9gCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-01&checkout=2025-09-04&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=fed6742b092f02b0&srepoch=1756139483&all_sr_blocks=236092705_263146568_0_1_0&highlighted_blocks=236092705_263146568_0_1_0&matching_block_id=236092705_263146568_0_1_0&sr_pri_blocks=236092705_263146568_0_1_0__145800&from=searchresults",
+    "address": "Xiufeng, Guilin",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=china+&checkin=2025-09-01&checkout=2025-09-04&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-25T16:31:23.512Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756139483512_6",
+    "name": "FengHuang Kasen Waterloom Keep-Free pick-up",
+    "price": 308,
+    "currency": "USD",
+    "rating": 9.8,
+    "stars": 10,
+    "reviewCount": 246,
+    "avgReview": "9.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/699414704.webp?k=271f396985efb73ade633ce249295f61efca69899c11dd41fecbc3aa7b547e5c&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/cn/fenghuang-kasen-waterloom-keep.html?aid=304142&label=gen173nr-10CAQoggJCDXNlYXJjaF9jaGluYSBIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALWn7LFBsACAdICJGQyZjgzODI3LTIyYWUtNDE1ZC05MThlLWUzZWNkMjk5NzQxN9gCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-01&checkout=2025-09-04&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=fed6742b092f02b0&srepoch=1756139483&all_sr_blocks=1439931801_415830256_2_41_0_1126746&highlighted_blocks=1439931801_415830256_2_41_0_1126746&matching_block_id=1439931801_415830256_2_41_0_1126746&sr_pri_blocks=1439931801_415830256_2_41_0_1126746_220920&from=searchresults",
+    "address": "Fenghuang County",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=china+&checkin=2025-09-01&checkout=2025-09-04&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-25T16:31:23.512Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756139483512_7",
+    "name": "Auto City Ruili Hotel",
+    "price": 252,
+    "currency": "USD",
+    "rating": 8.7,
+    "stars": 9,
+    "reviewCount": 712,
+    "avgReview": "8.7/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/219914218.webp?k=b2f2387f14e8a21d88ae4f11550ccb356df27c3822405c11fb8714862edf9782&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/cn/shang-hai-guo-ji-qi-che-cheng-rui-li-jiu-dian.html?aid=304142&label=gen173nr-10CAQoggJCDXNlYXJjaF9jaGluYSBIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALWn7LFBsACAdICJGQyZjgzODI3LTIyYWUtNDE1ZC05MThlLWUzZWNkMjk5NzQxN9gCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-01&checkout=2025-09-04&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=fed6742b092f02b0&srepoch=1756139483&all_sr_blocks=452578103_137372575_2_33_0&highlighted_blocks=452578103_137372575_2_33_0&matching_block_id=452578103_137372575_2_33_0&sr_pri_blocks=452578103_137372575_2_33_0__180900&from=searchresults",
+    "address": "Jiading",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=china+&checkin=2025-09-01&checkout=2025-09-04&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-25T16:31:23.512Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756139483512_8",
+    "name": "Longji One Art Hotel",
+    "price": 719,
+    "currency": "USD",
+    "rating": 9.8,
+    "stars": 10,
+    "reviewCount": 1000,
+    "avgReview": "9.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/483936821.webp?k=8ed085ecc0262ee7927eaa4d576a307565e31b03089858739156244d1f19092d&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/cn/long-ji-the-one.html?aid=304142&label=gen173nr-10CAQoggJCDXNlYXJjaF9jaGluYSBIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALWn7LFBsACAdICJGQyZjgzODI3LTIyYWUtNDE1ZC05MThlLWUzZWNkMjk5NzQxN9gCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-01&checkout=2025-09-04&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=fed6742b092f02b0&srepoch=1756139483&all_sr_blocks=112929117_117361460_0_42_0&highlighted_blocks=112929117_117361460_0_42_0&matching_block_id=112929117_117361460_0_42_0&sr_pri_blocks=112929117_117361460_0_42_0__516135&from=searchresults",
+    "address": "Longsheng",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=china+&checkin=2025-09-01&checkout=2025-09-04&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-25T16:31:23.512Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756139483512_9",
+    "name": "Return to Emei Hotel",
+    "price": 134,
+    "currency": "USD",
+    "rating": 8.8,
+    "stars": 9,
+    "reviewCount": 767,
+    "avgReview": "8.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/621667979.webp?k=f559eb5ac5a2e4fafa9b69eddb651c9aaa37df0ef84eb2296422129e0125f1e5&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/cn/return-to-emei.html?aid=304142&label=gen173nr-10CAQoggJCDXNlYXJjaF9jaGluYSBIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALWn7LFBsACAdICJGQyZjgzODI3LTIyYWUtNDE1ZC05MThlLWUzZWNkMjk5NzQxN9gCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-01&checkout=2025-09-04&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=fed6742b092f02b0&srepoch=1756139483&all_sr_blocks=1319802003_404691327_0_2_0_1171979&highlighted_blocks=1319802003_404691327_0_2_0_1171979&matching_block_id=1319802003_404691327_0_2_0_1171979&sr_pri_blocks=1319802003_404691327_0_2_0_1171979_96000&from=searchresults",
+    "address": "Baoguosi",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=china+&checkin=2025-09-01&checkout=2025-09-04&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-25T16:31:23.512Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

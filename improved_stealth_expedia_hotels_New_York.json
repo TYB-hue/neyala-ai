@@ -1,0 +1,142 @@
+[
+  {
+    "id": "fallback_1",
+    "name": "Grand new york Hotel",
+    "price": 752,
+    "currency": "USD",
+    "rating": 5,
+    "reviewCount": 77,
+    "avgReview": "5/5",
+    "images": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800&h=600&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=800&h=600&fit=crop&q=80"
+    ],
+    "bookingUrl": "https://www.expedia.com/Hotel-Search?destination=Grand%20new%20york%20Hotel",
+    "address": "New York",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable luxury accommodation in New York",
+    "scrapedAt": "2025-08-21T09:34:34.061Z",
+    "source": "Fallback"
+  },
+  {
+    "id": "fallback_2",
+    "name": "new york Comfort Inn",
+    "price": 238,
+    "currency": "USD",
+    "rating": 4.2,
+    "reviewCount": 446,
+    "avgReview": "4.2/5",
+    "images": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800&h=600&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=800&h=600&fit=crop&q=80"
+    ],
+    "bookingUrl": "https://www.expedia.com/Hotel-Search?destination=new%20york%20Comfort%20Inn",
+    "address": "New York",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable mid accommodation in New York",
+    "scrapedAt": "2025-08-21T09:34:34.062Z",
+    "source": "Fallback"
+  },
+  {
+    "id": "fallback_3",
+    "name": "new york Hostel",
+    "price": 121,
+    "currency": "USD",
+    "rating": 3.6,
+    "reviewCount": 681,
+    "avgReview": "3.6/5",
+    "images": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800&h=600&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=800&h=600&fit=crop&q=80"
+    ],
+    "bookingUrl": "https://www.expedia.com/Hotel-Search?destination=new%20york%20Hostel",
+    "address": "New York",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable budget accommodation in New York",
+    "scrapedAt": "2025-08-21T09:34:34.062Z",
+    "source": "Fallback"
+  },
+  {
+    "id": "fallback_4",
+    "name": "new york Plaza Hotel",
+    "price": 337,
+    "currency": "USD",
+    "rating": 5,
+    "reviewCount": 552,
+    "avgReview": "5/5",
+    "images": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800&h=600&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=800&h=600&fit=crop&q=80"
+    ],
+    "bookingUrl": "https://www.expedia.com/Hotel-Search?destination=new%20york%20Plaza%20Hotel",
+    "address": "New York",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable luxury accommodation in New York",
+    "scrapedAt": "2025-08-21T09:34:34.062Z",
+    "source": "Fallback"
+  },
+  {
+    "id": "fallback_5",
+    "name": "new york Express Inn",
+    "price": 199,
+    "currency": "USD",
+    "rating": 4.3,
+    "reviewCount": 732,
+    "avgReview": "4.3/5",
+    "images": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800&h=600&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=800&h=600&fit=crop&q=80"
+    ],
+    "bookingUrl": "https://www.expedia.com/Hotel-Search?destination=new%20york%20Express%20Inn",
+    "address": "New York",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable mid accommodation in New York",
+    "scrapedAt": "2025-08-21T09:34:34.062Z",
+    "source": "Fallback"
+  }
+]

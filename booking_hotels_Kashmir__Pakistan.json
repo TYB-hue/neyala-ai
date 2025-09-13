@@ -1,0 +1,272 @@
+[
+  {
+    "id": "hotel_1757245266283_0",
+    "name": "Pearl Continental Hotel, Muzaffarabad",
+    "price": 360,
+    "currency": "USD",
+    "rating": 8.4,
+    "stars": 8,
+    "reviewCount": 679,
+    "avgReview": "8.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/634351582.webp?k=08271ac1009fbed0ff6ff838f764b92382e02650615fce06f80a885ebc393c31&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/pk/pearl-continental-azad-kashmir.html?aid=304142&label=gen173nr-10CAQoggJCGHNlYXJjaF9rYXNobWlyLCBwYWtpc3RhbkgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4As7e9cUGwAIB0gIkYjU1ZjgyYjMtNjU1Yi00MzBlLWExODItMzEyNWE4YWQ4N2Uw2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=c47b52272cb30683&srepoch=1757245264&all_sr_blocks=41528403_403726451_0_1_0&highlighted_blocks=41528403_403726451_0_1_0&matching_block_id=41528403_403726451_0_1_0&sr_pri_blocks=41528403_403726451_0_1_0__36000&from=searchresults",
+    "address": "Muzaffarabad",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Kashmir%2C+Pakistan&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:41:06.283Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757245266283_1",
+    "name": "C4 Mirpur City AJK Overseas Pakistanis Villa - Private House & Car Parking",
+    "price": 160,
+    "currency": "USD",
+    "rating": 8,
+    "stars": 8,
+    "reviewCount": 632,
+    "avgReview": "8.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/399418248.webp?k=3396deb7773e347bd0cea42aba9ed89a00b3bd48db84b73a526374f852e0aa17&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/pk/c4-mirpur-city-ajk-serviced-villa.html?aid=304142&label=gen173nr-10CAQoggJCGHNlYXJjaF9rYXNobWlyLCBwYWtpc3RhbkgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4As7e9cUGwAIB0gIkYjU1ZjgyYjMtNjU1Yi00MzBlLWExODItMzEyNWE4YWQ4N2Uw2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=c47b52272cb30683&srepoch=1757245264&all_sr_blocks=899131401_401332670_6_0_0&highlighted_blocks=899131401_401332670_6_0_0&matching_block_id=899131401_401332670_6_0_0&sr_pri_blocks=899131401_401332670_6_0_0__4500000&from=searchresults",
+    "address": "New Mīrpur",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Kashmir%2C+Pakistan&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:41:06.283Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757245266283_2",
+    "name": "Mirpur Modern Spanish Villa - Elegant Comfort in the Heart of the City",
+    "price": 439,
+    "currency": "USD",
+    "rating": 9.8,
+    "stars": 10,
+    "reviewCount": 99,
+    "avgReview": "9.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/680391931.webp?k=c438565462d2160e0af0c7838d7bf3600bfc3610d3409c43bfb63f8003e4cc43&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/pk/modern-spanish-villa-elegant-comfort-in-the-heart-of-the-city.html?aid=304142&label=gen173nr-10CAQoggJCGHNlYXJjaF9rYXNobWlyLCBwYWtpc3RhbkgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4As7e9cUGwAIB0gIkYjU1ZjgyYjMtNjU1Yi00MzBlLWExODItMzEyNWE4YWQ4N2Uw2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=c47b52272cb30683&srepoch=1757245264&all_sr_blocks=1391784001_411144717_10_0_0&highlighted_blocks=1391784001_411144717_10_0_0&matching_block_id=1391784001_411144717_10_0_0&sr_pri_blocks=1391784001_411144717_10_0_0__12354621&from=searchresults",
+    "address": "New Mīrpur",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Kashmir%2C+Pakistan&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:41:06.283Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757245266283_3",
+    "name": "Families Only! Eagle Nest Cottage Muzaffarabad by LMC",
+    "price": 59,
+    "currency": "USD",
+    "rating": 7.1,
+    "stars": 7,
+    "reviewCount": 643,
+    "avgReview": "7.1/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/433882311.webp?k=1bf82cd01f27cb220352de1fb873d8699cbcddae887c1c722cb06520981a7af6&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/pk/galiyat-hills-hotels.html?aid=304142&label=gen173nr-10CAQoggJCGHNlYXJjaF9rYXNobWlyLCBwYWtpc3RhbkgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4As7e9cUGwAIB0gIkYjU1ZjgyYjMtNjU1Yi00MzBlLWExODItMzEyNWE4YWQ4N2Uw2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=c47b52272cb30683&srepoch=1757245264&all_sr_blocks=932046801_396019404_2_2_0&highlighted_blocks=932046801_396019404_2_2_0&matching_block_id=932046801_396019404_2_2_0&sr_pri_blocks=932046801_396019404_2_2_0__1649835&from=searchresults",
+    "address": "Muzaffarabad",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Kashmir%2C+Pakistan&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:41:06.283Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757245266283_4",
+    "name": "The Mountain Retreat, Muzaffarabad - Families Only",
+    "price": 230,
+    "currency": "USD",
+    "rating": 9.6,
+    "stars": 10,
+    "reviewCount": 250,
+    "avgReview": "9.6/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/707404221.webp?k=3177da51eab024eef7679367288f788a017779dd7385bca45c1d49bfc70fef51&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/pk/the-mountain-retreat-muzaffarabad.html?aid=304142&label=gen173nr-10CAQoggJCGHNlYXJjaF9rYXNobWlyLCBwYWtpc3RhbkgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4As7e9cUGwAIB0gIkYjU1ZjgyYjMtNjU1Yi00MzBlLWExODItMzEyNWE4YWQ4N2Uw2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=c47b52272cb30683&srepoch=1757245264&all_sr_blocks=1198741201_392158348_10_2_0&highlighted_blocks=1198741201_392158348_10_2_0&matching_block_id=1198741201_392158348_10_2_0&sr_pri_blocks=1198741201_392158348_10_2_0__6480000&from=searchresults",
+    "address": "Muzaffarabad",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Kashmir%2C+Pakistan&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:41:06.283Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757245266283_5",
+    "name": "Paradise Lodges Muzaffarabad",
+    "price": 38,
+    "currency": "USD",
+    "rating": 1,
+    "stars": 1,
+    "reviewCount": 402,
+    "avgReview": "1.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/630040888.webp?k=f7958edaa711a6046cec4fd165cbe7ab29a1f6511421d16cacaa945fb98a5d23&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/pk/paradise-lodges-muzaffarabad-azad-kashmir.html?aid=304142&label=gen173nr-10CAQoggJCGHNlYXJjaF9rYXNobWlyLCBwYWtpc3RhbkgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4As7e9cUGwAIB0gIkYjU1ZjgyYjMtNjU1Yi00MzBlLWExODItMzEyNWE4YWQ4N2Uw2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=c47b52272cb30683&srepoch=1757245264&all_sr_blocks=1332425301_405755310_2_2_0&highlighted_blocks=1332425301_405755310_2_2_0&matching_block_id=1332425301_405755310_2_2_0&sr_pri_blocks=1332425301_405755310_2_2_0__1080000&from=searchresults",
+    "address": "Muzaffarabad",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Kashmir%2C+Pakistan&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:41:06.283Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757245266283_6",
+    "name": "The lodge Guest House",
+    "price": 43,
+    "currency": "USD",
+    "rating": 8,
+    "stars": 8,
+    "reviewCount": 852,
+    "avgReview": "8.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/728244322.webp?k=cb4a536e64d537db90100479fa04154aeaafb658800ace7008f323f9601e7172&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/pk/the-lodge-guest-house.html?aid=304142&label=gen173nr-10CAQoggJCGHNlYXJjaF9rYXNobWlyLCBwYWtpc3RhbkgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4As7e9cUGwAIB0gIkYjU1ZjgyYjMtNjU1Yi00MzBlLWExODItMzEyNWE4YWQ4N2Uw2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=c47b52272cb30683&srepoch=1757245264&all_sr_blocks=1472705902_418610037_4_2_0&highlighted_blocks=1472705902_418610037_4_2_0&matching_block_id=1472705902_418610037_4_2_0&sr_pri_blocks=1472705902_418610037_4_2_0__1199700&from=searchresults",
+    "address": "Muzaffarabad",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Kashmir%2C+Pakistan&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:41:06.283Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757245266283_7",
+    "name": "Riverside Challets Sharda",
+    "price": 272,
+    "currency": "USD",
+    "rating": 10,
+    "stars": 10,
+    "reviewCount": 808,
+    "avgReview": "10.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/726902850.webp?k=832108029bb48b9aba9f8a804717afd4e868a9d80d7fab7027bbc73b7d21ac8d&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/pk/roameo-resort.html?aid=304142&label=gen173nr-10CAQoggJCGHNlYXJjaF9rYXNobWlyLCBwYWtpc3RhbkgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4As7e9cUGwAIB0gIkYjU1ZjgyYjMtNjU1Yi00MzBlLWExODItMzEyNWE4YWQ4N2Uw2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=c47b52272cb30683&srepoch=1757245264&all_sr_blocks=1457339201_417067675_2_1_0&highlighted_blocks=1457339201_417067675_2_1_0&matching_block_id=1457339201_417067675_2_1_0&sr_pri_blocks=1457339201_417067675_2_1_0__7650000&from=searchresults",
+    "address": "Shardi",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Kashmir%2C+Pakistan&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:41:06.283Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757245266283_8",
+    "name": "West End Lodges",
+    "price": 37,
+    "currency": "USD",
+    "rating": 8.6,
+    "stars": 9,
+    "reviewCount": 576,
+    "avgReview": "8.6/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/535556413.webp?k=239e49bcb31f8e7e8d5d6df5c3013482d9aa32ea33265d84ad90ec2c982b7720&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/pk/west-end-guest-house-muzaffarabad.html?aid=304142&label=gen173nr-10CAQoggJCGHNlYXJjaF9rYXNobWlyLCBwYWtpc3RhbkgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4As7e9cUGwAIB0gIkYjU1ZjgyYjMtNjU1Yi00MzBlLWExODItMzEyNWE4YWQ4N2Uw2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=c47b52272cb30683&srepoch=1757245264&all_sr_blocks=182212720_352483151_2_2_0&highlighted_blocks=182212720_352483151_2_2_0&matching_block_id=182212720_352483151_2_2_0&sr_pri_blocks=182212720_352483151_2_2_0__1050000&from=searchresults",
+    "address": "Upper Neelun",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Kashmir%2C+Pakistan&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:41:06.283Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757245266284_9",
+    "name": "Ibex Riverside Cottage Neelum Valley",
+    "price": 58,
+    "currency": "USD",
+    "rating": 7.5,
+    "stars": 8,
+    "reviewCount": 474,
+    "avgReview": "7.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/721322955.webp?k=3676a1d33cbb682ce4344582435588c780821a7e9fa5f9db521daff0da280f21&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/pk/ibex-cottage.html?aid=304142&label=gen173nr-10CAQoggJCGHNlYXJjaF9rYXNobWlyLCBwYWtpc3RhbkgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4As7e9cUGwAIB0gIkYjU1ZjgyYjMtNjU1Yi00MzBlLWExODItMzEyNWE4YWQ4N2Uw2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=c47b52272cb30683&srepoch=1757245264&all_sr_blocks=1369382601_417752137_2_2_0&highlighted_blocks=1369382601_417752137_2_2_0&matching_block_id=1369382601_417752137_2_2_0&sr_pri_blocks=1369382601_417752137_2_2_0__1620000&from=searchresults",
+    "address": "Kundālshai",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Kashmir%2C+Pakistan&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:41:06.284Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

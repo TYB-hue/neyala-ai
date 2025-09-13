@@ -1,0 +1,272 @@
+[
+  {
+    "id": "hotel_1756468900521_0",
+    "name": "Hotel Hötorget",
+    "price": 481,
+    "currency": "USD",
+    "rating": 7.2,
+    "stars": 7,
+    "reviewCount": 629,
+    "avgReview": "7.2/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/120360789.webp?k=4485a504e2e6275f91e036ec84420b9837cf9fc3e708b1db27cea5ad96da490b&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/se/boutique.html?aid=304142&label=gen173nr-10CAQoggJCGHNlYXJjaF9zdG9ja2hvbG0sIHN3ZWRlbkgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Ap6txsUGwAIB0gIkNjZjZjdlYjQtZTYxNS00MGYyLWIwZTktOTVjMTJiNDA5NTY52AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=5252548f753405df&srepoch=1756468898&all_sr_blocks=156079904_351495705_2_1_0_923654&highlighted_blocks=156079904_351495705_2_1_0_923654&matching_block_id=156079904_351495705_2_1_0_923654&sr_pri_blocks=156079904_351495705_2_1_0_923654_456050&from=searchresults",
+    "address": "Norrmalm, Stockholm",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Stockholm%2C+Sweden&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T12:01:40.521Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756468900521_1",
+    "name": "Radisson Blu Waterfront Hotel, Stockholm",
+    "price": 690,
+    "currency": "USD",
+    "rating": 8.9,
+    "stars": 9,
+    "reviewCount": 160,
+    "avgReview": "8.9/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/232820101.webp?k=78bfb1ba947f805b932232144fd3d06e75653690464fe28d8138c5c3c3667db7&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/se/radisson-blu-waterfront.html?aid=304142&label=gen173nr-10CAQoggJCGHNlYXJjaF9zdG9ja2hvbG0sIHN3ZWRlbkgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Ap6txsUGwAIB0gIkNjZjZjdlYjQtZTYxNS00MGYyLWIwZTktOTVjMTJiNDA5NTY52AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=5252548f753405df&srepoch=1756468898&all_sr_blocks=26606113_94376334_2_2_0_647956&highlighted_blocks=26606113_94376334_2_2_0_647956&matching_block_id=26606113_94376334_2_2_0_647956&sr_pri_blocks=26606113_94376334_2_2_0_647956_654500&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Norrmalm, Stockholm",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Stockholm%2C+Sweden&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T12:01:40.521Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756468900521_2",
+    "name": "Radisson Blu Royal Viking Hotel, Stockholm",
+    "price": 618,
+    "currency": "USD",
+    "rating": 8.5,
+    "stars": 9,
+    "reviewCount": 426,
+    "avgReview": "8.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/277542505.webp?k=dc69a9a6e79f823dbfa584abb1de2010d853f3c16584e2ceac2c20495d48ce9a&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/se/radisson-sas-royal-viking.html?aid=304142&label=gen173nr-10CAQoggJCGHNlYXJjaF9zdG9ja2hvbG0sIHN3ZWRlbkgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Ap6txsUGwAIB0gIkNjZjZjdlYjQtZTYxNS00MGYyLWIwZTktOTVjMTJiNDA5NTY52AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=5252548f753405df&srepoch=1756468898&all_sr_blocks=2290526_95146992_2_2_0_647954&highlighted_blocks=2290526_95146992_2_2_0_647954&matching_block_id=2290526_95146992_2_2_0_647954&sr_pri_blocks=2290526_95146992_2_2_0_647954_586500&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Norrmalm, Stockholm",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Stockholm%2C+Sweden&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T12:01:40.521Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756468900521_3",
+    "name": "Blique by Nobis, Stockholm, a Member of Design Hotels™",
+    "price": 481,
+    "currency": "USD",
+    "rating": 8.8,
+    "stars": 9,
+    "reviewCount": 378,
+    "avgReview": "8.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/228635887.webp?k=4a27f7c12a7a033b0053eec89fb5768b62ac8285af92613e48aadf02a9e2fcc5&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/se/blique-by-nobis.html?aid=304142&label=gen173nr-10CAQoggJCGHNlYXJjaF9zdG9ja2hvbG0sIHN3ZWRlbkgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Ap6txsUGwAIB0gIkNjZjZjdlYjQtZTYxNS00MGYyLWIwZTktOTVjMTJiNDA5NTY52AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=5252548f753405df&srepoch=1756468898&all_sr_blocks=455442213_246436030_0_1_0&highlighted_blocks=455442213_246436030_0_1_0&matching_block_id=455442213_246436030_0_1_0&sr_pri_blocks=455442213_246436030_0_1_0__456450&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Vasastan, Stockholm",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Stockholm%2C+Sweden&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T12:01:40.521Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756468900521_4",
+    "name": "Radisson Collection, Strand Hotel, Stockholm",
+    "price": 829,
+    "currency": "USD",
+    "rating": 8.5,
+    "stars": 9,
+    "reviewCount": 1036,
+    "avgReview": "8.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/277542940.webp?k=bd47fc218a721ddb3b836fddf80eb1b7fefcd15be4ce29e12f8415138cbd881e&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/se/radisson-sas-strand.html?aid=304142&label=gen173nr-10CAQoggJCGHNlYXJjaF9zdG9ja2hvbG0sIHN3ZWRlbkgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Ap6txsUGwAIB0gIkNjZjZjdlYjQtZTYxNS00MGYyLWIwZTktOTVjMTJiNDA5NTY52AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=5252548f753405df&srepoch=1756468898&all_sr_blocks=2293021_95147015_2_42_0_647940&highlighted_blocks=2293021_95147015_2_42_0_647940&matching_block_id=2293021_95147015_2_42_0_647940&sr_pri_blocks=2293021_95147015_2_42_0_647940_787000&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Norrmalm, Stockholm",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Stockholm%2C+Sweden&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T12:01:40.521Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756468900521_5",
+    "name": "Courtyard by Marriott Stockholm Kungsholmen",
+    "price": 524,
+    "currency": "USD",
+    "rating": 8.6,
+    "stars": 9,
+    "reviewCount": 769,
+    "avgReview": "8.6/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/439520958.webp?k=fac6313340d8d62bf91d8a64c1e4b1de2fe1d038d4b4df4d44434637b24ef597&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/se/courtyard-stockholm.html?aid=304142&label=gen173nr-10CAQoggJCGHNlYXJjaF9zdG9ja2hvbG0sIHN3ZWRlbkgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Ap6txsUGwAIB0gIkNjZjZjdlYjQtZTYxNS00MGYyLWIwZTktOTVjMTJiNDA5NTY52AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=5252548f753405df&srepoch=1756468898&all_sr_blocks=17260311_94311067_0_2_0&highlighted_blocks=17260311_94311067_0_2_0&matching_block_id=17260311_94311067_0_2_0&sr_pri_blocks=17260311_94311067_0_2_0__496825&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Kungsholmen, Stockholm",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Stockholm%2C+Sweden&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T12:01:40.521Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756468900521_6",
+    "name": "At Six",
+    "price": 822,
+    "currency": "USD",
+    "rating": 8.7,
+    "stars": 9,
+    "reviewCount": 1036,
+    "avgReview": "8.7/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/145864262.webp?k=a41be0fd87f5ccc040d6b55a29478254e38bcd020eada7ebbd20f8a277f05f37&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/se/at-six.html?aid=304142&label=gen173nr-10CAQoggJCGHNlYXJjaF9zdG9ja2hvbG0sIHN3ZWRlbkgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Ap6txsUGwAIB0gIkNjZjZjdlYjQtZTYxNS00MGYyLWIwZTktOTVjMTJiNDA5NTY52AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=5252548f753405df&srepoch=1756468898&all_sr_blocks=199633601_0_2_0_0&highlighted_blocks=199633601_0_2_0_0&matching_block_id=199633601_0_2_0_0&sr_pri_blocks=199633601_0_2_0_0__780074&from=searchresults",
+    "address": "Norrmalm, Stockholm",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Stockholm%2C+Sweden&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T12:01:40.521Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756468900521_7",
+    "name": "Elite Hotel Stockholm Plaza",
+    "price": 609,
+    "currency": "USD",
+    "rating": 8.4,
+    "stars": 8,
+    "reviewCount": 935,
+    "avgReview": "8.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/338132133.webp?k=11d2389a7db0cbce160e8829cc928035b7a0311040bc393eefd7df6320148834&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/se/elite-stockholm-plaza.html?aid=304142&label=gen173nr-10CAQoggJCGHNlYXJjaF9zdG9ja2hvbG0sIHN3ZWRlbkgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Ap6txsUGwAIB0gIkNjZjZjdlYjQtZTYxNS00MGYyLWIwZTktOTVjMTJiNDA5NTY52AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=5252548f753405df&srepoch=1756468898&all_sr_blocks=1828501_333152612_2_1_0_649019&highlighted_blocks=1828501_333152612_2_1_0_649019&matching_block_id=1828501_333152612_2_1_0_649019&sr_pri_blocks=1828501_333152612_2_1_0_649019_577907&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Norrmalm, Stockholm",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Stockholm%2C+Sweden&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T12:01:40.521Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756468900521_8",
+    "name": "Best Western and hotel",
+    "price": 497,
+    "currency": "USD",
+    "rating": 8.4,
+    "stars": 8,
+    "reviewCount": 730,
+    "avgReview": "8.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/148128239.webp?k=060421a64b3f773ae7110d6b42cf83601da5075fd936f9e5bac75c3f56f60ebc&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/se/best-western-amp.html?aid=304142&label=gen173nr-10CAQoggJCGHNlYXJjaF9zdG9ja2hvbG0sIHN3ZWRlbkgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Ap6txsUGwAIB0gIkNjZjZjdlYjQtZTYxNS00MGYyLWIwZTktOTVjMTJiNDA5NTY52AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=5252548f753405df&srepoch=1756468898&all_sr_blocks=148994413_89687176_2_1_0&highlighted_blocks=148994413_89687176_2_1_0&matching_block_id=148994413_89687176_2_1_0&sr_pri_blocks=148994413_89687176_2_1_0__471316&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Norrmalm, Stockholm",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Stockholm%2C+Sweden&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T12:01:40.521Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756468900521_9",
+    "name": "Comfort Hotel Xpress Stockholm Central",
+    "price": 414,
+    "currency": "USD",
+    "rating": 7.7,
+    "stars": 8,
+    "reviewCount": 426,
+    "avgReview": "7.7/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/354948631.webp?k=ffec9e0df3d2a8f95c591725cc93883689d7db51a43cb9f8ef50c278477ea4a5&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/se/comfort-hotel-xpress-stockholm-central.html?aid=304142&label=gen173nr-10CAQoggJCGHNlYXJjaF9zdG9ja2hvbG0sIHN3ZWRlbkgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Ap6txsUGwAIB0gIkNjZjZjdlYjQtZTYxNS00MGYyLWIwZTktOTVjMTJiNDA5NTY52AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=5252548f753405df&srepoch=1756468898&all_sr_blocks=1821102_140661503_2_0_0_645631&highlighted_blocks=1821102_140661503_2_0_0_645631&matching_block_id=1821102_140661503_2_0_0_645631&sr_pri_blocks=1821102_140661503_2_0_0_645631_392464&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Norrmalm, Stockholm",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Stockholm%2C+Sweden&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T12:01:40.521Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

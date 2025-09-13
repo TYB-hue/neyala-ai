@@ -1,0 +1,272 @@
+[
+  {
+    "id": "hotel_1757411687591_0",
+    "name": "Amsterdam Soul Inn",
+    "price": 397,
+    "currency": "USD",
+    "rating": 7.8,
+    "stars": 8,
+    "reviewCount": 357,
+    "avgReview": "7.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/618463250.webp?k=4df6a08f52e31284da1875781042723e9b7ec6eb4d02875fdb94890a61a57b26&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/nl/amsterdam-soul-inn.html?aid=304142&label=gen173nr-10CAQoggJCHXNlYXJjaF9hbXN0ZXJkYW0sIG5ldGhlcmxhbmRzSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC4vL_xQbAAgHSAiRiNWM2OTA1MS0xNDc1LTQ0NTMtYWU3Ny05YmViOWE5ZDA5ZDbYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=913545b1c8ba03dc&srepoch=1757411686&all_sr_blocks=1312792603_404058199_0_0_0&highlighted_blocks=1312792603_404058199_0_0_0&matching_block_id=1312792603_404058199_0_0_0&sr_pri_blocks=1312792603_404058199_0_0_0__33831&from=searchresults",
+    "address": "Amsterdam",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Amsterdam%2C+Netherlands&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T09:54:47.591Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757411687591_1",
+    "name": "citizenM Amstel Amsterdam",
+    "price": 823,
+    "currency": "USD",
+    "rating": 8.9,
+    "stars": 9,
+    "reviewCount": 266,
+    "avgReview": "8.9/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/266261966.webp?k=f7c1bb3a6585df35bed23af09e7e0927b6d3f98f3f7a17e9df57dbb3684e82eb&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/nl/citizenm-amsterdam-amstel.html?aid=304142&label=gen173nr-10CAQoggJCHXNlYXJjaF9hbXN0ZXJkYW0sIG5ldGhlcmxhbmRzSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC4vL_xQbAAgHSAiRiNWM2OTA1MS0xNDc1LTQ0NTMtYWU3Ny05YmViOWE5ZDA5ZDbYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=913545b1c8ba03dc&srepoch=1757411686&all_sr_blocks=400035701_406253625_2_2_0_636836&highlighted_blocks=400035701_406253625_2_2_0_636836&matching_block_id=400035701_406253625_2_2_0_636836&sr_pri_blocks=400035701_406253625_2_2_0_636836_70040&nad_id=34e7f475-5140-47f9-9234-d33b1b680f14_0&nad_cpc=0.5&nad_track=eyJhdWN0aW9uRXBvY2giOjE3NTc0MTE2ODM0NjIsInJhbmsiOjEsImtvZGRpVHJhY2tpbmdJbmZvIjoiYUlXbm4zRlNnTW5xNzFIRnRMU0g0YzJHMUtySHdibTRoSU9vbVZnbFc0bWZMSTlBMG1lbjgwbGQxYnpML2hxZWxQYXZ4bWlSTjFpUVZJRWl2WGpuM0tWQVhnc1JIOGVybDIyOFhpaTBIaEtZQ1NOVzJwVXFYakxwaGJVRzMySnUwelhiN2psekwwVnA0NWZDcnZ2ZWFmOW5KWGk3TzFYVjB0b0x4TU9hMDNWcFFadVhlanNLWTBUTEYzdFI5TE05RWoxWStTYUtlQkMxTUZ3NFRjM0s1RzFZMFV3K2h6WHMzN0U4MThVQllWcGwraHFRSDJHdUwycENBTENsbENOalF0ZVVGdVI4V1FuRWxwOGFzc3BLeUpkdGhvTW11Q1gyL0tySHJjeTcxTnI5SXFOcy9EdE40NmV6QkxZMU1nT0owVW1aRXFYM2l6WDlIdFRscmY0alJMUWZMeXFXU0pPdlBIK0U3VWViSC9DUmcwbTF5dGdNTjJFbXF5U1l2SThvSkI2ZUJNazlRUUkwYmk5SUljL3dDL3pBV3Q5TEI4amZ1YjNJQ2pPQmsvMnM5N3dxcGp6Y2VDNHpSeW5TRzAwSTJXWXhJYTR1QmZGOTBoMnZKOUsreGp4M251YXg5ellROG5nNm5NNWxkTmR6R1lBa0JKczRDMXpJNXQzOXpzeWcvdjkzeFU0b2ZOelJwT2pTaFIvZFAwQklUc2p4ay9JNGxiNGE1a3lDS28zcnp0RHpZQzV3R3hmYm5xaVgvZzZvdFREV1dXYzBwamdGamdaNFFjUzdJdDhrWnNpZWNQQW1BZHNwQVdLaEZ6TVZtNjJlbWhnVmJtQmJhUkU0dUZ4aThGZ0VhMXRrY2RJdmRTTDAwVWRrNlRxZHkyRlp3SkVIMUJYRnNGYi9lYkNEM3Q3M2ZJRVk4K3FsbHp3a3dPVTRsN0N5REZUMnNxY0k5RVJvOUZ2REN2TFE2MmtTZ3dwU2FkeGxzY2FhdzU3SWRWTDcrbE1iK0t0RGVaUzNpTnY2QlcySGJGODB0L3NYTjJEaUNzK285TkFQQXZYdndBRHNCYjZtN0J5ckVhTHhDWGIrNjN2R2djdXM5ODhMcEF6YldVYUwvVUcvMUVHV3M3VlY5OUNhcUdFcDNTaTJVWnFwSTdJaDlMY1BHU1RsSU0vdUdLSUVDdDJLM3BoMEhFQ1JwdVRuQUFnMDBSanBJV2xuMnF3aXlBVzloVWRvYW9zUmhMZ3ltUzk0QzVBMUJaTTlEbjBJRng0SW9zWmhKbjgxUFJuOXJJbU9RT3ovRTB1bFRKYlJHVjJqUEdhM3QvRXVNN2NWUDYxRk14R09uMERDelFHb0VRWDBIM0VrMDNnYmJHQmo2Ky9sa0hla09zWGQ3elQzSDFlRGdZRkJuTExhUFdIYVpSamYxa1hRMXppRWJRcU55dnpvYS9QcVozYmtGNzRPNEJSNHhKdDlBUjJILzFlSDdkUFZER05aa0ZJeHlpS1RKVTZwSDRuWnFmYi93SjM1SWptcWp5R1pJSmRBb2ZXUnZmUk1ORG1HTSs4a2ZZbmFreU91VkpISnpFdi85cWFZQ2VEU1g0VFV4Z0pMVXBndytTMEdqM0dSZFdRd1JMN3VVV01WM0x3SzVHMkhkTk5vSjE0OHE1eG1PWFZGaUEzNng3b2tISzdGaW9sbDhyWDV5OVhrUkJ6UWtPNmVpUlRYaE5BU2JjdWlnTTlxNHFSRUlDOE5QeVBuL1hteXF2aHlrdG5JUFV5RWlPOTc2OVp0VnFxdnJVWkhsaEtGcHl4ZWZrVkhpbFNmdDA3MzNYZEsxSWs5bDkyK1MrUkRXZDk0SGNUanc3ZGhVWS93MEZ1RnV4MnRqUXRuK0F3STdxOVloUWZlSTArSm9NQm12SGpxdCtabDVPM0ZvTjcrOEhWbVNFYmdOdnhOOHlWWDFOa2YyaFFaaVNaNmhvTml4UDlEVWlObm5rbnZneEVYYmJUSGp5bldnREJCaFdWV3U5cHA4WXpGbEV2bkJvWE5KVkFBZ0lNMWVHd2dzbUN5NUNIbDdhNWVmdWQ5a3hxMnc5TGl5QjJSTDRINElhQmgrWk90OUZZVzlkcm5XL0orL1JFZEFRa0RMc0ErNWpUR2ZlN25jS0RaL1JOamhndDZCd1p1TmU0eHo5WHY3aU9HbzZQMXZuQ0dkdmYzZm1NM0wwYmFNRzJORHpndmZQWlNacHVUQUVYSVNObWg3eFptRlpqOFVMd2ZvM2lLN2RLV2d1T001S1ltK1M1dlJnNkJlVE5pbm9aVjFSR3Brem9BcWhGZlBWZGwwL3pwN1crQnJGeHA1K0ljdmxoekdBclVvODNReHlKb0pqcUgvZ2Z1cEtSVGducmlyRFk4WEFhQmRVckJiNEI3UXlUb3ovK1pMZkZyRnJnQk9wZHh6N05iTjFkK2dGSE5oQ093T0pmZ2NBUWpqSUFPeVlTSXRMM1p5MHpSQWNoRDFJQ3Fyd0xnMVVMS1J0Tm9wNDhKUlNNdHBnK3pMa2lBZmEvVTBGYXNoZTVwakNNcCt1azU5ZTVIN3hBNi9SSEVvby8yQ1dqaXlmTUVVZUZmMENhMUxLVTNFeTN4Zzl1Sk56YzlRMEIrdllMUlUyRHMrKytUNGx4QlZpTjhGZGUra3FlOXc0Z3czcnN1Nk9BOWtBWEloRmdXdnJLZHFPYitLYnBOSi9wNmZ4eUNmQlNpdTNCZlBFOVNFWEhnM2Q1cGViQURLVEVwQmNKTFlxTHkxbkNUcVdFa253a3FFaWJkYncwRi9ZZHJ2UlhaTk9mMGtGczNwaUM2TGVTWE9XK2lHYUFseEN1UjFLaytwbUNiM1hzc1M0VHhnRHZzRnVyWjdXM25FdnZJQlJRUlJwUU9GL3k4dmwvKzZJb1c2MUEyR0NBZVVwMGZNQkdBOUZCcjQxWU9ka1dkODRVNmVOZ3htbytrWmdMV2Yva3V4NWNPVlJVck1rcm5Gc243emUrTStCQzU4Vlk2cjA1VnhxaFI5alFjYm5wREpncklodDJhaW1jWHBDanZXMVZoUXBwaTU5NXJQQjdiWVk5ZkFVMGhXM0FEbjlrZnFYWDhTV0ZraTBJYURqOXYxWEQyR1RUVGp6ZUpJa1JqampFWmd2N2Ura1dsRldkTko3d09Db1IwUzJUUlV2TXdKbE8xeVp5TmVuMnYzbVN0VjZraDhudHB3UEhnM1JyN21FWE44dlRvY3NJNkxRWEEvSVY3VmZ4ajJlbSs1YURicWlRaUNzY0ZDMUN4aGE0NVF1SDN6bU0yZlJvWkdoZFpKeWI5ZEUxaTkwUk9NTW5mNVpJVVdIMDB3NTZCTEZhZTE1cHFiWXNwVU51RzBjQ2ZXYmxMbjVyQk40VVY4NTdscTlISk9TK1p6K3B6aHdwZU4wTWVTVVJLcDJEWGZuM25ZVXV0ZVZlVmFNL3dsZG9ZcmFtbzMxT3M4THg3YkJDQ0hPUnRoY0RHTlVGdlhCY0h1T1pEVUNoSEJhL2ZZbTJmVDV3NkZyYThCOEthSE51LzlmcFJ4NXJUa2NjPSJ9&from=searchresults",
+    "address": "Amsterdam City Center, Amsterdam",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Amsterdam%2C+Netherlands&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T09:54:47.591Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757411687591_2",
+    "name": "Chassé Hotel Residency",
+    "price": 480,
+    "currency": "USD",
+    "rating": 8.9,
+    "stars": 9,
+    "reviewCount": 223,
+    "avgReview": "8.9/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/601402264.webp?k=abe40d1686620b862afb8c3b79300fc0b191753ec71fe56153ea4fa1638309c7&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/nl/chasse-residency-amsterdam.html?aid=304142&label=gen173nr-10CAQoggJCHXNlYXJjaF9hbXN0ZXJkYW0sIG5ldGhlcmxhbmRzSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC4vL_xQbAAgHSAiRiNWM2OTA1MS0xNDc1LTQ0NTMtYWU3Ny05YmViOWE5ZDA5ZDbYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=913545b1c8ba03dc&srepoch=1757411686&all_sr_blocks=1001450701_377100347_0_2_0&highlighted_blocks=1001450701_377100347_0_2_0&matching_block_id=1001450701_377100347_0_2_0&sr_pri_blocks=1001450701_377100347_0_2_0__40845&from=searchresults",
+    "address": "Oost, Amsterdam",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Amsterdam%2C+Netherlands&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T09:54:47.591Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757411687591_3",
+    "name": "DoubleTree by Hilton Amsterdam Centraal Station",
+    "price": 1,
+    "currency": "USD",
+    "rating": 8.3,
+    "stars": 8,
+    "reviewCount": 384,
+    "avgReview": "8.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/506985256.webp?k=d43b1c14a7c2e4ef0366ac7e0ade3673b8dec95cb4aa1b458e260150112581f1&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/nl/double-tree-by-hilton-amsterdam-centraal-station.html?aid=304142&label=gen173nr-10CAQoggJCHXNlYXJjaF9hbXN0ZXJkYW0sIG5ldGhlcmxhbmRzSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC4vL_xQbAAgHSAiRiNWM2OTA1MS0xNDc1LTQ0NTMtYWU3Ny05YmViOWE5ZDA5ZDbYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=913545b1c8ba03dc&srepoch=1757411686&all_sr_blocks=28888324_94704540_2_34_0&highlighted_blocks=28888324_94704540_2_34_0&matching_block_id=28888324_94704540_2_34_0&sr_pri_blocks=28888324_94704540_2_34_0__139002&nad_id=34e7f475-5140-47f9-9234-d33b1b680f14_1&nad_cpc=0.76&nad_track=eyJhdWN0aW9uRXBvY2giOjE3NTc0MTE2ODM0NjMsInJhbmsiOjIsImtvZGRpVHJhY2tpbmdJbmZvIjoiYUlXbm4zRlNnTW5xNzFIRnRMU0g0YzJHMUtySHdibTRoSU9vbVZnbFc0bWZMSTlBMG1lbjgwbGQxYnpML2hxZWxQYXZ4bWlSTjFpUVZJRWl2WGpuM0tWQVhnc1JIOGVybDIyOFhpaTBIaEtZQ1NOVzJwVXFYakxwaGJVRzMySnUwelhiN2psekwwVnA0NWZDcnZ2ZWFmOW5KWGk3TzFYVjB0b0x4TU9hMDNWcFFadVhlanNLWTBUTEYzdFI5TE05RWoxWStTYUtlQkMxTUZ3NFRjM0s1RzFZMFV3K2h6WHMzN0U4MThVQllWcGwraHFRSDJHdUwydElBYmFobGlOalF0ZVVGdVI4V1FuRWxwOGFzc3BLeUpkdGhvTW11Q1gyL0tyT3FjaXozOWpsTE9ONzdUaFA4cmk5R08wdEtobUQyMCtjRUx2aWpqUDNIZHJ6dGY1dUFxY2VMRHFDVG9LMUxEVGE3VVdOSDZLUmdST3loZGdRTVdodXAyckk2c1lrYWhYSUc1NGlSd2xpWVNvZklzejlDK2VPV3BBWkI1cUdxNm5PSENpYjBLbW04NnN4c0REN2NnTXFUQzNFQUZFUDVHa1hKZmh4RnVWOXlRbjdmNUgzMWpGaWpmdW10WGRkcEg1eDBwVmxZdGN5V3RjNUJJZzFURVRRNXRQem5OcXQ1L2h3MzFKNEZaMmMrcStBeWt5ZGRGRlZTTkhIaE5RdTBxWU41a3lDS1p6Z3lzSGlSVDQ5VlZ1R3d2aWYrUVBsKzJXVUdqQnM1VFVSaVFOdlY4UzdJTjB3UDVIZlpmMDhBOTA3VFRPeEFTTll6S3lEbHdBZWRXWmRkaEU0dVY1M3F4MUNmMVpvZGRFeU9Uci8zVVppOEQyZDAyQlN4NVlVeVFLWDdSKytjYmVUeVpla01KTVQvdXFtbHowczMrUWppNkx6U0IvNXZyQU84UWtuc0ZYYlM2NklvVGRVeFY5Slk5MTJxc2pieUlMSVpWWHM4Vk1iNnVJUE40MnR6NW1zQ0diSU53ZHJvdTBYSTJMNVVOaTEvcGxjVHZldmpocnlCYjZtK0FHcEY3bitSaVc0dmphY25vWGg5Y1VhcXcrR1NFeVhxZ2p1MEZhZDl2MEZxb25TcURabGxHYjlXSnE4TGFNODh2QkVYRytoYllhb1YvUlVWb3JKbFpFM1hoTFU0T3Z2RndrNHpGNjNkVGMweE9KNWxFN3duRUl0TmRWY3k3TjEyM2w3QVpjK0RZd2pHVDVHVGwxRS9OUmpJbU0zT0NPdDg5aWFUL3ZqSVVXalhJNkhYQkM5YzJHNnYrZHZZY1ZXZHZ4QUtnZVJxVkREM0FyL1RrTDJHWEFsM2o0RGREdzU4S1QvMEhPdmF2L1krQ3J2WFVERXc4WnV2YlhTWFZIM05CTGtvazdsdWg2NmRUK0lxdU94Sy9YckIyR1FjTTBLNlZVRnA0ZGNOaDJtOEcrRDI5SFFEWFVraGt4Vm5tV3dKZ1h4Ukl2SnBldm9oOGFrYVhTeGltM0lNWUZRL0tLQ3Z2SlZQbWpmYmJGaks4R0szR3ExVzVqRm14aXErTDdJVnIyT1NwV0t4aHBFSHROZ3FXdGJoQ0xBTFd4aFZlSGhWV0VRM2VwVnRHaklkZHB0TjE4cS9NOTFjV1VCMFVheTF1c21YS3pEalk4em9PT3J4ZHVyUUJYRWtPNk5rZ2pIaHNvZk81VDYxZGxrOWVBTGV5TUNOU0h1OFdXeTl2Um9qNGlOYTBLQ2lLa29yTTl1U1BDMHEwME94VTdRc1g0SElWNVluUWZjOFVQdDUzcE8zcUlyaU56dUE3OFZCWXNnRGNlOWtPTStGc3FoNWt1cXV6S3ZwQUZqN3hjZTQ2NVN3bE9hZUVXYnFaOGgrU25Gb2ZSazB2SGJvTjdsL1RNNEhCRHVMdmhKL2pWZGxwZ2R5aGNCaFRGemw1UXBtdjlMVXlsK2tSdXp6MEpCVitlTTBIMlczMkFUM3pGTnRjeHM4WTNJaUNIOEI1ZWJCd1ZMeU45bEp5cDI3U1R1bzJDanRQSU5hSWQ5andqcGhKcWdpMW5GZTZldFlPODB1dDNwcldGUis4S2hEclFucjFsWlNWUldQYTRzOUNMVUxMaTdMNDJlcVVGaWtSUitBUTF1TGVvOWdvSHY5bW5GcnJ6OC9TV09ZZVAzWUdRN0owMk1henZHVEhSNUkrTkhmSTJFWHc3S1NaLysyQ1VyV29pdEQreFU2M2pFcW9QTzF2T044cjBxNG40bmVEM09JbVFyMmFGdjlSRy9rMnhOK2dOSkxFeG93YXloOHlPRHNRcy9zY1J0d0VoekdCM2R0TW5lN0NKb1l5S2Z0eFc5OWZ3UHp5VHhvQ1k4WEFhQmRVckJiNEI3UG5xcmhKREVmb01zU3ZCYkxvOS91YVZXSVZCMHBocVArU1M1Skt2a1NUUWhuY2RmeVl5YTB2MlJpQkdkU2ROTjJzR2hvZ2puN2wvYVhOTm90WkViRTNOMi8xWDdRQjdSYzdlVi9GcXppdWhqa2lNLzZLRis1K0pTNHl3cjJ3N1Nvby8yQ1dqaXlmTUVVZUZmMENXaU5ia2tWRWludEluQU4yRndkQWMzNWRxY1VTMnZ0UHZEdHhnZFZtbzNMNUN3aXVtbHg5MGtqL2hqOGVZOG1saUowUVFZc09PQXJ1S3FkdlJsSitRNmVSeWFOVWY3OEh4SklFY0NZai83ek41cmRiTXlmR0psRmQ4ZVBiVG5qenlTdTNZeHBSRWdGUmpmWnc0ZXVzNXI4eHlHWmVtbGlWbzN0RE9yS2ZtZVBGSzRIZTVxa25TUmphY3grQ2VHMG0weFhNZTkwSDZpR3UzUjRTNnRUYmFFRHdWQkRzRk1WdWl3dmhTbHI5Skc1MEUzRmpnSFd0NUxhVm1BclFFenBGd0VZRVdaODlOeWQ5azRrZHJ2Y2xLRkxMQlR3cG9WWHdCbWVoT3NVTWZqMCtpSjkxbkU1MGc4bzFsVjFMMU8vR1FFZGlrQmUxeUswUEtMbG5ZQW5pRGdUV1YrZElCRTlkSXRKQkNhYUo1S0Nrc1hYV3NTaU9NWXJpNlpGVGttOWtJYURrSTNqbVhyTmpqRnhHaldiUU5Ua1RCSnlxYUxzemlrREdBd2FmVlNUYlJyU2pTWkNydDNGa2FnMXN6ZUxqVFMwbWFuRXZwL3Z6VloxZVR4alVtdjBUakI4UEN0SVp4M1l6WFI1WTh3QWEwanBPdTk5ZWVWNlNvNkM4QUFBQlg5aHFzQ1JmVG9zekJpY3dKYVcxd0VhMjNzYkE4MTcwazlZZC9FNElJVVRWdC9uWjdKZmdHRGdjVTZMYzl1R052ZWt1cWZTTGwxZzU3Vkp2aE5wSS8rcllpTmJIL2JrSzFsMFVRZEhWSVNYMzlIdEV6U1RudjNiZ0x5TDFlRGVZcTUyODBhcnFhVXhHVzc5N1o3VmwvWFNQejJhYmd4REExUTlFVUp0T0RvU0l2biJ9&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Amsterdam City Center, Amsterdam",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Amsterdam%2C+Netherlands&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T09:54:47.591Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757411687591_4",
+    "name": "St Christopher's Inn Amsterdam - The Winston",
+    "price": 458,
+    "currency": "USD",
+    "rating": 7.9,
+    "stars": 8,
+    "reviewCount": 1042,
+    "avgReview": "7.9/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/183610454.webp?k=c6c6e1ae41b36124e2d46762837e324d086418ed4c41c834e3de47dcaedca687&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/nl/st-christophers-inn-at-the-winston.html?aid=304142&label=gen173nr-10CAQoggJCHXNlYXJjaF9hbXN0ZXJkYW0sIG5ldGhlcmxhbmRzSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC4vL_xQbAAgHSAiRiNWM2OTA1MS0xNDc1LTQ0NTMtYWU3Ny05YmViOWE5ZDA5ZDbYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=913545b1c8ba03dc&srepoch=1757411686&all_sr_blocks=48294807_94473496_2_2_0&highlighted_blocks=48294807_94473496_2_2_0&matching_block_id=48294807_94473496_2_2_0&sr_pri_blocks=48294807_94473496_2_2_0__38969&from=searchresults",
+    "address": "Amsterdam City Center, Amsterdam",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Amsterdam%2C+Netherlands&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T09:54:47.591Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757411687591_5",
+    "name": "Hotel 717",
+    "price": 1,
+    "currency": "USD",
+    "rating": 8.9,
+    "stars": 9,
+    "reviewCount": 326,
+    "avgReview": "8.9/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/426851118.webp?k=2bdfdd33a038e4a58824a9bb48c1a05900816325d4ae3be0fc8529bcd46128ae&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/nl/prinsen-suites.html?aid=304142&label=gen173nr-10CAQoggJCHXNlYXJjaF9hbXN0ZXJkYW0sIG5ldGhlcmxhbmRzSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC4vL_xQbAAgHSAiRiNWM2OTA1MS0xNDc1LTQ0NTMtYWU3Ny05YmViOWE5ZDA5ZDbYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=913545b1c8ba03dc&srepoch=1757411686&all_sr_blocks=833624718_348647253_0_0_0&highlighted_blocks=833624718_348647253_0_0_0&matching_block_id=833624718_348647253_0_0_0&sr_pri_blocks=833624718_348647253_0_0_0__104410&from=searchresults",
+    "address": "Amsterdam City Center, Amsterdam",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Amsterdam%2C+Netherlands&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T09:54:47.591Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757411687591_6",
+    "name": "ClinkNOORD Hostel",
+    "price": 448,
+    "currency": "USD",
+    "rating": 8,
+    "stars": 8,
+    "reviewCount": 554,
+    "avgReview": "8.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/70055561.webp?k=dea5e6b730008ab6ba6314f54acf4d5e2f2e3764f6ee2441c20f450d75be90c5&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/nl/clinknoord.html?aid=304142&label=gen173nr-10CAQoggJCHXNlYXJjaF9hbXN0ZXJkYW0sIG5ldGhlcmxhbmRzSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC4vL_xQbAAgHSAiRiNWM2OTA1MS0xNDc1LTQ0NTMtYWU3Ny05YmViOWE5ZDA5ZDbYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=913545b1c8ba03dc&srepoch=1757411686&all_sr_blocks=132464809_93250478_0_2_0_1185076&highlighted_blocks=132464809_93250478_0_2_0_1185076&matching_block_id=132464809_93250478_0_2_0_1185076&sr_pri_blocks=132464809_93250478_0_2_0_1185076_38174&from=searchresults",
+    "address": "Amsterdam Noord, Amsterdam",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Amsterdam%2C+Netherlands&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T09:54:47.591Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757411687591_7",
+    "name": "Citadines Canal Amsterdam",
+    "price": 684,
+    "currency": "USD",
+    "rating": 8.8,
+    "stars": 9,
+    "reviewCount": 899,
+    "avgReview": "8.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/551986439.webp?k=282913458935623472db21532bf3007dbb9a5ced2426e892b60027da5fb74552&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/nl/citadines-canal-amsterdam.html?aid=304142&label=gen173nr-10CAQoggJCHXNlYXJjaF9hbXN0ZXJkYW0sIG5ldGhlcmxhbmRzSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC4vL_xQbAAgHSAiRiNWM2OTA1MS0xNDc1LTQ0NTMtYWU3Ny05YmViOWE5ZDA5ZDbYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=913545b1c8ba03dc&srepoch=1757411686&all_sr_blocks=937191701_0_2_0_0&highlighted_blocks=937191701_0_2_0_0&matching_block_id=937191701_0_2_0_0&sr_pri_blocks=937191701_0_2_0_0__58200&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Amsterdam City Center, Amsterdam",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Amsterdam%2C+Netherlands&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T09:54:47.591Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757411687591_8",
+    "name": "Ruby Emma Hotel Amsterdam",
+    "price": 456,
+    "currency": "USD",
+    "rating": 8.8,
+    "stars": 9,
+    "reviewCount": 293,
+    "avgReview": "8.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/643015574.webp?k=727d24403ee3683a8e92635b96d5c5ddd928136dfb97a2adf39604864402d213&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/nl/ruby-emma.html?aid=304142&label=gen173nr-10CAQoggJCHXNlYXJjaF9hbXN0ZXJkYW0sIG5ldGhlcmxhbmRzSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC4vL_xQbAAgHSAiRiNWM2OTA1MS0xNDc1LTQ0NTMtYWU3Ny05YmViOWE5ZDA5ZDbYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=913545b1c8ba03dc&srepoch=1757411686&all_sr_blocks=192656039_104577741_2_2_0&highlighted_blocks=192656039_104577741_2_2_0&matching_block_id=192656039_104577741_2_2_0&sr_pri_blocks=192656039_104577741_2_2_0__38806&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Oost, Amsterdam",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Amsterdam%2C+Netherlands&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T09:54:47.591Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757411687591_9",
+    "name": "Conscious Hotel Vondelpark",
+    "price": 475,
+    "currency": "USD",
+    "rating": 8.5,
+    "stars": 9,
+    "reviewCount": 69,
+    "avgReview": "8.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/603836386.webp?k=9346115e6d6af2342a4144ffca04a95f056e3d540b749a3f869576c54fef21fe&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/nl/conscious-vondelpark.html?aid=304142&label=gen173nr-10CAQoggJCHXNlYXJjaF9hbXN0ZXJkYW0sIG5ldGhlcmxhbmRzSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC4vL_xQbAAgHSAiRiNWM2OTA1MS0xNDc1LTQ0NTMtYWU3Ny05YmViOWE5ZDA5ZDbYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=913545b1c8ba03dc&srepoch=1757411686&all_sr_blocks=25418704_91468978_0_2_0&highlighted_blocks=25418704_91468978_0_2_0&matching_block_id=25418704_91468978_0_2_0&sr_pri_blocks=25418704_91468978_0_2_0__40401&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Oud West, Amsterdam",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Amsterdam%2C+Netherlands&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T09:54:47.591Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

@@ -1,0 +1,320 @@
+[
+  {
+    "id": "hotel_1755801111353_2",
+    "name": "Grand Prince Hotel Takanawa",
+    "price": 0,
+    "currency": "USD",
+    "rating": 0,
+    "reviewCount": 389,
+    "avgReview": "0/5",
+    "images": [
+      "https://images.trvl-media.com/lodging/1000000/530000/528700/528661/e5485cf6.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    ],
+    "bookingUrl": "https://www.expedia.com/user/signin?uurl=e3id%3Dredr%26rurl%3D%2FHotel-Search%3FregionId%3D179900%26destination%3DTokyo%2B%2528and%2Bvicinity%2529%252C%2BTokyo%2BPrefecture%252C%2BJapan%26startDate%3D2025-08-28%26endDate%3D2025-08-31%26adults%3D2%26userIntent%3D%26sort%3DRECOMMENDED%26vip%3Dfalse%26selected%3D528661&partnerLang=en_US",
+    "address": {
+      "ancestorOrigins": {},
+      "href": "https://www.expedia.com/Hotel-Search?destination=Tokyo&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+      "origin": "https://www.expedia.com",
+      "protocol": "https:",
+      "host": "www.expedia.com",
+      "hostname": "www.expedia.com",
+      "port": "",
+      "pathname": "/Hotel-Search",
+      "search": "?destination=Tokyo&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+      "hash": "",
+      "assign": {},
+      "reload": {},
+      "replace": {},
+      "toString": {}
+    },
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.expedia.com/Hotel-Search?destination=Tokyo&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+    "scrapedAt": "2025-08-21T18:31:51.353Z",
+    "source": "Expedia (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755801111353_3",
+    "name": "Hotel New Otani Tokyo The Main",
+    "price": 0,
+    "currency": "USD",
+    "rating": 0,
+    "reviewCount": 578,
+    "avgReview": "0/5",
+    "images": [
+      "https://a.travel-assets.com/media/meso_cm/PAPI/Images/lodging/1000000/20000/16200/16187/65774cdf_b.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    ],
+    "bookingUrl": "https://www.expedia.com/Tokyo-Hotels-Hotel-New-Otani-Tokyo-The-Main.h16187.Hotel-Information?chkin=2025-08-28&chkout=2025-08-31&x_pwa=1&rfrr=HSR&pwa_ts=1755801079116&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=179900&destination=Tokyo+%28and+vicinity%29%2C+Tokyo+Prefecture%2C+Japan&destType=MARKET&neighborhoodId=553248635389795490&latLong=35.675%2C139.76&trackingData=AAAAAQAAAAEAAAAQa_KgBlqbz6-qi7hZYsNRO8DfFUILRLDrEWIpxb5iou6IXpWWxR-zX7wPmaoOGSI3G0r-9GZUuEoJ9E2gu_834pb6KI6EJRdGEwYf1k9R17lLJqwC-a_GvHv5Rvd4LUL6nOkezwdqUlUzyrm4_doTGOSuG0hEnGMniMRBTlFcwdknrC-6rlX4zlxFTvISjbJyl4O09CtbE24d9Z5ZZSJP1VS-6Z_NqYkFqexWj5f16gcUFSWuvlae3sCHJETduiJLVe5h80efG3MJvjvbM50rVT-np-6AGTkrv6EVBB8q91pS8swKNCk7j87SgWHklFYGMpzDNJYFlQNhu-ozA8i7itv_feeeTcCCqp59Od8s2qO8pzmVXHQ56dTvp_Lu6NqMvijSI84syxFI2ZTDhJBpegL2Dgm11mXGaFbNEqNDIdvJUomuh5ToCVTOLZvzqP0AN314ICSPtDMOa6vM7Hbln_2blNS9HRlbYl7FEX4VX_oSG-cOO9Dg_fd5nSTwN0uasY1Abodp4uxbLLLh9gJPppJXpHEel4RqiFAoKgyyh8fF16gjIMQnfFaYEd4iYhfhAxSU7xc1Nt4R7dI4zsmVB28bpY9MI2ObD-N08nw1kf7Kp6mET1b81kaARFxv-VjU7uLMS_pEG8uuEL-44qAiprn074i6GHxCueC-KMJIK84yLpEyZOZtLVEjQKTK9AfO06YJTDwQA3gzFpYMgX2wN5JqqiEoExi2L1SVSNEzUGe78VAiAODDr3CYlKRvsroe9IVwr7eCPRSwC8mxAGN_B-TnEeJh6bt7cERpVKVPCB5giFPn37LxiHQ9nGhzVd4S2oShcpW4S6TWI2KKBHM5NjokmkELXPTKvS6qLg7yTBP6tLMq90QDdsecJfX7Ct0a8rVmaBKNQJthfrPPFv3Zbr9r1fQiagWmf3CSTa6p0ReRdxVzqSX9IMs51Zrivh1IPxTW--I7H1vu4oUo0pS6-US5yJtAAYy2lvzNfx1ChfjUUJmLJkQHqtv9e4Uu35CckjV0AHd3bCeIlvXfshZxI8zTUWK-HbtBAUxCnRaMgNUfTTU0oW8lhqGDq59LU-qNq1PQDzTY7K-WCkOf44yZuSV7m5xEvF0TwE0UDNrOr7f8AP9pokBv7uWwu-NxQyEGlKRRDoo8sKJOFzPSVa_AgnAiJqc2UQ00itgDpgKmXr4ah237VZvebIPbiUcAHtzDfLJVKcEADD5h7cVODllABQ6iVDxUkkBsZyQd8X15DgjDjSy7X2uFVZdoqnZ-cO3ZEeaIoFU8JwY1KL5BhKjIKkBraht1m7VfDnL1EjrlD9fhSIuygEB3BQP2eL1peOdbJzG9zweh3Blm7VCO58r13Q%3D%3D&rank=2&testVersionOverride=Buttercup%2C39483.0.0%2C50028.0.0%2C50813.0.0%2C51642.169494.0%2C51690.201908.0%2C52131.187852.1%2C54709.194717.1%2C59134.227540.1%2C50988.158353.0%2C60140.211636.0%2C54072.0.0%2C57292.0.0&slots=&position=2&beaconIssued=&sort=RECOMMENDED&top_dp=1057&top_cur=USD&userIntent=&selectedRoomType=212404736&selectedRatePlan=236079360&searchId=1d7b0cc3-4cae-4e92-8cba-12b0c0361eb7",
+    "address": {
+      "ancestorOrigins": {},
+      "href": "https://www.expedia.com/Hotel-Search?destination=Tokyo&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+      "origin": "https://www.expedia.com",
+      "protocol": "https:",
+      "host": "www.expedia.com",
+      "hostname": "www.expedia.com",
+      "port": "",
+      "pathname": "/Hotel-Search",
+      "search": "?destination=Tokyo&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+      "hash": "",
+      "assign": {},
+      "reload": {},
+      "replace": {},
+      "toString": {}
+    },
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.expedia.com/Hotel-Search?destination=Tokyo&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+    "scrapedAt": "2025-08-21T18:31:51.353Z",
+    "source": "Expedia (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755801111353_4",
+    "name": "Hotel Gracery Shinjuku",
+    "price": 0,
+    "currency": "USD",
+    "rating": 9,
+    "reviewCount": 103,
+    "avgReview": "9/5",
+    "images": [
+      "https://images.trvl-media.com/lodging/10000000/9110000/9104500/9104481/875105c4.jpg?impolicy=resizecrop&rw=455&ra=fit"
+    ],
+    "bookingUrl": "https://www.expedia.com/Tokyo-Hotels-Hotel-Gracery-Shinjuku.h9104481.Hotel-Information?chkin=2025-08-28&chkout=2025-08-31&x_pwa=1&rfrr=HSR&pwa_ts=1755801079118&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=179900&destination=Tokyo+%28and+vicinity%29%2C+Tokyo+Prefecture%2C+Japan&destType=MARKET&neighborhoodId=6155217&latLong=35.675%2C139.76&sort=RECOMMENDED&top_dp=513&top_cur=USD&userIntent=&selectedRoomType=218748526&selectedRatePlan=278179373&searchId=1d7b0cc3-4cae-4e92-8cba-12b0c0361eb7",
+    "address": {
+      "ancestorOrigins": {},
+      "href": "https://www.expedia.com/Hotel-Search?destination=Tokyo&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+      "origin": "https://www.expedia.com",
+      "protocol": "https:",
+      "host": "www.expedia.com",
+      "hostname": "www.expedia.com",
+      "port": "",
+      "pathname": "/Hotel-Search",
+      "search": "?destination=Tokyo&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+      "hash": "",
+      "assign": {},
+      "reload": {},
+      "replace": {},
+      "toString": {}
+    },
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.expedia.com/Hotel-Search?destination=Tokyo&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+    "scrapedAt": "2025-08-21T18:31:51.353Z",
+    "source": "Expedia (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755801111353_5",
+    "name": "THE KNOT TOKYO Shinjuku",
+    "price": 0,
+    "currency": "USD",
+    "rating": 8.8,
+    "reviewCount": 852,
+    "avgReview": "8.8/5",
+    "images": [],
+    "bookingUrl": "https://www.expedia.com/Tokyo-Hotels-THE-KNOT-TOKYO-Shinjuku.h1179444.Hotel-Information?chkin=2025-08-28&chkout=2025-08-31&x_pwa=1&rfrr=HSR&pwa_ts=1755801085506&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=179900&destination=Tokyo+%28and+vicinity%29%2C+Tokyo+Prefecture%2C+Japan&destType=MARKET&neighborhoodId=553248633981698851&latLong=35.675%2C139.76&sort=RECOMMENDED&top_dp=406&top_cur=USD&userIntent=&selectedRoomType=214202181&selectedRatePlan=248035450&searchId=1d7b0cc3-4cae-4e92-8cba-12b0c0361eb7",
+    "address": {
+      "ancestorOrigins": {},
+      "href": "https://www.expedia.com/Hotel-Search?destination=Tokyo&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+      "origin": "https://www.expedia.com",
+      "protocol": "https:",
+      "host": "www.expedia.com",
+      "hostname": "www.expedia.com",
+      "port": "",
+      "pathname": "/Hotel-Search",
+      "search": "?destination=Tokyo&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+      "hash": "",
+      "assign": {},
+      "reload": {},
+      "replace": {},
+      "toString": {}
+    },
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.expedia.com/Hotel-Search?destination=Tokyo&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+    "scrapedAt": "2025-08-21T18:31:51.353Z",
+    "source": "Expedia (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755801111353_6",
+    "name": "Daiwa Roynet Hotel Nishi Shinjuku PREMIER",
+    "price": 0,
+    "currency": "USD",
+    "rating": 9.4,
+    "reviewCount": 345,
+    "avgReview": "9.4/5",
+    "images": [],
+    "bookingUrl": "https://www.expedia.com/Tokyo-Hotels-Daiwa-Roynet-Hotel-Nishi-Shinjuku.h27048315.Hotel-Information?chkin=2025-08-28&chkout=2025-08-31&x_pwa=1&rfrr=HSR&pwa_ts=1755801085508&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=179900&destination=Tokyo+%28and+vicinity%29%2C+Tokyo+Prefecture%2C+Japan&destType=MARKET&neighborhoodId=553248633981698851&latLong=35.675%2C139.76&sort=RECOMMENDED&top_dp=550&top_cur=USD&userIntent=&selectedRoomType=210011605&selectedRatePlan=220051629&searchId=1d7b0cc3-4cae-4e92-8cba-12b0c0361eb7",
+    "address": {
+      "ancestorOrigins": {},
+      "href": "https://www.expedia.com/Hotel-Search?destination=Tokyo&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+      "origin": "https://www.expedia.com",
+      "protocol": "https:",
+      "host": "www.expedia.com",
+      "hostname": "www.expedia.com",
+      "port": "",
+      "pathname": "/Hotel-Search",
+      "search": "?destination=Tokyo&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+      "hash": "",
+      "assign": {},
+      "reload": {},
+      "replace": {},
+      "toString": {}
+    },
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.expedia.com/Hotel-Search?destination=Tokyo&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+    "scrapedAt": "2025-08-21T18:31:51.353Z",
+    "source": "Expedia (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755801111353_7",
+    "name": "Hotel Chinzanso Tokyo",
+    "price": 0,
+    "currency": "USD",
+    "rating": 9.6,
+    "reviewCount": 1042,
+    "avgReview": "9.6/5",
+    "images": [],
+    "bookingUrl": "https://www.expedia.com/Tokyo-Hotels-Hotel-Chinzanso-Tokyo.h5394230.Hotel-Information?chkin=2025-08-28&chkout=2025-08-31&x_pwa=1&rfrr=HSR&pwa_ts=1755801085511&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=179900&destination=Tokyo+%28and+vicinity%29%2C+Tokyo+Prefecture%2C+Japan&destType=MARKET&neighborhoodId=553248635976382963&latLong=35.675%2C139.76&trackingData=AAAAAQAAAAEAAAAQQOKeEHyXrpsK1vfIE2WQ1faoe87EqgLL8Gqwfik9-HKZqt728TWM3YqwWz6R4BqwywzL9i1TSmlZWVTJ8NZStJwHlY3d4TjJZxteWUUt7KL94SokaTxYcTYb2zuQutO1_8wygnVA1pYf1rvyg4Iuq4mpbVhNEOe5_YqD3FTtoOe33C39sjQiqINSMvGFdr2s-VkPz7eNViTn5zej_lNnp_kgS_Ru-YYjpBxA2LbxmGcf1OkjTdp-pT2akRfTtuSMAa1v-MTn9Y_7ufiqegJViKJ9NZUo6Z334KzcqN9bovP88c9AYAC885vi_gECWBwT4VnM_7l3xAvD4_gHRgdXSLrHoZ-VeSTxy-FFmidlbAbj4Skj3D9iaupoQf_PLVhxTC5XFV4wwKquT3fMHJ7Xfy9li2eNoSHKdOFM5BD96RGtFdrzGIOiFliAT5JNvAr9bjuSFfsz2zzh4JS0y0xjV9yZjKsXG4fNAG3Zvrg4tBqjpVUf9rC3bLd6JpBJ9WkJiWNoAW0BrvabOmICf4W1hRm7QjUgg_Uz3e5mYFwiRwJkAqTeEoLA3goS7Auc4FBT-pwzUM7Z6i9e3eUJNlZdx9A7F-ZXttFKNlrkRkH_JpAMWCd10C32COsMlX8CI14Bfpk6-aehej9q1lb0mLziAoptnLUJSDzExtvbSFVwjrULILvZUU8P0ZMBUEfl29CZR90qMwbSVq-2s2kmpDvhG1qFOYaWtUTb1BoJfLYWkZQbVbE58aAatC_9Stg79PH0IPNkYbDbCIA9166QsZFIIJR8lHwEB7HRlEpZvm6YpgT4yl74155hN7CYrqvfCLbRZeflbaCdG64doN7X3rj4OtIdrjV8ou0fRKzWeW9D2enu2-UBlDH091NiCbNTVokVb84Z12tsEC6Frw1qcCqC5elCCDMKk0C4WSXyPTEBoSuMwwKIErSGYU5J1r8W5k-F-yLGAHz28TC-ApGQmxzWHyq0QRuPWylFvUcwH0U0EPzEXfBf00A34DdXht9zP5YImjWTGIZKV_pE8cKudCf2e_31ZRRc32f-LFyjS8fb7sIri8VN15NYkrQpV0xW57fvvPFlXKEaFnhpwErIsB5Xgc6BF2c02XuqhfRn_GS-Fg6ji8ogmyCL2X9TnhmgiM99570gvuhm-QI3MiSKZZttKCcw-u9HV0Z7ysFWeESUzJ7s2Obydbo_SpSFwuK_8PMNjY7ZKyxIObOJk-3XLDp55I8XT4dEdxIyfvmDheEMVgLUifEOL_cfoqxop4KSQ5quLqgFDfAIS-9JTmFm1ojlOYAAZpYxUm48bRo36TqhtfYKW4EqkHaWo4fr8-UlmGAQZg4iRsfn2H6kumflciswTg%3D%3D&rank=3&testVersionOverride=Buttercup%2C39483.0.0%2C50028.0.0%2C50813.0.0%2C51642.169494.0%2C51690.201908.0%2C52131.187852.1%2C54709.194717.1%2C59134.227540.1%2C50988.158353.0%2C60140.211636.0%2C54072.0.0%2C57292.0.0&slots=&position=6&beaconIssued=&sort=RECOMMENDED&top_dp=992&top_cur=USD&userIntent=&selectedRoomType=202414373&selectedRatePlan=399820700&searchId=1d7b0cc3-4cae-4e92-8cba-12b0c0361eb7",
+    "address": {
+      "ancestorOrigins": {},
+      "href": "https://www.expedia.com/Hotel-Search?destination=Tokyo&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+      "origin": "https://www.expedia.com",
+      "protocol": "https:",
+      "host": "www.expedia.com",
+      "hostname": "www.expedia.com",
+      "port": "",
+      "pathname": "/Hotel-Search",
+      "search": "?destination=Tokyo&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+      "hash": "",
+      "assign": {},
+      "reload": {},
+      "replace": {},
+      "toString": {}
+    },
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.expedia.com/Hotel-Search?destination=Tokyo&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+    "scrapedAt": "2025-08-21T18:31:51.353Z",
+    "source": "Expedia (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755801111353_8",
+    "name": "Mitsui Garden Hotel Roppongi Tokyo Premier",
+    "price": 0,
+    "currency": "USD",
+    "rating": 9.2,
+    "reviewCount": 619,
+    "avgReview": "9.2/5",
+    "images": [],
+    "bookingUrl": "https://www.expedia.com/user/signin?uurl=e3id%3Dredr%26rurl%3D%2FHotel-Search%3FregionId%3D179900%26destination%3DTokyo%2B%2528and%2Bvicinity%2529%252C%2BTokyo%2BPrefecture%252C%2BJapan%26startDate%3D2025-08-28%26endDate%3D2025-08-31%26adults%3D2%26userIntent%3D%26sort%3DRECOMMENDED%26vip%3Dfalse%26selected%3D38991767&partnerLang=en_US",
+    "address": {
+      "ancestorOrigins": {},
+      "href": "https://www.expedia.com/Hotel-Search?destination=Tokyo&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+      "origin": "https://www.expedia.com",
+      "protocol": "https:",
+      "host": "www.expedia.com",
+      "hostname": "www.expedia.com",
+      "port": "",
+      "pathname": "/Hotel-Search",
+      "search": "?destination=Tokyo&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+      "hash": "",
+      "assign": {},
+      "reload": {},
+      "replace": {},
+      "toString": {}
+    },
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.expedia.com/Hotel-Search?destination=Tokyo&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+    "scrapedAt": "2025-08-21T18:31:51.353Z",
+    "source": "Expedia (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755801111353_9",
+    "name": "APA Hotel Shinjuku Kabukicho Tower",
+    "price": 0,
+    "currency": "USD",
+    "rating": 8.2,
+    "reviewCount": 945,
+    "avgReview": "8.2/5",
+    "images": [],
+    "bookingUrl": "https://www.expedia.com/Tokyo-Hotels-APA-Hotel-Shinjuku-Kabukicho-Tower.h11598047.Hotel-Information?chkin=2025-08-28&chkout=2025-08-31&x_pwa=1&rfrr=HSR&pwa_ts=1755801085516&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=179900&destination=Tokyo+%28and+vicinity%29%2C+Tokyo+Prefecture%2C+Japan&destType=MARKET&neighborhoodId=6155217&latLong=35.675%2C139.76&sort=RECOMMENDED&top_dp=348&top_cur=USD&userIntent=&selectedRoomType=201164052&selectedRatePlan=205520033&searchId=1d7b0cc3-4cae-4e92-8cba-12b0c0361eb7",
+    "address": {
+      "ancestorOrigins": {},
+      "href": "https://www.expedia.com/Hotel-Search?destination=Tokyo&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+      "origin": "https://www.expedia.com",
+      "protocol": "https:",
+      "host": "www.expedia.com",
+      "hostname": "www.expedia.com",
+      "port": "",
+      "pathname": "/Hotel-Search",
+      "search": "?destination=Tokyo&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+      "hash": "",
+      "assign": {},
+      "reload": {},
+      "replace": {},
+      "toString": {}
+    },
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.expedia.com/Hotel-Search?destination=Tokyo&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+    "scrapedAt": "2025-08-21T18:31:51.353Z",
+    "source": "Expedia (ScraperAPI)"
+  }
+]

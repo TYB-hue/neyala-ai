@@ -28,11 +28,25 @@ interface ItineraryPanelProps {
       rating: number;
       price: number;
     }>;
-    activities: Array<{
-      name: string;
-      description: string;
+    itineraries: Array<{
       day: number;
-      time: string;
+      date: string;
+      title: string;
+      morning: {
+        activity: string;
+        description: string;
+        time: string;
+      };
+      afternoon: {
+        activity: string;
+        description: string;
+        time: string;
+      };
+      restaurant: {
+        name: string;
+        cuisine: string;
+        description: string;
+      };
     }>;
     transportation: Array<{
       type: string;
@@ -136,19 +150,32 @@ export default function ItineraryPanel({ isOpen, onClose, itinerary }: Itinerary
           </section>
 
           <section>
-            <h3 className="text-xl font-semibold mb-3">Daily Activities</h3>
-            <div className="space-y-6">
-              {itinerary.activities.map((activity, index) => (
-                <div key={index} className="bg-gray-50 p-4 rounded-lg">
-                  <div className="flex justify-between items-start mb-2">
-                    <h4 className="font-medium">{activity.name}</h4>
-                    <span className="text-gray-500">Day {activity.day}</span>
-                  </div>
-                  <p className="text-gray-600 mb-2">{activity.description}</p>
-                  <p className="text-sm text-gray-500">{activity.time}</p>
+                    <h3 className="text-xl font-semibold mb-3">Daily Itineraries</h3>
+        <div className="space-y-6">
+          {itinerary.itineraries.map((day, dayIndex) => (
+            <div key={dayIndex} className="bg-gray-50 p-4 rounded-lg">
+              <h4 className="font-medium mb-3">{day.title}</h4>
+              
+              <div className="space-y-3">
+                <div>
+                  <p className="font-medium">🌅 Morning: {day.morning.activity}</p>
+                  <p className="text-sm text-gray-600">{day.morning.description}</p>
+                  <p className="text-sm text-gray-500">{day.morning.time}</p>
                 </div>
-              ))}
+                <div>
+                  <p className="font-medium">🌞 Afternoon: {day.afternoon.activity}</p>
+                  <p className="text-sm text-gray-600">{day.afternoon.description}</p>
+                  <p className="text-sm text-gray-500">{day.afternoon.time}</p>
+                </div>
+                <div className="mt-2 pt-2 border-t border-gray-200">
+                  <p className="font-medium">🍽️ Restaurant:</p>
+                  <p className="text-sm text-gray-600">{day.restaurant.name} ({day.restaurant.cuisine})</p>
+                  <p className="text-sm text-gray-600">{day.restaurant.description}</p>
+                </div>
+              </div>
             </div>
+          ))}
+        </div>
           </section>
 
           <section>

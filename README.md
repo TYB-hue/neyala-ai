@@ -1,6 +1,6 @@
-# NEYALA.AI - Smart Travel Planning
+# Nyala - Smart Travel Planning
 
-NEYALA.AI is an AI-powered travel planning platform that creates personalized itineraries based on your specific needs and preferences. Named after one of Sudan's largest cities, NEYALA.AI aims to make travel planning accessible and enjoyable for everyone.
+Nyala is an AI-powered travel planning platform that creates personalized itineraries based on your specific needs and preferences. Named after one of Sudan's largest cities, Nyala aims to make travel planning accessible and enjoyable for everyone.
 
 ## Features
 
@@ -22,6 +22,9 @@ NEYALA.AI is an AI-powered travel planning platform that creates personalized it
 - **Database**: Supabase
 - **Authentication**: Clerk
 - **AI Integration**: OpenAI GPT-4
+- **Image APIs**: Pexels API, GOMAPS.PRO API
+- **Web Scraping**: ScraperAPI, Puppeteer
+- **Maps**: Google Maps API
 
 ## Getting Started
 
@@ -50,6 +53,9 @@ NEYALA.AI is an AI-powered travel planning platform that creates personalized it
    # OpenAI
    OPENAI_API_KEY=your_openai_api_key
 
+   # Google Maps Places API (for airport photos and hotel details)
+   GOMAPS_API_KEY=your_google_maps_api_key
+
    # App Configuration
    NEXT_PUBLIC_APP_URL=http://localhost:3000
    ```
@@ -60,6 +66,21 @@ NEYALA.AI is an AI-powered travel planning platform that creates personalized it
    ```
 
 5. Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+## API Integrations
+
+### Google Maps Places API
+The application uses Google Maps Places API to fetch high-quality airport photos and hotel details:
+
+- **Airport Photos**: Real photos of airports from Google Places API
+- **Hotel Details**: Comprehensive hotel information including photos, ratings, and contact details
+- **Fallback System**: Graceful fallback to Pexels API if Google Maps API is unavailable
+
+### Pexels API
+Used for destination header images and fallback images when GOMAPS.PRO is not available.
+
+### ScraperAPI
+Used for web scraping hotel data from Booking.com and Expedia with anti-bot protection.
 
 ## Project Structure
 

@@ -1,0 +1,272 @@
+[
+  {
+    "id": "hotel_1757441237127_0",
+    "name": "Bermondsey Apartments By Sleepy Lodge",
+    "price": 704,
+    "currency": "USD",
+    "rating": 10,
+    "stars": 10,
+    "reviewCount": 984,
+    "avgReview": "10.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/721246209.webp?k=4fa895d956f254b09491c5874e8875d089f845d23bb87a3e6c4646dcfab8dd2e&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/gb/bermondsey-heights-by-sleepy-lodge.html?aid=304142&label=gen173nr-10CAQoggJCEXNlYXJjaF9sb25kb24sIHVrSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC0NmBxgbAAgHSAiQxYjM2ZDk5NS1iMDcwLTRiZDgtYjk4MC0xODg4ODRkNjA4ZWTYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=6c967f68efc1003b&srepoch=1757441235&all_sr_blocks=1459502801_417621576_2_0_0&highlighted_blocks=1459502801_417621576_2_0_0&matching_block_id=1459502801_417621576_2_0_0&sr_pri_blocks=1459502801_417621576_2_0_0__52020&from=searchresults",
+    "address": "Southwark, London",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=London%2C+UK&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T18:07:17.127Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757441237127_1",
+    "name": "BnBNova - Paddington - 3BR with Balcony",
+    "price": 532,
+    "currency": "USD",
+    "rating": 4.005047221317896,
+    "stars": 4,
+    "reviewCount": 276,
+    "avgReview": "4.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/740756898.webp?k=b99dee406493fefe8eae43ac7a6a9b0f51c7be422c16574160efda8237e555b8&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/gb/elegant-3br-near-paddington-station-london1.html?aid=304142&label=gen173nr-10CAQoggJCEXNlYXJjaF9sb25kb24sIHVrSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC0NmBxgbAAgHSAiQxYjM2ZDk5NS1iMDcwLTRiZDgtYjk4MC0xODg4ODRkNjA4ZWTYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=6c967f68efc1003b&srepoch=1757441235&all_sr_blocks=1487172001_420256481_2_0_0&highlighted_blocks=1487172001_420256481_2_0_0&matching_block_id=1487172001_420256481_2_0_0&sr_pri_blocks=1487172001_420256481_2_0_0__39298&from=searchresults",
+    "address": "Westminster Borough, London",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=London%2C+UK&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T18:07:17.127Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757441237127_2",
+    "name": "Mina Hotel",
+    "price": 670,
+    "currency": "USD",
+    "rating": 8.6,
+    "stars": 9,
+    "reviewCount": 736,
+    "avgReview": "8.6/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/711405554.webp?k=91c9b59ef01e29421fd9dc9a2bc30f5d8d7bd20315717a48ce6a25ec00f433a5&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/gb/mina-house.html?aid=304142&label=gen173nr-10CAQoggJCEXNlYXJjaF9sb25kb24sIHVrSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC0NmBxgbAAgHSAiQxYjM2ZDk5NS1iMDcwLTRiZDgtYjk4MC0xODg4ODRkNjA4ZWTYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=6c967f68efc1003b&srepoch=1757441235&all_sr_blocks=1435614110_417393294_2_0_0&highlighted_blocks=1435614110_417393294_2_0_0&matching_block_id=1435614110_417393294_2_0_0&sr_pri_blocks=1435614110_417393294_2_0_0__49500&from=searchresults",
+    "address": "Westminster Borough, London",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=London%2C+UK&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T18:07:17.127Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757441237127_3",
+    "name": "Albro House Hotel, London",
+    "price": 317,
+    "currency": "USD",
+    "rating": 7.4,
+    "stars": 7,
+    "reviewCount": 610,
+    "avgReview": "7.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/22880709.webp?k=cb0b4ab26f6a48a9b48257cd71225d4e6c0fdb21518aae4e2ae9b33c76c86f0f&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/gb/albro-house.html?aid=304142&label=gen173nr-10CAQoggJCEXNlYXJjaF9sb25kb24sIHVrSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC0NmBxgbAAgHSAiQxYjM2ZDk5NS1iMDcwLTRiZDgtYjk4MC0xODg4ODRkNjA4ZWTYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=6c967f68efc1003b&srepoch=1757441235&all_sr_blocks=25927802_0_2_0_0&highlighted_blocks=25927802_0_2_0_0&matching_block_id=25927802_0_2_0_0&sr_pri_blocks=25927802_0_2_0_0__23408&from=searchresults",
+    "address": "Westminster Borough, London",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=London%2C+UK&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T18:07:17.127Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757441237127_4",
+    "name": "The Biltmore Mayfair",
+    "price": 2,
+    "currency": "USD",
+    "rating": 8.8,
+    "stars": 9,
+    "reviewCount": 78,
+    "avgReview": "8.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/552331197.webp?k=fc93fd91a4d8435467662da3de89512dd1f98d9b73ec5669f59b2aed87437e2f&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/gb/lxr-biltmore-mayfair.html?aid=304142&label=gen173nr-10CAQoggJCEXNlYXJjaF9sb25kb24sIHVrSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC0NmBxgbAAgHSAiQxYjM2ZDk5NS1iMDcwLTRiZDgtYjk4MC0xODg4ODRkNjA4ZWTYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=6c967f68efc1003b&srepoch=1757441235&all_sr_blocks=20070024_0_2_0_0&highlighted_blocks=20070024_0_2_0_0&matching_block_id=20070024_0_2_0_0&sr_pri_blocks=20070024_0_2_0_0__169862&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Westminster Borough, London",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=London%2C+UK&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T18:07:17.127Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757441237127_5",
+    "name": "Compact Paddington Self Contained Studio",
+    "price": 406,
+    "currency": "USD",
+    "rating": 8,
+    "stars": 8,
+    "reviewCount": 845,
+    "avgReview": "8.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/701395837.webp?k=2495039db6653e92cd1fce4e4092557ecfed849168408da8eb4bf1a424321e9d&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/gb/compact-paddington-studio.html?aid=304142&label=gen173nr-10CAQoggJCEXNlYXJjaF9sb25kb24sIHVrSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC0NmBxgbAAgHSAiQxYjM2ZDk5NS1iMDcwLTRiZDgtYjk4MC0xODg4ODRkNjA4ZWTYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=6c967f68efc1003b&srepoch=1757441235&all_sr_blocks=1442724601_415716355_2_0_0&highlighted_blocks=1442724601_415716355_2_0_0&matching_block_id=1442724601_415716355_2_0_0&sr_pri_blocks=1442724601_415716355_2_0_0__30000&from=searchresults",
+    "address": "Westminster Borough, London",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=London%2C+UK&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T18:07:17.127Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757441237127_6",
+    "name": "The Prime London Hotel",
+    "price": 808,
+    "currency": "USD",
+    "rating": 8,
+    "stars": 8,
+    "reviewCount": 615,
+    "avgReview": "8.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/444812137.webp?k=90ddfea57e4d60e740571a81df244955e6b088f692cfd778350b9e913b45f7a1&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/gb/moonlight.html?aid=304142&label=gen173nr-10CAQoggJCEXNlYXJjaF9sb25kb24sIHVrSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC0NmBxgbAAgHSAiQxYjM2ZDk5NS1iMDcwLTRiZDgtYjk4MC0xODg4ODRkNjA4ZWTYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=6c967f68efc1003b&srepoch=1757441235&all_sr_blocks=184254012_367462327_2_0_0&highlighted_blocks=184254012_367462327_2_0_0&matching_block_id=184254012_367462327_2_0_0&sr_pri_blocks=184254012_367462327_2_0_0__59700&from=searchresults",
+    "address": "Kensington and Chelsea, London",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=London%2C+UK&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T18:07:17.127Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757441237127_7",
+    "name": "Park Avenue Bayswater Inn Hyde Park",
+    "price": 562,
+    "currency": "USD",
+    "rating": 6.9,
+    "stars": 7,
+    "reviewCount": 369,
+    "avgReview": "6.9/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/432456544.webp?k=53573a1f55019281d9e69762e51cc6319b6b43195ef1eef9e05fe6250288b93f&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/gb/bayswaterinn.html?aid=304142&label=gen173nr-10CAQoggJCEXNlYXJjaF9sb25kb24sIHVrSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC0NmBxgbAAgHSAiQxYjM2ZDk5NS1iMDcwLTRiZDgtYjk4MC0xODg4ODRkNjA4ZWTYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=6c967f68efc1003b&srepoch=1757441235&all_sr_blocks=11969314_91909567_0_2_0_597575&highlighted_blocks=11969314_91909567_0_2_0_597575&matching_block_id=11969314_91909567_0_2_0_597575&sr_pri_blocks=11969314_91909567_0_2_0_597575_41510&from=searchresults",
+    "address": "Westminster Borough, London",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=London%2C+UK&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T18:07:17.127Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757441237127_8",
+    "name": "Exhibition Court Hotel 4",
+    "price": 374,
+    "currency": "USD",
+    "rating": 6.8,
+    "stars": 7,
+    "reviewCount": 541,
+    "avgReview": "6.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/218480194.webp?k=be75a5a5903f223900b217b3c32b6a828e080e74397c5dc921cd5d68d5e5a8b5&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/gb/exhibitioncourthotel4.html?aid=304142&label=gen173nr-10CAQoggJCEXNlYXJjaF9sb25kb24sIHVrSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC0NmBxgbAAgHSAiQxYjM2ZDk5NS1iMDcwLTRiZDgtYjk4MC0xODg4ODRkNjA4ZWTYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=6c967f68efc1003b&srepoch=1757441235&all_sr_blocks=36395_401337247_0_0_0&highlighted_blocks=36395_401337247_0_0_0&matching_block_id=36395_401337247_0_0_0&sr_pri_blocks=36395_401337247_0_0_0__27600&from=searchresults",
+    "address": "Kensington and Chelsea, London",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=London%2C+UK&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T18:07:17.127Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757441237127_9",
+    "name": "Wilson House - Camden",
+    "price": 330,
+    "currency": "USD",
+    "rating": 8.1,
+    "stars": 8,
+    "reviewCount": 765,
+    "avgReview": "8.1/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/597962008.webp?k=ba7359168a7d033685e7b3fa66e8e2bc42bad8707f99973ec1585ae513baf0c5&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/gb/wilson-house-greater-london1.html?aid=304142&label=gen173nr-10CAQoggJCEXNlYXJjaF9sb25kb24sIHVrSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC0NmBxgbAAgHSAiQxYjM2ZDk5NS1iMDcwLTRiZDgtYjk4MC0xODg4ODRkNjA4ZWTYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=6c967f68efc1003b&srepoch=1757441235&all_sr_blocks=1281421203_401228692_2_0_0&highlighted_blocks=1281421203_401228692_2_0_0&matching_block_id=1281421203_401228692_2_0_0&sr_pri_blocks=1281421203_401228692_2_0_0__24371&from=searchresults",
+    "address": "Camden, London",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=London%2C+UK&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T18:07:17.127Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

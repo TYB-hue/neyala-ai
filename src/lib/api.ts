@@ -26,7 +26,7 @@ export async function getUserStats(userId: string): Promise<UserStats> {
 
   return {
     tripsPlanned: tripsCount,
-    hotelsBooked: hotelsCount,
+    collections: hotelsCount,
     reviews: reviewsCount,
     favoriteDestinations: favoriteDestinations.map(fd => fd.destination)
   };

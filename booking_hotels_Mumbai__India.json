@@ -1,0 +1,272 @@
+[
+  {
+    "id": "hotel_1757438405169_0",
+    "name": "FabHotel Sunshine Residency",
+    "price": 55,
+    "currency": "USD",
+    "rating": 9,
+    "stars": 9,
+    "reviewCount": 281,
+    "avgReview": "9.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/664202879.webp?k=a3355513f772a515c7945eae9e6c6027aa7d28389cc588ebbc0b13adeebe5c76&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/in/fabhotel-sunshine-residency-mumbai4.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9tdW1iYWksIGluZGlhSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCwsOBxgbAAgHSAiQ4M2U5NTZhZC0yMTM1LTRkN2MtOTI1OS1jYjQyMGUxNzVjMTfYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=591b79e13cac0054&srepoch=1757438405&all_sr_blocks=1381798501_410267668_0_42_0_881760&highlighted_blocks=1381798501_410267668_0_42_0_881760&matching_block_id=1381798501_410267668_0_42_0_881760&sr_pri_blocks=1381798501_410267668_0_42_0_881760_484864&from=searchresults",
+    "address": "Mumbai",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Mumbai%2C+India&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757438401098&force_referer=",
+    "scrapedAt": "2025-09-09T17:20:05.169Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757438405169_1",
+    "name": "Trident Bandra Kurla",
+    "price": 768,
+    "currency": "USD",
+    "rating": 8.9,
+    "stars": 9,
+    "reviewCount": 785,
+    "avgReview": "8.9/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/33034375.webp?k=4ffa1f3996b130b69674b949dab3b601242f08672decf60f62a6b7885493bfad&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/in/the-trident-bandra-kurla.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9tdW1iYWksIGluZGlhSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCwsOBxgbAAgHSAiQ4M2U5NTZhZC0yMTM1LTRkN2MtOTI1OS1jYjQyMGUxNzVjMTfYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=591b79e13cac0054&srepoch=1757438405&all_sr_blocks=39920822_409221654_2_41_0&highlighted_blocks=39920822_409221654_2_41_0&matching_block_id=39920822_409221654_2_41_0&sr_pri_blocks=39920822_409221654_2_41_0__6775000&from=searchresults",
+    "address": "Bandra, Mumbai (Bandra Kurla Complex)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Mumbai%2C+India&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757438401098&force_referer=",
+    "scrapedAt": "2025-09-09T17:20:05.169Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757438405169_2",
+    "name": "Trident Nariman Point",
+    "price": 694,
+    "currency": "USD",
+    "rating": 8.9,
+    "stars": 9,
+    "reviewCount": 239,
+    "avgReview": "8.9/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/604298804.webp?k=3699f759d6450c4da8e45e9502ee6be990768a59d6ee62ef0b8dc84d261e4bba&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/in/trident-nariman-point.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9tdW1iYWksIGluZGlhSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCwsOBxgbAAgHSAiQ4M2U5NTZhZC0yMTM1LTRkN2MtOTI1OS1jYjQyMGUxNzVjMTfYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=591b79e13cac0054&srepoch=1757438405&all_sr_blocks=7879404_364831139_2_1_0&highlighted_blocks=7879404_364831139_2_1_0&matching_block_id=7879404_364831139_2_1_0&sr_pri_blocks=7879404_364831139_2_1_0__6125000&from=searchresults",
+    "address": "Nariman Point, Mumbai (Nariman Point)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Mumbai%2C+India&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757438401098&force_referer=",
+    "scrapedAt": "2025-09-09T17:20:05.169Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757438405169_3",
+    "name": "The Oberoi Mumbai",
+    "price": 753,
+    "currency": "USD",
+    "rating": 9.2,
+    "stars": 9,
+    "reviewCount": 346,
+    "avgReview": "9.2/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/713564196.webp?k=d9d104401be6c69c267d164e9d89cc2285611d92bc53889ad7ff2688b0e8fa1c&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/in/the-oberoi-mumbai.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9tdW1iYWksIGluZGlhSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCwsOBxgbAAgHSAiQ4M2U5NTZhZC0yMTM1LTRkN2MtOTI1OS1jYjQyMGUxNzVjMTfYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=591b79e13cac0054&srepoch=1757438405&all_sr_blocks=7879005_365311554_2_1_0&highlighted_blocks=7879005_365311554_2_1_0&matching_block_id=7879005_365311554_2_1_0&sr_pri_blocks=7879005_365311554_2_1_0__6650000&from=searchresults",
+    "address": "Nariman Point, Mumbai (Nariman Point)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Mumbai%2C+India&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757438401098&force_referer=",
+    "scrapedAt": "2025-09-09T17:20:05.169Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757438405169_4",
+    "name": "The Taj Mahal Palace, Mumbai",
+    "price": 1,
+    "currency": "USD",
+    "rating": 9.1,
+    "stars": 9,
+    "reviewCount": 955,
+    "avgReview": "9.1/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/103705059.webp?k=89dd20eac13acc9155bd7508ffba5f7f56673e9a21a623a137f1ef9eac500356&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/in/the-taj-mahal-palace-mumbai.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9tdW1iYWksIGluZGlhSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCwsOBxgbAAgHSAiQ4M2U5NTZhZC0yMTM1LTRkN2MtOTI1OS1jYjQyMGUxNzVjMTfYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=591b79e13cac0054&srepoch=1757438405&all_sr_blocks=245159504_137748730_2_41_0&highlighted_blocks=245159504_137748730_2_41_0&matching_block_id=245159504_137748730_2_41_0&sr_pri_blocks=245159504_137748730_2_41_0__12600000&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Colaba, Mumbai (Mumbai Historical And Heritage)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Mumbai%2C+India&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757438401098&force_referer=",
+    "scrapedAt": "2025-09-09T17:20:05.169Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757438405169_5",
+    "name": "Taj Lands End",
+    "price": 628,
+    "currency": "USD",
+    "rating": 8.4,
+    "stars": 8,
+    "reviewCount": 305,
+    "avgReview": "8.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/13800549.webp?k=ac6d85a915dbee2fa4e14ccf15c44b2dd5570a5a1b97ff05a9e53c97e95e4951&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/in/taj-lands-end.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9tdW1iYWksIGluZGlhSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCwsOBxgbAAgHSAiQ4M2U5NTZhZC0yMTM1LTRkN2MtOTI1OS1jYjQyMGUxNzVjMTfYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=591b79e13cac0054&srepoch=1757438405&all_sr_blocks=7472201_364461997_2_42_0&highlighted_blocks=7472201_364461997_2_42_0&matching_block_id=7472201_364461997_2_42_0&sr_pri_blocks=7472201_364461997_2_42_0__5545058&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Bandra, Mumbai (Western Suburbs)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Mumbai%2C+India&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757438401098&force_referer=",
+    "scrapedAt": "2025-09-09T17:20:05.169Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757438405169_6",
+    "name": "Sofitel Mumbai BKC",
+    "price": 848,
+    "currency": "USD",
+    "rating": 8.4,
+    "stars": 8,
+    "reviewCount": 491,
+    "avgReview": "8.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/555554492.webp?k=f2184042a818ceec3cee7dccb26c2746673e1f380354788f9b001b0f2342f182&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/in/sofitel-mumbai-bkc.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9tdW1iYWksIGluZGlhSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCwsOBxgbAAgHSAiQ4M2U5NTZhZC0yMTM1LTRkN2MtOTI1OS1jYjQyMGUxNzVjMTfYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=591b79e13cac0054&srepoch=1757438405&all_sr_blocks=29408602_392465005_2_42_0&highlighted_blocks=29408602_392465005_2_42_0&matching_block_id=29408602_392465005_2_42_0&sr_pri_blocks=29408602_392465005_2_42_0__7480000&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Bandra, Mumbai (Bandra Kurla Complex)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Mumbai%2C+India&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757438401098&force_referer=",
+    "scrapedAt": "2025-09-09T17:20:05.169Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757438405169_7",
+    "name": "Hilton Garden Inn Mumbai International Airport",
+    "price": 283,
+    "currency": "USD",
+    "rating": 8.4,
+    "stars": 8,
+    "reviewCount": 419,
+    "avgReview": "8.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/717565102.webp?k=61f4784db8c6e113de9f020b2be80a5648c6fdd5723cd8151d9eeaac76761599&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/in/hilton-garden-inn-mumbai-international-airport.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9tdW1iYWksIGluZGlhSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCwsOBxgbAAgHSAiQ4M2U5NTZhZC0yMTM1LTRkN2MtOTI1OS1jYjQyMGUxNzVjMTfYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=591b79e13cac0054&srepoch=1757438405&all_sr_blocks=1363477901_408684009_2_0_0_961390&highlighted_blocks=1363477901_408684009_2_0_0_961390&matching_block_id=1363477901_408684009_2_0_0_961390&sr_pri_blocks=1363477901_408684009_2_0_0_961390_2498777&from=searchresults",
+    "address": "Western Suburbs, Mumbai (Andheri)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Mumbai%2C+India&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757438401098&force_referer=",
+    "scrapedAt": "2025-09-09T17:20:05.169Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757438405169_8",
+    "name": "Taj Santacruz",
+    "price": 527,
+    "currency": "USD",
+    "rating": 8.9,
+    "stars": 9,
+    "reviewCount": 766,
+    "avgReview": "8.9/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/125011716.webp?k=35a2f03c7cf7597d5ba49b4612ab88751144adfbd2f3739787d4380f388e9242&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/in/taj-santacruz.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9tdW1iYWksIGluZGlhSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCwsOBxgbAAgHSAiQ4M2U5NTZhZC0yMTM1LTRkN2MtOTI1OS1jYjQyMGUxNzVjMTfYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=591b79e13cac0054&srepoch=1757438405&all_sr_blocks=154823707_406992302_2_34_0&highlighted_blocks=154823707_406992302_2_34_0&matching_block_id=154823707_406992302_2_34_0&sr_pri_blocks=154823707_406992302_2_34_0__4650000&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Mumbai",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Mumbai%2C+India&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757438401098&force_referer=",
+    "scrapedAt": "2025-09-09T17:20:05.169Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757438405169_9",
+    "name": "Niranta Transit Hotel Terminal 2 Arrivals/Landside",
+    "price": 290,
+    "currency": "USD",
+    "rating": 7.6,
+    "stars": 8,
+    "reviewCount": 620,
+    "avgReview": "7.6/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/336693267.webp?k=84e9198b9b1adce02a5646e01650e0484b82ca9511cea4d03fc204679f949061&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/in/niranta-airport-transit-inside-intl-airport.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9tdW1iYWksIGluZGlhSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCwsOBxgbAAgHSAiQ4M2U5NTZhZC0yMTM1LTRkN2MtOTI1OS1jYjQyMGUxNzVjMTfYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=591b79e13cac0054&srepoch=1757438405&all_sr_blocks=145310101_333098894_2_2_0_645466&highlighted_blocks=145310101_333098894_2_2_0_645466&matching_block_id=145310101_333098894_2_2_0_645466&sr_pri_blocks=145310101_333098894_2_2_0_645466_2557800&from=searchresults",
+    "address": "Andheri, Mumbai (Andheri)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Mumbai%2C+India&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757438401098&force_referer=",
+    "scrapedAt": "2025-09-09T17:20:05.169Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

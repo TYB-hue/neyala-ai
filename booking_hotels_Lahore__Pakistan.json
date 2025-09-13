@@ -1,0 +1,272 @@
+[
+  {
+    "id": "hotel_1757321009223_0",
+    "name": "City View Gold Crest Premium Apartments - DHA Phase 4 Lahore",
+    "price": 173,
+    "currency": "USD",
+    "rating": 9.8,
+    "stars": 10,
+    "reviewCount": 669,
+    "avgReview": "9.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/690662894.webp?k=448fcaa810912dde8b71d7d38e1ed27a52d221b3485278866e87903a9b5ca267&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/pk/city-view-gold-crest-premium-apartments-dha-lahore.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9sYWhvcmUsIHBha2lzdGFuSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCq676xQbAAgHSAiRlNzE2NmJmYi05MjlmLTRlZDAtOGE3Zi1kMDc5NGZmY2I4OTDYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-15&checkout=2025-09-18&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=f07e3d55386f0cc8&srepoch=1757321009&all_sr_blocks=1426822001_414263855_2_1_0_1100043&highlighted_blocks=1426822001_414263855_2_1_0_1100043&matching_block_id=1426822001_414263855_2_1_0_1100043&sr_pri_blocks=1426822001_414263855_2_1_0_1100043_4860000&from=searchresults",
+    "address": "Lahore",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Lahore%2C+Pakistan&checkin=2025-09-15&checkout=2025-09-18&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-08T08:43:29.223Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757321009223_1",
+    "name": "Nine Tree Luxury Hotel & Suites Lahore",
+    "price": 166,
+    "currency": "USD",
+    "rating": 8.7,
+    "stars": 9,
+    "reviewCount": 1009,
+    "avgReview": "8.7/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/740468871.webp?k=63bf59402c2812e92f5e55d3c8024bd3da8205a2b0f660167da42d8d0dcbb680&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/pk/faletti-39-s-grand.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9sYWhvcmUsIHBha2lzdGFuSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCq676xQbAAgHSAiRlNzE2NmJmYi05MjlmLTRlZDAtOGE3Zi1kMDc5NGZmY2I4OTDYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-15&checkout=2025-09-18&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=f07e3d55386f0cc8&srepoch=1757321009&all_sr_blocks=534250408_247206041_2_1_0&highlighted_blocks=534250408_247206041_2_1_0&matching_block_id=534250408_247206041_2_1_0&sr_pri_blocks=534250408_247206041_2_1_0__4675760&from=searchresults",
+    "address": "Gulberg, Lahore",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Lahore%2C+Pakistan&checkin=2025-09-15&checkout=2025-09-18&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-08T08:43:29.223Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757321009223_2",
+    "name": "Panoramic Hotel Lahore",
+    "price": 58,
+    "currency": "USD",
+    "rating": 7.9,
+    "stars": 8,
+    "reviewCount": 922,
+    "avgReview": "7.9/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/633900980.webp?k=114983dae25f4bfac39000d5a163173e11abdf22bc692a5b52768c37522fbcc2&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/pk/new-penoramic.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9sYWhvcmUsIHBha2lzdGFuSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCq676xQbAAgHSAiRlNzE2NmJmYi05MjlmLTRlZDAtOGE3Zi1kMDc5NGZmY2I4OTDYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-15&checkout=2025-09-18&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=f07e3d55386f0cc8&srepoch=1757321009&all_sr_blocks=1300241515_404710258_0_2_0&highlighted_blocks=1300241515_404710258_0_2_0&matching_block_id=1300241515_404710258_0_2_0&sr_pri_blocks=1300241515_404710258_0_2_0__1636589&from=searchresults",
+    "address": "Mall Road, Lahore (Mall Road)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Lahore%2C+Pakistan&checkin=2025-09-15&checkout=2025-09-18&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-08T08:43:29.223Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757321009223_3",
+    "name": "Luxus Grand Hotel",
+    "price": 182,
+    "currency": "USD",
+    "rating": 9.2,
+    "stars": 9,
+    "reviewCount": 903,
+    "avgReview": "9.2/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/78824537.webp?k=4ccc37f313f531e87653e875dc1c60bd86626013e8315a279461dba6e363c4b3&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/pk/luxus-grand.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9sYWhvcmUsIHBha2lzdGFuSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCq676xQbAAgHSAiRlNzE2NmJmYi05MjlmLTRlZDAtOGE3Zi1kMDc5NGZmY2I4OTDYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-15&checkout=2025-09-18&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=f07e3d55386f0cc8&srepoch=1757321009&all_sr_blocks=193848102_94015925_0_1_0_343865&highlighted_blocks=193848102_94015925_0_1_0_343865&matching_block_id=193848102_94015925_0_1_0_343865&sr_pri_blocks=193848102_94015925_0_1_0_343865_5130000&from=searchresults",
+    "address": "Lahore",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Lahore%2C+Pakistan&checkin=2025-09-15&checkout=2025-09-18&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-08T08:43:29.223Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757321009223_4",
+    "name": "Defence Raya Golf & Country Club",
+    "price": 341,
+    "currency": "USD",
+    "rating": 8.7,
+    "stars": 9,
+    "reviewCount": 276,
+    "avgReview": "8.7/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/146007767.webp?k=57cc7666cbf2c69d9880d56f439f12aa3b6be96eafcf7ca3df1002ddb7a22d05&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/pk/defence-raya-golf-amp-country-club-lahore1.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9sYWhvcmUsIHBha2lzdGFuSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCq676xQbAAgHSAiRlNzE2NmJmYi05MjlmLTRlZDAtOGE3Zi1kMDc5NGZmY2I4OTDYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-15&checkout=2025-09-18&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=f07e3d55386f0cc8&srepoch=1757321009&all_sr_blocks=358752703_402338995_2_41_0_423992&highlighted_blocks=358752703_402338995_2_41_0_423992&matching_block_id=358752703_402338995_2_41_0_423992&sr_pri_blocks=358752703_402338995_2_41_0_423992_9600000&from=searchresults",
+    "address": "Lahore",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Lahore%2C+Pakistan&checkin=2025-09-15&checkout=2025-09-18&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-08T08:43:29.223Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757321009223_5",
+    "name": "Best Western Premier Hotel Gulberg Lahore",
+    "price": 204,
+    "currency": "USD",
+    "rating": 8.7,
+    "stars": 9,
+    "reviewCount": 684,
+    "avgReview": "8.7/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/405583062.webp?k=1102fb32ff798b6d4ac563f7222f4c280eedfd2d39fdf966bb57d89f373165a1&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/pk/best-western-premier-gulberg-lahore.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9sYWhvcmUsIHBha2lzdGFuSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCq676xQbAAgHSAiRlNzE2NmJmYi05MjlmLTRlZDAtOGE3Zi1kMDc5NGZmY2I4OTDYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-15&checkout=2025-09-18&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=f07e3d55386f0cc8&srepoch=1757321009&all_sr_blocks=719285114_0_2_1_0&highlighted_blocks=719285114_0_2_1_0&matching_block_id=719285114_0_2_1_0&sr_pri_blocks=719285114_0_2_1_0__5735347&from=searchresults",
+    "address": "Gulberg, Lahore (M.M. Allam Road)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Lahore%2C+Pakistan&checkin=2025-09-15&checkout=2025-09-18&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-08T08:43:29.223Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757321009223_6",
+    "name": "The Nishat Hotel Johar Town",
+    "price": 533,
+    "currency": "USD",
+    "rating": 9.1,
+    "stars": 9,
+    "reviewCount": 857,
+    "avgReview": "9.1/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/622550518.webp?k=133c77bc5c08df0a26e958bdbe40897fa8cfa63e21dd0ddfc9f90b10bb834cd6&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/pk/the-nishat-johar-town.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9sYWhvcmUsIHBha2lzdGFuSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCq676xQbAAgHSAiRlNzE2NmJmYi05MjlmLTRlZDAtOGE3Zi1kMDc5NGZmY2I4OTDYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-15&checkout=2025-09-18&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=f07e3d55386f0cc8&srepoch=1757321009&all_sr_blocks=229010206_198483826_0_0_0_671809&highlighted_blocks=229010206_198483826_0_0_0_671809&matching_block_id=229010206_198483826_0_0_0_671809&sr_pri_blocks=229010206_198483826_0_0_0_671809_15000000&from=searchresults",
+    "address": "Johar Town, Lahore",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Lahore%2C+Pakistan&checkin=2025-09-15&checkout=2025-09-18&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-08T08:43:29.223Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757321009223_7",
+    "name": "Four Points by Sheraton Lahore",
+    "price": 237,
+    "currency": "USD",
+    "rating": 8.6,
+    "stars": 9,
+    "reviewCount": 726,
+    "avgReview": "8.6/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/463614415.webp?k=37fba6e9f63d46d27609e3ce9c5a2f13eaf49769212db8274bcc3896ab453d26&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/pk/four-points-by-sheraton-lahore-pakistan.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9sYWhvcmUsIHBha2lzdGFuSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCq676xQbAAgHSAiRlNzE2NmJmYi05MjlmLTRlZDAtOGE3Zi1kMDc5NGZmY2I4OTDYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-15&checkout=2025-09-18&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=f07e3d55386f0cc8&srepoch=1757321009&all_sr_blocks=112448311_221346709_2_1_0&highlighted_blocks=112448311_221346709_2_1_0&matching_block_id=112448311_221346709_2_1_0&sr_pri_blocks=112448311_221346709_2_1_0__23700&from=searchresults",
+    "address": "Lahore",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Lahore%2C+Pakistan&checkin=2025-09-15&checkout=2025-09-18&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-08T08:43:29.223Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757321009223_8",
+    "name": "Premier Inn Grand Gulberg Lahore",
+    "price": 86,
+    "currency": "USD",
+    "rating": 8.9,
+    "stars": 9,
+    "reviewCount": 544,
+    "avgReview": "8.9/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/565907235.webp?k=d88e753c49dbcf31e149f8dbaade09786fa56fb4af3549f4ad3d85794d3f452a&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/pk/premier-inn-grand-gulberg.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9sYWhvcmUsIHBha2lzdGFuSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCq676xQbAAgHSAiRlNzE2NmJmYi05MjlmLTRlZDAtOGE3Zi1kMDc5NGZmY2I4OTDYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-15&checkout=2025-09-18&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=f07e3d55386f0cc8&srepoch=1757321009&all_sr_blocks=648005702_392527214_2_41_0&highlighted_blocks=648005702_392527214_2_41_0&matching_block_id=648005702_392527214_2_41_0&sr_pri_blocks=648005702_392527214_2_41_0__2430000&from=searchresults",
+    "address": "Gulberg, Lahore",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Lahore%2C+Pakistan&checkin=2025-09-15&checkout=2025-09-18&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-08T08:43:29.223Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757321009223_9",
+    "name": "Hotel One The Mall, Lahore",
+    "price": 187,
+    "currency": "USD",
+    "rating": 8.4,
+    "stars": 8,
+    "reviewCount": 988,
+    "avgReview": "8.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/637006341.webp?k=452e6164e62e6f0d80544cf006dc8ca667e1a22aa65de38d49d28833cb04a4b3&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/pk/one-the-mall.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9sYWhvcmUsIHBha2lzdGFuSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCq676xQbAAgHSAiRlNzE2NmJmYi05MjlmLTRlZDAtOGE3Zi1kMDc5NGZmY2I4OTDYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-15&checkout=2025-09-18&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=f07e3d55386f0cc8&srepoch=1757321009&all_sr_blocks=41644601_406044337_2_2_0&highlighted_blocks=41644601_406044337_2_2_0&matching_block_id=41644601_406044337_2_2_0&sr_pri_blocks=41644601_406044337_2_2_0__5265000&from=searchresults",
+    "address": "Mall Road, Lahore (Mall Road)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Lahore%2C+Pakistan&checkin=2025-09-15&checkout=2025-09-18&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-08T08:43:29.223Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

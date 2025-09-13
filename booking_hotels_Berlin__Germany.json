@@ -1,0 +1,272 @@
+[
+  {
+    "id": "hotel_1757407565054_0",
+    "name": "oompH Berlin 3BR Apt with Light Tones and Artwork",
+    "price": 674,
+    "currency": "USD",
+    "rating": 9.1,
+    "stars": 9,
+    "reviewCount": 180,
+    "avgReview": "9.1/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/561417026.webp?k=1351e67804265fb4c77a8b1d18734d3bb2a2f2f32826d2242be0578c9f9bf80f&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/de/oomph-berlin-3br-apt-with-light-tones-and-artwork.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9iZXJsaW4sIGdlcm1hbnlIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALI0v_FBsACAdICJDcyMmQwMTAyLTkyYTYtNDI3Ni05NmE0LTM1YzVmZmQ0YjE4MtgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=290b3da440410286&srepoch=1757407563&all_sr_blocks=1191227801_418035999_5_0_0&highlighted_blocks=1191227801_418035999_5_0_0&matching_block_id=1191227801_418035999_5_0_0&sr_pri_blocks=1191227801_418035999_5_0_0__57390&from=searchresults",
+    "address": "Friedrichshain-Kreuzberg, Berlin",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Berlin%2C+Germany&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T08:46:05.054Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757407565054_1",
+    "name": "Hotel Berlin, Berlin, a member of Radisson Individuals",
+    "price": 534,
+    "currency": "USD",
+    "rating": 8.2,
+    "stars": 8,
+    "reviewCount": 102,
+    "avgReview": "8.2/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/727510955.webp?k=a80ecf363c799c8c2827b434c190f93ac0a02833f55a24a58f418d3c81077234&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/de/bbberlin.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9iZXJsaW4sIGdlcm1hbnlIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALI0v_FBsACAdICJDcyMmQwMTAyLTkyYTYtNDI3Ni05NmE0LTM1YzVmZmQ0YjE4MtgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=290b3da440410286&srepoch=1757407563&all_sr_blocks=6005299_384630830_2_2_0&highlighted_blocks=6005299_384630830_2_2_0&matching_block_id=6005299_384630830_2_2_0&sr_pri_blocks=6005299_384630830_2_2_0__45474&nad_id=cc0c6120-4816-4374-af15-fac8a74bc495_2&nad_cpc=0.7&nad_track=eyJhdWN0aW9uRXBvY2giOjE3NTc0MDc1NjA4ODYsInJhbmsiOjEsImtvZGRpVHJhY2tpbmdJbmZvIjoiSnR3ME9iMkQ3NDN6dWV6SVI0bUdNa2VKaENYMWtjcFo3cGxSam9wb3BYNjdLeUpxb0dOb1R2dkZBQ0djZ1pnYkZLNUJ5SUR0NzZSbFF3VVFxZVR4UlBySmVrYkx6eGFieHFQOGhEUml5ZWhsQXBzaUYxV2hEY1ZvNEVFcC9obEdTSms4a3FUU2RPNTBKcjJJcnBVdHZLK2hHa2h4SWNDbDhIZ0VLVi9xaGl1aWF6TW5JdWg5K09QQWR6RzdCL3JGbldsNHNPS0Q4SkxISFMyeFZ6K0NUaVdDTEJzdlM0VkNzdVhiMlFPbU1uL1dCWTdqQ0pEemh0ZFJ1cTlrTGFZcDhXV2JNS0l3QytkbDNiZmx0LzUwQTNWL09tczV0OVAxTjJFb04zSllLckJBYzZjb2UzbHF6aEFrNWo1WjAzeHR2T3k3UWxuNFJmMlN2VVpyUlA4R05tMEhvWDVOZmZSR1pjb2hYaDVpd2FlUTZocXhGbzBqSlZOaFVzN0xYS2R1bkR1aXRrNitSeWxnUlRzMlppMmc0MWsrTlFvZkJ6Q01vczdJWXRJSCtQUnJUb1NaL3gzeENaVXp6cHBBMWNPTnlWV2Y5TkxWbDJsL25ZeFVYT2R2RTBtZ3QzMzhMdFpVMk1GTEFPZ0d5UU1waUtBS1pXeGJtbmI0a1ZNZ0llZkVmeUhrSW44K1lhQU9jRDA0cE4reDhaTy9SZi9HWlZFc29HMGhJN1Q2eVpNeTdmK1liakVSTU9hNG9LbEdOcUVtU1NBM3lVc0M1aWFtTDd0S0VydFE3cGIrOVgyUFIvRDU2ZnR3Snk4Q09tbGtuR2dnSndrK1dpS290aktSSGJFZFlxRjNLbENNckNrclkzZStGdXQ0VHJMYStkSUF5MWY5elpYbDZuODhMWGxneEpYak1PRDNXZlZLTjFqellIOWlaVnF0WWV1V0MwcEpYY3l3OEtIa1lXWHRNUTh5cGo4eWhJYTlXVTZNSnBoS1o1YlhOa1NMTjVhL3FaZXFMWDdpQnlVVHRLODlSclNtVzNlZmFMRlE2MkpaR0VIencvenFmUitKdUlsZURXa05kYmtuN0VpaVFPdWVMTmtpQ2FMb1J3dDJ1U283UzVwb1NuTTFMMlpVc2pRTlFXS3RKZk4zeHVlWFhyVWRUQ2pJQllxMUdvU05jaE1PeDY3WmFKeXNyRTdwK3BEVE55bmY5OGorTGNBZnNxeWdlS3BGVmp0L1JYNjVLWTd3a1hjWU4yK2xobzlKZm1QRndZVnoxU1lMa2pqcDVaeGs4aXJIK0R6Y1BlTy9ydFVsbUtzZTZjRDJ3cE10UG0xcWllQXlFQkYzd0RUbGpCdlBRL3J4V2o5ZnZOMFZ3RGo1b0xXb2JQd0l6cW5vblFMWVgwOVlQZm9lMjRrZFhuM1Q2cElmbVV5OWNYZEZFTWNjSm13aStoUnE5UUhRNG1GaDB2Rk52Y2pRT3g3dktuZkJuS1dOdDMvTVVteXZlUTlXY3hUMW1Bc2MzVTd3UkoxalMzMmNrRllYejlHK2grKy91WnpMWFl3NXdGcjk3eFZMUVJCTmE0VElUTDh0OTd3ZkVwYTRNZ0ltRklWK1VocHdqQlV6Y0NkVEpoUUV0c09CWFBka0hhZkRTaEF0MU5BSTZ4TUJOZmlab1FLNjB2dU1za01pN1J0L3p6UjZCY0oyeWh3aFZKRWFHMUhueWorOXU1L25rMVljQXpkOS9Gd0kxbHBIbld3UDQra0I0cDVQbFFrZ2dCaVc5QXJlbmRrRkM0OWFIb2tyb2hISm55bXQ0a2xUSkxFdVdyU0F0OHZIMXJDejREVnhMNFJ2clFuRUJTc1NhOWc2RnZPRWp5d3ViQmtJUWhGMkFGUEMwZjE3RExBRmRxY2hYS0RiaTc5WVh1ZEd2bHJJWUV0TmlaTXhTVXg0MXArWWdjN3U1WXhzZzZ0TWxxcm9RK3IzaHlnM0tIcng0NUZCcENPS3JJaGkrSlhCSGY3NGV0TkVBNTlkLzFGaTJkZjJqM3M3ekdLMEd4cjFqcHA1RzFRSHFOaExtZW1tL3pRQ2l2TjQ0NGZ4OG5xeVJ6ZnlBQ1cxdFJOOWxRdEpFNXBEWTNSYm5LL3JXVTE1YjA4d1F4T2lQbFZNd1ZCRklOajRLeHRqMFRXaHdsY09YWnhXZkdRTFJrbjB1S3BwT3VoT1RSMGlvU0ttUUp2YUpEYVZHeEcrVTVmS2pQeEtNQk0vWEt3RUwrTU9HN3NuUFdtSVpnd0VwQXIzZlRIOXgxY2J4VlRGdDUzeHBsb08yT3dMRHZNRExlRlJsUUNNN2h6cENod3EzM2ppb200TWxaVE1GY2gxM0JLdkN1K2ZvOVJtUTNham90TlJUb2lRQzBqRmN0RHIyOU8vOU1wL3Z6M2JRVERCK2ZCVll2SDdhcXZzRDg2NWhScjZXRVM1TDI1UWphQlBLMGh2VmZrZW8yVjBMR2tpeTVLMUNoSUdKWDc3SFdKTjdDdEhGMkRBMUJVRDZhMC9MSnptcDk2bEtuNzgzc0xTNS9DTEI1TGp6VnAzcE5mNTUvOWMxL1RRU3krekZmTHI3blRzK0dGa0hkdFBnT1lEY2t5VVpCUlcwZDlLYnNhbURIQXU2WUhjWEFIZERxbUJYUktNUjRuSXVWb1FRQTEvTVBCTFpQRjFaTVovYkpEZkdSa01RYkY1ODNKT3BqRVVuZmphQTFwSDZIbTVqOUFLd3N6R21NSkNVMW00QTN6UmpkMThNWTd0ZkJ2ZzRXdEdOSUx5ckFCSE41bmh2ZUVoQ1dram9QU2l2YUZzRXphek5nQTRvR3ArdkZnSVlBb1RmR1h0dFFZMXEvczZzZ2V1RkV0OERrVTdXeEpaaG1RQ04wQ0czaVNXSkwvWktaVTlQcUtyWVVqNjZhYU12VzNEdHNwc1BMcnFKdVZlbFBXVWQxbXdsUWE5OFNuVko4b1pPOFJ0eGE4T05WZTJ3bkp6QXh6dG1vVEJrT3FUSVlQQnFiV21BemdLV3I3SmJUSjJnVWRISlZpUllNazk3TnZCd1dqd3JTYkNTU1ZaSDBHWERXNUVJREV3WjBlN0s2SEwydHZxaGJmV3A3RVhMNWc2dlBQZkkxdlh2aCtKaHpuK3R1N2xseVBMcHAzMlo4dXNxQldqaHVENXd0STczMk03UytXQ3VmNmkzMGY1R2pIeHNhTXZiM3FsbHQyN2xyczVva3RrTE9SeXJ3THVJSUtQakxPRDd1cWJ0dDN1TE15QmFrUWJtSi8zeW9FaytGSXZzT3YxYk9TSXQ3d3hSWk9aWU4vaytjV2JVNmJURFNLMGErc3VDd2lkTjNkTWM4UzNsSEJkSHJqQWVaeVNOTEp3YUpKbUptb01jdkNnc0JLRnhPWkErQVAxM2RVWTYyUnlqRW9RSkN3bWYzT3JLaHp6L1hJM1V2Y2k0ZEtJb3JJcThUS3pMK055TlRKM2ttdGlBN3dnbjRzZG9Ra0dlcWVWVUJ2VVdwa2VNYlVjZWVMZTdFR0JrK2g4QTduVDBNbTI5dWFxY2NIencwU3pxckE3VGpzc3NQMGpIdz09In0%3D&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Mitte, Berlin",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Berlin%2C+Germany&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T08:46:05.054Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757407565054_2",
+    "name": "MERCURE Hotel Berlin Wittenbergplatz",
+    "price": 521,
+    "currency": "USD",
+    "rating": 8.8,
+    "stars": 9,
+    "reviewCount": 767,
+    "avgReview": "8.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/474976106.webp?k=c8af2aa798c189967ea878285b10e734d171d4bfe924581b69068c739bf9e80c&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/de/mercure-berlin-wittenbergplatz.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9iZXJsaW4sIGdlcm1hbnlIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALI0v_FBsACAdICJDcyMmQwMTAyLTkyYTYtNDI3Ni05NmE0LTM1YzVmZmQ0YjE4MtgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=290b3da440410286&srepoch=1757407563&all_sr_blocks=193956712_338444953_2_2_0&highlighted_blocks=193956712_338444953_2_2_0&matching_block_id=193956712_338444953_2_2_0&sr_pri_blocks=193956712_338444953_2_2_0__44332&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Tempelhof-Schöneberg, Berlin",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Berlin%2C+Germany&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T08:46:05.054Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757407565054_3",
+    "name": "Premier Inn Berlin Alexanderplatz",
+    "price": 639,
+    "currency": "USD",
+    "rating": 8.2,
+    "stars": 8,
+    "reviewCount": 577,
+    "avgReview": "8.2/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/466327485.webp?k=15be5f8418ebf3755650483c3612bbc1972d016697e569fb28e517afcc37bf26&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/de/premier-inn-berlin-alexanderplatz.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9iZXJsaW4sIGdlcm1hbnlIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALI0v_FBsACAdICJDcyMmQwMTAyLTkyYTYtNDI3Ni05NmE0LTM1YzVmZmQ0YjE4MtgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=290b3da440410286&srepoch=1757407563&all_sr_blocks=1020066706_401089807_2_2_0&highlighted_blocks=1020066706_401089807_2_2_0&matching_block_id=1020066706_401089807_2_2_0&sr_pri_blocks=1020066706_401089807_2_2_0__54400&nad_id=cc0c6120-4816-4374-af15-fac8a74bc495_3&nad_cpc=0.95&nad_track=eyJhdWN0aW9uRXBvY2giOjE3NTc0MDc1NjA4ODcsInJhbmsiOjIsImtvZGRpVHJhY2tpbmdJbmZvIjoiSnR3ME9iMkQ3NDN6dWV6SVI0bUdNa2VKaENYMWtjcFo3cGxSam9wb3BYNjdLeUpxb0dOb1R2dkZBQ0djZ1pnYkZLNUJ5SUR0NzZSbFF3VVFxZVR4UlBySmVrYkx6eGFieHFQOGhEUml5ZWhsQXBzaUYxV2hEY1ZvNEVFcC9obEdTSms4a3FUU2RPNTBKcjJJcnBVdHZLK2hHa2h4SWNDbDhIZ0VLVi9xaGl1aWF6TW5JdWg5K09QQWR6RzdCL3JGbldsNHNPS0Q4SkxISFMyeFZ6K0NUaVdDTEJzdlM0VkNzdVhiMlFPbU1uL1dCWTdqQ0pEemh0Wll1cWhsS2FZcDhXV2JNS0l3QytkbDNiZmx0LzUwQTNWL09tczV0OVAxTjJFb00zUmFLYkZBYzZjb2UzbHF6aEFrNWo1WjAzMWt2T3U2UmxuNFFmdVF2a2RyUlA4R05tMEhvWDVOZmZSR1pjb2hYaDVpd2FlUTZocXhGbzBqSlZOaFVzN0xYS2R1bkR1aXRrNitSeWxnUlRzMlppMmc0MWsrTlFvZkJ6Q01vczdJWTlJSCtQUnJUb1NaL3gzeENaVXp6cHBBMWNPTnlWV2Y5TkxWbDJsL25ZeFVYT2R2RTBtZ3QzMzhMdFpVMk1GTEFPZ0d5UU1waUtBS1pXeGJtbmI0a1ZNZ0llZkVmeUhrSW44K1lhQU9jRDA0cE4reDhaTy9SZi9HWlZFc29HMGhJN1Q2eVpNeTdmK1liakVSTU9hNG9LbEdOcUVtU1NBM3lVc0M1aWFtTDd0S0VydFE3cGIrOUgyUFIvRDU2ZnR3Snk4Q09tbGtuR2dnSndrK1dpS290aktSR3JFZFlxRjNLbENNckNrclkzZStGdXQ0VHJMYStkSUF5MWY5elpYbDZuODhMWGxneEpYak1PRDNXZlZLTjFqellIOWlaVnF0WWV1V0MwcEpYY3l3OEtIa1lXWHRNUTh5cGo4eWhJYTlXVTZNSnBoS1o1YlhOa1NMTjVhL3FaZXFMWDdpQnlVVHRLODlSclNtVzNlZmFMRlE2MkpaR0VIencvenFmUitKdUlsZURXa05kYmtuN0VpaVFPdWVMTmtpQ2FMb1J3dDJ1U283UzVwb1NuTTFMMlpVc2pRTlFXS3RKZk4zeHVlWFhyVWRUQ2pJQllxMUdvU05jaE1PeDY3WmFKeXNyRTdwK3BEVE55bmY5OGorTGNBZnNxeWdlS3BGVmp0L1JYNjVLWTd3a1hjWU4yK2xobzlKZm1QRndZVnoxU1lMa2pqcDVaeGs4aXJIK0R6Y1BlTy9ydFVsbUtzZTZjRDJ3cE10UG0xcWllQXlFQkYzd0RUbGpCdlBRL3J4V2o5ZnZOMFZ3RGo1b0xXb2JQd0l6cW5vblFMWVgwOVlQZm9lMjRrZFhuM1Q2cElmbVV5OWNYZEZFTWNjSm13aStoUnE5UUhRNG1GaDB2Rk52Y2pRT3g3dktuZkJuS1dOdDMvTVVteXZlUTlXY3hUMW1Bc2MzVTd3UkoxalMzMmNrRllYejlHK2grKy91WnpMWFl3NXdGcjk3eFZMUVJCTmJJVElUTDh0OTd3ZkVwYTRNZ0ltRklWK1VocHdqQlV6Y0NkVEprVlM1TU9LRDZWcEhhV1VHaE10MUlSZXZSTlpaL2pEb1FIcmhmeUk0QjEyNlV0N3dqUjZCY0oyeWh3aFZKRWFHMUhueWorOXU1M2lrMThaQnpkOS9Gd0kxbHBIbld3UDQra0I0cDVQbFFrZ2dCaVc5QXJlbmRrRkM0OWFIb2tyb2hISm55bXQ0a2xUSkxFdVdyU0F0OHZIMXJDdzVqSjBMSXB0cWdiQUdpVlpjZlFHQmVDNHZ6VTlleGtUVHhGM0N4L2FqZnAyRTZaTWVPdzdjSnpJbG8xb1IvUlJ2a0hGWUVwR3hZdHRUa0Zud05hVzA4djU2NGwybUtaYmphZXVXK0gra3laM0wzN3o3NUJNdFRTT3VabGovWURRV3ViZ2F0RkdCSWRBOWtWLzBMcVNoM2sxem02K0d3VHRnSkI1R1ZBRnF0a200ZWVvc2kwUm5mTmo3b2JtNVc2MlZ5SDFBRGl4dlZSbGpSbEpFNXRmZm5WSGdhNk9QVTF6WlU4NlNSUElSbHRDaDFGV1A5TCtPaFpxeEhLNTJsY0FVOTliZkdjVFZGVDhyYjF5UHVCRlZ3ZzN2Q1NuRElPR0l6dUtEVml3SEpYQmpmVklQeDgzRzdRY0wrMEFUYW94T211YmNRMGVvZ3U3WlZEN3RsbE13MExTckpDM3ZrSU8xdUpjQ09VVVBQZFdsUmVINHdheUVnUmQyVytFckdCYWdJZlpGOWxvMnh2cUVxN0c0TkYzV202azg4dFpVSWJSQUVYRGV1VGQzSituN05wOXZUckRYRG5WNWZkQmJQKzZZYWJxQi9xUGdpdkJYVnlmSDJkcHBiSlBKUUYzVFk4L3MzTmpLWEY1eFp6MEFSOEFMVXJMQjJNYjlETlhGV0xIekFnSy9iRTNONUxvNXRXa0wzYnF5Y21lLy9xWENkVGkza1Y5b3UzSis2NUV6NUx4WFRlc0R1MjU0SHFxK1hKN0Y5MTFxK3NLWnd1TWZISjN4OGRWZGRuMEFuNXIvSnpHV1ZQRkZzWHRVeHpDUkpXWm9WTVBUbDFpTVBKVk5lbCtlY2d1ZG8zT1hnRVVGTEY1cWo1RHBqVVdtdkdUVGxaRnAzZTMyZFlaMWQvUHErcGNWRk96R3luSmdNWnlab2o3YXpiVDRtZEVJWi8wclV4Zkw4L243YjV3Qno0NHV1R3hxS045QWplSUh4YzF1WHBvN1VCSlpsc2RMWHJ1cmdFbnZPd3l0d3F0R2tJN0Zrd2tWVk5QZ1dRVlBFMmN6aW5RUExIQko5bzFQNitqY0ZUMzVxR0IrM1hKcXNRak5Mdm5MdmRaa3VhQlpsdXVoUXY3NlNQSktZc2JMdFZ2emJJVk9VSG4yaVpvR2h5dGxOYkRpK0NWRzdyTHFyVzdVeUFBUktUT2Nqd2tnMXhOSTJLb2Fzbzk4ZmJxekdIbDZqN2FDQ3BjRTBxTkpsSlNKekVuYkVxaERaUFAzZXJYanJxUXFiOVFNcEF2cStqVEtGYlJoQ21Fd1NIMXR2UHIxeWpHbmJiN2J0NlduaGpsbnV2a3pKOGl6SFE3VU9pRGc4S3h6QWJoRUMzLy9MbzhlSHErbTl5QnFxZ2s3Vk51TU9vL3NobmdMb1dBZ1lDLy9mbmFydGZ5SW9HY2NVb1ZuNUQ2K2IwMzVSMDN1dmY3TC9hSW9hMDJGSXZOZThia3VjdmJXS3ZURERXWlhlWm9FeENKTm5kTGNkYXRnRE1lYmVuQWFxS1ZKYWRvUHMwalBDZFlKT0dnc2tUYmlmOFJzVlBmeHRFWjNGTnhpa0VrSXkxbkxpTHpLbFN6c3pFYVJQd24ydFdUbWJzZzV3aXlZcjAxSzJRdjBVWjdEYjRKZ0xnT3RnZ3RWYU9lVkNqZVVJeFFjdVVMUHFLWjZFV0RsZWRDSHJuRi9kLzNvNlN5NlhZbUJ2ZDViYkl0T3Zuek14eDlWY01QRXNBPSJ9&from=searchresults",
+    "address": "Mitte, Berlin",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Berlin%2C+Germany&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T08:46:05.054Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757407565054_4",
+    "name": "Best Western Plus Plaza Berlin Kurfürstendamm",
+    "price": 512,
+    "currency": "USD",
+    "rating": 7.7,
+    "stars": 8,
+    "reviewCount": 205,
+    "avgReview": "7.7/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/640771460.webp?k=d90b28848dc7268ce5802a81d75eac45c3d0a3def7ddbf4eda6ebbae1d0aabd0&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/de/amedia-berlin-kurfa1-4rstendamm.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9iZXJsaW4sIGdlcm1hbnlIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALI0v_FBsACAdICJDcyMmQwMTAyLTkyYTYtNDI3Ni05NmE0LTM1YzVmZmQ0YjE4MtgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=290b3da440410286&srepoch=1757407563&all_sr_blocks=46478709_416354244_2_2_0&highlighted_blocks=46478709_416354244_2_2_0&matching_block_id=46478709_416354244_2_2_0&sr_pri_blocks=46478709_416354244_2_2_0__43600&from=searchresults",
+    "address": "Charlottenburg-Wilmersdorf, Berlin",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Berlin%2C+Germany&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T08:46:05.054Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757407565054_5",
+    "name": "Novotel Suites Berlin City Potsdamer Platz",
+    "price": 556,
+    "currency": "USD",
+    "rating": 8.2,
+    "stars": 8,
+    "reviewCount": 677,
+    "avgReview": "8.2/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/56233498.webp?k=717008943d02322d84fc1f9dcb78efc10994e2be654058d6249cd62d19d70b06&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/de/suitehotelpotsdamerplatzbln.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9iZXJsaW4sIGdlcm1hbnlIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALI0v_FBsACAdICJDcyMmQwMTAyLTkyYTYtNDI3Ni05NmE0LTM1YzVmZmQ0YjE4MtgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=290b3da440410286&srepoch=1757407563&all_sr_blocks=6139224_376300827_3_2_0&highlighted_blocks=6139224_376300827_3_2_0&matching_block_id=6139224_376300827_3_2_0&sr_pri_blocks=6139224_376300827_3_2_0__47340&nad_id=cc0c6120-4816-4374-af15-fac8a74bc495_15&nad_cpc=0.6&nad_track=eyJhdWN0aW9uRXBvY2giOjE3NTc0MDc1NjA4ODcsInJhbmsiOjMsImtvZGRpVHJhY2tpbmdJbmZvIjoiSnR3ME9iMkQ3NDN6dWV6SVI0bUdNa2VKaENYMWtjcFo3cGxSam9wb3BYNjdLeUpxb0dOb1R2dkZBQ0djZ1pnYkZLNUJ5SUR0NzZSbFF3VVFxZVR4UlBySmVrYkx6eGFieHFQOGhEUml5ZWhsQXBzaUYxV2hEY1ZvNEVFcC9obEdTSms4a3FUU2RPNTBKcjJJcnBVdHZLK2hHa2h4SWNDbDhIZ0VLVi9xaGl1aWF6TW5JdWg5K09QQWR6RzdCL3JGbldsNHNPS0Q4SkxISFMyeFZ6K0NUaVdDTEJzdlM0VkNzdVhiMlFPbU1uL1dCWTdqQ0pEemh0WlJzNkptTDZZcDhXV2JNS0l3QytkbDNiZmx0LzUwQTNWL09tczV0OVAxTjJFZ04zWmVMN0ZjZmVjL2FucG8zdzhxK21WQnkyWnN2T214UmtQc1JQaVZ1a1Y1V1A5TGNINEdvbTVaZStWY2RZRi9YaFlrbHZTV3ZFdmdDWVE5SlZOMVZZR2FYTzgwaERmMnJ4aWlRQ28xRWpwa09ueXFzVWttTlVWTkIyTFZzTnJBZjhnSnRlMTRXWVNDOGh6WEpaUXIzWTFCejhXTTlXYUs1WlhObkhaaWlOb0xHSzU3RVZteG8yNjJiSTRNbjRBWVZyTUkwVUprMGV3TlkzUU54WGJnbjFOOGR1YkhZeno0TlhSUE9PMWVPVDF5NEpILytwVzBTK2poVDFwOC8ySXFQcnE1ejQ0Kzh2K0FVenBIYTZmNS91SkVOK3R6RFd0dGtRWVg0eis2S2FFTFRhdEcvTm16cFNYRVNmcis1T0ZvSnk4QklHY25pMkl3T1FNNVR5dXkveXFiQUtzVElxdDdPRmFPb2k5OWUyKytDZjEvU3FyZitOY0czMGpvbWMyenZTVi9lbTRxbTlTNGFLSGxVZmhMUDBmemMzeHhQd0wwTDZQR0RVd09CSmZ6cDdhcU1pS3pkRWxtdGlveWpJR2hXUUhiS1lSV2VaZUhhUWpNWTR2bStOYnFabi9qSGkwZStMYzJWZlQ5RGpxSWE2cE84R2tjREFENXdQT3pMRTNYOVlwREFXVU5mN2tuNHc3NUZhaWRPOWN0RTc3cUdCMThwM3h5RGNnZ0ZDUjNZaWxRdDI1VkJUZmdhdkZqMFBMUkYvZFdDM0dQRzVLeEVzSFlLa2NjMGJ5WUs0cXJ2VjdxL3B2Q1BDK012dHJxSmQ4UjRLQ3JmS2hEVkRjNVhXYm9acy94bVdJRE1XZTFpNFZWSVdPQ21zYzhud2tZa0M3eTZJVnlqM09NN1NhZGZxeWlvTVVzaGFaVHZjTzBpOUF2S0dkWmt2WXBBQTkyd0E3MGdocmZCZlRwQ0JkRm05Z0hpV0dOMU15dkxzOHltNDdEcnhId1lIRUtHOUV1Z2JSdEFDZko0TFFaaUV1TGZWa2hBcGdqSzNkQWdEOXZ6Q1R2c0ZSQjhLMTlpNDZTVzFha01XWE1wWm1TL3p2Q1JFdm9keGNXTEZYb2l3QVdreE91RzlWakF5SGYzMVJBbEl6NzBlSyt1NURTVWNCa2xnTzIrVllmQ0ZGR2E4N2FEdWR6dDYwTUdaQzVKQmRqRnNzdERreDB4Z1k3SWpWYU54TlR0OGFOQzdOd0VxWEJEeEJ5bElzWTZFeFJNN21idlFHN2hQbUY3VmMxdDAwaWxITWtRTkY5eVFrZ1NZd01GMGVzbEQvdy9kbjl3UWhEWDNJeDloY0cyMUlYMWp3TCtmMFc0bzlFaUFSMncxT0ZvVWZDellKYVZ0RUNTSkY3NFY2Q3dGU2wvVTVvSXFJbFhLK2Rxc2JHbXFpN3RHQXRhdFoydUZlRGRtb0xkZGcyRVBXcGtqTXZlZzRQQkU5MUR4MkwwckExRDZCTE9LY2hhNmJaajRRVkVyTU00QkhPWVU5QXhNYzBXa1ZxeDliZWtNL3BxOTg5MmY0TXl1UDZRUGIva2w1bGRTR211c1VTNW1qZDROdy9xOVdRQi9hQWFzOVVXY1FJdEE0N2hPYTAwakI2bnl2d1gxMnUwNHB4Q1ZFSHJONDhpL1Nwb0hNenlMRXJ0OUs1cHp1ZEFHaWtFQ211dVZJaXcwSUpSb2xVY1dkYWp2L1RCUkkwT2dkNkZsR1JjUndBMFZSSElOVHpmVmgxMVh2b2hWa0FFcEplZFdjU1FsemgvK0lpZGFFQ1RSa2x2RHV0RU5MVktqVEVSR2JCRXRyYm12VldPQnA0UkxRRUllMVpITHNtS21xZlpob0RxQjMzZlVqMXVERk1taFBEdjR1MCtReEZtcWxjUisxVEwvQldpeEdScjEvNUhCd2M1Rm1qNVJNUm1zU1JVbzRzZ0VDZ0FLMlE4NFl4QXlDejZJd0FDZldhRFhMQ2VQYmQycGZhb1owcTVpck1VMTJacmJVVEw2cTZMdXpzRFBTemdCcnhURW5FZWlvOXl2Y2ZiVnBzV3B4UzVEb3lMbmhwaTlTa0J4bEhkQkc0U25JS29HQVdRZzJhaWdjQTV0aGpmZHV3cThidWFqanEzdHFadnFYNFVZLzIzaEV1NDh6ejU3WVNtc0NYRkdhZ0NPMjhzblN5djFrdlVweDhtK3hSTFYyQ1pDSmN6ZGxOSTR5MURIQTY4cHJNRGhuRlc1RFVYMUtQUjVHRDdRNFNBUkI5ZmJFYU1ya2xQb0ZnV3BQVFZVZEJRZVEwNmp3RHZDa1lnY0NZRDFaTHZqejBsWUJSbHQzWTVjZ0hIMGk1QUQrWjNaUXFJWm5YZUNYZysyMVVZdEhtdnc1ZlpvSDg2KzlzWFgwa3VQU3l0cUU2VEdIQVlnSWhwMzFvOEFFS2RFSVROVGl1NHhneHVmTXlyZ3F0RmtjNkZrd25WVk5Ca1hJT09GQ0x4U0hBZSt5TVlweDZZUHZtTTBmNjg2cVA4Q1dhLzVzalk3RDJLL29HeE9TU2UxMnNvd1R6cEhhTEo1TklZWlFtaUswVk9VZnhwM3BxQUIrejU0REtpZXpVUk1mT3FyT3hUM1psRi8rSU0zVm9rRmQ3TFc2WlU4UTcrcWFabW4zdC8zbVNReXhlR1VxOE8ya1RhSEprSlFhZ0hhajl3UDM0aVl5ZDc3Rklac1I5b2V6ZlAwcmJoUk95eG5Pc3BmajMyV2pBajR6OVpjZVhwQzdpekx6MzJvMWhtSDQ3UythT2lQeSs0d2F6U1QvcDd2bG9jbnFsbGRHS2xLY0w0d0U1SXZ3dDhVbm9PcCtMbEovQ3BPZk00SUh1TE1HYVowY1hoS0h5OGNCdXQwWWtzLzdsTDd2WnBxa2RGTjJGZE1mdHNwN2JBT0RVQno2ZmNPQmdFd2FKY2pRY003bnoxM2RVSHFuQmFKYURKZmN6Zm9SbU4zRUFaOTJ0dFZUTmcrRnM4QjdPME5oSnVSbGlqVXNhSGpWb0pqSDFWeDdtN0djM1ZlWTI2ZGlJbVAxcHR5VzZZYndtSmloMmltdDhETEFraVBaWDhBY0dvVmttZE82bEVxNGhMUU1ydStvcyJ9&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Friedrichshain-Kreuzberg, Berlin",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Berlin%2C+Germany&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T08:46:05.054Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757407565054_6",
+    "name": "ibis budget Berlin Kurfürstendamm - neu renoviert",
+    "price": 432,
+    "currency": "USD",
+    "rating": 7.7,
+    "stars": 8,
+    "reviewCount": 614,
+    "avgReview": "7.7/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/550223951.webp?k=58237083e81ebf39771c1cfaf6078b82b5290c2b20554fcfe50f37500c9a25d4&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/de/ibis-budget-berlin-kurfa1-4rstendamm.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9iZXJsaW4sIGdlcm1hbnlIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALI0v_FBsACAdICJDcyMmQwMTAyLTkyYTYtNDI3Ni05NmE0LTM1YzVmZmQ0YjE4MtgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=290b3da440410286&srepoch=1757407563&all_sr_blocks=59236904_376292588_2_2_0&highlighted_blocks=59236904_376292588_2_2_0&matching_block_id=59236904_376292588_2_2_0&sr_pri_blocks=59236904_376292588_2_2_0__36750&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Tempelhof-Schöneberg, Berlin",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Berlin%2C+Germany&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T08:46:05.054Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757407565054_7",
+    "name": "JW Marriott Hotel Berlin",
+    "price": 893,
+    "currency": "USD",
+    "rating": 8.7,
+    "stars": 9,
+    "reviewCount": 906,
+    "avgReview": "8.7/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/427678099.webp?k=a8ff2c47360b54cf8ae980dbbcbb53d111fe1b0488776f7d8ba27756602cb775&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/de/hotel-berlin-central-district.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9iZXJsaW4sIGdlcm1hbnlIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALI0v_FBsACAdICJDcyMmQwMTAyLTkyYTYtNDI3Ni05NmE0LTM1YzVmZmQ0YjE4MtgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=290b3da440410286&srepoch=1757407563&all_sr_blocks=6347192_287611742_0_2_0&highlighted_blocks=6347192_287611742_0_2_0&matching_block_id=6347192_287611742_0_2_0&sr_pri_blocks=6347192_287611742_0_2_0__76000&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Mitte, Berlin",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Berlin%2C+Germany&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T08:46:05.054Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757407565054_8",
+    "name": "InterContinental Berlin by IHG",
+    "price": 718,
+    "currency": "USD",
+    "rating": 8.8,
+    "stars": 9,
+    "reviewCount": 579,
+    "avgReview": "8.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/553011745.webp?k=bd9d7f51431e7aeaaebaa6b19de4122499d9ab6e5509a79e5963883d9b92873c&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/de/interconti-berlin.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9iZXJsaW4sIGdlcm1hbnlIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALI0v_FBsACAdICJDcyMmQwMTAyLTkyYTYtNDI3Ni05NmE0LTM1YzVmZmQ0YjE4MtgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=290b3da440410286&srepoch=1757407563&all_sr_blocks=6190127_376233955_2_34_0&highlighted_blocks=6190127_376233955_2_34_0&matching_block_id=6190127_376233955_2_34_0&sr_pri_blocks=6190127_376233955_2_34_0__61099&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Mitte, Berlin",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Berlin%2C+Germany&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T08:46:05.054Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757407565054_9",
+    "name": "Mondrian Suites Berlin am Checkpoint Charlie",
+    "price": 289,
+    "currency": "USD",
+    "rating": 8.3,
+    "stars": 8,
+    "reviewCount": 917,
+    "avgReview": "8.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/171735210.webp?k=66e7d10a0524c1e94b11603b986de2387146ea2f31c0f8cd6fa0813fee425f4e&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/de/mondrian-suite-berlin-am-checkpoint-charly.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9iZXJsaW4sIGdlcm1hbnlIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALI0v_FBsACAdICJDcyMmQwMTAyLTkyYTYtNDI3Ni05NmE0LTM1YzVmZmQ0YjE4MtgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=290b3da440410286&srepoch=1757407563&all_sr_blocks=50028601_0_2_0_0&highlighted_blocks=50028601_0_2_0_0&matching_block_id=50028601_0_2_0_0&sr_pri_blocks=50028601_0_2_0_0__24588&from=searchresults",
+    "address": "Friedrichshain-Kreuzberg, Berlin",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Berlin%2C+Germany&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T08:46:05.054Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

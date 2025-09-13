@@ -1,0 +1,272 @@
+[
+  {
+    "id": "hotel_1757514451668_0",
+    "name": "Ca' Marinella",
+    "price": 705,
+    "currency": "USD",
+    "rating": 8.5,
+    "stars": 9,
+    "reviewCount": 205,
+    "avgReview": "8.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/24610500.webp?k=3617cdfff6e74904a2fe4f9e66fe55c1f62bd218f13c2f35e89cc27fe24a77fa&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/it/ca-marinella.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF92ZW5pY2UsIGl0YWx5SDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCzpWGxgbAAgHSAiQ3MWNlMGM5Yy03YTVhLTQ0NjItOWQyNC0wZjAxNmNhM2U2ODjYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=f9b965a7c68f0b98&srepoch=1757514450&all_sr_blocks=82252302_88175785_2_2_0&highlighted_blocks=82252302_88175785_2_2_0&matching_block_id=82252302_88175785_2_2_0&sr_pri_blocks=82252302_88175785_2_2_0__60125&from=searchresults",
+    "address": "Castello, Venice",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Venice%2C+Italy&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-10T14:27:31.668Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757514451668_1",
+    "name": "FloVe' Rooms Venice",
+    "price": 537,
+    "currency": "USD",
+    "rating": 9.1,
+    "stars": 9,
+    "reviewCount": 224,
+    "avgReview": "9.1/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/651626117.webp?k=221f00482900b5ec826f62115bd7b8bf8a02ea7cb5dc66f3d771daf3f2bb4e6c&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/it/flove-rooms-venice.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF92ZW5pY2UsIGl0YWx5SDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCzpWGxgbAAgHSAiQ3MWNlMGM5Yy03YTVhLTQ0NjItOWQyNC0wZjAxNmNhM2U2ODjYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=f9b965a7c68f0b98&srepoch=1757514450&all_sr_blocks=1252782806_397794864_2_0_0&highlighted_blocks=1252782806_397794864_2_0_0&matching_block_id=1252782806_397794864_2_0_0&sr_pri_blocks=1252782806_397794864_2_0_0__45738&from=searchresults",
+    "address": "Cannaregio, Venice",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Venice%2C+Italy&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-10T14:27:31.668Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757514451668_2",
+    "name": "Palazzo dei Mori",
+    "price": 873,
+    "currency": "USD",
+    "rating": 9.8,
+    "stars": 10,
+    "reviewCount": 660,
+    "avgReview": "9.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/574276163.webp?k=1bd2b6cfb94a3069d34cced1861641db25f63a96ba14b1f29eba2dbfb2db5281&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/it/palazzo-dei-mori.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF92ZW5pY2UsIGl0YWx5SDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCzpWGxgbAAgHSAiQ3MWNlMGM5Yy03YTVhLTQ0NjItOWQyNC0wZjAxNmNhM2U2ODjYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=f9b965a7c68f0b98&srepoch=1757514450&all_sr_blocks=1217108602_416903914_2_1_0&highlighted_blocks=1217108602_416903914_2_1_0&matching_block_id=1217108602_416903914_2_1_0&sr_pri_blocks=1217108602_416903914_2_1_0__74400&from=searchresults",
+    "address": "Castello, Venice",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Venice%2C+Italy&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-10T14:27:31.668Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757514451668_3",
+    "name": "Palazzina Schiavoni",
+    "price": 530,
+    "currency": "USD",
+    "rating": 8.2,
+    "stars": 8,
+    "reviewCount": 332,
+    "avgReview": "8.2/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/374695741.webp?k=d222801ca69ad71466f99ecf9618a17575d852ee90009e50915dc4e09abee92e&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/it/palazzina-schiavoni.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF92ZW5pY2UsIGl0YWx5SDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCzpWGxgbAAgHSAiQ3MWNlMGM5Yy03YTVhLTQ0NjItOWQyNC0wZjAxNmNhM2U2ODjYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=f9b965a7c68f0b98&srepoch=1757514450&all_sr_blocks=879684701_420177692_3_0_0&highlighted_blocks=879684701_420177692_3_0_0&matching_block_id=879684701_420177692_3_0_0&sr_pri_blocks=879684701_420177692_3_0_0__45180&from=searchresults",
+    "address": "Castello, Venice",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Venice%2C+Italy&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-10T14:27:31.668Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757514451668_4",
+    "name": "Alloggi SS Giovanni e Paolo",
+    "price": 507,
+    "currency": "USD",
+    "rating": 8.6,
+    "stars": 9,
+    "reviewCount": 409,
+    "avgReview": "8.6/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/454506516.webp?k=324b83b2c8ffb6585d3bdd5543fb02f5a41a1f5f070acbfd6490294b44772649&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/it/locanda-ss-giovanni-e-paolo.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF92ZW5pY2UsIGl0YWx5SDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCzpWGxgbAAgHSAiQ3MWNlMGM5Yy03YTVhLTQ0NjItOWQyNC0wZjAxNmNhM2U2ODjYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=f9b965a7c68f0b98&srepoch=1757514450&all_sr_blocks=2994601_95154491_2_2_0&highlighted_blocks=2994601_95154491_2_2_0&matching_block_id=2994601_95154491_2_2_0&sr_pri_blocks=2994601_95154491_2_2_0__43200&from=searchresults",
+    "address": "Castello, Venice",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Venice%2C+Italy&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-10T14:27:31.668Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757514451668_5",
+    "name": "le Ancore apartment few steps from Biennale art",
+    "price": 443,
+    "currency": "USD",
+    "rating": 9.4,
+    "stars": 9,
+    "reviewCount": 265,
+    "avgReview": "9.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/195331808.webp?k=f92cd2ed3d43b3ee051897815085f8b2a6b3a00ab3f533f74071d1b55acec812&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/it/le-ancore-apartment-few-steps-from-biennale-art.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF92ZW5pY2UsIGl0YWx5SDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCzpWGxgbAAgHSAiQ3MWNlMGM5Yy03YTVhLTQ0NjItOWQyNC0wZjAxNmNhM2U2ODjYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=f9b965a7c68f0b98&srepoch=1757514450&all_sr_blocks=497691501_179728591_2_0_0&highlighted_blocks=497691501_179728591_2_0_0&matching_block_id=497691501_179728591_2_0_0&sr_pri_blocks=497691501_179728591_2_0_0__37800&from=searchresults",
+    "address": "Castello, Venice",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Venice%2C+Italy&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-10T14:27:31.668Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757514451668_6",
+    "name": "Hotel Marte",
+    "price": 762,
+    "currency": "USD",
+    "rating": 8.6,
+    "stars": 9,
+    "reviewCount": 166,
+    "avgReview": "8.6/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/656401160.webp?k=ed069daa6b5aff325deed065425a1bb53559345baa2de3f69908834202538a2b&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/it/marte.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF92ZW5pY2UsIGl0YWx5SDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCzpWGxgbAAgHSAiQ3MWNlMGM5Yy03YTVhLTQ0NjItOWQyNC0wZjAxNmNhM2U2ODjYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=f9b965a7c68f0b98&srepoch=1757514450&all_sr_blocks=25894714_88450910_0_2_0&highlighted_blocks=25894714_88450910_0_2_0&matching_block_id=25894714_88450910_0_2_0&sr_pri_blocks=25894714_88450910_0_2_0__64942&from=searchresults",
+    "address": "Cannaregio, Venice",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Venice%2C+Italy&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-10T14:27:31.668Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757514451668_7",
+    "name": "Hotel Campiello",
+    "price": 759,
+    "currency": "USD",
+    "rating": 8.5,
+    "stars": 9,
+    "reviewCount": 580,
+    "avgReview": "8.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/142937928.webp?k=de5730118bb0df5a277fefdd795459dbd97d10dc630ba099b51aa06a9e7f74e4&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/it/campiello.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF92ZW5pY2UsIGl0YWx5SDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCzpWGxgbAAgHSAiQ3MWNlMGM5Yy03YTVhLTQ0NjItOWQyNC0wZjAxNmNhM2U2ODjYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=f9b965a7c68f0b98&srepoch=1757514450&all_sr_blocks=8985708_0_2_0_0&highlighted_blocks=8985708_0_2_0_0&matching_block_id=8985708_0_2_0_0&sr_pri_blocks=8985708_0_2_0_0__64704&from=searchresults",
+    "address": "Castello, Venice",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Venice%2C+Italy&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-10T14:27:31.668Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757514451668_8",
+    "name": "Palazzina Fortuny",
+    "price": 865,
+    "currency": "USD",
+    "rating": 9.1,
+    "stars": 9,
+    "reviewCount": 279,
+    "avgReview": "9.1/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/351145784.webp?k=c2edc3f8bac48f633583ca7702126a652d70f32ff995f8b9f6b2c9f2715b5e9a&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/it/ca-fortuny.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF92ZW5pY2UsIGl0YWx5SDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCzpWGxgbAAgHSAiQ3MWNlMGM5Yy03YTVhLTQ0NjItOWQyNC0wZjAxNmNhM2U2ODjYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=f9b965a7c68f0b98&srepoch=1757514450&all_sr_blocks=18976908_203622202_2_0_0_925198&highlighted_blocks=18976908_203622202_2_0_0_925198&matching_block_id=18976908_203622202_2_0_0_925198&sr_pri_blocks=18976908_203622202_2_0_0_925198_73769&from=searchresults",
+    "address": "San Marco, Venice",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Venice%2C+Italy&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-10T14:27:31.668Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757514451668_9",
+    "name": "Console Palais",
+    "price": 1,
+    "currency": "USD",
+    "rating": 9.5,
+    "stars": 10,
+    "reviewCount": 359,
+    "avgReview": "9.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/674679961.webp?k=95e261686b7b655aa9e120764decf47e9d8b3f2bc150f6a183e2faf02ce1cb7c&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/it/consul-palace.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF92ZW5pY2UsIGl0YWx5SDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCzpWGxgbAAgHSAiQ3MWNlMGM5Yy03YTVhLTQ0NjItOWQyNC0wZjAxNmNhM2U2ODjYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=f9b965a7c68f0b98&srepoch=1757514450&all_sr_blocks=1291652601_402130359_2_0_0&highlighted_blocks=1291652601_402130359_2_0_0&matching_block_id=1291652601_402130359_2_0_0&sr_pri_blocks=1291652601_402130359_2_0_0__99954&from=searchresults",
+    "address": "Castello, Venice",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Venice%2C+Italy&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-10T14:27:31.668Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

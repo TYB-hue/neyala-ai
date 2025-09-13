@@ -1,0 +1,272 @@
+[
+  {
+    "id": "hotel_1757414969399_0",
+    "name": "Hanoveel pyramids night",
+    "price": 47,
+    "currency": "USD",
+    "rating": 10,
+    "stars": 10,
+    "reviewCount": 308,
+    "avgReview": "10.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/743571110.webp?k=d5db797ff72263dbc3fbc44bc8f470c9c5b4d268ae7d38481ed1795e028db24d&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/eg/hanoveel.html?aid=304142&label=gen173nr-10CAQoggJCE3NlYXJjaF9jYWlybywgZWd5cHRIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAK0jIDGBsACAdICJDQ2ZTFhZTM5LWMyYjctNDIyNC1hNjhlLThkNzZhYjc2MTQ5MdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=20ab4c1abafa0223&srepoch=1757414967&all_sr_blocks=1488342001_420298970_0_1_0&highlighted_blocks=1488342001_420298970_0_1_0&matching_block_id=1488342001_420298970_0_1_0&sr_pri_blocks=1488342001_420298970_0_1_0__4680&from=searchresults",
+    "address": "Giza, Cairo",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Cairo%2C+Egypt&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T10:49:29.399Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757414969399_1",
+    "name": "Steigenberger Hotel El Tahrir Cairo",
+    "price": 315,
+    "currency": "USD",
+    "rating": 9.3,
+    "stars": 9,
+    "reviewCount": 831,
+    "avgReview": "9.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/484416516.webp?k=82dfc194407631f13955754cbc5d6f05a7231985a44cabfd87c0adbb240592b7&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/eg/steigenberger-el-tahrir.html?aid=304142&label=gen173nr-10CAQoggJCE3NlYXJjaF9jYWlybywgZWd5cHRIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAK0jIDGBsACAdICJDQ2ZTFhZTM5LWMyYjctNDIyNC1hNjhlLThkNzZhYjc2MTQ5MdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=20ab4c1abafa0223&srepoch=1757414967&all_sr_blocks=179123205_0_2_0_0&highlighted_blocks=179123205_0_2_0_0&matching_block_id=179123205_0_2_0_0&sr_pri_blocks=179123205_0_2_0_0__31514&from=searchresults",
+    "address": "Downtown Cairo, Cairo",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Cairo%2C+Egypt&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T10:49:29.399Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757414969399_2",
+    "name": "Baron Hotel Cairo",
+    "price": 206,
+    "currency": "USD",
+    "rating": 8.6,
+    "stars": 9,
+    "reviewCount": 922,
+    "avgReview": "8.6/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/729437013.webp?k=c7579c119193a7172815932e4a7dacd454f3ddc9cc7283e7a6cd2b50de7c26cc&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/eg/baron-heliopolis.html?aid=304142&label=gen173nr-10CAQoggJCE3NlYXJjaF9jYWlybywgZWd5cHRIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAK0jIDGBsACAdICJDQ2ZTFhZTM5LWMyYjctNDIyNC1hNjhlLThkNzZhYjc2MTQ5MdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=20ab4c1abafa0223&srepoch=1757414967&all_sr_blocks=25756711_0_2_0_0&highlighted_blocks=25756711_0_2_0_0&matching_block_id=25756711_0_2_0_0&sr_pri_blocks=25756711_0_2_0_0__20556&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Heliopolis, Cairo",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Cairo%2C+Egypt&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T10:49:29.399Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757414969399_3",
+    "name": "Blue Pyramids Eyes Hotel",
+    "price": 79,
+    "currency": "USD",
+    "rating": 8.5,
+    "stars": 9,
+    "reviewCount": 668,
+    "avgReview": "8.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/508195157.webp?k=c40a6ad09d36613a70c87a3e51f410d9471791d4b982e1dc4d799d467ad9d9e5&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/eg/blue-eyes-al-haram.html?aid=304142&label=gen173nr-10CAQoggJCE3NlYXJjaF9jYWlybywgZWd5cHRIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAK0jIDGBsACAdICJDQ2ZTFhZTM5LWMyYjctNDIyNC1hNjhlLThkNzZhYjc2MTQ5MdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=20ab4c1abafa0223&srepoch=1757414967&all_sr_blocks=1099560315_410296889_2_41_0&highlighted_blocks=1099560315_410296889_2_41_0&matching_block_id=1099560315_410296889_2_41_0&sr_pri_blocks=1099560315_410296889_2_41_0__7898&from=searchresults",
+    "address": "Giza, Cairo",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Cairo%2C+Egypt&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T10:49:29.399Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757414969399_4",
+    "name": "Jewel Zamalek Hotel",
+    "price": 180,
+    "currency": "USD",
+    "rating": 7.4,
+    "stars": 7,
+    "reviewCount": 590,
+    "avgReview": "7.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/561736946.webp?k=b208fe9343d999eb695a889c05736e0351b4f77f09d385f74b55340076cc2eda&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/eg/elzamalek-jewel.html?aid=304142&label=gen173nr-10CAQoggJCE3NlYXJjaF9jYWlybywgZWd5cHRIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAK0jIDGBsACAdICJDQ2ZTFhZTM5LWMyYjctNDIyNC1hNjhlLThkNzZhYjc2MTQ5MdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=20ab4c1abafa0223&srepoch=1757414967&all_sr_blocks=1122037101_384971590_2_41_0&highlighted_blocks=1122037101_384971590_2_41_0&matching_block_id=1122037101_384971590_2_41_0&sr_pri_blocks=1122037101_384971590_2_41_0__18000&from=searchresults",
+    "address": "Zamalek, Cairo (Gezira)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Cairo%2C+Egypt&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T10:49:29.399Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757414969399_5",
+    "name": "Tiye Pyramids Hotel",
+    "price": 71,
+    "currency": "USD",
+    "rating": 9.3,
+    "stars": 9,
+    "reviewCount": 297,
+    "avgReview": "9.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/638449679.webp?k=3849dd2c16c8265c442cb7afc106b68dccc78fb192607c73e161aa1e5d1e37ca&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/eg/tiye-pyramids.html?aid=304142&label=gen173nr-10CAQoggJCE3NlYXJjaF9jYWlybywgZWd5cHRIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAK0jIDGBsACAdICJDQ2ZTFhZTM5LWMyYjctNDIyNC1hNjhlLThkNzZhYjc2MTQ5MdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=20ab4c1abafa0223&srepoch=1757414967&all_sr_blocks=1335117002_406066388_2_41_0&highlighted_blocks=1335117002_406066388_2_41_0&matching_block_id=1335117002_406066388_2_41_0&sr_pri_blocks=1335117002_406066388_2_41_0__7125&from=searchresults",
+    "address": "Giza, Cairo",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Cairo%2C+Egypt&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T10:49:29.399Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757414969399_6",
+    "name": "Gaia Pyramids Hotel",
+    "price": 193,
+    "currency": "USD",
+    "rating": 8.8,
+    "stars": 9,
+    "reviewCount": 847,
+    "avgReview": "8.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/570259589.webp?k=5b56029d336a9ebbac5d4e274368b546b2feced9e82724bd968f83e603b69030&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/eg/gaia-pyramids.html?aid=304142&label=gen173nr-10CAQoggJCE3NlYXJjaF9jYWlybywgZWd5cHRIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAK0jIDGBsACAdICJDQ2ZTFhZTM5LWMyYjctNDIyNC1hNjhlLThkNzZhYjc2MTQ5MdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=20ab4c1abafa0223&srepoch=1757414967&all_sr_blocks=1228291411_395053046_2_1_0&highlighted_blocks=1228291411_395053046_2_1_0&matching_block_id=1228291411_395053046_2_1_0&sr_pri_blocks=1228291411_395053046_2_1_0__19278&from=searchresults",
+    "address": "Giza, Cairo",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Cairo%2C+Egypt&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T10:49:29.399Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757414969399_7",
+    "name": "New Scarab Pyramids View",
+    "price": 54,
+    "currency": "USD",
+    "rating": 8.3,
+    "stars": 8,
+    "reviewCount": 185,
+    "avgReview": "8.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/602309606.webp?k=a4c97103df004bc4393f299b3a035a207fd41ecd827075ebfd4ecbae3670601f&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/eg/new-scarab-pyramids-view.html?aid=304142&label=gen173nr-10CAQoggJCE3NlYXJjaF9jYWlybywgZWd5cHRIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAK0jIDGBsACAdICJDQ2ZTFhZTM5LWMyYjctNDIyNC1hNjhlLThkNzZhYjc2MTQ5MdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=20ab4c1abafa0223&srepoch=1757414967&all_sr_blocks=1283056704_401228744_2_41_0_1180434&highlighted_blocks=1283056704_401228744_2_41_0_1180434&matching_block_id=1283056704_401228744_2_41_0_1180434&sr_pri_blocks=1283056704_401228744_2_41_0_1180434_5400&from=searchresults",
+    "address": "Giza, Cairo",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Cairo%2C+Egypt&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T10:49:29.399Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757414969399_8",
+    "name": "New Gold's Pyramids Hotel",
+    "price": 96,
+    "currency": "USD",
+    "rating": 4.546844522882598,
+    "stars": 5,
+    "reviewCount": 586,
+    "avgReview": "4.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/738131147.webp?k=e83093650f4565dcb8b03c037bfa14c757901756f95514eff70c90989f9092be&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/eg/new-golds-pyramids.html?aid=304142&label=gen173nr-10CAQoggJCE3NlYXJjaF9jYWlybywgZWd5cHRIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAK0jIDGBsACAdICJDQ2ZTFhZTM5LWMyYjctNDIyNC1hNjhlLThkNzZhYjc2MTQ5MdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=20ab4c1abafa0223&srepoch=1757414967&all_sr_blocks=1483650101_419855138_2_41_0&highlighted_blocks=1483650101_419855138_2_41_0&matching_block_id=1483650101_419855138_2_41_0&sr_pri_blocks=1483650101_419855138_2_41_0__9563&from=searchresults",
+    "address": "Giza, Cairo",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Cairo%2C+Egypt&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T10:49:29.399Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757414969399_9",
+    "name": "Safir Hotel Cairo",
+    "price": 247,
+    "currency": "USD",
+    "rating": 8.5,
+    "stars": 9,
+    "reviewCount": 334,
+    "avgReview": "8.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/59758509.webp?k=b5c4bcdd404980f63bda9afcf17ea8fbb99ddfabd3566a48b9a9d41ae1feb74c&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/eg/safircairo.html?aid=304142&label=gen173nr-10CAQoggJCE3NlYXJjaF9jYWlybywgZWd5cHRIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAK0jIDGBsACAdICJDQ2ZTFhZTM5LWMyYjctNDIyNC1hNjhlLThkNzZhYjc2MTQ5MdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=20ab4c1abafa0223&srepoch=1757414967&all_sr_blocks=1600303_338664313_2_42_0&highlighted_blocks=1600303_338664313_2_42_0&matching_block_id=1600303_338664313_2_42_0&sr_pri_blocks=1600303_338664313_2_42_0__24664&from=searchresults",
+    "address": "Cairo",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Cairo%2C+Egypt&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T10:49:29.399Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

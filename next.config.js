@@ -9,6 +9,11 @@ const nextConfig = {
       'images.unsplash.com', // For demo images
       'upload.wikimedia.org', // For demo images
       'images.pexels.com', // Added for Pexels CDN
+      'cf.bstatic.com', // Booking.com CDN
+      'q-xx.bstatic.com', // Booking.com CDN alternative
+      'bstatic.com', // Booking.com CDN
+      'fastly.4sqi.net', // Foursquare photos CDN
+      'ss3.4sqi.net' // Foursquare category icons
     ],
     unoptimized: process.env.NODE_ENV === 'development'
   },

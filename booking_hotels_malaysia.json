@@ -1,0 +1,272 @@
+[
+  {
+    "id": "hotel_1756485247697_0",
+    "name": "Swing & Pillows - KL Kuchai Lama",
+    "price": 56,
+    "currency": "USD",
+    "rating": 7.3,
+    "stars": 7,
+    "reviewCount": 1033,
+    "avgReview": "7.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/603802459.webp?k=533a3c4ff4ebe713d6f2b098fce60fb9db0baf245ed36d1d613df3bcc8cf3625&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/my/swing-amp-pillows-sunrise-inn-kuchai-lama.html?aid=304142&label=gen173nr-10CAQoggJCD3NlYXJjaF9tYWxheXNpYUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Avqsx8UGwAIB0gIkMjRjODUzM2QtZTFiOC00MjYyLWJjYjAtOWViZmU5NmZiMTQ42AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=921f747d33f80501&srepoch=1756485246&all_sr_blocks=1167114501_389319112_0_0_0_842847&highlighted_blocks=1167114501_389319112_0_0_0_842847&matching_block_id=1167114501_389319112_0_0_0_842847&sr_pri_blocks=1167114501_389319112_0_0_0_842847_23765&from=searchresults",
+    "address": "Mid Valley, Kuala Lumpur (Mid Valley)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=malaysia&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T16:34:07.697Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756485247697_1",
+    "name": "The Banjaran Hotsprings Retreat",
+    "price": 1,
+    "currency": "USD",
+    "rating": 9.5,
+    "stars": 10,
+    "reviewCount": 612,
+    "avgReview": "9.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/78475717.webp?k=a215a146e55b97b128fcfa9008f9b2ace07aa4c7eae9ed01d5b94b58ab92aa00&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/my/the-banjarn-hotsprings-retreat.html?aid=304142&label=gen173nr-10CAQoggJCD3NlYXJjaF9tYWxheXNpYUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Avqsx8UGwAIB0gIkMjRjODUzM2QtZTFiOC00MjYyLWJjYjAtOWViZmU5NmZiMTQ42AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=921f747d33f80501&srepoch=1756485246&all_sr_blocks=23570116_88829416_0_1_0_54098&highlighted_blocks=23570116_88829416_0_1_0_54098&matching_block_id=23570116_88829416_0_1_0_54098&sr_pri_blocks=23570116_88829416_0_1_0_54098_553350&from=searchresults",
+    "address": "Ipoh",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=malaysia&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T16:34:07.697Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756485247697_2",
+    "name": "Sunway Resort Hotel",
+    "price": 568,
+    "currency": "USD",
+    "rating": 9,
+    "stars": 9,
+    "reviewCount": 939,
+    "avgReview": "9.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/591410121.webp?k=18f1d5db5239b0cb4bbfe23874625af44b1bbacfca13528e010acc8bdb7be8ec&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/my/sunway-resort-hotel-spa.html?aid=304142&label=gen173nr-10CAQoggJCD3NlYXJjaF9tYWxheXNpYUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Avqsx8UGwAIB0gIkMjRjODUzM2QtZTFiOC00MjYyLWJjYjAtOWViZmU5NmZiMTQ42AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=921f747d33f80501&srepoch=1756485246&all_sr_blocks=2566784_419275877_2_9_0&highlighted_blocks=2566784_419275877_2_9_0&matching_block_id=2566784_419275877_2_9_0&sr_pri_blocks=2566784_419275877_2_9_0__239549&from=searchresults",
+    "address": "Bandar Sunway, Kuala Lumpur",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=malaysia&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T16:34:07.697Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756485247697_3",
+    "name": "Holiday Inn Express Kuala Lumpur City Centre by IHG",
+    "price": 190,
+    "currency": "USD",
+    "rating": 8.1,
+    "stars": 8,
+    "reviewCount": 1039,
+    "avgReview": "8.1/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/502802020.webp?k=8f2a263705e973bc20d89f7c9bc1505e952d9c63c2608086734239c6c323ae99&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/my/holiday-inn-express-kuala-lumpur-city-centre.html?aid=304142&label=gen173nr-10CAQoggJCD3NlYXJjaF9tYWxheXNpYUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Avqsx8UGwAIB0gIkMjRjODUzM2QtZTFiOC00MjYyLWJjYjAtOWViZmU5NmZiMTQ42AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=921f747d33f80501&srepoch=1756485246&all_sr_blocks=172645403_388586516_2_9_0_712828&highlighted_blocks=172645403_388586516_2_9_0_712828&matching_block_id=172645403_388586516_2_9_0_712828&sr_pri_blocks=172645403_388586516_2_9_0_712828_80200&from=searchresults",
+    "address": "Downtown Kuala Lumpur, Kuala Lumpur",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=malaysia&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T16:34:07.697Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756485247697_4",
+    "name": "The Ritz-Carlton, Langkawi",
+    "price": 1,
+    "currency": "USD",
+    "rating": 9.5,
+    "stars": 10,
+    "reviewCount": 493,
+    "avgReview": "9.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/463620124.webp?k=6232ae63a62b68935e4f3c23c70db64945c028775044c127fe17f84cecd3baad&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/my/the-ritz-carlton-langkawi.html?aid=304142&label=gen173nr-10CAQoggJCD3NlYXJjaF9tYWxheXNpYUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Avqsx8UGwAIB0gIkMjRjODUzM2QtZTFiOC00MjYyLWJjYjAtOWViZmU5NmZiMTQ42AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=921f747d33f80501&srepoch=1756485246&all_sr_blocks=227931615_106307584_2_1_0_1098687&highlighted_blocks=227931615_106307584_2_1_0_1098687&matching_block_id=227931615_106307584_2_1_0_1098687&sr_pri_blocks=227931615_106307584_2_1_0_1098687_720000&from=searchresults",
+    "address": "Pantai Kok",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=malaysia&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T16:34:07.697Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756485247697_5",
+    "name": "Eaton Suites KL By Luna",
+    "price": 294,
+    "currency": "USD",
+    "rating": 8.9,
+    "stars": 9,
+    "reviewCount": 404,
+    "avgReview": "8.9/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/736221643.webp?k=89d8def31ca12dc8d8974ab3c78fe237e7865387123a1d6e19c12f27be30996d&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/my/suites-klcc-by-malaysia.html?aid=304142&label=gen173nr-10CAQoggJCD3NlYXJjaF9tYWxheXNpYUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Avqsx8UGwAIB0gIkMjRjODUzM2QtZTFiOC00MjYyLWJjYjAtOWViZmU5NmZiMTQ42AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=921f747d33f80501&srepoch=1756485246&all_sr_blocks=1444766901_419653371_2_0_0&highlighted_blocks=1444766901_419653371_2_0_0&matching_block_id=1444766901_419653371_2_0_0&sr_pri_blocks=1444766901_419653371_2_0_0__124119&from=searchresults",
+    "address": "Downtown Kuala Lumpur, Kuala Lumpur",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=malaysia&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T16:34:07.697Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756485247697_6",
+    "name": "Berjaya Times Square Hotel, Kuala Lumpur",
+    "price": 470,
+    "currency": "USD",
+    "rating": 7.9,
+    "stars": 8,
+    "reviewCount": 589,
+    "avgReview": "7.9/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/669831638.webp?k=b9c4ec95dbbba6846e9aaa978b5a40f5bea000ee8a6db4a7f808ac475901760b&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/my/berjaya-times-square-hotel-kuala-lumpur.html?aid=304142&label=gen173nr-10CAQoggJCD3NlYXJjaF9tYWxheXNpYUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Avqsx8UGwAIB0gIkMjRjODUzM2QtZTFiOC00MjYyLWJjYjAtOWViZmU5NmZiMTQ42AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=921f747d33f80501&srepoch=1756485246&all_sr_blocks=2570034_412164018_0_1_0_392966&highlighted_blocks=2570034_412164018_0_1_0_392966&matching_block_id=2570034_412164018_0_1_0_392966&sr_pri_blocks=2570034_412164018_0_1_0_392966_198288&from=searchresults",
+    "address": "Kuala Lumpur",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=malaysia&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T16:34:07.697Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756485247697_7",
+    "name": "The RuMa Hotel and Residences",
+    "price": 822,
+    "currency": "USD",
+    "rating": 9.3,
+    "stars": 9,
+    "reviewCount": 937,
+    "avgReview": "9.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/178954601.webp?k=46ac1844706261f7699c4e78aa10234edccf281a40b6a8b914eeebcfb76dd487&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/my/the-ruma-and-residences.html?aid=304142&label=gen173nr-10CAQoggJCD3NlYXJjaF9tYWxheXNpYUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Avqsx8UGwAIB0gIkMjRjODUzM2QtZTFiOC00MjYyLWJjYjAtOWViZmU5NmZiMTQ42AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=921f747d33f80501&srepoch=1756485246&all_sr_blocks=306356202_136810481_2_1_0_100032&highlighted_blocks=306356202_136810481_2_1_0_100032&matching_block_id=306356202_136810481_2_1_0_100032&sr_pri_blocks=306356202_136810481_2_1_0_100032_346983&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Downtown Kuala Lumpur, Kuala Lumpur",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=malaysia&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T16:34:07.697Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756485247697_8",
+    "name": "M Resort & Hotel Kuala Lumpur",
+    "price": 383,
+    "currency": "USD",
+    "rating": 8.8,
+    "stars": 9,
+    "reviewCount": 249,
+    "avgReview": "8.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/393757331.webp?k=d321924734515663e9ed0565725621e7a248d5c69e25fa1c48b1218cd674a94d&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/my/m-resort-amp.html?aid=304142&label=gen173nr-10CAQoggJCD3NlYXJjaF9tYWxheXNpYUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Avqsx8UGwAIB0gIkMjRjODUzM2QtZTFiOC00MjYyLWJjYjAtOWViZmU5NmZiMTQ42AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=921f747d33f80501&srepoch=1756485246&all_sr_blocks=860587017_356641952_2_0_0_219918&highlighted_blocks=860587017_356641952_2_0_0_219918&matching_block_id=860587017_356641952_2_0_0_219918&sr_pri_blocks=860587017_356641952_2_0_0_219918_161727&from=searchresults",
+    "address": "Kuala Lumpur",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=malaysia&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T16:34:07.697Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756485247697_9",
+    "name": "Dorsett Grand Subang Hotel",
+    "price": 217,
+    "currency": "USD",
+    "rating": 7.6,
+    "stars": 8,
+    "reviewCount": 947,
+    "avgReview": "7.6/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/33415659.webp?k=48aad385633b65b86649d86fd208380a4666637e14c13909fd5ca06f9671cd2b&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/my/grand-dorsett-subang.html?aid=304142&label=gen173nr-10CAQoggJCD3NlYXJjaF9tYWxheXNpYUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Avqsx8UGwAIB0gIkMjRjODUzM2QtZTFiOC00MjYyLWJjYjAtOWViZmU5NmZiMTQ42AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=921f747d33f80501&srepoch=1756485246&all_sr_blocks=23587808_397132429_0_2_0_544543&highlighted_blocks=23587808_397132429_0_2_0_544543&matching_block_id=23587808_397132429_0_2_0_544543&sr_pri_blocks=23587808_397132429_0_2_0_544543_91530&from=searchresults",
+    "address": "Subang Jaya",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=malaysia&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T16:34:07.697Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

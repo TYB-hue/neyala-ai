@@ -1,0 +1,272 @@
+[
+  {
+    "id": "hotel_1757513440379_0",
+    "name": "Barcelona Classic Eixample Apartments",
+    "price": 824,
+    "currency": "USD",
+    "rating": 8.3,
+    "stars": 8,
+    "reviewCount": 509,
+    "avgReview": "8.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/574737617.webp?k=3a6608606f19357313890a81bb02e0755818fe488ce77b4b1046ec23bd326f1c&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/es/classic-eixample-apartments.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9iYXJjZWxvbmEsIHNwYWluSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC3Y2GxgbAAgHSAiRlOWQ0ZWJiNS05ODU3LTQ0NTYtOGIzNi1jNzEzODZlY2JjMjbYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=12ae63ae0b440a0c&srepoch=1757513440&all_sr_blocks=1235878501_400175439_6_0_0&highlighted_blocks=1235878501_400175439_6_0_0&matching_block_id=1235878501_400175439_6_0_0&sr_pri_blocks=1235878501_400175439_6_0_0__70200&from=searchresults",
+    "address": "Gràcia, Barcelona",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Barcelona%2C+Spain&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757513436787&force_referer=",
+    "scrapedAt": "2025-09-10T14:10:40.379Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757513440379_1",
+    "name": "45 Times Barcelona Hotel",
+    "price": 1,
+    "currency": "USD",
+    "rating": 8.8,
+    "stars": 9,
+    "reviewCount": 960,
+    "avgReview": "8.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/614477311.webp?k=7469711d4af5cbc5b155c22531137ef790eb3cc5920f7168993fc5b47e85bda8&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/es/45-times-barcelona-hotel.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9iYXJjZWxvbmEsIHNwYWluSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC3Y2GxgbAAgHSAiRlOWQ0ZWJiNS05ODU3LTQ0NTYtOGIzNi1jNzEzODZlY2JjMjbYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=12ae63ae0b440a0c&srepoch=1757513440&all_sr_blocks=255329701_245098339_2_2_0_313494&highlighted_blocks=255329701_245098339_2_2_0_313494&matching_block_id=255329701_245098339_2_2_0_313494&sr_pri_blocks=255329701_245098339_2_2_0_313494_136000&nad_id=d6b43833-d393-422e-b61a-a83aca7067c1_0&nad_cpc=0.5&nad_track=eyJhdWN0aW9uRXBvY2giOjE3NTc1MTM0MzgzOTEsInJhbmsiOjEsImtvZGRpVHJhY2tpbmdJbmZvIjoia1NHOE0rVXloM1hNdktvbitZdmh6bGMvblN0dElpZU5xRDdaN0EwZmRYeWg2Zi9rdEQvUnZUNzAvVjBxYjVMWDcxVEEvamUwOWVTN01uNTVld3Z0QzFTU1dOckFkcE9JMmZGVlVxMWpGbEpLR09lRGlmdXQ2Y1RhUjRzU2pwTkF0SmpwUXRQSE44cjBML1V3Y01Nc0sxNHpZaFVHdGVQTm9YWU1SNDlNakVUbDFkYWJLa1l1TURYWm9KejdNZFhIVWdkTXB1RGZjTlU0NVpleURBS0MvakM1eGUrV3VRVGNCazRvOTFiaW9IcUpIUWxaemVZWU5IRHIzU0RFZEttS1dYWTlGUEYvL3UzWUR1UXZ1ZlR0RXB1TWRzdjNOdnhGSDYwWHJnR0hkaVl5b0NTbTM5VmdYeERGSllKQ0YxaURweWZPaUEyaFA1V1FKaURqVzJBbmpaQlRoZmdLYmdjUlJWc1BnenhuVGFnd1gyQklKQzJxNzFHMWV0NkVVNDhKMVFYd0ZIb0swZ20wRWZpQUh2NFVmMVdPVVcxZUUxOW5XenBmclp2a2xGbDdldXc2UDZuWjRPaWhLMGdKZGl6M25nWG5RcTZPQ2wySFRja01mdjUyMHkxQThGTFNhemx5d0Rrc0g0V05keXlheXRQL25TR2gzMUptcGFiV3R2VmduVWllQXprcTBtZEZaUU5SRW9kSlg5dmJZa0RaaDJ3anJQbjk1Nml3d293VW9LSmt4YThMa2xxN3p2blVBNVFQa3psWlMvMkNKNVhWMmR5WmlrQVJDTTJSWVJHSEZFeFpBQjBydHJ5TlF1U0dJR21NRGwrWXZqTXlORHVHYWxMM0U5bVM2Y2hFRmphYWRXQlBodzVXeFZ5TWU2WUVodU1tNUtKcWsxS0JvdkZWNHRPRmM0ck5MQVVQd2ZMS3daWXQvVFBoeUx1cVB0K2Jkb3JDb1grdHRaWitpRGpsM2xndUszTVMvbDBWZFd5MlpYZmtMaFp6RUZuVXZxdVpKSlZpdmwzbGVPdmw1MktRcDdYZ0luSXMwM0xWZ0lRWWpSWUVOaGRVRTBVL2Y3RVJNak9qelFrTkJaRW8yYjBzSkpsNkNaL3NrWDJDYUdlREdVWWphRUpkS0hjNzRsOTViQlZRRFBhalYvd290ZlAyZ1dYOStxSVVKTDN5SHAwVkdTaG00enVGMDFidStNbXVQazJWbFo2c0pnOTBrSUhrbEwrY3FRblc5YVBxWGQ5RzNCb1JkQlJuYlNBbnlTNHp2MnQ4SUZEcWFmWlF2SDdLajNXNnV2N0JGRzZsSm92VGk0anQxU2tZMCt2RXZQN0xic3Vlcmc4YlpCa3NIbk5USU9Ibjd3R1ZWdVU3ejBDYUJaMmdoVU5iTTFFMEV3dExOTVBEV0gzbE1RenpJVE10dTJkVCtJMVJiVnhoU0Y5RDhPZkdxcnZJNGdtYnNFZjFlK2NRRWo5S0VMcTM4MHVYa252ekIrbnQvNmZXTVMzaFNNTDcyelBOdkppRFZGYmJzNlY3bWxuUXZMckt5SzhGeStKYUJ4MW00a1hYYmFmK0ppVTlmR3RkSGVXRnhqRWg1aGVRY0NYVmZLTitnVTlXY0JOS1htVStBcGdXWEpjYXgyczMwb1diVkI2YVlVR2NGYllDQkIzOFJ4M29xMFFCK2VacHdaaHZrMEJsL1F3NXByVXRvOHRJSzhRNHBNNnVnVUo2NzNVc2ZWNFdsQTlKZjdBcGVrMUQ0WTRPSW03dUthN0VoZHJrd3k3Z01zck9la2NabTlDam00Q2p6ZUdCaDV4NmhTNlhTRFRjdkIvandnVm5DMUNaM3duOExVRHZBVFVldk04QisxWVNjK0tFVzBtemlRTzZQWnBlWWpUNzh5djlITU85YmhzY3pVSlZwb0VwdzF1OHByR3JWTUpqdksyNkxLQ3V0a3Z0NEo1YUpudmZybllaSDlvOU5PTXNETm1aRVpsOXNleXF6RXE1RWJHbWt6MDNGNXR5Z21KLy9XK0w3NnNWT3FtNk1sMndIaUlDZEZmZWVia04xZENSWWh3dk80QjFmOHNUSEZCMGlUOWpGcGpyQWxPVGd6QnkvQTJVS1U1cEVzZFZDRXpQUHpadFZscTJBSStjOGxqbzk0ajdScDVLb0pNNzdMU1JBc1BBUEdPcUlTWEhqZnpBU2dkUDA2alUzQmxXV1ZsQWJ2MFRpZk1IbURrYXhnSzBjdStQZk9wS1c4bWhTcVllcHQxVFJOMlp0VURaeGd3QWQyc0RtQlhLb085eElqbEtSdVYxYXhNdXhubDlaeUQ0K1ZOOVozZWc2K3psVUNoYm9WR1cwcmxycXlISm1qajNob21zQWdmdXRBT1VSZVJ6c3hhcDE2aUNQVGVEd1EzOVVObjFGUllJZEsrQU1ibmljYU1DOTQrM3haZm9qN1JURk5HOWh5MlZmdFlTTXJEaFlVTFppWHFTd2RLS2gyZEJXTDM3ekRSOUU5K3Nuc2cvYTBHdlpZek9TeGZDUHBMTk1sYjNYRkJJL0FSdnkzeWFNZjhab2FuNVdEUkQzTDF4SGIyTmpyRC9OUlJrTmRXZG1wWkQvWlM3N1ArcGo1aHFaVk5uUU9NbGo2TTc0YU00cUdKanl2d3ZKVEJaTkJYQkoreE9LcnplaThVeEJtbEVudVY2cExZdkF5T1VNSVJDdkVJSjZlaFUwVEhCaHptSitocHhveTJjTWRlcHczKzRYV2VXWVhQTDJSUnUzck1kcVBMd1pDTkxXUk5hWWh0azRiSFliZGNmK1VEQzVLaEZRWTV0L0ZUMnVLM3lSVStGR1p3MlFrVDlSN0c5U25WTHZkdHJFSHdWSzh1cTZHUStIOEo4aGtxZ3hIQ09HUkJNVDZBa2dKVkJOQ1J3QUdpUm1LUWE5MW1BTXVDQStYbCs1SzFBcEFqL0JRbDYzQTUyMVY4SURXNGpaTWhyY2VOMXVTeldhei9SeUJhZFM5Qk40d1BWVWxtbG9zQjA4T1l3Tm91eVBXanpsQ25mcnEzRkxINEs1OWFMaHkwR3RhWWx3QzNUTU1OWXZPTEJYeVNwa21aeU9EL3k2Q3JRRFh2ekhUZ3oxemdRdFdKNUZudmFNcXFYV2oxaTVwVlB3dmJnWDFMbTh5c3E4cHdVNkFqZ09LQlp5QzBHYTV0U3FqMXh5Y1lnclZVM1lBWnBCWmF6Tmo4STBZR2pjU3RXQ1JydE5VY3lIVUNUd3U4N3hadlZsN0ZyaHJ5aVVsQVFXanB0T3FLM1FndDlHUElHaHo2a0VvS0YyaWtqMGtzdUhMWERlajlpZEltTG9iNG5qenhESEQ3VXhSZUtZa09CZXdON0l5T3k4YTJiWjhZRzdhSU9HTnhPL21LbUs1V1hJVWUyUlFsQ3JpZnE2QXdyblQyN2ZPYUkzbWd4Umg5TkVRY3hUbHRGUEY1ZkYwRmJWa2lFRUd5TXZOeXNIMlVFV00wRklLZk1vNE1DVjlITkEyVHY1Nk44SlR0eEkwcnRMZVFUSmVzMnFuTkF5QzRndEpaVENZNHdQQTFsT2s1MVBEdW9qVU5NUHJBWGVnRT0ifQ%3D%3D&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Eixample, Barcelona",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Barcelona%2C+Spain&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757513436787&force_referer=",
+    "scrapedAt": "2025-09-10T14:10:40.379Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757513440379_2",
+    "name": "Exe Plaza Catalunya",
+    "price": 947,
+    "currency": "USD",
+    "rating": 8.5,
+    "stars": 9,
+    "reviewCount": 989,
+    "avgReview": "8.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/313078264.webp?k=51f3d809a7971abd9a5d9637a34099ff9e40fb7e5c8e7f2358256497fe4122b0&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/es/exe-plaza-catalunya.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9iYXJjZWxvbmEsIHNwYWluSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC3Y2GxgbAAgHSAiRlOWQ0ZWJiNS05ODU3LTQ0NTYtOGIzNi1jNzEzODZlY2JjMjbYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=12ae63ae0b440a0c&srepoch=1757513440&all_sr_blocks=391689102_122487241_2_2_0&highlighted_blocks=391689102_122487241_2_2_0&matching_block_id=391689102_122487241_2_2_0&sr_pri_blocks=391689102_122487241_2_2_0__80752&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Eixample, Barcelona",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Barcelona%2C+Spain&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757513436787&force_referer=",
+    "scrapedAt": "2025-09-10T14:10:40.379Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757513440379_3",
+    "name": "Barceló Sants",
+    "price": 760,
+    "currency": "USD",
+    "rating": 8.7,
+    "stars": 9,
+    "reviewCount": 471,
+    "avgReview": "8.7/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/187430658.webp?k=b5c95e0cf0861da6393c9d9a4372e8cd68d38e2392a619560a48a364ba1deb4b&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/es/barcelo-sants.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9iYXJjZWxvbmEsIHNwYWluSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC3Y2GxgbAAgHSAiRlOWQ0ZWJiNS05ODU3LTQ0NTYtOGIzNi1jNzEzODZlY2JjMjbYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=12ae63ae0b440a0c&srepoch=1757513440&all_sr_blocks=9263411_88192826_2_2_0&highlighted_blocks=9263411_88192826_2_2_0&matching_block_id=9263411_88192826_2_2_0&sr_pri_blocks=9263411_88192826_2_2_0__64800&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Sants-Montjuïc, Barcelona",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Barcelona%2C+Spain&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757513436787&force_referer=",
+    "scrapedAt": "2025-09-10T14:10:40.379Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757513440379_4",
+    "name": "Hotel Royal Passeig de Gracia",
+    "price": 1,
+    "currency": "USD",
+    "rating": 8.5,
+    "stars": 9,
+    "reviewCount": 380,
+    "avgReview": "8.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/671030941.webp?k=71f00ec2afa74599c735fd362a2d62e4e3ddb42bfee92c05e7d556f8fe598c84&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/es/royal-passeig-de-gracia.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9iYXJjZWxvbmEsIHNwYWluSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC3Y2GxgbAAgHSAiRlOWQ0ZWJiNS05ODU3LTQ0NTYtOGIzNi1jNzEzODZlY2JjMjbYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=12ae63ae0b440a0c&srepoch=1757513440&all_sr_blocks=48280809_88209853_0_2_0&highlighted_blocks=48280809_88209853_0_2_0&matching_block_id=48280809_88209853_0_2_0&sr_pri_blocks=48280809_88209853_0_2_0__90700&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Eixample, Barcelona",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Barcelona%2C+Spain&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757513436787&force_referer=",
+    "scrapedAt": "2025-09-10T14:10:40.379Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757513440379_5",
+    "name": "Vincci Gala",
+    "price": 997,
+    "currency": "USD",
+    "rating": 8.7,
+    "stars": 9,
+    "reviewCount": 57,
+    "avgReview": "8.7/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/295631185.webp?k=782d97174c9d22feaab94581c43102584e1fbf1e1f3971a8f64417671203966b&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/es/vincci-gala.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9iYXJjZWxvbmEsIHNwYWluSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC3Y2GxgbAAgHSAiRlOWQ0ZWJiNS05ODU3LTQ0NTYtOGIzNi1jNzEzODZlY2JjMjbYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=12ae63ae0b440a0c&srepoch=1757513440&all_sr_blocks=0_0_2_0_0&highlighted_blocks=0_0_2_0_0&matching_block_id=0_0_2_0_0&sr_pri_blocks=0_0_2_0_0__84990&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Eixample, Barcelona",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Barcelona%2C+Spain&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757513436787&force_referer=",
+    "scrapedAt": "2025-09-10T14:10:40.379Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757513440379_6",
+    "name": "Royal Ramblas",
+    "price": 1,
+    "currency": "USD",
+    "rating": 8.3,
+    "stars": 8,
+    "reviewCount": 993,
+    "avgReview": "8.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/529464587.webp?k=fab05416a8f77587fe54b23d18d539ed3976cdd8fea2734e4c89b9490d6270c4&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/es/royal.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9iYXJjZWxvbmEsIHNwYWluSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC3Y2GxgbAAgHSAiRlOWQ0ZWJiNS05ODU3LTQ0NTYtOGIzNi1jNzEzODZlY2JjMjbYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=12ae63ae0b440a0c&srepoch=1757513440&all_sr_blocks=9022806_88181502_2_2_0&highlighted_blocks=9022806_88181502_2_2_0&matching_block_id=9022806_88181502_2_2_0&sr_pri_blocks=9022806_88181502_2_2_0__90700&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Ciutat Vella, Barcelona",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Barcelona%2C+Spain&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757513436787&force_referer=",
+    "scrapedAt": "2025-09-10T14:10:40.379Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757513440379_7",
+    "name": "NH Collection Barcelona Podium",
+    "price": 990,
+    "currency": "USD",
+    "rating": 8.8,
+    "stars": 9,
+    "reviewCount": 107,
+    "avgReview": "8.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/672600749.webp?k=17b907d0514d8e5491ef07d520aa487988fb62681acb5bb9afa2a08377cccaa3&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/es/nhpodium.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9iYXJjZWxvbmEsIHNwYWluSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC3Y2GxgbAAgHSAiRlOWQ0ZWJiNS05ODU3LTQ0NTYtOGIzNi1jNzEzODZlY2JjMjbYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=12ae63ae0b440a0c&srepoch=1757513440&all_sr_blocks=9077803_93709050_0_2_0&highlighted_blocks=9077803_93709050_0_2_0&matching_block_id=9077803_93709050_0_2_0&sr_pri_blocks=9077803_93709050_0_2_0__84400&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Eixample, Barcelona",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Barcelona%2C+Spain&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757513436787&force_referer=",
+    "scrapedAt": "2025-09-10T14:10:40.379Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757513440379_8",
+    "name": "Hotel Regina Barcelona",
+    "price": 1,
+    "currency": "USD",
+    "rating": 8.9,
+    "stars": 9,
+    "reviewCount": 580,
+    "avgReview": "8.9/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/578258047.webp?k=a184d260d0892751554cd52c9a37fbcea5095221a1328cb0d47af14a27d33e65&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/es/hotel-regina.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9iYXJjZWxvbmEsIHNwYWluSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC3Y2GxgbAAgHSAiRlOWQ0ZWJiNS05ODU3LTQ0NTYtOGIzNi1jNzEzODZlY2JjMjbYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=12ae63ae0b440a0c&srepoch=1757513440&all_sr_blocks=9223702_88192241_2_2_0&highlighted_blocks=9223702_88192241_2_2_0&matching_block_id=9223702_88192241_2_2_0&sr_pri_blocks=9223702_88192241_2_2_0__99360&from=searchresults",
+    "address": "Eixample, Barcelona",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Barcelona%2C+Spain&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757513436787&force_referer=",
+    "scrapedAt": "2025-09-10T14:10:40.379Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757513440379_9",
+    "name": "Ibis Barcelona Meridiana",
+    "price": 696,
+    "currency": "USD",
+    "rating": 8.1,
+    "stars": 8,
+    "reviewCount": 577,
+    "avgReview": "8.1/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/654476682.webp?k=3e087f6a9adb424d682dd8e49200bc9d45f225546d034cbc1c86de660f270ac1&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/es/ibis-barcelona-meridiana.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9iYXJjZWxvbmEsIHNwYWluSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC3Y2GxgbAAgHSAiRlOWQ0ZWJiNS05ODU3LTQ0NTYtOGIzNi1jNzEzODZlY2JjMjbYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=12ae63ae0b440a0c&srepoch=1757513440&all_sr_blocks=27022205_376293613_2_34_0&highlighted_blocks=27022205_376293613_2_34_0&matching_block_id=27022205_376293613_2_34_0&sr_pri_blocks=27022205_376293613_2_34_0__59300&from=searchresults",
+    "address": "Nou Barris, Barcelona",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Barcelona%2C+Spain&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757513436787&force_referer=",
+    "scrapedAt": "2025-09-10T14:10:40.379Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

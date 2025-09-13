@@ -1,0 +1,272 @@
+[
+  {
+    "id": "hotel_1757006781667_0",
+    "name": "Citybox Helsinki",
+    "price": 384,
+    "currency": "USD",
+    "rating": 9.1,
+    "stars": 9,
+    "reviewCount": 1039,
+    "avgReview": "9.1/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/705677386.webp?k=f66885c2a7b13eaefa604e752a6fca2db05e4e0b6d872fe4ed18b7d93d5c7a5b&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/fi/citybox-helsinki.html?aid=304142&label=gen173nr-10CAQoggJCGHNlYXJjaF9oZWxzaW5raSwgZmlubGFuZEgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4ArmX58UGwAIB0gIkYWEwM2E2ZjctODI1Yy00YWE3LThkYzAtMjkxNGQ1OTM2MzY42AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-11&checkout=2025-09-14&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=e86a7a9cbe2805e4&srepoch=1757006779&all_sr_blocks=1100348303_382936763_2_2_0_392261&highlighted_blocks=1100348303_382936763_2_2_0_392261&matching_block_id=1100348303_382936763_2_2_0_392261&sr_pri_blocks=1100348303_382936763_2_2_0_392261_32900&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Kallio, Helsinki",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Helsinki%2C+Finland&checkin=2025-09-11&checkout=2025-09-14&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-04T17:26:21.667Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757006781667_1",
+    "name": "Holiday Inn Helsinki West - Ruoholahti by IHG",
+    "price": 393,
+    "currency": "USD",
+    "rating": 8.8,
+    "stars": 9,
+    "reviewCount": 789,
+    "avgReview": "8.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/244741074.webp?k=c5fc396a25482a75780c68fb205283471835a4c5d20128eb1cea07f74008f594&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/fi/hoildayinncitywest.html?aid=304142&label=gen173nr-10CAQoggJCGHNlYXJjaF9oZWxzaW5raSwgZmlubGFuZEgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4ArmX58UGwAIB0gIkYWEwM2E2ZjctODI1Yy00YWE3LThkYzAtMjkxNGQ1OTM2MzY42AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-11&checkout=2025-09-14&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=e86a7a9cbe2805e4&srepoch=1757006779&all_sr_blocks=105980_94354195_2_33_0&highlighted_blocks=105980_94354195_2_33_0&matching_block_id=105980_94354195_2_33_0&sr_pri_blocks=105980_94354195_2_33_0__33690&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Ruoholahti, Helsinki",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Helsinki%2C+Finland&checkin=2025-09-11&checkout=2025-09-14&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-04T17:26:21.667Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757006781667_2",
+    "name": "Hotel AX",
+    "price": 400,
+    "currency": "USD",
+    "rating": 9,
+    "stars": 9,
+    "reviewCount": 1027,
+    "avgReview": "9.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/381821567.webp?k=c3a7acc46380a84d8cd7d2060200b4995fd51b7115113d97750f10b770f75eb4&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/fi/ax.html?aid=304142&label=gen173nr-10CAQoggJCGHNlYXJjaF9oZWxzaW5raSwgZmlubGFuZEgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4ArmX58UGwAIB0gIkYWEwM2E2ZjctODI1Yy00YWE3LThkYzAtMjkxNGQ1OTM2MzY42AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-11&checkout=2025-09-14&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=e86a7a9cbe2805e4&srepoch=1757006779&all_sr_blocks=828674901_347395989_2_1_0_812737&highlighted_blocks=828674901_347395989_2_1_0_812737&matching_block_id=828674901_347395989_2_1_0_812737&sr_pri_blocks=828674901_347395989_2_1_0_812737_34300&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Jätkäsaari, Helsinki",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Helsinki%2C+Finland&checkin=2025-09-11&checkout=2025-09-14&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-04T17:26:21.667Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757006781667_3",
+    "name": "Hotel Arthur",
+    "price": 509,
+    "currency": "USD",
+    "rating": 7.9,
+    "stars": 8,
+    "reviewCount": 321,
+    "avgReview": "7.9/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/603845964.webp?k=6af9e676a4d3e7e8ac81f4baa3d900ffb28256c6b9ada0b058a435ddf478ad39&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/fi/arthur.html?aid=304142&label=gen173nr-10CAQoggJCGHNlYXJjaF9oZWxzaW5raSwgZmlubGFuZEgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4ArmX58UGwAIB0gIkYWEwM2E2ZjctODI1Yy00YWE3LThkYzAtMjkxNGQ1OTM2MzY42AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-11&checkout=2025-09-14&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=e86a7a9cbe2805e4&srepoch=1757006779&all_sr_blocks=3706107_398215404_2_10_0&highlighted_blocks=3706107_398215404_2_10_0&matching_block_id=3706107_398215404_2_10_0&sr_pri_blocks=3706107_398215404_2_10_0__43608&from=searchresults",
+    "address": "Kluuvi, Helsinki",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Helsinki%2C+Finland&checkin=2025-09-11&checkout=2025-09-14&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-04T17:26:21.667Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757006781667_4",
+    "name": "Radisson RED Helsinki",
+    "price": 552,
+    "currency": "USD",
+    "rating": 9,
+    "stars": 9,
+    "reviewCount": 533,
+    "avgReview": "9.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/501927026.webp?k=ba1802c9711e0b9036bd22ff928615001e112b82ab088f2760d58df70b1d3ac3&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/fi/radisson-red-helsinki.html?aid=304142&label=gen173nr-10CAQoggJCGHNlYXJjaF9oZWxzaW5raSwgZmlubGFuZEgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4ArmX58UGwAIB0gIkYWEwM2E2ZjctODI1Yy00YWE3LThkYzAtMjkxNGQ1OTM2MzY42AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-11&checkout=2025-09-14&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=e86a7a9cbe2805e4&srepoch=1757006779&all_sr_blocks=981953102_370466153_2_2_0&highlighted_blocks=981953102_370466153_2_2_0&matching_block_id=981953102_370466153_2_2_0&sr_pri_blocks=981953102_370466153_2_2_0__47345&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Kluuvi, Helsinki",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Helsinki%2C+Finland&checkin=2025-09-11&checkout=2025-09-14&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-04T17:26:21.667Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757006781667_5",
+    "name": "Bob W Helsinki Kamppi",
+    "price": 462,
+    "currency": "USD",
+    "rating": 9.1,
+    "stars": 9,
+    "reviewCount": 586,
+    "avgReview": "9.1/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/699161334.webp?k=a5ab6579c7f12e31978a12181f4bb6da2b6a50defaa727c9e0efd425a2f0820e&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/fi/bob-w-helsinki-kamppi.html?aid=304142&label=gen173nr-10CAQoggJCGHNlYXJjaF9oZWxzaW5raSwgZmlubGFuZEgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4ArmX58UGwAIB0gIkYWEwM2E2ZjctODI1Yy00YWE3LThkYzAtMjkxNGQ1OTM2MzY42AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-11&checkout=2025-09-14&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=e86a7a9cbe2805e4&srepoch=1757006779&all_sr_blocks=1405026301_412309022_0_0_0&highlighted_blocks=1405026301_412309022_0_0_0&matching_block_id=1405026301_412309022_0_0_0&sr_pri_blocks=1405026301_412309022_0_0_0__39602&from=searchresults",
+    "address": "Kamppi, Helsinki",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Helsinki%2C+Finland&checkin=2025-09-11&checkout=2025-09-14&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-04T17:26:21.667Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757006781667_6",
+    "name": "CheapSleep Hostel Helsinki",
+    "price": 232,
+    "currency": "USD",
+    "rating": 8.2,
+    "stars": 8,
+    "reviewCount": 830,
+    "avgReview": "8.2/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/119409482.webp?k=a5470abba559cf177bd7e909ec04fccee56e3e65b874a6a630e467df4147ac55&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/fi/cheapsleep-helsinki.html?aid=304142&label=gen173nr-10CAQoggJCGHNlYXJjaF9oZWxzaW5raSwgZmlubGFuZEgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4ArmX58UGwAIB0gIkYWEwM2E2ZjctODI1Yy00YWE3LThkYzAtMjkxNGQ1OTM2MzY42AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-11&checkout=2025-09-14&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=e86a7a9cbe2805e4&srepoch=1757006779&all_sr_blocks=36966112_0_2_0_0&highlighted_blocks=36966112_0_2_0_0&matching_block_id=36966112_0_2_0_0&sr_pri_blocks=36966112_0_2_0_0__19910&from=searchresults",
+    "address": "Helsinki",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Helsinki%2C+Finland&checkin=2025-09-11&checkout=2025-09-14&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-04T17:26:21.667Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757006781667_7",
+    "name": "Home Hotel Jugend",
+    "price": 427,
+    "currency": "USD",
+    "rating": 8.7,
+    "stars": 9,
+    "reviewCount": 383,
+    "avgReview": "8.7/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/670417850.webp?k=fc5a9e7a15d966de548f67d37914eaf41382b46f716554d102c256df6a222a5a&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/fi/glo-hotel-art.html?aid=304142&label=gen173nr-10CAQoggJCGHNlYXJjaF9oZWxzaW5raSwgZmlubGFuZEgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4ArmX58UGwAIB0gIkYWEwM2E2ZjctODI1Yy00YWE3LThkYzAtMjkxNGQ1OTM2MzY42AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-11&checkout=2025-09-14&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=e86a7a9cbe2805e4&srepoch=1757006779&all_sr_blocks=3701805_0_2_1_0&highlighted_blocks=3701805_0_2_1_0&matching_block_id=3701805_0_2_1_0&sr_pri_blocks=3701805_0_2_1_0__36612&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Kamppi, Helsinki",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Helsinki%2C+Finland&checkin=2025-09-11&checkout=2025-09-14&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-04T17:26:21.667Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757006781667_8",
+    "name": "Bob W Kaarti",
+    "price": 496,
+    "currency": "USD",
+    "rating": 9.3,
+    "stars": 9,
+    "reviewCount": 359,
+    "avgReview": "9.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/609232080.webp?k=c5e43c235616e8f057c61bf8eae71b5104f97bd62c56d934ecf8a10e344b0e1a&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/fi/bob-w-kaarti-helsinki.html?aid=304142&label=gen173nr-10CAQoggJCGHNlYXJjaF9oZWxzaW5raSwgZmlubGFuZEgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4ArmX58UGwAIB0gIkYWEwM2E2ZjctODI1Yy00YWE3LThkYzAtMjkxNGQ1OTM2MzY42AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-11&checkout=2025-09-14&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=e86a7a9cbe2805e4&srepoch=1757006779&all_sr_blocks=1234407902_395395645_0_2_0&highlighted_blocks=1234407902_395395645_0_2_0&matching_block_id=1234407902_395395645_0_2_0&sr_pri_blocks=1234407902_395395645_0_2_0__42501&from=searchresults",
+    "address": "Kaartinkaupunki, Helsinki",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Helsinki%2C+Finland&checkin=2025-09-11&checkout=2025-09-14&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-04T17:26:21.667Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757006781667_9",
+    "name": "Radisson Blu Plaza Hotel, Helsinki",
+    "price": 575,
+    "currency": "USD",
+    "rating": 8.5,
+    "stars": 9,
+    "reviewCount": 315,
+    "avgReview": "8.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/391007329.webp?k=70a53caa49a92bdc80a0d02dec98b8dc87e2ef7067a1a7f04fb9ea3017fd29ad&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/fi/radisson-sas-plaza.html?aid=304142&label=gen173nr-10CAQoggJCGHNlYXJjaF9oZWxzaW5raSwgZmlubGFuZEgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4ArmX58UGwAIB0gIkYWEwM2E2ZjctODI1Yy00YWE3LThkYzAtMjkxNGQ1OTM2MzY42AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-11&checkout=2025-09-14&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=e86a7a9cbe2805e4&srepoch=1757006779&all_sr_blocks=3775323_95161267_2_2_0&highlighted_blocks=3775323_95161267_2_2_0&matching_block_id=3775323_95161267_2_2_0&sr_pri_blocks=3775323_95161267_2_2_0__49300&from=searchresults",
+    "address": "Kluuvi, Helsinki",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Helsinki%2C+Finland&checkin=2025-09-11&checkout=2025-09-14&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-04T17:26:21.667Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

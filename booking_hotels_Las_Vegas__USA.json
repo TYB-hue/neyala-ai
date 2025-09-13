@@ -1,0 +1,272 @@
+[
+  {
+    "id": "hotel_1755807278381_0",
+    "name": "Single Story minutes from Summerlin with RV Parking & Dog Friendly",
+    "price": 545,
+    "currency": "USD",
+    "rating": 9.9,
+    "stars": 10,
+    "reviewCount": 257,
+    "avgReview": "9.9/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/486842993.webp?k=19f5386be0a0a97ea3abaa2ba139a277f810d9165b7acda8c9dc3c8e573db830&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/us/single-story-minutes-from-summerlin-with-rv-parking-amp-dog-friendly.html?aid=304142&label=gen173nr-10CAQoggJCFXNlYXJjaF9sYXMgdmVnYXMsIHVzYUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Aqn8ncUGwAIB0gIkYWU3MGE2OWUtODM4NS00Y2NlLWI2YjUtMzliZTYwNDJhY2Nl2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=ed218e54a9ad00f5&srepoch=1755807274&all_sr_blocks=1065310501_378929763_2_0_0&highlighted_blocks=1065310501_378929763_2_0_0&matching_block_id=1065310501_378929763_2_0_0&sr_pri_blocks=1065310501_378929763_2_0_0__54499&from=searchresults",
+    "address": "Summerlin, Las Vegas",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Las+Vegas%2C+USA&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-21T20:14:38.382Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755807278382_1",
+    "name": "Waldorf Astoria Las Vegas",
+    "price": 1,
+    "currency": "USD",
+    "rating": 8.4,
+    "stars": 8,
+    "reviewCount": 90,
+    "avgReview": "8.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/484399971.webp?k=ba90ec078fa492b09f6bbf956c1ce29e3d5819a67989edeb4945c1910a901a68&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/us/waldorf-astoria-las-vegas.html?aid=304142&label=gen173nr-10CAQoggJCFXNlYXJjaF9sYXMgdmVnYXMsIHVzYUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Aqn8ncUGwAIB0gIkYWU3MGE2OWUtODM4NS00Y2NlLWI2YjUtMzliZTYwNDJhY2Nl2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=ed218e54a9ad00f5&srepoch=1755807274&all_sr_blocks=18336828_379146162_2_2_0&highlighted_blocks=18336828_379146162_2_2_0&matching_block_id=18336828_379146162_2_2_0&sr_pri_blocks=18336828_379146162_2_2_0__117200&nad_id=fb3e03d4-1a20-4c92-89b5-7db63d6a2c73_0&nad_cpc=0.66&nad_track=eyJhdWN0aW9uRXBvY2giOjE3NTU4MDcyNzQwNDEsInJhbmsiOjEsImtvZGRpVHJhY2tpbmdJbmZvIjoiSms4OFRmUm9YK1hxenhleFYwVENtRzNLVEVZSnFUMFJ5SWlUSVk5OTU2VTkvMFFOUndPSkZaWmVDWEdzbEM4OXdlRUc0U29kOCs3c01aUkZ4T1lrMWRRRllGUStadjV4bjQrSU91MW05RTdCUEJEZ044amM5RjdWUjhlZmJVeGV2QlJnRnA5Z09xdjdmK21yVXJXb2V5TDRicURNUVlKUEcwbW52WXJmdVFvVmY5ajNuOFdQQ203TzM0RUxZWS9wYlBhWk9zMWRCWmVodldFL0ZUamlVRTh6THpmMS9HeFNqYnA2OXBjdnAzT3RmSU9hWW9MY1F1VzBKN2N5SXVhSzNVc2dBR1prZzFEVGpEMlNsR2ZRTjFSK01US1k3cXVXdnRLbWtFcXlEVFpBSG40K2RGMGQ3M0pXKzlpVVF5NkZWc2pLbWtZNTdZRnJqYlY4QTR3NXNVS2V4TGhlcDdyZURLckZvbGJTYUx5OXdOYzlpbGtoVlFnRlRpN1RhcmozR2QyK3RIU0pzUUI4Sy9EZEpSbi8wOU5RZVpmbWJCSFhFemtPR0FCYnVNN2x0cmxvaEdWTXFWUHJyaG90ZHV2VEplMUtaOUVtaTZsbWQyV05TWUkvbkxJaElIOFFIQTFPOXVJSW5ockJoblpMVmFWUWo5RDNKWWtqVjUwc2JJL2d5WVJkeGovbkNXUFFyT3dQMWlySmw5RWZqMkk1YmxvTnRic1RlY0Jua1ZZMHlaTzNqOTFTNFVLSUlENlBjNTJiUW9xbzVPSGtpdHBjSzFKa0c5dWxSZUx2ODltcktZRVY4ZlhpT3IxV24wWjVDM0FMb0d2L0UvKzRURlVRdlA2TitxTkY4cGJYQnN0OGFmamRHdmdyNWFzbUZPQUxQd2t1bWg3ZHFJR1M2aW9CSkovQ0NrT1dOYkxFNExyeGNRTm1Ud2g5bExESDdoQmd5RUgzM0dIYTVyZ1NZRHB3Tnl2TU5yWmpsd2xnd2lKb3QwN3E2QUszdWwvUVJpTlREYStJcDUrc0dPTjUvbnRGdUd0a2xkbU03VEdVeGZaeENSdzc5T1drUVNlcy9lUndZM0I4SVlHZjF0M3RSTGtuNVhWcjE2SEhBRGloZHhsUlNjWXlYZW5OSjgxUExiRXhEaVdGM3NXaGFPNFhQejViczBUblN3elJNRjVieTNtSE53NFJtY3VCSGtySGFJU1EvZkdYNmUwb0RrUXp6RkplV2RSVkx0V0Q2cnFBenI2d1JwV2xmeTNxY2liRDdGMlBYNEFjOTBkaGpqeUVwWGlvK3hMVFBxdnVmT3BaUmNtUTB2cUZzN1NaQjNCWEhvUE5DVnU2NFE3VERsVUJCWDF4QXNWaTF1QzFUbm5yQ3FFQnhnVmtwVUd6dUVUd0g0NGNQbmphY2Iyc2pTbXh5VXN5UWM1SEJubXpXbG1FV3NiVUttbURKTmNoWkNub0ZZNmdwbGI1Y3NhQ3EwZzJtZHU1eVJwMklDOGE1b2FBKzZGZGlIYWdsR0o3RCs0Y1hqdkRHdXRzS09XRVdOL053T2hna2N6UFFaV09OT1JwaStiZmdNeG1XNUVxcHZadU5IRk8xT1lWQ1pIUnVDYXBZTDhDeTJNTXQ3Njl0SklZNzZQMm5IakxqdjJhcHZTN1QzcDdhVml1c2tCWkk2eGlETldjUUljSDFPOUtuUVFnOTMva2dZbGxuWlZRdnhpZDZKL2tCYXRjNXR0RzlJUGZ4NUsyQjBPL2hQQVlJNksxVzgzd0RuVGk1clBkRHgwMG5JQ1hJTzdKeWNVS1lQSUh0OUVTL0JaWCtGdHdrLzdtRzNqQjBxV3hJVUlDNUY3M24xeTk5dHZBQXRFdXl0Y2k1VkRVN1lXSE5qclRmSjI0b2JGaDB2OG9SdkVmVGxrQmphSytmZ2RwcnpNdkdYUkN2TWNFc1JpV2NmRUZpMGFjVTBlcnhQYkxBTXpRN25GWnpSbFRQK0ZjcEs4bkZqeTArRXRFU0VjVkZhdTJCV0hLRlNrMXh4Y0pyeTRBeWdEenM3dGFKZCt4WklWTHpVOXZ2ZnhmUGNNNEd0NnFSVmFPb3krQXVPRFY0N0lhaXQ5OUdQSjFzbEduY2N0c1h3MTBWTkFUMlJHb2FJSXJ4SmNmaXRXNU03VDRBZ3lIS0cvbUwyMHJnZjBxUFRVQmcxdnd1bHBEK1ptQlNYV1lzdGFVWGNJem1sZ0JTWS9XRm54dnl6c2s0N3FwdUVTaTBXc3RyZzdBY2RZY0wwVHZMYjAyRHZ6YllWdTl5VFRzSDFHeGNYMUF6d1RrU3o4Qzg1eUVBVDlQcXJOcDlKWG5IMU9sUXN3VlZISXd0VjMvMHNOdWhFQlZlYlZLanFZMk16SnVnVUU3ODg3bU50eTU1NzhqdlhZdmx4dUk4RUdNa0Irb0pLdVJadjdvbjVPcHpRTUlJMmtvN0Z5eWJtakt4ZlY1ZVltUWd4NTNRSWRCUFNYSnZjN1RId3hUaTAzeGNSaysxS1R6UWFuZW0ycE9yYkJyRTVWTVRWeHhYQzFFSmk1ek1aeGxmbHBHeWU3enZUZnpwek96aytSaXJaY296VDhuRVBCSDJKNnpxM0dPbUpiWFlpODRVVWNZUW52ejZ5UjI2eklGa2xOZmpaZ3BjZmd4Nkd1QThEZnBUSFlKM3RGbHRlM3NwYS9KTi82OVphVTY2aWNjNUgxQnpsa3VrT2g0OGRvTGlndGRXelY3dFBYYldJYUwxZGNDVnRmdTF0UnR2MXdVOWRlSW5TdE9EdENsTkJ4UjNHdXBqSFlaSHU0VkVSUS81TXQxZnIyckdNcXNDelA4L1k5WDJIV0VsU2J6QzZEeCs0VGtLME9ZU0M0Q0MvRVQ2YWFSV1hQY0VHd0RKVmsyU05IL29PMjcvTnhKQ1o1aGk3ZWl5UmJWaEI3alF0cmlSUkNjSVliZ1Z3S1h3ZWsva2ROaUJyZm4wZ3VGMGNheGM5aTZwcnJxcCs0dWZhRVVSc2UzV250UW8zaWVpUVE3OGdtMjFDMkVoRnJJRHNNanRFU1paMW83Z1Q2ODEwK2lsbXZKSFpCVWkyV2Vyajkya1Y1MDJiNXJTYTJpT0gwWHZCdzBoVG5vSTBEWUZpdkYzWFp1cldVYS9IT0VrUjRzdlllQVYxRU9FZEF2Tktzai9sSUJRQ3NhWDFBZmtKMzlzdW53NXFCMzBiSGROdDB1d2xwM0NnSmV0RUFDb1Mvd3BZcTNNSXVEZDhuTlVRSTBKWCtmMllBWmlpRndJaExnVnlhbW9KeC9DM1pZa2FYS3kvSUFiNWJZeitHRldyM0t1R0NwV0RhUHpvWll2eU9sNGk3QldxbTJmQ0EzRzljWGh4K2tnb3p0K2IyOEdkeFJUNmdhRnNFZ2U0U25rd3NkY0hFVURnbUJHR1lIc1NVSExseXhITVhtZHpybzZiWTFqWDhUTkxSVVBYQ01iVEo1NlVqNXhEbG9kUTdrV2ZaUjFJc0YvQT09In0%3D&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Las Vegas Strip, Las Vegas",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Las+Vegas%2C+USA&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-21T20:14:38.382Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755807278382_2",
+    "name": "Treasure Island - TI Las Vegas Hotel & Casino",
+    "price": 535,
+    "currency": "USD",
+    "rating": 7.9,
+    "stars": 8,
+    "reviewCount": 507,
+    "avgReview": "7.9/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/63000008.webp?k=407f2750ca79e03e50ee60a9f8c9faa1ad910fd820214424dba42a51620abc25&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/us/treasure-island.html?aid=304142&label=gen173nr-10CAQoggJCFXNlYXJjaF9sYXMgdmVnYXMsIHVzYUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Aqn8ncUGwAIB0gIkYWU3MGE2OWUtODM4NS00Y2NlLWI2YjUtMzliZTYwNDJhY2Nl2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=ed218e54a9ad00f5&srepoch=1755807274&all_sr_blocks=36724304_109905789_2_0_0_213272&highlighted_blocks=36724304_109905789_2_0_0_213272&matching_block_id=36724304_109905789_2_0_0_213272&sr_pri_blocks=36724304_109905789_2_0_0_213272_53547&from=searchresults",
+    "address": "Las Vegas Strip, Las Vegas",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Las+Vegas%2C+USA&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-21T20:14:38.382Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755807278382_3",
+    "name": "Studio 6 Suites Las Vegas, NV - Tropicana",
+    "price": 327,
+    "currency": "USD",
+    "rating": 6.8,
+    "stars": 7,
+    "reviewCount": 64,
+    "avgReview": "6.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/679854142.webp?k=6f1e4d47f22cc86808eb11ecd914121ec6995da3da305b1b2032999755dc848d&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/us/motel-6-las-vegas.html?aid=304142&label=gen173nr-10CAQoggJCFXNlYXJjaF9sYXMgdmVnYXMsIHVzYUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Aqn8ncUGwAIB0gIkYWU3MGE2OWUtODM4NS00Y2NlLWI2YjUtMzliZTYwNDJhY2Nl2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=ed218e54a9ad00f5&srepoch=1755807274&all_sr_blocks=4790811_417556348_2_0_0_1113827&highlighted_blocks=4790811_417556348_2_0_0_1113827&matching_block_id=4790811_417556348_2_0_0_1113827&sr_pri_blocks=4790811_417556348_2_0_0_1113827_32700&nad_id=fb3e03d4-1a20-4c92-89b5-7db63d6a2c73_9&nad_cpc=0.59&nad_track=eyJhdWN0aW9uRXBvY2giOjE3NTU4MDcyNzQwNDMsInJhbmsiOjIsImtvZGRpVHJhY2tpbmdJbmZvIjoiSms4OFRmUm9YK1hxenhleFYwVENtRzNLVEVZSnFUMFJ5SWlUSVk5OTU2VTkvMFFOUndPSkZaWmVDWEdzbEM4OXdlRUc0U29kOCs3c01aUkZ4T1lrMWRRRllGUStadjV4bjQrSU91MW05RTdCUEJEZ044amM5RjdWUjhlZmJVeGV2QlJnRnA5Z09xdjdmK21yVXJXb2V5TDRicURNUVlKUEcwbW52WXJmdVFvVmY5ajNuOFdQQ203TzM0RUxZWS9wYlBhWk9zMWRCWmVodldFL0ZUamlVRTh6THpmMS9HeFNqYnA2OXBjdnAzT3RmSU9hWW9MY1F1VzlJTEE4SithSzNVc2dBR1prZzFEVGpEMlNsR2ZRTjFSK01US1k3cXVXdnRLdWxFdTNEemRhRUQ0cFpWNGYvbTFZNTRPTVd6V05XODdQbDFzdDZJRnZpYnRuR1l4MDkxR2Z4NmhLb2F2RUhPR2JvbHZIYU9xK21kRmtsUTA1V1Y0UkdUTFRQNkh5QUl2c3JpckF1QVYvZlBMZWNFK3VpTVZFZWRpMGJFT09BUzBKRGhwVjlkZjJvYmx6aVdScWhWTHp2UTBzYk8zU0dkNWZkcFkrZ0xSb05tK1FSTmtuaExJdkxpNFhDUmhmc2ZvUW5oVFB4M3BSVHI5V2hJdnZQWWt0V2M4cGU0SGwwNTlRMFI3WEJYN0g2L1FFeXlTSmdNY1hnWE1FUXh3Vm9xY09kNE5pblZFdjJKcXZsTVpIN0Y2S096U0pOSVdSWEpPbTVPSGtpdHBjSzFKa0c5dWxSZUx2ODltcktZRVY4ZlhpT3IxV2cwZzVBSDBZc21meEhPUHVWRjhPcS8yTitxTkY4cGJYQnN0OGFmamRHdmdyNWFzbUZPQUxQd2t1bWg3ZHFJR1M2aW9CSkovQ0NrT1dOYkxFNExyeGNRTm1Ud2g5bExESDdoQmd5RUgzM0dIYTVyZ1NZRHB3Tnl2TU5yWmpsd2xnd2lKb3QwN3E2QUszdWwvUVJpTlREYStJcDUrc0dPTjUvbnRGdUd0a2xkbU03VEdVeGZaeENSdzc5T1drUVNlcy9lUndZM0I4SVlHZjF0M3RSTGtuNVhWcjE2SEhBRGloZHhsUlNjWXlYZW5OSjgxUExiRXhEaVdGM3NXaGFPNFhNQ2RWL0VYcVJnZlpObE1kMDNPYk9VSWFoTWVYRlVmSGFaT1QvNkNQNC9FbVhGVTF6bGxSVmR3U05zM0E2THFNekw2eVRaQ3dZaXZyTW52VjZFNmVWTGN4NEZGbmx5U0RpVVNpNWgrSU1LVzhiZjlGUk1UV3l1MlpycnJMQW1kWkc1bldCRXk5NXhqRUcwY2RDRHRwR3RNZTcvS1JmMy9USkpJZTlRNUhzajcrK1Vid2VMTWpBSHFCSlpPNXVXS212WGdHY3BsUWRrR2RYMnk2VHVMVlkyZU5kOVV4YURUL0VZT3JybEQwTk42THRFWmxuYyswekFkN0tqOFcrNUhINDZwQWhpYXptMmN5RitVZFhqdkRHdXRzS09XRVdOL053T2hna2N6UFFaV09OT1JwaStiZmdNMDlXOEYxcGFWdVluMU0wK1lWV1phS3VINzZhT29DbGpnQTVlenN2Y1JMNmZDbW5IakxqdjJhcHZTN1QzcDdhVml1c2tCWklhbGpDOVNaUUljSDFPOUtuUVFnOTMva2dZbGxuWlZRdnhpZDZKL2tCYXRjNXR0RzlJUGZ4NUsyQjBPL2hQQVlJNksxVzgzd0RuVGk1clBkRHgwMG5JQ1hMK1RFeWNVS1lQSUh0OUVTL0JaWCtGdHdrLzdtRzNqQjBxV3hJVUlDNUY3M24xeTk5dHZBQXRFdXl0Y2k1VkRVN1lXSE5qclRmSjI0b2JGaDB2OG9SdkVmVGxrQmphSytmZ2RwcnpNdkdYUkN2TWNFc1JpV2NmRUZpMGFjVTBlcnhQYkxBTXpRN25GWnpSbFRQK0ZjcEs4bkZqeTArRXRIUlVFY0ZLdTJCV0hLRlNrMXh4Y0pyeTRBeWdEenM3dGFKZCt4WklWTHpVOXZ2ZnhmUGNNNEd0NnFSVmFPb3krQXVPRFY0N0lhaXQ5OUdQSjFzbEduY2N0c1h3MTBWTkFUMlJHb2FJSXJ4SmNmaXRXNU03VDRBZ3lIS0cvbUwyMHJnZjBxUFRVQmcxdnd1bHBEK1ptQlNYV1lzdGFVWGNJem1sZ0JTWS9XRm54dnl6c2s0N3FwdUVTaTBXc3RyZzdBY2RZY0wwVHZMYjAyRHZ6YllWdTl5VFRzSDFHeGNYMUF6d1RrU3o4Qzg1eUVBVDlQcXJOcDlKWG5IMU9sUXN3VlZISXd0VjMvMHNOdWhFQlZlYlZLanFZMk16SnVnVUU3ODg3bU50eTU1NzhqdlhZdmx4dUk4RUdNa0Irb0pLdVJadjdvbjVPcHpRTUlJMmtvN0Z5eWJtakt4ZlY1ZVltUWd4NTNRSWRCUFNYSnZjN1RId3hUaTAzeGNSaysxS1R6UWFuZW0ycE9yYkJyRTVWTVRWeHhYQzFFSmk1ek1aeGxmbHBHeWU3enZUZnpwek96aytSaXJaY296VDhuRVBCSDJKNnpxM0dPbUpiWFlpODRVVWNZUW52ejZ5UjI2eklGa2xOZmpaZ3BjZmd4Nkd1QThEZnBUSFlKM3RGbHRlM3NwYS9KTi82OVphVTY2aWNjNUgxQnpsa3VrT2g0OGRvTGlndGRXelY3dFBYYldJYUwxZGNDVnRmdTF0UnR2MXdVOWRlSW5TdE9EdENsTkJ4UjNHdXBqSFlaSHU0VkVSUS81TXQxZnIyckdNcXNDelA4L1k5WDJIV0VsU2J6QzZEeCs0VGtLME9ZU0M0Q0MvRVQ2YWFSV1hQY0VHd0RKVmsyU05IL29PMjcvTnhKQ1o1aGk3ZWl5UmJWaEI3alF0cmlSUkNjSVliZ1Z3S1h3ZWsva2ROaUJyZm4wZ3VGMGNheGM5aTZwcnJxcCs0dWZhRVVSc2UzV250UW8zaWVpUVE3OGdtMjFDMkVoRnJJRHNNanRFU1paMW83Z1Q2ODEwK2lsbXZKSFpCVWkyV2Vyajkya1Y1MDJiNXJTYTJpT0gwWHZCdzBoVG5vSTBEWUZpdkYzWFp1cldVYS9IT0VrUjRzdlllQVYxRU9FZEF2Tktzai9sSUJRQ3NhWDFBZmtKMzlzdW53NXFCMzBiSGROdDB1d2xwM0NnSmV0RUFDb1Mvd3BZcTNNSXVEZDhuTlVRSTBKWCtmMllBWmlpRndJaExnVnlhbW9KeC9DM05YbTZiRTBmd09PWVBtNCthRFNhamJ1bjd5UUM3ZnpKVVc5Q3FwOUNqWFcrKzRjbmN4RGNBNnNCYTJtYnZRN3F1MEY4MEhWNllkQ2M5d2ZaS2tyVFlXZlhFVkdTU3pHbTBHdUdzZk5seS9FcFh4ZmpQNy9yazRsMWsvSkxoSktqZVVaMzgxYjBleWNTbjI0NGliSG84YmZ5aG8ifQ%3D%3D&from=searchresults",
+    "address": "Las Vegas Strip, Las Vegas",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Las+Vegas%2C+USA&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-21T20:14:38.382Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755807278382_4",
+    "name": "Fontainebleau Las Vegas",
+    "price": 1,
+    "currency": "USD",
+    "rating": 9,
+    "stars": 9,
+    "reviewCount": 1004,
+    "avgReview": "9.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/652194213.webp?k=6353bceb85852b66e69a74430497c09280e210c8f01e3fdbbe643212a7e8a7f8&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/us/fontainebleau-las-vegas-las-vegas98.html?aid=304142&label=gen173nr-10CAQoggJCFXNlYXJjaF9sYXMgdmVnYXMsIHVzYUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Aqn8ncUGwAIB0gIkYWU3MGE2OWUtODM4NS00Y2NlLWI2YjUtMzliZTYwNDJhY2Nl2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=ed218e54a9ad00f5&srepoch=1755807274&all_sr_blocks=1057245305_380527785_2_0_0_1074816&highlighted_blocks=1057245305_380527785_2_0_0_1074816&matching_block_id=1057245305_380527785_2_0_0_1074816&sr_pri_blocks=1057245305_380527785_2_0_0_1074816_127200&from=searchresults",
+    "address": "Las Vegas Strip, Las Vegas",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Las+Vegas%2C+USA&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-21T20:14:38.382Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755807278382_5",
+    "name": "The Signature MGM Condos",
+    "price": 281,
+    "currency": "USD",
+    "rating": 8.4,
+    "stars": 8,
+    "reviewCount": 887,
+    "avgReview": "8.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/600228639.webp?k=94cff8163ac78b695b594e590ca1e40ba5eea4acbbb20ca2989f46c955f5fbf0&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/us/strip-views-condo-at-mgm-signature.html?aid=304142&label=gen173nr-10CAQoggJCFXNlYXJjaF9sYXMgdmVnYXMsIHVzYUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Aqn8ncUGwAIB0gIkYWU3MGE2OWUtODM4NS00Y2NlLWI2YjUtMzliZTYwNDJhY2Nl2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=ed218e54a9ad00f5&srepoch=1755807274&all_sr_blocks=680072594_418609829_4_0_0&highlighted_blocks=680072594_418609829_4_0_0&matching_block_id=680072594_418609829_4_0_0&sr_pri_blocks=680072594_418609829_4_0_0__28145&from=searchresults",
+    "address": "Las Vegas Strip, Las Vegas",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Las+Vegas%2C+USA&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-21T20:14:38.382Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755807278382_6",
+    "name": "The LINQ Hotel and Casino",
+    "price": 488,
+    "currency": "USD",
+    "rating": 7.5,
+    "stars": 8,
+    "reviewCount": 541,
+    "avgReview": "7.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/498528280.webp?k=f93eb9f299d273b8bc28fbf46b5507a1af5e01e69ddca181321b5dfa849959f1&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/us/the-linq-and-casino.html?aid=304142&label=gen173nr-10CAQoggJCFXNlYXJjaF9sYXMgdmVnYXMsIHVzYUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Aqn8ncUGwAIB0gIkYWU3MGE2OWUtODM4NS00Y2NlLWI2YjUtMzliZTYwNDJhY2Nl2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=ed218e54a9ad00f5&srepoch=1755807274&all_sr_blocks=110675853_392614029_0_0_0&highlighted_blocks=110675853_392614029_0_0_0&matching_block_id=110675853_392614029_0_0_0&sr_pri_blocks=110675853_392614029_0_0_0__48800&from=searchresults",
+    "address": "Las Vegas Strip, Las Vegas",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Las+Vegas%2C+USA&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-21T20:14:38.382Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755807278382_7",
+    "name": "Trump International Hotel Las Vegas",
+    "price": 688,
+    "currency": "USD",
+    "rating": 9,
+    "stars": 9,
+    "reviewCount": 811,
+    "avgReview": "9.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/188489297.webp?k=b551dd21bc423da11f6986c58bc39f18e575059dd60b42b3a6acbbe32f411df7&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/us/trump-international-tower.html?aid=304142&label=gen173nr-10CAQoggJCFXNlYXJjaF9sYXMgdmVnYXMsIHVzYUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Aqn8ncUGwAIB0gIkYWU3MGE2OWUtODM4NS00Y2NlLWI2YjUtMzliZTYwNDJhY2Nl2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=ed218e54a9ad00f5&srepoch=1755807274&all_sr_blocks=5951101_88771503_2_0_0_863404&highlighted_blocks=5951101_88771503_2_0_0_863404&matching_block_id=5951101_88771503_2_0_0_863404&sr_pri_blocks=5951101_88771503_2_0_0_863404_68775&from=searchresults",
+    "address": "Las Vegas Strip, Las Vegas",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Las+Vegas%2C+USA&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-21T20:14:38.382Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755807278382_8",
+    "name": "Las Vegas Hilton At Resorts World",
+    "price": 717,
+    "currency": "USD",
+    "rating": 8.4,
+    "stars": 8,
+    "reviewCount": 1021,
+    "avgReview": "8.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/485755339.webp?k=25f2929e7860583639af0aa0aa62bce4d6d607882b2ef5bb524ea6429b7e22dc&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/us/las-vegas-hilton-at-resorts-world.html?aid=304142&label=gen173nr-10CAQoggJCFXNlYXJjaF9sYXMgdmVnYXMsIHVzYUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Aqn8ncUGwAIB0gIkYWU3MGE2OWUtODM4NS00Y2NlLWI2YjUtMzliZTYwNDJhY2Nl2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=ed218e54a9ad00f5&srepoch=1755807274&all_sr_blocks=692662201_408752909_2_0_0_1178180&highlighted_blocks=692662201_408752909_2_0_0_1178180&matching_block_id=692662201_408752909_2_0_0_1178180&sr_pri_blocks=692662201_408752909_2_0_0_1178180_71700&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Las Vegas Strip, Las Vegas",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Las+Vegas%2C+USA&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-21T20:14:38.382Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755807278382_9",
+    "name": "Flamingo Las Vegas Hotel & Casino",
+    "price": 528,
+    "currency": "USD",
+    "rating": 7.3,
+    "stars": 7,
+    "reviewCount": 435,
+    "avgReview": "7.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/687401818.webp?k=be521c9566e78d5f269d63f904be1c2640f6b153c75be1b09e91c0d883947644&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/us/flamingo-casino.html?aid=304142&label=gen173nr-10CAQoggJCFXNlYXJjaF9sYXMgdmVnYXMsIHVzYUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Aqn8ncUGwAIB0gIkYWU3MGE2OWUtODM4NS00Y2NlLWI2YjUtMzliZTYwNDJhY2Nl2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=ed218e54a9ad00f5&srepoch=1755807274&all_sr_blocks=5943786_397957000_0_0_0&highlighted_blocks=5943786_397957000_0_0_0&matching_block_id=5943786_397957000_0_0_0&sr_pri_blocks=5943786_397957000_0_0_0__52800&from=searchresults",
+    "address": "Las Vegas Strip, Las Vegas",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Las+Vegas%2C+USA&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-21T20:14:38.382Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

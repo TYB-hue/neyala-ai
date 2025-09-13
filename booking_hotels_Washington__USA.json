@@ -1,0 +1,272 @@
+[
+  {
+    "id": "hotel_1757415643038_0",
+    "name": "citizenM Washington DC Capitol",
+    "price": 862,
+    "currency": "USD",
+    "rating": 8.7,
+    "stars": 9,
+    "reviewCount": 333,
+    "avgReview": "8.7/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/275165334.webp?k=9d1dd851efe2de6b46bd9e86c82208661c95a6a5fce8e7c5c06d672bab59fd75&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/us/citizenm-washington-dc-capitol.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF93YXNoaW5ndG9uLCB1c2FIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALWkYDGBsACAdICJGJhNTY2M2JjLWIxYjYtNDI3OS05MWI3LTY3ZDgzMWE3YjdjYtgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=0acd4d6bdad6061f&srepoch=1757415641&all_sr_blocks=601631701_235957318_2_2_0_636828&highlighted_blocks=601631701_235957318_2_2_0_636828&matching_block_id=601631701_235957318_2_2_0_636828&sr_pri_blocks=601631701_235957318_2_2_0_636828_86190&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Southwest, Washington, D.C.",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Washington%2C+USA&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T11:00:43.038Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757415643038_1",
+    "name": "The St. Regis Washington, D.C.",
+    "price": 3,
+    "currency": "USD",
+    "rating": 8.1,
+    "stars": 8,
+    "reviewCount": 962,
+    "avgReview": "8.1/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/718307864.webp?k=4499210520c9d1e7bc781a1db28aee465a03a0a78925eafd4095ae40eda08d01&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/us/st-regis-washington-d-c.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF93YXNoaW5ndG9uLCB1c2FIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALWkYDGBsACAdICJGJhNTY2M2JjLWIxYjYtNDI3OS05MWI3LTY3ZDgzMWE3YjdjYtgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=0acd4d6bdad6061f&srepoch=1757415641&all_sr_blocks=4595237_94105032_0_0_0&highlighted_blocks=4595237_94105032_0_0_0&matching_block_id=4595237_94105032_0_0_0&sr_pri_blocks=4595237_94105032_0_0_0__316500&nad_id=e676782e-58de-4bb8-954a-4493076b57b8_0&nad_cpc=1.95&nad_track=eyJhdWN0aW9uRXBvY2giOjE3NTc0MTU2MzkwMjUsInJhbmsiOjEsImtvZGRpVHJhY2tpbmdJbmZvIjoiMTZuV1Z6UDMxYUEydjJpeHJNdHdFYkNRUWxORDZzUWtHSDdOK21sOFZTQU50cTVhcWZXUlF4OVBSQXRjZThJc05idWV2a3dkUUd6aWoyNjU5bTJLODBOOHZtMWgycjBRaEE2anNVZkpNQmFqWTZ1TUJhTFVLbWRrcWY3ZUtLK1F4UmkyeGJzRHdRQ25LZ3Jsd2M4Tm9kTzBNUVNQMkFPWUI4bW03OGh5Y05FbWhEZWFkdGxtK2RSY0ZQSk80V1BmMk5XT1Z6cE1wNnp2dHlnZ3BZdFJJeHJ0aVNBQnVDS2tmTmZ0WmlQN3RGMnA0TU1qSTRuaUd1bG8wemo4L09hY1ZLN3BsWFVzRW9HbGM2b2Q0QlRISmduZm56UHBKMXlIb0N0STRIZWVYdlRhVWxrUzRyNGt1SGh1d0lvOWl0c1NsQ05SZ05pR25BS3N1RGZYdFAvc1BHcHZhZDhEUmIwYjNoczhJYmFOT3huUkVnc21Fa3R2ZFRFSjJ6TGlNdmZBYTJIbVZVa1UzUExIc1o1WGFCa2JERExudGpybis4UTFCOXNOYi8wc25GMWM3N1hoZWQxWHNlZlI1UU9hc1pCY0paMjRQUHZKNmtQR3hLVHk5QWFETmNKM1FqS2FFRjlJMjhLNkVyMStYOGFZODBNMGhJZDN4VGZxWFJaUzdNNXZ1T1lXNmIzbm50eituMXNDZkMzM2VGLzlsV2VtZ2xyT055RXMyMUxYcE9VWVMzWU1tQ1k0WUxjM2ZwMTFWT3Zaa2o0U0lNQVdQRHVtVXZ5azZHR3RMTGt6VTZXU0hnckVoa2tKYWFiVXprZlRNZkpZa0ppRVowendnMTdPdmVwZ25GS2NDUFQxZUQvRSsyc2lGU3NYMDlLaVpyOEw3OWhxdHpuQjBpRFhadGZJV2ZuY1pHY3Q4R2ZYSGtzVFpUbnYvMHRVM01LSHJpLy9JWDFtb0x1djZPaStoS0xGOXdHOHFaOUhIZ29ZbVNEZWp1VmJocEZaMURYSFBSZTdxZnVHMlJoczl1aWxib0RTSnR1UlE5dDV5dC9QYVl6OGpZYWwzV0hRNkRDaUVMZlBRaEgyN2ZaQmRhVXZOYzZNRGpuY1FBUXgwTDY4eFlWRm12MjQ1eWtzZW5QaTRwNkJsNFFWejVNSklkdzNKZ01BQmNNSzJSbmRGNDZPVFlHS3RlVllwYzE4NFdnd1o0SExYSGVlWHhrZ3hBci9wS2pDelQ2czdEUXRKUGVBTEthSDVwZzlSV0tiYnNTM0cvY1JJdFBtRTA4QjFINXBibkhFbkxyOHJMMHEyMng4bTdxZXQydEV1c0VHczNVdmJrQW9samNjYUxVV2dzY0RuTnF6MDNxUUY3cjJxRDJoQ1phVmE3T1lRMDlxellHQjNjcVF6WllGaENVdnA3TytxR3E1QmdWRmxEcEJaT3h6TEUycHdGK1c1aGUzcERRMEorK2lTY3luYndBczYxS21Bc043TDM4bzc5Q2lBV2lwVjRRSUgyYURaMmtsOXFySnN4dkp6WlY2SCt4TlJ0bkEvNDBGM3ZCVGwyZ3VJWEx6U2E4UEJhbGd2UlM0WUw1RFk2VHRVaDRkKzJlR25nUWU0QWlHSnJ4dEw5ZnA2alR2TnRhQWgyWDVYZC85N2ZIK1RiRkk2TXNiWHVFOGYwRDM0N05UaThaZTBJa004cFYxTXZKc3pYTXoyNHlJbk5nMEJNN3NibWp6bGNxRERkT2xrOXNROWFhV3J2TXk1dTJyNm43d0I3M1ljZjI5cTRLd1FyWDZ0RFhsRHdHUjlzZWg2bm5xdnJVYXV0OWpTK2hWSCtuUkpnRitnRlNSOGtURGVaQjkxUzYza016QndTRytXUnlHYnUxd2QrQm5hckdRa1NxMmRFTVJHUGNxWWR1T3ZOYWZPdjN5RmhBQXdTRG5ySTZaRGFDK29BMWNrd3JzUlp4cGJvWHRVWGMzOEE2WXF0Mml3MWhOeHp5UEM1SklzSEcxV1ZOamx4cFZIVFUwbG45enYrQUVyejIyY2FTUjFUbnpIUTJPNlNxaWJVUEZSTU5yWVVqejN5UmZnK1BXTFFhRTljZGYzZUtXd0JSZVUzaDNpVEJuZlN1ME9WS1FJUkRJVFJYQnRBdm5FbGVLMi9kUFFuWTcwaUJlTlVoNDlWTDNlc0hhdkVId011ZGpub3I0WlNCZm1XaE9PS1ZTS3NvaHdJYkZMUFhmUndYcmZ6OGFpMlVWR29QQ0kzUkNVY3NGNy9nQ2IrT3hqYjBGT2ZXcnVoOHFBWGhISHV1WjNQYTlKZlFEc0wrQjdEMUhiVFlDdnUvWkQxM201aG5kVXBuczVTWnRQa3BxaFJSN2xqMW9FUHFKVncybUpLMkROR1FCeHM5ODNQemwxbDdMdVhKK0xmbVFCbTJINnJtK0pib2hNR2VRd2ZaRTFYNmtGYVc0T3FORldnejZlYVJoUEh0QTFuZCs1dXlrNGtUQ2lJQTlWcG9xRzllN0JreVE3WERVRVdIZ2VXMERDQnFDUDA0aVRCU042cVVUakkya0tHcUZEWXZxL0crYlB1RHMrbFN1MW0vRTdhOW9zR1ZrdVlkRUp2WmNSK3gvQlR0OUpUSGhvMEFaOVRub1Z0UDFudlFJZU9CbHJBVTZ1RnhtT2EyWUZCb0o3eGFkOGtnRmUvMGhJT2llOXF0TnRWNVFpNVk3SVNpeHZwMk92UzVPOVdoZ1J5OUMrVE5MaXNhbDE5YzRZMFU3bzI2d1ZPcy9RYjNkellKWnF0SG1IQjhHcjdsc3RvWUlkeDBiVGg0ZW93TTlZb3FsZlAwM1BvZkJud0NCQnQxbFFscUhLV3ZHN0M5bVhLa29ybzJ2WEl2TUp1SzBoc29sQkgwM1JJTmRVYmdidHJsZnFWRmwyeFF4RWxKL3Jud3JtcVlrUXpRc2NqVUZ5enUxa3RBajhMWjdsMDYrbzE4dDNMayt0WGp1UDdGTExQNmY3a1NRbGFXUXAwSzBOSTVRa1NCNGFTL1R6WlpmWXFFYjYrRURCNDhZM0ZseXc5M1JUK2VTZDZ6cTljemttSjNWaHg0TlBsT0g5QVJiZlNkd3h4OEFxc1gvNDc1VzVVZk9vTDhWdTFvaXdobmV2enFkdmFtRytPSTVUNlFzeDI3dmt0bFhjZTUrMHo3anBQODR0Z0xLWUdoRm1WQmMrcWNMNnF5eWVVZ2hORUNtSEVlUVRWanYweFdlNlhUZkFHWWVTVnc5RnhVbG1HZHhOZEhzeklHTXVtV3RYWkJkZ3gxczhSV0hCbU1Udnh6ajVMNWttYmtudW9yMHc3UHZveFUyNGpISUdXUkhCUDE0MWlsY2x2STF5Vk9SeDI1Y082RG02THl5ek9jelFXV00zMFJjdnVMdTY0SEtXSlZVSEJ4SUUyMGpXT3FsQmNKU3lCNHdCL0JJMFNvK09yMHJ0d1JQOGxwQ0RsSEdyUXBaUm5pVjZXdjExTmloWnc9PSJ9&from=searchresults",
+    "address": "Northwest, Washington, D.C.",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Washington%2C+USA&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T11:00:43.038Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757415643039_2",
+    "name": "citizenM Washington DC NoMa",
+    "price": 683,
+    "currency": "USD",
+    "rating": 8.8,
+    "stars": 9,
+    "reviewCount": 238,
+    "avgReview": "8.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/384017028.webp?k=6c08580347a15a1ee6e7a0bc7603a818e3e6833fec5e9f4845ad0045403dc374&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/us/washington-dc-noma.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF93YXNoaW5ndG9uLCB1c2FIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALWkYDGBsACAdICJGJhNTY2M2JjLWIxYjYtNDI3OS05MWI3LTY3ZDgzMWE3YjdjYtgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=0acd4d6bdad6061f&srepoch=1757415641&all_sr_blocks=794753101_406253269_2_2_0_636821&highlighted_blocks=794753101_406253269_2_2_0_636821&matching_block_id=794753101_406253269_2_2_0_636821&sr_pri_blocks=794753101_406253269_2_2_0_636821_68340&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Northeast, Washington, D.C.",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Washington%2C+USA&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T11:00:43.039Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757415643039_3",
+    "name": "Embassy Suites by Hilton Washington DC Chevy Chase Pavilion",
+    "price": 809,
+    "currency": "USD",
+    "rating": 7.8,
+    "stars": 8,
+    "reviewCount": 228,
+    "avgReview": "7.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/490789719.webp?k=3eead55dd0b1a72b7ee190c4134dc6e0306f60aff20721d98b0112fcb50940a2&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/us/embassy-suites-washington-d-c-at-the-chevy-chase-pavilion.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF93YXNoaW5ndG9uLCB1c2FIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALWkYDGBsACAdICJGJhNTY2M2JjLWIxYjYtNDI3OS05MWI3LTY3ZDgzMWE3YjdjYtgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=0acd4d6bdad6061f&srepoch=1757415641&all_sr_blocks=4158215_344384533_2_1_0&highlighted_blocks=4158215_344384533_2_1_0&matching_block_id=4158215_344384533_2_1_0&sr_pri_blocks=4158215_344384533_2_1_0__80850&nad_id=e676782e-58de-4bb8-954a-4493076b57b8_2&nad_cpc=1.31&nad_track=eyJhdWN0aW9uRXBvY2giOjE3NTc0MTU2MzkwMjYsInJhbmsiOjIsImtvZGRpVHJhY2tpbmdJbmZvIjoiMTZuV1Z6UDMxYUEydjJpeHJNdHdFYkNRUWxORDZzUWtHSDdOK21sOFZTQU50cTVhcWZXUlF4OVBSQXRjZThJc05idWV2a3dkUUd6aWoyNjU5bTJLODBOOHZtMWgycjBRaEE2anNVZkpNQmFqWTZ1TUJhTFVLbWRrcWY3ZUtLK1F4UmkyeGJzRHdRQ25LZ3Jsd2M4Tm9kTzBNUVNQMkFPWUI4bW03OGh5Y05FbWhEZWFkdGxtK2RSY0ZQSk80V1BmMk5XT1Z6cE1wNnp2dHlnZ3BZdFJJeHJ0aVNBQnVDS2tmTmZ0WmlQN3RGMnA0TU1qSTRuaUd1aHMyajd4OHVhY1ZLN3BsWFVzRW9HbGM2b2Q0QlRISmduZm56UHBKMXlIb0N0SjdIR1JYdkxhVWxrUzRyNGt1SGh1d0lvOWl0b1duU1ZjanRpSGtBU2p1REhYdFAvc1BHcHZhZDhEUmIwYjNoczhJYmFOT3huUkVnc21Fa3R2ZFRFSjJ6TGlNdmZBYTJIbVZVa1UzUExIc1o1WGFCa2JERExudGpybis4UTFCOXNQYWYwc25GMWM3N1hoZWQxWHNlZlI1UU9hc1pCY0paMjRQUHZKNmtQR3hLVHk5QWFETmNKM1FqS2FFRjlJMjhLNkVyMStYOGFZODBNMGhJZDN4VGZxWFJaUzdNNXZ1T1lXNmIzbm50eituMXNDZkMzM2VGLzlsV2VtZ2xyT055RXMyMUxYcE9VWVMzWU1tQ1k0WUxjM2ZwMTFWT3Zaa2p3VUlNQVdQRHVtVXZ5azZHR3RMTGt6VTZXU0hnckVoa2tKYWFiV3prZlRNZkpZa0ppRVowendnMTNPdWV0OWpBWE5WSzZuS0dqZitIQXJIQ2dGZ1pYMlBPUlNvOVp5OW1HVm5udUpQSkxUVSt2T2VXcCtxaTJGVEJSV016ZjN2aE1NbjViSDVIRGtLMzFvcnZxZzZlUzhsTG5FdXhtM3FJUkpYd1VFa0RyZmxlUmJob0lOalRTUUxVRDcvK3FiMFZzL3VxL3hZWUxXYzluUlNOdC93dGpHWmRXeGw5UCswWFBONkR5NUg3MklSVnloNHV0UEo3b2hLdDJKRUNMZEUwdDVrdWI3ek1ZSHlxbjd1VzR3Ym03ei81K0UyTkZSa2RjSE9ZTjRiMWhGUTg4TDF3RFVETVhRWHBXUG9lc1VyZGxwNzJZN2FvQ2JGelNRUjBkcG5nNzhxcW5JeVNHNHZTdzFkYmpCTTZxTjdKSTlYRzdXT3NpbEhmVU1MTmJXQlVzR3lIMXpNMTNDbEx6bTVzNTZ6bjU5bjZlSnlqSUEvNVFHN3lJOVkxMHpselpNSit0QzNJSUdnTno5Z0N1MUdvL25qQzYvR3JhYlFMU1FKMlYzK0llVDU4ZXJycmdZNDNZODk2cUtnMTZuUGlNUytGcEJSL3dWQmtTUzhDL2pyUWZoOVJrRUI5K0lZZEdQS1E0MHFRM25ITVIvSW5vNytjcWxUQ0QvV1p4SVJpV2RiM00zcC9PWDdWeVptTXM3VHJ3V0daN0FzY3hJbitsVmxtSTZkaUdtUjdkWlJmeGxzeDdnTkx3Yk9QajJVQkZMcXp1UGdBWVo1VUdmSmJ4dE1kUHZ1VC8zYXRmWGsyUy9CTnJ2N2JlN0VLTWFvcFZkVVBsc0tnU21wL2NLMUlGQjNJQk1yZFlqY3FrdmpURjJqWVNFbFpoclZON3BkalBoaWN5Y0FkU21uNEpkNy9QTm92b3k3ZUtyNFhlcURhYk1Pclc5K3QvbUV1eXA3WE8vVFV2VXNJem9oeWl1N2R4Qy9ZZ25EcTBURXYvZ1owdDd2bGVVOGhxVGVZZEcwekQ0OWNYV3lDQ3BIRnFMZU53eFBldFphYlNRejNxdlpVVVlINlo0WXNpTHE1R0pLYldyVmg0TTB5dnRzSVNQU3Z2Ny9VVWZoUXF2SE5FMVBjVzlIVE5ydVYvVm04NnAyMXBOenpxYUZaeFFzbi9VV1ZSc24zQk5BaTkxMXk4ejlidFIrM2ZoV3ZQWWhDTHhFUktab25UbEx4YUVBSXNvSkJHcWd4Vk5pZnZXTFF5RjZLMU0zUEREOFZJSENpMHp5bkF5QlRPNk9SclhOaFhIUnhiZHZCNmdXaHpGa3J0YVQyNDl5aXNFZjB0cjhFejNPSmZXcDB6Nk1LczRsWTYyTEdkUmx5ZFZPYk5LTXM0KzFzMlFZUFhKUGl5aUxqNGZpMlVQRjg2V0kydzFMcEpVLy9rRWFQaW55dWxFWXZ1ejdUa2NOemtlVHUyZHdQS2hjNmRQZ3M3L3RUTUVmU0ljcmZtUFhBR3Q1a0RPRlp2anp5TjNiMUp5aFFocndIZzlTcnpuQ0VHb1BPelpZVFZmdEpZcnJxbXlqUzJHdkVWc0svZWtUVG42MnEyaUNiRW1GakxaaHY0T2lqK2JQNisrS3VBR1doTG9LUGtwYnlreWlEc282UFRsdUIyYzJkOW9BWlVoRXRtMVFFcU83WC9WUEd2OWVXMFJZRjJWTVV3a1gxUCtwN0pVd01hREtFYWFBSlQvL0htYkh1RHArRU9rK1RtUnY2MDQ1VEpRL3M0TkhMc0FSNnd5RVdzb1kyM2g2dzA0dW1ib0FJMnFucjFTSUtjMStVZ2d2QWx5YXU3VkRCb1Q3UnJFdjFKUUlQRTNQZWFEK3FsMTdGUlJndHRnSVdiMDg4bWVvaFJMdzJwclN6a1VxbXNKaW9uMHh0ZEZjZ1o2dDNTdFd2ZDZIdXZNMi85UzU1L21GeGhGNTZWMDdzRWZSQVFPVVFvTnNVaHJlSlhsTzZ4aFl0K1FuUU9TSGRScVEwK0xiM1BQOFNFblJMNCtvb0s4U1lQR2JieW5rTmhrUTNRN1FacFFRNklBcys4QS9nUXUwbE52U3g4dXVXOCtpNlFzU0RRdEl5MFBpV3k2bjRoazU2dGduVTZTNXdrc3hxZHdvMnF3ZVBRS09kT1E0VTZnZ2V2RitCN2ViTlZRaG1zaExoUFp5SnhlWktFTTUrTVVRTnRaeG1wMno5MzZjdTJESi9LdC90ZnRvb0xWakM4TU1tak12QVFFTkdZNWx4UU1vUG51eGFkWG1CU2JzNmtHOVJFcDZ3alZ2VGFtc1pMSHNyQTNWL3QyZ0hQcm5zOUFSK2xyNzMrcCtmRWc2VmlOZldoRm1seHQrTHM1cStiaGQxQithZ3V1QjBDV1NHbnR6eW5mb3luUkdEbEFBbG9uQ2hFOXRDWTdOb2E2a0lHTXVYKzZYSUZjL2s1bXBrUEpIblJJNDBxbHJlNVBrWUoyOU5xaGh1T3c2QlVnNGliR0tHTkJHZkF1bjJ4UXg2MWw5VlNld0hSc05mZXBvYXkxaTY5WUVDamR4VzljcXQ3bjU1R01COU15WFZGZUFtTmdQYXJ1VFlSRjN5MDRIdlZEM25GYmEveG81eE1JcEE5SmprUCtqaVl4TnE1aHVNa0ZUOXQya3NOME1oMmpYQUlkaExZeCt6ZFgifQ%3D%3D&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Northwest, Washington, D.C.",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Washington%2C+USA&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T11:00:43.039Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757415643039_4",
+    "name": "Holiday Inn Express Washington DC Downtown by IHG",
+    "price": 859,
+    "currency": "USD",
+    "rating": 8.2,
+    "stars": 8,
+    "reviewCount": 698,
+    "avgReview": "8.2/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/402112423.webp?k=d61e4628010cc0f22beb01428a8e7838cede564d815a50507b1604e761dd4f02&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/us/holiday-inn-express-washington-dc-downtown-an-ihg.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF93YXNoaW5ndG9uLCB1c2FIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALWkYDGBsACAdICJGJhNTY2M2JjLWIxYjYtNDI3OS05MWI3LTY3ZDgzMWE3YjdjYtgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=0acd4d6bdad6061f&srepoch=1757415641&all_sr_blocks=740445102_403144681_2_1_0&highlighted_blocks=740445102_403144681_2_1_0&matching_block_id=740445102_403144681_2_1_0&sr_pri_blocks=740445102_403144681_2_1_0__85900&from=searchresults",
+    "address": "Northwest, Washington, D.C.",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Washington%2C+USA&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T11:00:43.039Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757415643039_5",
+    "name": "InterContinental - Washington D.C. - The Wharf by IHG",
+    "price": 2,
+    "currency": "USD",
+    "rating": 8.9,
+    "stars": 9,
+    "reviewCount": 301,
+    "avgReview": "8.9/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/378039332.webp?k=9d8a03d67a6bea031778f4eaf1701af4cb5f1cdf6038c68644d5ca44923935b8&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/us/intercontinental-washington-dc-the-wharf.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF93YXNoaW5ndG9uLCB1c2FIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALWkYDGBsACAdICJGJhNTY2M2JjLWIxYjYtNDI3OS05MWI3LTY3ZDgzMWE3YjdjYtgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=0acd4d6bdad6061f&srepoch=1757415641&all_sr_blocks=225435412_102727187_2_42_0&highlighted_blocks=225435412_102727187_2_42_0&matching_block_id=225435412_102727187_2_42_0&sr_pri_blocks=225435412_102727187_2_42_0__267500&nad_id=e676782e-58de-4bb8-954a-4493076b57b8_9&nad_cpc=1.28&nad_track=eyJhdWN0aW9uRXBvY2giOjE3NTc0MTU2MzkwMjcsInJhbmsiOjMsImtvZGRpVHJhY2tpbmdJbmZvIjoiMTZuV1Z6UDMxYUEydjJpeHJNdHdFYkNRUWxORDZzUWtHSDdOK21sOFZTQU50cTVhcWZXUlF4OVBSQXRjZThJc05idWV2a3dkUUd6aWoyNjU5bTJLODBOOHZtMWgycjBRaEE2anNVZkpNQmFqWTZ1TUJhTFVLbWRrcWY3ZUtLK1F4UmkyeGJzRHdRQ25LZ3Jsd2M4Tm9kTzBNUVNQMkFPWUI4bW03OGh5Y05FbWhEZWFkdGxtK2RSY0ZQSk80V1BmMk5XT1Z6cE1wNnp2dHlnZ3BZdFJJeHJ0aVNBQnVDS2tmTmZ0WmlQN3RGMnA0TU1qSTRuaUd1ZG4xRHJ4OCthY1ZLN3BsWFVzRW9HbGM2b2Q0QlRISmduZm56UHBKMXlIb0N0SjZIZWVYL2ZhVWxrUzRyNGt1SGh1d0lvOWl0VWRreUZjajlpSGxBS3N1VFRYdFAvc1BHcHZhZDhEUmIwYjNoczhJYmFOT3huUkVnc21Fa3R2ZFRFSjJ6TGlNdmZBYTJIbVZVa1UzUExIc1o1WGFCa2JERExudGpybis4UTFCOXNKY2ZOaGhVNUw3NjdzZVB0N3NQL0M4Z0tBdDVGZ0ZvaXBlK1BDOTAySHpybi9yeDZiTmN4NUV6V1BCVTRQdzlxNkhMTS9VOXlENlVVLzM1OXZ4VG5rRHhORjRzdDFvK3NCeUkzcmc4dTVoMUFmY20zZ2JsZnpoRnFMeEVMWkt6d2ltRmZiby80SlFtNFhnek0xZkxVc2RKc3lUT0RHanlVQ2JZWUNORHE1QkxXMC9uSGdlN3N5V2I2VkF3WFlqQVZZZXF6SndBZllQT0ZLbkphTGV4cm9pRUxUb1BFdjFsU1hCdjd3TTJ2RThYZzlGRFVJMDhTamI2MFg3NWNnc1RMUDNqN01NWm5JVStyRFpYb3k4M0hXRjFrUFpYYWw5VTlad3NPYjZYdnROMjhwN3JHbTcvbTVsT21iNUFxNnRJb0lTUVVaZ0NiTzNycGIyZDBSejJ1UVloZno1UEtJM1Jjbm91am9PNENMTTVxY1I5MTh4Si9MS0lLeHpJYjVqWDdGOVRhOUdMNkVIQjc5N09VQU5yQXZLZHlhR0RyTVZBSWd4cTc3bTVaUG0rR3FwbW81ZVdMazZwZVBqNFVVZzkwYU5kMDFOVmRBUnNJQjF4emVXdDNhUTVuVS9MOUNvdHhzNTJRbWNwZWJGelNRUjFsdGdSL3dvcURKam1ucnIyMXNLdm1PTEsrTC9aVXpYeVdIWll1MkhmNDhNOTdLRkVZRzBrMStkRnJlMStLbi92Qjh3MlJzMGVuWHBIMUwrNWhHcjJrK2Frd3BpeUVMYjZFR21jUlV6NXpjZ1IrNUtJditpeDZxTXViQVl2SGZkMHBhODRLTHArS051YjRDOFNnODJhNnF1SEtLZWw1bTgwMVNZT1pRS3lEM293ekpwd20yb2pvcUplR25Tb0gwT0E0MHFRdmxIOTl1T21VLytkR2tUQ0Q5V1p4TFVpcWFKRDEvNUx6YTdWYlV6NGsxVnY5YlZZR1E2cHdQMVBWZG5ub2dNRG10U2ZSTUQ2cy92aGJ0ZnVwWU0vLzVYbEllcmk2SDBWd2QrQXFlZGJrK2VvRzU2ejI4WmNPYWh5aS9TdDc1L09yNVFiQkUvb0JGVGVvL2VrVHo1NjlCeW9GZTE0RWM4SlY5TmUxcTFIUS94bzNEd3RoNVVjNjFleW4ra2N5R0E1T2gwdFZkdEtiUjQvdzU2K3lzKzNud0Y2REZPcU90bzRTeVFiRDBzVFRsRlJEVXAvR3h4WG5Gc3B3UXZzaDRYZVZVRmE2RllscDBrbDNPdFFHU1Q0QlMyd0cxdWNiRjFqcW9WQjJNS2JrMExPcDFZKzdYelgya2JVZ09HZUV3YmMzRjRzV2RKK2U4VVJNR3p5M3JzSWlLSEtTdXBCMVl4VlhzVFk1cGE1cm9SV28rNUdxUXo5YWp5VkpPeFNHQUVKZEZ0SGV6VVZFTWpXeFZYbUUra21ob3Fld1NyejZtWmFLQTBpVHFFVUxSNlNDd2JVTFlSZDkyWUZTWDNrQlZnK25jTFF6dTU3RmZsYVdFekFGU1JHUnpsV0k0ZlRPNk9SL2VMQlBUUnhyVXFRbnJEVnVKeXZoUFNtMDhuM1FhYmtKcS9BMndPNHpUdGtuN1ArUm4wZFg0ZlM1ZndTOUpLYUJETHR3NjNJR0llSXk0TUhxeUxpOGJoM05lUklQYUxYUWJBTnNFNmY4VGFQU3RpNnBFZXZYRXl3NWJhWGdmWGUyZnkrV3hQL3BQN2VhWjludFRaVGNkNktiSkdVMnByQi9XWEtYdTFHMDVQa0o0aFJGa2t5bDFHT0dhVFEzcGJxdUlPbGdEOS9sMjR1SGJ3R2Y3cUVoc0k3N0JCZ1BRMjcrL042ZGlaV2ZmaS9CUDIwS2dQNzd2ZEtOTlNBei9acUYxSVhOVXhXSitxYWF1NWtuY2laeDZBb2c4Q1ovOEZFQ0Y0VXplUFN5cGVSTkVQeFNGTzBwdkVCVEZyYmNmbVlHWU9VeUJFZG0xL0JIY0NlN3IvbERqaW0rUHZhZHZyekl1dWZORVJQWWNDdk15VENwck5HK3N2a0lGdW5EN1FNQ3ExZk1FTHI5bDRWQTY0VWtuTkttZUVSUko2MWVUdndrRkk2MDBKT3lFekxCN3JGTlJtTnQyTkQ2azU4eWV2QlJReFdkdVVDZFovbjRmaW9qMWdkZzJQQngzb21HMlV2d3NRYTNuMzd4RHZ0amdXMVpmNk80ejZjZ1Vid0VPU3g0QnJnc3piNDNySSt3aEw4aVdqZ2VXR3R0eVNFZk1kM2pRLzI0aFZhVXR0NEMrWG9QR2JieW1rTmhrUTNRN1FabElVSzBkc3FwRHAwd3VoUVluQUIwOHVYZzRrTE1pVkM1ck8zbEt5U0wxM0l4ejZhZDNxMDJOcWx3d2tmRXNvWDNzS08wYk5lK1Qwa2VqbkthTmwwU1NNSklDemlBaEp5WGF5b2R1ZFlzSzdQWWZBWmdreUc5eDlkSG5TYXphZCtXdzROSG1sSXJTZ1JVeE1tak1xaGRRWURRK2pCazJ1dVA3LzVGYTNneVFzNmtHK0E0b3hnN0ZxVGFtdTRhR3Fyc3JXYlp2azJUcmhjSkJmZFY0L0RDeDgrMHVwRUdhWm4xRmtGaGV4S2drNnY3cmExNHpkeENnQ1VlWlJWclIzRHFRdXlQTkZuUlRHRTRyRUFOejBTcytOOGlzZ3MvSHZHaXNTNnBHdUZZeThSMlhCMkladnhyajVMNWttYmtudW9yMHc3UHZveFUyNGpISUdXUkhCUDE0MWlsY2x2STF5Vk9SeDI1Y082RG02THl5ek9jelFXV00zMFJjdnVMdTY0SEtXSlZVSEJ4SUUyMGpXT3FsQmNKU3lCNHdCL0JJMFNvK09yMHJ0d1JQOGxwQytwMGgzVTB4N3F3VzVRc2NRdlNRdEE9PSJ9&from=searchresults",
+    "address": "Southwest, Washington, D.C.",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Washington%2C+USA&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T11:00:43.039Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757415643039_6",
+    "name": "Sixty DC",
+    "price": 852,
+    "currency": "USD",
+    "rating": 9.2,
+    "stars": 9,
+    "reviewCount": 488,
+    "avgReview": "9.2/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/664984000.webp?k=1df01e4745faa036d5feb7eb1559f1327bc2385b16577e4ba49a54faac399dc9&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/us/sixty-dc.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF93YXNoaW5ndG9uLCB1c2FIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALWkYDGBsACAdICJGJhNTY2M2JjLWIxYjYtNDI3OS05MWI3LTY3ZDgzMWE3YjdjYtgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=0acd4d6bdad6061f&srepoch=1757415641&all_sr_blocks=0_0_2_0_0&highlighted_blocks=0_0_2_0_0&matching_block_id=0_0_2_0_0&sr_pri_blocks=0_0_2_0_0__85176&from=searchresults",
+    "address": "Northwest, Washington, D.C.",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Washington%2C+USA&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T11:00:43.039Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757415643039_7",
+    "name": "Club Quarters Hotel White House, Washington DC",
+    "price": 1,
+    "currency": "USD",
+    "rating": 8.1,
+    "stars": 8,
+    "reviewCount": 333,
+    "avgReview": "8.1/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/583549770.webp?k=d0b7203c0c82cbff7e5b97e700b25c0cbf8235b75634171e045e67681eea71f1&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/us/clubquarterswashingtondc.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF93YXNoaW5ndG9uLCB1c2FIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALWkYDGBsACAdICJGJhNTY2M2JjLWIxYjYtNDI3OS05MWI3LTY3ZDgzMWE3YjdjYtgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=0acd4d6bdad6061f&srepoch=1757415641&all_sr_blocks=5605611_91458564_2_0_0_216140&highlighted_blocks=5605611_91458564_2_0_0_216140&matching_block_id=5605611_91458564_2_0_0_216140&sr_pri_blocks=5605611_91458564_2_0_0_216140_117900&from=searchresults",
+    "address": "Northwest, Washington, D.C.",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Washington%2C+USA&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T11:00:43.039Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757415643039_8",
+    "name": "State Plaza Hotel",
+    "price": 775,
+    "currency": "USD",
+    "rating": 8.5,
+    "stars": 9,
+    "reviewCount": 715,
+    "avgReview": "8.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/159863497.webp?k=670a3967d96d329ea29e7673ea4a29c0a2f211c266abed61738afffc13687ded&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/us/state-plaza.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF93YXNoaW5ndG9uLCB1c2FIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALWkYDGBsACAdICJGJhNTY2M2JjLWIxYjYtNDI3OS05MWI3LTY3ZDgzMWE3YjdjYtgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=0acd4d6bdad6061f&srepoch=1757415641&all_sr_blocks=5583313_182968571_0_42_0&highlighted_blocks=5583313_182968571_0_42_0&matching_block_id=5583313_182968571_0_42_0&sr_pri_blocks=5583313_182968571_0_42_0__77464&from=searchresults",
+    "address": "Northwest, Washington, D.C.",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Washington%2C+USA&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T11:00:43.039Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757415643039_9",
+    "name": "The River Inn",
+    "price": 1,
+    "currency": "USD",
+    "rating": 8.9,
+    "stars": 9,
+    "reviewCount": 959,
+    "avgReview": "8.9/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/574709959.webp?k=68ac7b1de44b9971e421004c7e022d18d165bad727a4bcabc448dc6423b2a3aa&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/us/the-river-inn.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF93YXNoaW5ndG9uLCB1c2FIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALWkYDGBsACAdICJGJhNTY2M2JjLWIxYjYtNDI3OS05MWI3LTY3ZDgzMWE3YjdjYtgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=0acd4d6bdad6061f&srepoch=1757415641&all_sr_blocks=5633103_333321131_2_0_0&highlighted_blocks=5633103_333321131_2_0_0&matching_block_id=5633103_333321131_2_0_0&sr_pri_blocks=5633103_333321131_2_0_0__105726&from=searchresults",
+    "address": "Northwest, Washington, D.C.",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Washington%2C+USA&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-09T11:00:43.039Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

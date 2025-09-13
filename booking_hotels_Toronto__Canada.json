@@ -1,0 +1,272 @@
+[
+  {
+    "id": "hotel_1756479023162_0",
+    "name": "DoubleTree by Hilton Toronto Downtown",
+    "price": 1,
+    "currency": "USD",
+    "rating": 8.3,
+    "stars": 8,
+    "reviewCount": 756,
+    "avgReview": "8.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/485851059.webp?k=d40a483cf2cf726779696227d934f248340d1f712af7a5bab0788e3681dae128&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ca/metropolitan-toronto.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF90b3JvbnRvLCBjYW5hZGFIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKq_MbFBsACAdICJDdjZGM2MWM3LWJkMjgtNGJmNC05ZTg2LWNlNzA0YjI0ZTMxZdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=407468558a02041f&srepoch=1756479021&all_sr_blocks=7622106_277181156_2_42_0&highlighted_blocks=7622106_277181156_2_42_0&matching_block_id=7622106_277181156_2_42_0&sr_pri_blocks=7622106_277181156_2_42_0__143395&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Downtown Toronto, Toronto",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Toronto%2C+Canada&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T14:50:23.162Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756479023162_1",
+    "name": "Hilton Toronto",
+    "price": 1,
+    "currency": "USD",
+    "rating": 8.2,
+    "stars": 8,
+    "reviewCount": 494,
+    "avgReview": "8.2/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/666208357.webp?k=689b25b0bf75d5ac9dc5779fe6dd1159f30ddb3ff549c77fbec14fc9b1453275&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ca/hilton-toronto.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF90b3JvbnRvLCBjYW5hZGFIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKq_MbFBsACAdICJDdjZGM2MWM3LWJkMjgtNGJmNC05ZTg2LWNlNzA0YjI0ZTMxZdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=407468558a02041f&srepoch=1756479021&all_sr_blocks=2986824_95154333_2_42_0&highlighted_blocks=2986824_95154333_2_42_0&matching_block_id=2986824_95154333_2_42_0&sr_pri_blocks=2986824_95154333_2_42_0__178953&nad_id=2f38d7b7-f17d-41c4-997d-cac8daf2624e_0&nad_cpc=1.57&nad_track=eyJhdWN0aW9uRXBvY2giOjE3NTY0NzkwMTg5MTksInJhbmsiOjEsImtvZGRpVHJhY2tpbmdJbmZvIjoieU1IUU05TXZLcVZ4aEFvYlFrZnYvSHcvdmpFcGZiVCtKaWRyc0kzUENxMGJXZjA3OWJHbm5oN01IN0VmV2dacjFVdEFDYUxZL0w4TEtEaWtxREg0NWhzVGpQN1ZDNXBOVWVKMTlJMmJ0YnIvSjVnK0J6THJzRGd1NVZvNUJKanRpS3VLN21nb1ZrWWFBWDN6Njc3UEFUK0p5VUJjSWw0ZnlSYW1DWEJ2WXhBY3drZHZFUURnZzY1SVBZNDk1RXdRYWNZbFkwcjZVTkJuQk1QVkUwUzBETjBFNHUwQUtKRlNjOGJSRVdwNnlDTWVVcUNVVTF5aG5Tekd3dXh2MG5qVTQ0anlCdjhwQXphM1FVeDNqY3V6b2FpNGdnclFXclhPeldHRU1FTU0xQUFEQmtRZzIrNWdZeXBwaElJbXZjRFEzb1pkYzF4RlFWSnRML3pnOEh1L2hCVzB2bWZ1VUIvRkNsaWFqeXVJSUF4clptL3JKd3o3MzkvQ3JTczF5MFh3cEdWSmF0MTBRUVVveHlHaVN6K2hISWpPOGhFdEoxdk9NQnhYQ3lRMkNGcEdZTTRrS1VxVklKYTI3U2dJbzFyV2NmK0tMUGh6ODNHWDMzeHBNMXVLTjJSalNvb2N5LzBZSmswV3NwQ1pXdDNWTHdQN0FhT3BxRjBVQXRpWFVpMlhUYzhDQ3kyWE5SakRqOEM1T1RVQVZiUWlnNEYvQlB4eFlLeXA4MTI2R0lmQkc1VjI1WGhQb3BSOUJVbGFURE1IeFphUi9xM0doYUxxaFNwakQ1Wkp4dytUa0pQWFNEbnVQZkxFK00zS01TV3lqVGNTdHk3WG54TWkwS1ZGYzE3eDhkQzBiY0hzMWcxWkI0ZHBtSDgzaTFhSGZoVEVCN3Mwb0tFaStBelVsYkp4NlRwTnRZR0RDZG50VkxvN2tjWVdDUFYzSDhYUzc3U3RZU01RSDA2UTZYbU0rTTczanVTOWZ1OHBKc0QzelVPOThOWlhINFdIYUV2UkdSN0tZUUlTays5YW9uWG56Wm85TS9FVHAwOHdVSTlmblNsZllsMVFGRDR4d21mS2VWNlRoMi9HYm1LQ0dxTHUvVU5vRDhGRXh1TVhlVEdzSHBSSTh3bDR5ejMvRVN6bmZwd2kxSTZOUnNNcWF1TzRBQVI2RldVVjRmZHhWK3Jqem54UEZzeC9TdXZZMnlHcFM1REFjTGdiWENRSC9seThKbjluYUYrZUYya1l4MmhEaUFoQW81cC94VEFQWXEzL3lZSklvRXhyZnlNOGVQM2FESTZERzlLTUJYTSsvUHo2UnhYUzRNTS83VGQxd0tndEEwbndWTWw2cVR3M2pOSG8yamdWaXVPZm9UWkRlanVaS0tWK0oxVGZ2UjZWa01jdmcrM040OGxNRTdiRnd2VDArR0w5cDlWOVFTWENwd3BBbEVobFdzNG5ueC9sL1IwMWI3ellzdkp4Ky9wOW4xV09YMmRxMGpkWERPTlZIdE9xbnBIOTBZOTJ5RktFMllsVXBpWEg3OVpVd00yM0FXQk9zZjRZZVJnc2ZacnhsYW1zR29mOUFZeHlhOFRWK3RsMnE1QVRvL2l1TnJUZUd2QTVKcDgwNERpZFB5djYrVTNESGtJanVtVXBZbGVDSTh4YW9kNDh2RjVXbjdjZ1N4c2x6L21odVRUVmZTRmlZM0NFZXZJMjZ0R0p4a0RGMmlwdGZWZC94VjFqM2hSSVlBVGczQUhGY2JESE9zcDcvbkRMcm83L2xiZ2JPREg3alptRG9WVGczKzA1dmIxSzNSa0xDUU94QVZUTWpnbFZBZE1JeXZLVCtqdng0amk3TU8xTEZzR2tTWkF6RUh3VGNwbU5PTkRxbWI1cVgwUEllZThIcDFMNUdXSFFvWFAzZmdhYlptdkFwOGdKSDhMOHI3Sk5OUmZXV29xQStXL1ZOMngzNnZYUytXVkZ1NWFEMVdJNVpHR0JoZGJPRUM1TElSYkgxSmlIWjROOVNiYWt2RTAxY1RZclRBOHdpMFlVdG5qekhILytDUDBlRElQSWIxeHY1ZmE1djNtQVUxTlBXcmJ2RU4zK0Z3c3FvNmszbWV2dkQvQW9RMGhXUnNCMWlXSUMrOE1UVXBscVJNeHUrZW5qYkxGcC9jQjJkVHNUU2dkaGVzeURKLyt4THJDa0hHZGRlSzVXcGtwMWxWNEdjSUhxck9ubm9lcSs0Y2FoeThzVEY5OWdFQTlQRzhTSURvYTFrVTUvZHVSWHpqMFp4RGloRWMzSWRCcU90bzJpRTE3SVZwc3JxNWNFaWNlSlpqV2plNGtZSmR4OUJRbUY2RkFXQUVwbFBWa1dHYU4wZjJYTllBNjNCNUVWZ1djZW85K3JSdGIwNXM0U1BTaDlrUnppa2pzTzk1M0M3cm04Yks5V2ZlemVBZStwOWdPNlczbWlNcWlPV2lwOVJzdEFZWlpUV1Y2aTU1QWU3QWVhSE9vZDNTOWFRaFBJZWFLNDVVTVVTSU1HQ3VmNVNMN0MvWWNPZlFHQldkd21vNmVLVlV6QW8vUWhUK2I0Y1djOEFITzV6MWtuWDRpdzljMk9UMXJVbDVqUS9ZMkhKNkhzelBGRU1EVUp0aTdONHF5RUt5OFhtbFhWejNBZUpMMXhsNTZZamZqRVF3UDFjMk1zV1E4aVZZSjBLWEFoZ1RuUWlxUEJEWHhzb1ZhMDNsaTdrcGtVeXNXY0VMTE5rUnphMW01cHlZWHJKdFRNVFJNdFc5TlBiTGZJY0VtNk9OWCszcUJOWmYvMjhFWDRQaWRZczFGb1Y4NEdjSHp1dFE3Tkp6MmFVYmlxYlBHU2h3R1Z3M0FwanlhUW5RNU4xTW1CT2REZWZma1N0NjNZN3dyM2thTDhTUUVLVG5ML1NiMk4xbVZrdVlqZGZ3QWpZTFVEWWtwZ3hmOEVGZllCSkpUOUdnR0NWUExLR24rYVZjdmR0OXdHYnJRaFhUYnRGakRlTkdjSTg0NVAzemtWUW9mZjE4UWlSeDlDUlVEakpSemVRdmJZWEVJMWR1dlVMWEQxOS9oMFRUK1g4UEdYL1d0QVhhQVl2ZWtYenJGcldhOEdITkkrcjJMMTlxSWdxNThENURBUVk4WENGcTVLMHFyaTlCbVgrcWxWRzBnemFsTU8wdkVFaUtZc242ekpLY0p6Mmxpd1NFWHc0VzZQN2FLQTNsTmVxUXpqL2VUZ1YvWXpBUEtBeUZkNE96ZEI5STVmOVVaS1FJYnNoYW1zTGMweHdZa1VnKzM2UGc3S3ExV0pkbjQwUWFNWkx2bmlHM0pNTmFJTkFXL1M0STFuUkEyYmx2NS9aNGFIeDBTb0JLN1JGcHJULzBlUVQ2QUszME5kbXk4cE1RS3RyL2dRdFZZTjQrYldQZTEvUjhhSmlFdlNiQXN3ME1aZWV5Y0F4aC9ubko0SWFwZW5nbHdBUW1RTk85UUxhbHdYaDJmZURMOHQxNk9wckh6bVRxdjJ4UFhMc0UrREdiV2RIUVBvakx0MCJ9&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Financial District, Toronto (Financial District)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Toronto%2C+Canada&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T14:50:23.162Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756479023162_2",
+    "name": "Hampton Inn by Hilton Toronto Airport Corporate Centre",
+    "price": 441,
+    "currency": "USD",
+    "rating": 8.4,
+    "stars": 8,
+    "reviewCount": 143,
+    "avgReview": "8.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/473619559.webp?k=d46434830b411e6cc0c33c7a72b07a24bb94c6c3a40af82a3a6e819185eaebec&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ca/hampton-inn-by-hilton-toronto-airport-corporate-center.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF90b3JvbnRvLCBjYW5hZGFIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKq_MbFBsACAdICJDdjZGM2MWM3LWJkMjgtNGJmNC05ZTg2LWNlNzA0YjI0ZTMxZdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=407468558a02041f&srepoch=1756479021&all_sr_blocks=25783201_344386402_2_1_0_1059117&highlighted_blocks=25783201_344386402_2_1_0_1059117&matching_block_id=25783201_344386402_2_1_0_1059117&sr_pri_blocks=25783201_344386402_2_1_0_1059117_60724&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Toronto",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Toronto%2C+Canada&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T14:50:23.162Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756479023162_3",
+    "name": "Crowne Plaza Toronto Airport by IHG",
+    "price": 400,
+    "currency": "USD",
+    "rating": 7.7,
+    "stars": 8,
+    "reviewCount": 185,
+    "avgReview": "7.7/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/653297929.webp?k=3c50b0d8e92e9babf647f155a0e8a1c9741d2d50c9dcc85550572c44fd0e1b48&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ca/crowne-plaza-toronto-airport.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF90b3JvbnRvLCBjYW5hZGFIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKq_MbFBsACAdICJDdjZGM2MWM3LWJkMjgtNGJmNC05ZTg2LWNlNzA0YjI0ZTMxZdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=407468558a02041f&srepoch=1756479021&all_sr_blocks=18556212_95184293_2_0_0&highlighted_blocks=18556212_95184293_2_0_0&matching_block_id=18556212_95184293_2_0_0&sr_pri_blocks=18556212_95184293_2_0_0__55000&from=searchresults",
+    "address": "Etobicoke, Toronto",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Toronto%2C+Canada&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T14:50:23.162Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756479023162_4",
+    "name": "Canadas Best Value Inn Toronto",
+    "price": 325,
+    "currency": "USD",
+    "rating": 7.4,
+    "stars": 7,
+    "reviewCount": 529,
+    "avgReview": "7.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/517446929.webp?k=f744166d84e8e6e9de96fef744fca6f098b790aada7ac2c73eff0dcfb1ca10e8&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ca/canadas-best-value-inn.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF90b3JvbnRvLCBjYW5hZGFIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKq_MbFBsACAdICJDdjZGM2MWM3LWJkMjgtNGJmNC05ZTg2LWNlNzA0YjI0ZTMxZdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=407468558a02041f&srepoch=1756479021&all_sr_blocks=7613822_347265619_0_0_0&highlighted_blocks=7613822_347265619_0_0_0&matching_block_id=7613822_347265619_0_0_0&sr_pri_blocks=7613822_347265619_0_0_0__44712&from=searchresults",
+    "address": "Etobicoke, Toronto",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Toronto%2C+Canada&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T14:50:23.162Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756479023162_5",
+    "name": "Best Western Plus Travel Hotel Toronto Airport",
+    "price": 397,
+    "currency": "USD",
+    "rating": 8.2,
+    "stars": 8,
+    "reviewCount": 775,
+    "avgReview": "8.2/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/694993264.webp?k=a2f4bb64d65df11441e624cad8b04bbe5231c048df54615736b87e0bef2f95b3&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ca/b-w-travel-inn-toronto-airport-toronto-ontario.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF90b3JvbnRvLCBjYW5hZGFIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKq_MbFBsACAdICJDdjZGM2MWM3LWJkMjgtNGJmNC05ZTg2LWNlNzA0YjI0ZTMxZdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=407468558a02041f&srepoch=1756479021&all_sr_blocks=7643537_382952206_2_1_0&highlighted_blocks=7643537_382952206_2_1_0&matching_block_id=7643537_382952206_2_1_0&sr_pri_blocks=7643537_382952206_2_1_0__54700&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Toronto",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Toronto%2C+Canada&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T14:50:23.162Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756479023162_6",
+    "name": "Holiday Inn Toronto International Airport by IHG",
+    "price": 433,
+    "currency": "USD",
+    "rating": 7.6,
+    "stars": 8,
+    "reviewCount": 145,
+    "avgReview": "7.6/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/234143393.webp?k=4c24eef9ce0b69a2c36d071e7cb5be45cfdc1291d147f562b692ff67150f78c4&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ca/holiday-inn-select-toronto-international-airport.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF90b3JvbnRvLCBjYW5hZGFIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKq_MbFBsACAdICJDdjZGM2MWM3LWJkMjgtNGJmNC05ZTg2LWNlNzA0YjI0ZTMxZdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=407468558a02041f&srepoch=1756479021&all_sr_blocks=18556501_118826085_2_2_0&highlighted_blocks=18556501_118826085_2_2_0&matching_block_id=18556501_118826085_2_2_0&sr_pri_blocks=18556501_118826085_2_2_0__59660&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Etobicoke, Toronto (Northeast Mississauga)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Toronto%2C+Canada&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T14:50:23.162Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756479023162_7",
+    "name": "Homewood Suites by Hilton Toronto Airport Corporate Centre",
+    "price": 545,
+    "currency": "USD",
+    "rating": 8.2,
+    "stars": 8,
+    "reviewCount": 401,
+    "avgReview": "8.2/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/473619357.webp?k=35233efa6f818ad24acd8a6ebf624da505f8e461b407844c0748844b51f7f824&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ca/homewood-suites-by-hilton-toronto-airport-corporate-centre.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF90b3JvbnRvLCBjYW5hZGFIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKq_MbFBsACAdICJDdjZGM2MWM3LWJkMjgtNGJmNC05ZTg2LWNlNzA0YjI0ZTMxZdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=407468558a02041f&srepoch=1756479021&all_sr_blocks=25463401_344384930_2_1_0_1046259&highlighted_blocks=25463401_344384930_2_1_0_1046259&matching_block_id=25463401_344384930_2_1_0_1046259&sr_pri_blocks=25463401_344384930_2_1_0_1046259_75069&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Toronto",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Toronto%2C+Canada&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T14:50:23.162Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756479023162_8",
+    "name": "Holiday Inn Express & Suites Toronto Airport South by IHG",
+    "price": 499,
+    "currency": "USD",
+    "rating": 8.7,
+    "stars": 9,
+    "reviewCount": 520,
+    "avgReview": "8.7/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/511693069.webp?k=d630bc05a08a758fe0e3f99932769497e11f4c710cb8bdce1a46bde712451e45&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ca/holiday-inn-express-suites-toronto-airport-south-an-ihg.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF90b3JvbnRvLCBjYW5hZGFIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKq_MbFBsACAdICJDdjZGM2MWM3LWJkMjgtNGJmNC05ZTg2LWNlNzA0YjI0ZTMxZdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=407468558a02041f&srepoch=1756479021&all_sr_blocks=895466002_360146995_2_1_0&highlighted_blocks=895466002_360146995_2_1_0&matching_block_id=895466002_360146995_2_1_0&sr_pri_blocks=895466002_360146995_2_1_0__68698&from=searchresults",
+    "address": "Etobicoke, Toronto (Northeast Mississauga)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Toronto%2C+Canada&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T14:50:23.162Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756479023162_9",
+    "name": "Hotel X Toronto, a Destination by Hyatt Hotel",
+    "price": 1,
+    "currency": "USD",
+    "rating": 9,
+    "stars": 9,
+    "reviewCount": 216,
+    "avgReview": "9.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/675364159.webp?k=c37fc65efc4a7e718d5c080aa21925fb8d7f70ed33f38d64cad80f210c5347d4&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ca/x-toronto-by-library-collection-toronto.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF90b3JvbnRvLCBjYW5hZGFIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKq_MbFBsACAdICJDdjZGM2MWM3LWJkMjgtNGJmNC05ZTg2LWNlNzA0YjI0ZTMxZdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=407468558a02041f&srepoch=1756479021&all_sr_blocks=283365128_107635283_2_2_0&highlighted_blocks=283365128_107635283_2_2_0&matching_block_id=283365128_107635283_2_2_0&sr_pri_blocks=283365128_107635283_2_2_0__197200&from=searchresults",
+    "address": "Toronto",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Toronto%2C+Canada&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T14:50:23.162Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

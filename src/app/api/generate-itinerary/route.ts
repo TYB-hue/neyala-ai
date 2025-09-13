@@ -1,18 +1,13 @@
-import { NextResponse } from 'next/server';
+                                                                                                                import { NextResponse } from 'next/server';
 import { getSupabaseClient } from '@/lib/supabase';
 import { auth } from '@clerk/nextjs';
-import { getDestinationHeaderImage, getAirportImage, getActivityImage, generateESIMLink } from '@/lib/unsplash';
+import { getDestinationHeaderImage, getAirportImage, getAirportPhotos, getActivityImage, generateESIMLink } from '@/lib/unsplash';
 import { getTransportationIcon } from '@/lib/transportation-icons';
 import { getGroqChatCompletion } from '@/lib/groq';
-import { searchHotels, getHotelImage } from '@/lib/booking';
-import getConfig from 'next/config';
-
-const { serverRuntimeConfig } = getConfig();
+// Removed getConfig import as it can cause clientModules issues in newer Next.js versions
 
 // Debug logging
 console.log('Environment check:', {
-  hasDeepSeekKey: !!process.env.DEEPSEEK_API_KEY,
-  hasServerRuntimeDeepSeekKey: !!serverRuntimeConfig?.DEEPSEEK_API_KEY,
   nodeEnv: process.env.NODE_ENV
 });
 
@@ -29,23 +24,10 @@ interface ItineraryRequest {
   userId: string;
 }
 
-interface DeepSeekMessage {
-  role: string;
-  content: string;
-}
 
-interface DeepSeekResponse {
-  choices: Array<{
-    message: {
-      content: string;
-    };
-  }>;
-}
 
 // Constants
 const API_TIMEOUT = 15000; // Reduced to 15 seconds for faster response
-const DEEPSEEK_API_KEY = process.env.DEEPSEEK_API_KEY;
-const API_URL = 'https://api.deepseek.com/v1/chat/completions';
 
 // Utility function to clean and parse JSON
 const cleanAndParseJSON = (content: string): any => {
@@ -137,12 +119,7 @@ const cleanAndParseJSON = (content: string): any => {
   }
 };
 
-if (!DEEPSEEK_API_KEY) {
-  throw new Error(
-    'DEEPSEEK_API_KEY is not defined in environment variables. ' +
-    'Please add it to your .env.local file'
-  );
-}
+
 
 export async function POST(req: Request) {
   try {
@@ -177,107 +154,74 @@ export async function POST(req: Request) {
 
     try {
       const completion = await getGroqChatCompletion([
-        {
-          role: "system",
-          content: `You are a travel planner that provides detailed, accurate travel itineraries. Follow these rules strictly:
-1. Return ONLY a valid JSON object
-2. Use double quotes for ALL property names and string values
-3. Do not include any markdown formatting, comments, or explanations
-4. Do not use trailing commas
-5. Do not include any special characters or control characters
-6. Ensure all numbers are valid (no NaN or Infinity)
-7. Use proper JSON boolean values (true/false, not True/False)
-8. Ensure all arrays and objects are properly closed
-9. Do not include any line breaks in string values
-10. Properly escape any quotes that appear within string values using backslash
-11. Do not nest quotes without proper escaping
-12. Do not include any formatting or indentation
-13. The response should be a single line of valid JSON
-14. All string values must be properly terminated
+          {
+            role: "system",
+            content: `You are a professional travel planner AI. Your task is to create detailed and realistic itineraries with SPECIFIC, REAL attractions and restaurants.  
 
-The JSON structure must be:
+CRITICAL REQUIREMENTS:  
+1. You must use ONLY real, specific, and verifiable attractions, landmarks, and restaurants that exist in the chosen city/country.  
+2. Never invent or use placeholders such as "Main Attraction", "Local Market", "Historical District", or "Cultural Experience".  
+3. If no valid attractions are found, leave the itinerary shorter instead of using generic terms.  
+4. For restaurants: choose real, popular places that are actually in the destination city.  
+5. Each activity must be a specific, well-known landmark, attraction, or cultural site that tourists genuinely visit.  
+6. Do not repeat the same attraction across multiple days unless it is a multi-day site.  
+7. Never default to another city (e.g. Dubai) if the requested city is not known. Use only what is relevant to the actual destination.  
+
+ITINERARY RULES:  
+1. If the user selects travel dates (e.g. 2025-08-25 to 2025-08-27), the first day (arrival day) is skipped. Start itineraries from the next full day until the end date.  
+2. Each travel day must include:  
+   - Two specific main activities (real, famous attractions in the chosen city)  
+   - One restaurant recommendation (real, popular restaurant in that city)  
+3. The itinerary must feel enjoyable, professional, and valuable for a traveler.  
+
+OUTPUT FORMAT:  
+Return ONLY a valid JSON object with this structure:  
+
 {
   "destination": "City, Country",
-  "dates": {
-    "start": "YYYY-MM-DD",
-    "end": "YYYY-MM-DD"
-  },
-  "headerImage": "URL to a representative image of the destination",
-  "overview": {
-    "history": "Brief history of the destination",
-    "culture": "Cultural highlights and important customs"
-  },
-  "airport": {
-    "name": "Main arrival airport name",
-    "image": "URL to airport image",
-    "info": "Important arrival information"
-  },
-  "hotels": [
+  "dates": {"start": "YYYY-MM-DD", "end": "YYYY-MM-DD"},
+  "headerImage": "URL",
+  "overview": {"history": "text", "culture": "text"},
+  "airport": {"name": "Airport Name", "image": "URL", "info": "text"},
+  "hotels": [{"name": "Hotel Name", "image": "URL", "rating": 4.5, "price": 150, "link": "URL", "location": {"lat": 0, "lng": 0}}],
+  "itineraries": [
     {
-      "name": "Hotel name",
-      "image": "Hotel image URL",
-      "rating": 4.5,
-      "price": 150,
-      "link": "Booking URL",
-      "location": {
-        "lat": 35.6762,
-        "lng": 139.6503
-      }
-    }
-  ],
-  "activities": [
-    {
-      "name": "Activity name",
-      "description": "Detailed description",
-      "image": "Activity image URL",
       "day": 1,
-      "time": "09:00",
-      "location": {
-        "lat": 35.6762,
-        "lng": 139.6503
-      }
+      "date": "YYYY-MM-DD",
+      "title": "Day 1 – [Date]",
+      "morning": {"activity": "Real attraction name", "description": "Detailed description", "image": "URL", "time": "09:00", "location": {"lat": 0, "lng": 0}},
+      "afternoon": {"activity": "Real attraction name", "description": "Detailed description", "image": "URL", "time": "14:00", "location": {"lat": 0, "lng": 0}},
+      "restaurant": {"name": "Real restaurant name", "cuisine": "Specific cuisine", "description": "Why recommended", "location": {"lat": 0, "lng": 0}}
     }
   ],
-  "transportation": [
-    {
-      "type": "Metro",
-      "description": "Metro system details",
-      "icon": "URL to transportation icon"
-    }
-  ],
-  "estimatedCost": {
-    "accommodation": 500,
-    "activities": 300,
-    "transportation": 100,
-    "food": 200,
-    "total": 1100
-  }
+  "transportation": [{"type": "Metro", "description": "text", "icon": "URL"}],
+  "estimatedCost": {"accommodation": 500, "activities": 300, "transportation": 100, "food": 200, "total": 1100}
 }`
-        },
-        {
-          role: "user",
-          content: `Create a detailed travel itinerary for ${requestData.destination} from ${requestData.startDate} to ${requestData.endDate} for ${requestData.travelGroup}.
+          },
+          {
+            role: "user",
+            content: `Create a detailed travel itinerary for ${requestData.destination} from ${requestData.startDate} to ${requestData.endDate} for ${requestData.travelGroup}.
 ${requestData.requirements?.length ? `Requirements: ${requestData.requirements.join(', ')}` : ''}
 ${requestData.budget ? `Budget: ${requestData.budget}` : ''}
 ${requestData.travelStyle ? `Travel Style: ${requestData.travelStyle}` : ''}
 ${requestData.activities?.length ? `Preferred Activities: ${requestData.activities.join(', ')}` : ''}
 
-IMPORTANT: Your response must be a single, valid JSON object. No markdown, no comments, no explanations - just pure, escaped JSON in a single line.`
-        }
+CRITICAL: Your response must be a single, valid JSON object. Do NOT use markdown formatting, code blocks, or any other formatting. Return pure JSON only. No comments, no explanations - just valid JSON.`
+          }
       ]);
 
       clearTimeout(timeoutId);
 
       if (!completion.choices[0]?.message?.content) {
-        throw new Error('No content received from DeepSeek API');
+        throw new Error('No content received from Groq API');
       }
 
       let itineraryData;
       try {
         itineraryData = JSON.parse(completion.choices[0].message.content);
       } catch (parseError) {
-        console.error('Failed to parse DeepSeek response:', completion.choices[0].message.content);
-        throw new Error('Failed to parse itinerary data from DeepSeek');
+        console.error('Failed to parse Groq response:', completion.choices[0].message.content);
+        throw new Error('Failed to parse itinerary data from Groq AI');
       }
 
       // Validate the parsed data structure
@@ -287,7 +231,7 @@ IMPORTANT: Your response must be a single, valid JSON object. No markdown, no co
       }
 
       // Validate required fields
-      const requiredFields = ['destination', 'dates', 'headerImage', 'overview', 'airport', 'hotels', 'activities', 'transportation', 'estimatedCost'];
+      const requiredFields = ['destination', 'dates', 'headerImage', 'overview', 'airport', 'hotels', 'itineraries', 'transportation', 'estimatedCost'];
       const missingFields = requiredFields.filter(field => !(field in itineraryData));
       
       if (missingFields.length > 0) {
@@ -296,9 +240,10 @@ IMPORTANT: Your response must be a single, valid JSON object. No markdown, no co
       }
 
       // Get real, accurate images for the destination - PARALLEL FETCHING
-      const [headerImage, airportImage] = await Promise.all([
+      const [headerImage, airportImage, airportPhotos] = await Promise.all([
         getDestinationHeaderImage(itineraryData.destination),
-        getAirportImage(itineraryData.airport.name)
+        getAirportImage(itineraryData.airport.name, itineraryData.destination),
+        getAirportPhotos(itineraryData.airport.name, itineraryData.destination)
       ]);
 
       // Fix header image
@@ -311,44 +256,30 @@ IMPORTANT: Your response must be a single, valid JSON object. No markdown, no co
         itineraryData.airport.image = airportImage;
       }
 
-      // Process hotels with real booking data
-      const hotelSearchParams = {
-        location: requestData.destination,
-        checkIn: requestData.startDate,
-        checkOut: requestData.endDate,
-        adults: 1,
-        rooms: 1
-      };
+      // Add airport photos
+      itineraryData.airport.photos = airportPhotos;
 
-      const realHotels = await searchHotels(hotelSearchParams);
-      
-      // If we have real hotels, use them; otherwise use AI-generated ones
-      if (realHotels.length > 0) {
-        itineraryData.hotels = realHotels;
-      } else if (itineraryData.hotels && Array.isArray(itineraryData.hotels)) {
-        const hotelPromises = itineraryData.hotels.map(async (hotel: any) => {
-          if (!hotel.image || hotel.image === "Hotel image URL") {
-            hotel.image = await getHotelImage(hotel.name, itineraryData.destination);
-          }
-          // Add affiliate link if not present
-          if (!hotel.link || hotel.link === "Booking URL") {
-                            hotel.link = `https://www.booking.com/searchresults.html?ss=${encodeURIComponent(hotel.name + ' ' + itineraryData.destination)}&aid=1234567&utm_source=neyalaAI&utm_medium=travel_planner&selected_currency=USD&nflt=review_score%3D80`;
-          }
-          return hotel;
-        });
-        await Promise.all(hotelPromises);
-      }
+      // Hotels will be loaded separately by the AsyncHotelOffers component
+      // Initialize with empty array - hotels will be loaded asynchronously
+      itineraryData.hotels = [];
 
       // Fix activity images - PARALLEL PROCESSING
-      if (itineraryData.activities && Array.isArray(itineraryData.activities)) {
-        const activityPromises = itineraryData.activities.map(async (activity: any) => {
-          if (!activity.image || activity.image === "Activity image URL") {
-            activity.image = await getActivityImage(activity.name);
-          }
-          return activity;
-        });
-        await Promise.all(activityPromises);
-      }
+          if (itineraryData.itineraries && Array.isArray(itineraryData.itineraries)) {
+      const itineraryPromises = itineraryData.itineraries.map(async (day: any) => {
+        // Process morning activity
+        if (day.morning && (!day.morning.image || day.morning.image === "Activity image URL")) {
+          day.morning.image = await getActivityImage(day.morning.activity, itineraryData.destination);
+        }
+        
+        // Process afternoon activity
+        if (day.afternoon && (!day.afternoon.image || day.afternoon.image === "Activity image URL")) {
+          day.afternoon.image = await getActivityImage(day.afternoon.activity, itineraryData.destination);
+        }
+        
+        return day;
+      });
+      await Promise.all(itineraryPromises);
+    }
 
       // Fix transportation icons
       if (itineraryData.transportation && Array.isArray(itineraryData.transportation)) {

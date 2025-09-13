@@ -1,0 +1,272 @@
+[
+  {
+    "id": "hotel_1757244391112_0",
+    "name": "Ooty Blossom Retreat by VOYE HOMES",
+    "price": 125,
+    "currency": "USD",
+    "rating": 7.5,
+    "stars": 8,
+    "reviewCount": 333,
+    "avgReview": "7.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/742318672.webp?k=9b5983b4476169c0526fadf597a8e04a88e4c44d04b274f4439877c331615c46&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/in/ooty-blossom-retreat-by-voye-homes.html?aid=304142&label=gen173nr-10CAQoggJCEnNlYXJjaF9vb3R5LCBpbmRpYUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AuLX9cUGwAIB0gIkNTY0YjYwYmQtM2Y2Mi00MjE2LWI3N2QtMDM1MmU2MzM3YjU02AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=e6825071192f04e8&srepoch=1757244389&all_sr_blocks=1411495601_412964919_2_1_0_928913&highlighted_blocks=1411495601_412964919_2_1_0_928913&matching_block_id=1411495601_412964919_2_1_0_928913&sr_pri_blocks=1411495601_412964919_2_1_0_928913_1104480&from=searchresults",
+    "address": "Ooty",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Ooty%2C+India&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:26:31.112Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757244391113_1",
+    "name": "Fortune Resort Sullivan Court, Ooty - Member ITC Hotels' Group",
+    "price": 343,
+    "currency": "USD",
+    "rating": 8.3,
+    "stars": 8,
+    "reviewCount": 674,
+    "avgReview": "8.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/482213165.webp?k=65421217654251aaeddb20cbfe3d9a1091867254aca6400e84cdbe4cd74258ca&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/in/fortune-resort-sullivan-court.html?aid=304142&label=gen173nr-10CAQoggJCEnNlYXJjaF9vb3R5LCBpbmRpYUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AuLX9cUGwAIB0gIkNTY0YjYwYmQtM2Y2Mi00MjE2LWI3N2QtMDM1MmU2MzM3YjU02AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=e6825071192f04e8&srepoch=1757244389&all_sr_blocks=28979908_414261003_2_1_0&highlighted_blocks=28979908_414261003_2_1_0&matching_block_id=28979908_414261003_2_1_0&sr_pri_blocks=28979908_414261003_2_1_0__3024700&from=searchresults",
+    "address": "Ooty",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Ooty%2C+India&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:26:31.113Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757244391113_2",
+    "name": "Church Hill Cottage",
+    "price": 58,
+    "currency": "USD",
+    "rating": 8.3,
+    "stars": 8,
+    "reviewCount": 992,
+    "avgReview": "8.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/482700313.webp?k=af203a8d238ace7858ba3fd9c1c0495b513b3c7b0b0df5247ac13ec0aa7d2b2d&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/in/church-hill-cottage.html?aid=304142&label=gen173nr-10CAQoggJCEnNlYXJjaF9vb3R5LCBpbmRpYUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AuLX9cUGwAIB0gIkNTY0YjYwYmQtM2Y2Mi00MjE2LWI3N2QtMDM1MmU2MzM3YjU02AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=e6825071192f04e8&srepoch=1757244389&all_sr_blocks=1040237802_419703508_2_0_0&highlighted_blocks=1040237802_419703508_2_0_0&matching_block_id=1040237802_419703508_2_0_0&sr_pri_blocks=1040237802_419703508_2_0_0__509700&from=searchresults",
+    "address": "Ooty",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Ooty%2C+India&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:26:31.113Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757244391113_3",
+    "name": "Orchard Valley View",
+    "price": 119,
+    "currency": "USD",
+    "rating": 9.6,
+    "stars": 10,
+    "reviewCount": 470,
+    "avgReview": "9.6/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/443808730.webp?k=838587a931c9d6bebf634f8d5879d14a84eb4f3ee024ed232e1754c6f7ea3c65&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/in/orchard-valley-view-home-stay.html?aid=304142&label=gen173nr-10CAQoggJCEnNlYXJjaF9vb3R5LCBpbmRpYUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AuLX9cUGwAIB0gIkNTY0YjYwYmQtM2Y2Mi00MjE2LWI3N2QtMDM1MmU2MzM3YjU02AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=e6825071192f04e8&srepoch=1757244389&all_sr_blocks=954808518_408830287_2_1_0&highlighted_blocks=954808518_408830287_2_1_0&matching_block_id=954808518_408830287_2_1_0&sr_pri_blocks=954808518_408830287_2_1_0__1050000&from=searchresults",
+    "address": "Ooty",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Ooty%2C+India&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:26:31.113Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757244391113_4",
+    "name": "Sterling Ooty Elk Hill",
+    "price": 161,
+    "currency": "USD",
+    "rating": 8.2,
+    "stars": 8,
+    "reviewCount": 787,
+    "avgReview": "8.2/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/385421715.webp?k=acfaa24e2316e01d2d9b4f4523090d3189307ab4f0dc79c91f6e1a0b572b7432&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/in/sterling-elk-hill.html?aid=304142&label=gen173nr-10CAQoggJCEnNlYXJjaF9vb3R5LCBpbmRpYUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AuLX9cUGwAIB0gIkNTY0YjYwYmQtM2Y2Mi00MjE2LWI3N2QtMDM1MmU2MzM3YjU02AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=e6825071192f04e8&srepoch=1757244389&all_sr_blocks=35746004_200153481_2_42_0&highlighted_blocks=35746004_200153481_2_42_0&matching_block_id=35746004_200153481_2_42_0&sr_pri_blocks=35746004_200153481_2_42_0__1424000&from=searchresults",
+    "address": "Ooty",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Ooty%2C+India&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:26:31.113Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757244391113_5",
+    "name": "Treebo Skydale Premium Suites, 1500 Mtrs From Ooty Lake",
+    "price": 123,
+    "currency": "USD",
+    "rating": 7.8,
+    "stars": 8,
+    "reviewCount": 231,
+    "avgReview": "7.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/528148672.webp?k=1073bbae04219095cd6a93bd3ab8e93b731d808dcef3aa2bf88f0a10facfb3de&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/in/treebo-trend-skydale-premium-suites.html?aid=304142&label=gen173nr-10CAQoggJCEnNlYXJjaF9vb3R5LCBpbmRpYUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AuLX9cUGwAIB0gIkNTY0YjYwYmQtM2Y2Mi00MjE2LWI3N2QtMDM1MmU2MzM3YjU02AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=e6825071192f04e8&srepoch=1757244389&all_sr_blocks=1147957901_400592716_2_1_0_310340&highlighted_blocks=1147957901_400592716_2_1_0_310340&matching_block_id=1147957901_400592716_2_1_0_310340&sr_pri_blocks=1147957901_400592716_2_1_0_310340_1082010&from=searchresults",
+    "address": "Ooty",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Ooty%2C+India&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:26:31.113Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757244391113_6",
+    "name": "Beverly villa",
+    "price": 102,
+    "currency": "USD",
+    "rating": 9.2,
+    "stars": 9,
+    "reviewCount": 868,
+    "avgReview": "9.2/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/206683386.webp?k=95eaa6b457575745ee3b49d7fd617695e5e7f3f62514daee3ea0d8b45d295a79&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/in/beverly-villa-ooty.html?aid=304142&label=gen173nr-10CAQoggJCEnNlYXJjaF9vb3R5LCBpbmRpYUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AuLX9cUGwAIB0gIkNTY0YjYwYmQtM2Y2Mi00MjE2LWI3N2QtMDM1MmU2MzM3YjU02AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=e6825071192f04e8&srepoch=1757244389&all_sr_blocks=523638209_410202788_2_0_0&highlighted_blocks=523638209_410202788_2_0_0&matching_block_id=523638209_410202788_2_0_0&sr_pri_blocks=523638209_410202788_2_0_0__900000&from=searchresults",
+    "address": "Ooty",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Ooty%2C+India&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:26:31.113Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757244391113_7",
+    "name": "Club Mahindra Derby Green, Ooty",
+    "price": 229,
+    "currency": "USD",
+    "rating": 7.8,
+    "stars": 8,
+    "reviewCount": 177,
+    "avgReview": "7.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/21650583.webp?k=ea5698ff30cbce719cf02c738db3abb48628a143940ae03c7d8f495f0fed06cb&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/in/club-mahindra-derby-green-ooty.html?aid=304142&label=gen173nr-10CAQoggJCEnNlYXJjaF9vb3R5LCBpbmRpYUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AuLX9cUGwAIB0gIkNTY0YjYwYmQtM2Y2Mi00MjE2LWI3N2QtMDM1MmU2MzM3YjU02AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=e6825071192f04e8&srepoch=1757244389&all_sr_blocks=48293903_402430491_2_0_0&highlighted_blocks=48293903_402430491_2_0_0&matching_block_id=48293903_402430491_2_0_0&sr_pri_blocks=48293903_402430491_2_0_0__2025000&from=searchresults",
+    "address": "Ooty",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Ooty%2C+India&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:26:31.113Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757244391113_8",
+    "name": "Marlihill Bungalow - A CGH Earth SAHA Experience",
+    "price": 307,
+    "currency": "USD",
+    "rating": 8.8,
+    "stars": 9,
+    "reviewCount": 403,
+    "avgReview": "8.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/540708225.webp?k=9fb527b77c08ca226703b09a1e71c4aad3bd1141c13028ad190ded9fe0f8d223&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/in/marlihill-bungalow-cgh-earth.html?aid=304142&label=gen173nr-10CAQoggJCEnNlYXJjaF9vb3R5LCBpbmRpYUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AuLX9cUGwAIB0gIkNTY0YjYwYmQtM2Y2Mi00MjE2LWI3N2QtMDM1MmU2MzM3YjU02AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=e6825071192f04e8&srepoch=1757244389&all_sr_blocks=1171006702_405011942_2_41_0&highlighted_blocks=1171006702_405011942_2_41_0&matching_block_id=1171006702_405011942_2_41_0&sr_pri_blocks=1171006702_405011942_2_41_0__2707367&from=searchresults",
+    "address": "Ooty",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Ooty%2C+India&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:26:31.113Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757244391113_9",
+    "name": "PARADISE PERFECT - non smoking non alcoholic no unmarried couples",
+    "price": 215,
+    "currency": "USD",
+    "rating": 8.4,
+    "stars": 8,
+    "reviewCount": 1038,
+    "avgReview": "8.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/194085763.webp?k=18856863f29cd904a63ddbaf202c9b0befa39af7473902298a0d65f1af0d86bd&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/in/paradise-perfect.html?aid=304142&label=gen173nr-10CAQoggJCEnNlYXJjaF9vb3R5LCBpbmRpYUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AuLX9cUGwAIB0gIkNTY0YjYwYmQtM2Y2Mi00MjE2LWI3N2QtMDM1MmU2MzM3YjU02AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=e6825071192f04e8&srepoch=1757244389&all_sr_blocks=247215502_416968289_2_1_0&highlighted_blocks=247215502_416968289_2_1_0&matching_block_id=247215502_416968289_2_1_0&sr_pri_blocks=247215502_416968289_2_1_0__1900000&from=searchresults",
+    "address": "Ooty",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Ooty%2C+India&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:26:31.113Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

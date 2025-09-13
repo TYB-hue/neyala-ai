@@ -1,0 +1,272 @@
+[
+  {
+    "id": "hotel_1757242939455_0",
+    "name": "UP&GREAT Apartments - Chic Urban Homes",
+    "price": 570,
+    "currency": "USD",
+    "rating": 8.5,
+    "stars": 9,
+    "reviewCount": 855,
+    "avgReview": "8.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/680585775.webp?k=c9387ddc9ebe70bfca598c59f78bd25fe3bed9e89a26f063b269ac1e1f0c484c&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ch/moderne-wohnung-an-top-lage-oerlikon-zurich.html?aid=304142&label=gen173nr-10CAQoggJCEnNlYXJjaF9zd2l0emVybGFuZEgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4ArbM9cUGwAIB0gIkY2ZmNTZmYzQtM2Y5Yi00MDA4LTgyYmEtMGI4MGY1Y2FmYzcz2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=4deb4d9b1d5e01ab&srepoch=1757242937&all_sr_blocks=1226470204_394848157_4_0_0_917687&highlighted_blocks=1226470204_394848157_4_0_0_917687&matching_block_id=1226470204_394848157_4_0_0_917687&sr_pri_blocks=1226470204_394848157_4_0_0_917687_45493&from=searchresults",
+    "address": "Seebach, Zurich",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Switzerland&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:02:19.455Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757242939455_1",
+    "name": "Royal Manotel",
+    "price": 1,
+    "currency": "USD",
+    "rating": 8.1,
+    "stars": 8,
+    "reviewCount": 344,
+    "avgReview": "8.1/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/530786142.webp?k=27062708ec4a6e7aeb001c527deeb61e525ad3461922a8ab6cd5ed72cd4e85f5&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ch/royalmanotel.html?aid=304142&label=gen173nr-10CAQoggJCEnNlYXJjaF9zd2l0emVybGFuZEgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4ArbM9cUGwAIB0gIkY2ZmNTZmYzQtM2Y5Yi00MDA4LTgyYmEtMGI4MGY1Y2FmYzcz2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=4deb4d9b1d5e01ab&srepoch=1757242937&all_sr_blocks=6504509_93703902_0_2_0_66720&highlighted_blocks=6504509_93703902_0_2_0_66720&matching_block_id=6504509_93703902_0_2_0_66720&sr_pri_blocks=6504509_93703902_0_2_0_66720_81900&nad_id=f23e6e67-cf49-45de-b318-3b4bbb4582cf_0&nad_cpc=1.24&nad_track=eyJhdWN0aW9uRXBvY2giOjE3NTcyNDI5MzUzNDYsInJhbmsiOjEsImtvZGRpVHJhY2tpbmdJbmZvIjoialdwK09rYUNwWG5peDV6RXlIa09tODROelVmaDRRV1lZNFByRHRWN2haRzNudU42MVJ4NVdGekZqbVRFWGdPSmkvSHNNcXh2QS9qR1Foa0R4VjZna0JHNGRmSzAvbDh2R0xpSmx2cFFkMVYycDNJb0xCWlY3MWQ2YU1KaHVsWmRscUhtTTFhN3NWNVV2YWgvaElqNCtZdDBDdWpSV0tFTFViTDdnMjFqeVdyWkVYTTc1MjJ4M21tMExub3VMWXY2bG5Wamt6MkozWFFyWEJKYUZSem5xblRFWUtoTG9MSWFSUDRSblB0ZnlrOHNZaW9najRTbmVjb2pjbEh1MGl4UWhIZEpzUEp4QWlubWY0TC9DcVVtOTZHUjZFaysrbzF4cHRKay9aeXNScVUvYzI1ZUlQYmVVWTNCVngwSUV3MFNQMTFCS0poWFRhRUExZGtQaThUMjl1aDdvS1FlcDRrUmQ2TDI2WURFM3JKWm5RQUpOWHN6a1M5clFmdjFSZFBRSGVaT29JS0Y5Wm9JUE5pbDFiMFRyU3Q3aW1aak5JUDVhVVhtUG43MExQQnIvcGVNSXRRWDJkcU83NGgyRG5Pb3VLaVd5c1hyaVh1anArWmxEOFQwWVIxb0lWbmIwN1dKTmsxd2RaQmpPM2tYTmxacDQySGdtK2NvYVlpdGJzVkxNWklBMVcvNlIvNHBUTTRoK1lFMVBDSGFENFhqWG5IV1ljZWdhOUJER25nYURsMUM2Nk9qUkVVNUtJd25CL240a2ZuenhuTFFhNWM0eHl2NWptb1kwY0JGV0E2QzhjZEpSTWdPdTR4VnpwZGUvMkM4V2pMVnpFV0VIYWFqcThlNUZIV3g4WWpibDhIaUpldERuMkgwemZwZWJaZEdzUDhiNlFMWEllOHV1UnNaU0luRjRpQ0FYZ3Ztc1YrTy9QbTlpM0ZwMkVpVjRWV0hMdjVBYmZwaVlUdW54TWpLYzloZDV5NUpoWVBGZDVEUlNwTDQ1cksvdTk1SHQ3U0VrdFNhZlUzbTZqSlVZOHA2eEIvRWUzaVlqWDRnY0o0OW9mMnFET3QrZEhaSTI2bUVQdzRXTkpXSkwzUWZFRmFOcHc5UFo4Si9uT2pPTnNyQzZBZWp0Nk0xblcvWjk0MGtBcFhmdkxmS0d0bEhoUVJMNGtOT245R2xuSDY0dXBmZWRkL1dxTkRRSDVMTWU5SHhxeUdxWkpZVTJIcitZdnBCWFcwZVMwSDhHK2sxRnNHWDRpU1kzeFljVjZGNmlaK2xKcGZYM3hpYnU5SUh6TmN2U2hqdHlHaktaNXNCTk00T2w3RzdBK1RlajY1bzc2U3lzMVFNbFNjQWUreFF1bml6SDEwWWNNakV3Z0dIYnFRVm42MnBUWHRzcTlmWFAyTURtRmZnZUVVam4zRE9ySVBLek4rcGVTZmRDUlFQSENpZGpSSGpjZ1FuU0xaNnZneUd2UUV0bU9kN1ZqOFY1UjNrNjVaTFRBb09VNnVXMytUTFZUTGFYZXRhRnNXdnFHSXlpZ0sxL3pOREx1blk5Y250WklCaS9wSWFIdTA0aXZmMHEyZWVUUU91STRROGpFdUhJZkZHYVNFdWdaWjU1VHJ3Rit2Y0NvbmxRdFFldVJIcTNXUnhLQVZMWDEyeHVrYWlsQ2hDRGl0U0VPS0VRMkg5M3lUanluNms5bjVmSUZtTWxxeTJZSC9EZU5qaHN4OVlnMkphRG4xeVBOMzBNUmlMZmNkUW5RTEhCOUxkL0RNOW9GbkRIek1UTG44bEdDRllScXpHVG54T1l2UG1mVVhDbTRBaTBTKzdkRW13c0xteUhiOWJPRHBRK3FqSS9DQ1J5SGlaTnpWYkJXdXV0czNvYzU4RE4xdTBtN0F3d1ZFZEx6YWF5SGJKNk9GZFFXQUQ2Q2ZkVS90bHdHczR5R1UyK1FUelp4ZUM1a29MZXZabk9iQXp5OEpFM2VobHcrVTdmUGNOSnp0UlZqSE5vRlJsR1UyRHJiSmNWQVhpN05nM1gwK1NFK3NUbzlnaEd2TEdZN3NOSmdKMlRUejZVbEdINitKRUZWVkhRZkVEekN2cUNJaEtEcUJ5aVZhRjJRWFBsSVJrV09vbFBrdXhDUTdkbCs0Mld6VWR5TUh2bzU1alpKcFNpTkIrRWQ4UU5yM2EzM3FmeHpsVVZNS2NiNUtKbGdWc3dNWnlSZ0xFUjg0UTE1V2dIa2puZjZwRitXam1QTGxjdW03NnVwTlgvaFU2SDZKT0FSN1ZlZjJBWVZic1pIQ0RUTGNxSDk2QndWZ284d0FaK3FYeVM1U1QwWjhUK3VldEkwRFYyZ1VPTm9IWi9UK2RJRUgzTlNhRXNzMTNYcjFIcC9LbHAweWZDaC9GYkNLL3oxWGRwZlYrYWNIU3pNYlBuRUZLMEt1RVhFaG5QeXlXYWFQVGJPcjhKcTVzVVp6TTdmWllvME1mL3IxNTEvcTZSaDVmdDJWUGltc29jaW9xK1hkOU5rQXA0bkZ3TkQ3bk5sclpwM25TRjFlbWNxTEFPdDdQRStIT2F2TE54VUt4c2xRbTRFRUNjVzArd21oWkRLc2RNbG84UmxLWWVJUE0yd2NzVm9nRkZDL1F1U1NIbHJRdnVqengxdXNsVEZ3S0ZKTm5HWDIwNHI2N29wM1JvUCtlRndrVCt2ZUxNbjB6M1dsd3F3UHlqYzQ0WEtDOWFFQ3ByUlpTSS8yc09VRlNtKzRXRWRpWTBVMGZmWFFWbnFqVCt5SFdlYkk2TWhxWEFXa0JNRnNhYStQUUtvN0Y5TVRvRUJ4M3MyUDJOL3lKSEt1dU1XUXUzQ2p3aE4yZ3YrTUdhQTJxeW5OVEt5WUhhRXZTUlBVaHN6UTEwQlJndzV1NktVQkxPc3k1eEE0QmFYbFZadUhrWmRWMWV5SjIyaU90VDFIM0VQRW5xQjFPNlRBeDlhRWE4WDhCNkRESW5BV2U4ZUJJTk50c2FuYjZFUXhjd3dSVTFYWnFBV2VDdnNPL2dSOFZMZ3NRS1lVSnUrSGVTbFlEclBvY001bG8vMlhSTC80NTl2QU0xRnBPOGk2djh5bUs4SlpUOGROM1Yrb01RUGc3dENQeUJhT3c0Z0loNmVjemtQRVdBM0cxWVBJbVdpTEFnckZkUmxzSXg3TThoTXluOGJkS0JGQTdMNWJ3anVCZDRuempROHZPV0Z2ZWE5ZHE0TzJIWnFNbDZIYXYvWnhZbTFWeUhGVDZ0K1NsVGJabTJqcDR5ZGdseGdMYTdKOWZDd2hLM0s3WE5UWVJBajNRQ0FGdnRIeEJaalFYdGc1OTlhdHh3MytqMXM1TXQ0UXl6K0ExR3RiWDFNMlljbUJQbDdIS3pSSFVFd1ZIUEFvTU4rL04za09mVWhjR3BDb1hsRWV4TFRCNFlRMTQ5R010YUUxci9VVEZEbXJwU0ZLUEUwcnpuYmliTWNjcXdvaHJxMkZ0aE12cGRMcy9nckI0bStZWjluejB0VXBNRVdxNTR2Z016V081OE9ZMU4wcktwRFhoNjlFUlJWVitCMkdtcVAzZHBYZW0rcDRPUVFtVlhFQ2dkS1ZoR2xxc2RRPT0ifQ%3D%3D&from=searchresults",
+    "address": "Paquis, Geneva",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Switzerland&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:02:19.455Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757242939455_2",
+    "name": "Motel One Zürich",
+    "price": 1,
+    "currency": "USD",
+    "rating": 8.4,
+    "stars": 8,
+    "reviewCount": 616,
+    "avgReview": "8.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/482033872.webp?k=4fbdd6d354ebd6838cea0009bd5ae968231ef1bfbd9ec24d824b7e54de87b03e&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ch/motel-one-zurich.html?aid=304142&label=gen173nr-10CAQoggJCEnNlYXJjaF9zd2l0emVybGFuZEgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4ArbM9cUGwAIB0gIkY2ZmNTZmYzQtM2Y5Yi00MDA4LTgyYmEtMGI4MGY1Y2FmYzcz2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=4deb4d9b1d5e01ab&srepoch=1757242937&all_sr_blocks=227297102_405402002_2_2_0_222373&highlighted_blocks=227297102_405402002_2_2_0_222373&matching_block_id=227297102_405402002_2_2_0_222373&sr_pri_blocks=227297102_405402002_2_2_0_222373_84700&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Enge, Zurich",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Switzerland&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:02:19.455Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757242939455_3",
+    "name": "Prize by Radisson, Zurich Affoltern am Albis",
+    "price": 491,
+    "currency": "USD",
+    "rating": 7.4,
+    "stars": 7,
+    "reviewCount": 602,
+    "avgReview": "7.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/499734828.webp?k=1e8947dd820c73a4d283b243d059fc100ef83a194ca8c3745d793a0cb4009944&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ch/prizeotel-affoltern-am-albis.html?aid=304142&label=gen173nr-10CAQoggJCEnNlYXJjaF9zd2l0emVybGFuZEgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4ArbM9cUGwAIB0gIkY2ZmNTZmYzQtM2Y5Yi00MDA4LTgyYmEtMGI4MGY1Y2FmYzcz2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=4deb4d9b1d5e01ab&srepoch=1757242937&all_sr_blocks=63156608_94498428_2_2_0&highlighted_blocks=63156608_94498428_2_2_0&matching_block_id=63156608_94498428_2_2_0&sr_pri_blocks=63156608_94498428_2_2_0__39150&nad_id=f23e6e67-cf49-45de-b318-3b4bbb4582cf_9&nad_cpc=0.73&nad_track=eyJhdWN0aW9uRXBvY2giOjE3NTcyNDI5MzUzNDcsInJhbmsiOjIsImtvZGRpVHJhY2tpbmdJbmZvIjoialdwK09rYUNwWG5peDV6RXlIa09tODROelVmaDRRV1lZNFByRHRWN2haRzNudU42MVJ4NVdGekZqbVRFWGdPSmkvSHNNcXh2QS9qR1Foa0R4VjZna0JHNGRmSzAvbDh2R0xpSmx2cFFkMVYycDNJb0xCWlY3MWQ2YU1KaHVsWmRscUhtTTFhN3NWNVV2YWgvaElqNCtZdDBDdWpSV0tFTFViTDdnMjFqeVdyWkVYTTc1MjJ4M21tMExub3VMWXY2bG5Wamt6MkozWFFyWEJKYUZSem5xblRFWUtoTG9MSWFSUDRSblB0ZnlrOHNZaW9najRTbmVjb3NkVkhsMUN4UWhIZEpzUEp4QWlubWY0TC9DcVVtOTZHUjZFaysrbzF4cHRKczlKK2dTcWNuZlM1Sk1mWGNRSkxQUzBZUUN4WWNOMWxBSklaRFJhTUkxTkljazhTN3NQdDZvN1FLb1pnTForbW82WXlEME9VRW1sRUpMQ3g3a1hna1I3WHhSODdRQTdkTnZZQ2Y4NXdJUHR5bjNla1kvVHBpaWlreE5OR2dlMUh2SkdUbmI2Umgrb0NYTk5ndzAvZVg1SXhnRlcrdmhhZXd6cE8wbW0rZ3ZPWnBDY256YlJ0aEoxalEycitES0Z3L1BvZHpiVG9YTGxocHZEZnltK04rTm9pMVlNVUVmSVFCMUhQM0Y3MHBWTUFocGRZbkpTckZEcFA1YUdEcWNNM3dOTU5WQ1RaTkQwTkU5SSt6THhzMkk0MDBTci94bXVYNTNtUFRhNWtnMWpYZ24yWlpqdEpSVVJTWTRvb1BVTUFQcE5vYzNvRk9zamUrV3pqT3kxaUxBYXp2K3RTdkJ5ZjB0NTNYbXRIdk9LNFIybTM5eU9kWVlwMVB1dm9RNlFQVEorb3ZwUTVDRE03RjRTeU5GMWlxbzFTRC9QbTlpbmwyMlZPSjh4VERhZjVEWit4OUxIVHgxc1BIYzl0ZDVpVldoSmpaWmRHVkFaMzAvYnUxNjRFWnVhelgwcCtjZjFEcTRHUUhOdGwzMlF5UUlqYVBqV0F4SjlaNjVxbWxIUFp4TFNjT21PYUJPUTFWWjluY1lpRkdCVTdNcmdsT2E0VnlsS3VQZFlXUXRrcTB0NjAvaG1xV3BNUTNGSnFEOGUzR0g5SlVoQVpNNGtGUG44Ynp3eXVxc0lyTUtKS01wOWpNSEpiSGI5THEvSFh2YUp3YzJtNmdJcmxBVm1NYlNBeXZUK2N0U0lqTitDT0p6eEFRUWJSczJkVG1LSStYa2wyT3ROUVB4NVI0RFZ1MGlXYkVhWnNJT05VRG1hdjhIKytSanFoaHdyVy9uMU1Ga2lFemJQQjZ0Mk8wQ0F0R0s1cUpsQm1QZnU1RzFyNi9Ram8xNjh2TExtY1BtVXIyYjBJM2oydk4rOUNNcUpDelhDQ3BIaE4xSHhpZmtqS1BWRm9UTXNONjNSR0RvaXNQdHRkRlZ6UVd5UXppbDRGcEVUNXRVdnFMbHJlVUZDemJXK1ZFRk11cXF5OWgzUXl0dldvQU0vWE40TlA2Y29Ga3M5cE9FUFY3eDd2dDZEUEVReHZ0Zk1kempRYlNmYTVHSjJKandJbGk2ajc4Qyt6ZlQ4YXVRNWRBK0VIdWhtUm9lUVVVUTBqaHVoQzJqU05PRERjZFJyYlZXenY0MnlEbW1YMmw1bUpMZFIvVzBiK21mMm5VZnRqMjlGY0EwM0ZTQ1h0MUpNMnBZbG5MZGRCYWpRakFFTlBiL1NZbnJRK2NWQ0JHWTNNd0FEa2RUYTNPQzNaUGFQK3BNRU9QMDhZZzJ5V3JkRmlucmJUa1h1UU5JakZVK3FyRy9DR0szaURUVUhvSkQwZWVvOWo1WHBrUk5reW8wTzR5eFZOTWNIelp6WGJ6cDdOWmJWQVcvVGp3VmVsazEzZHpsbWN5KzFXc0xWU2U0RTFMTWZWNlBxNHozSWdibnJrdHc3MXZKYmhBS3oxQ1VEL1hwa0poREZ6RTgvRWFBUlh0NDlvK1FFcUlkK01QcWQ5SEVmTEpmYmdQSlFadVRqMzlVRGlkOWZZZE9SSVpFZmNSekN2OUVKbEtEN0YzbFY2VGowdUV5ZEYyVStVbFAxYXdGV3JjaXVRM1B6OGR3cXY5dFl3M1c4NFh5ZEZ2SHNZV2NmT0JqVE9mbkhjYUY1ZVllNDZEa3dsNTFjMTBUaHZJUnRSVG1acXVIQm00TmVsRTVXbXZjcnBTczI2MDd0QVl0eFYwV1BNV1ZRL0NlZUNaYWdhbFZrTEJUUGdDSjRESzBBbDNvMHRSK3VxakRNclMwWjRFN2VxN0tCQ0tsak1rVUpuWGloaTRjQXF3TlM2WXNvbzVUUEZCNGIyeThWN1pSVUdkUFdQdG1CcVVtZlIxS0pDdmw1amZrMDVJMmJTQVJWcHlNSDdLTHV5YVVPdjNHcUZTUWEzODc4aFdtVWtTZy9BKzRlVDJHRjExNENjSmlIcHZQV01XL21kcWZ5VmtwVFZnT3pIbFAwWGR2V3ZIR0FYNU9lS0dLOVBJWGIrTUk3NkxtZ1QwODFVYytWdERMaEFWMURrSVdvQUlZeDFxVFVmTVBjTE40UVU4UlloNFduVGt1WFhXd0o4NjYzdW4zdWxvRlE1UFhONWNTM09zckovcXJJV080NjdPUWxWU3E2ZmViRHhpakRvMTRnTzd4czBxQ2JUOWNGaTE2aHBhWXZXcU9nUlEydlVKVW9MZnlXQUpZbjhkcnFpWXIzS1ZMT1Z6WUVUcUdIVUhJM0FmYSs2VFpNWGU2TVN2SGtwdy8ycTdaKzZDSEsrNENYYzcxVG5LZ1o3MnNmdFphRVM5MkNzQ09Ud0pkVlRTVVBndC9XOWtrRk1oak5ya2JrMWRNZGU0aUZkTk5qRlZNYkcySUpab2NpZHgwamZqRkEreVZyNTQvRmdOOXlFbi9iUU00blFKK0hlVjFVRFlzTHNNZlo1Z2VXdjZCVUVVeEJSTG0yQW1CSG1IOFlTUWxSb1pKQ1pVZjlwSS9lL0dDZ3BlNDcweko1eGs5VWpvTitnbTRZMUNqMGxIdVhIajVCcUE0SXBWeTk1aFhNY0VSL1VkaVNmL1NkRHc3aDV6b0xjL2plOFFGRWU1YXJONU5IcUlndWtGRXloZTNLbzloTkc2bytna1FSWjJZOEt1M3VaUDRsSHlXc3lKUFFpQ0twb210YlBYWUxFbHhXZTI5TnM5eUFrOVVSeWovSytrWHJOZTBDUjZoNzEybWtPWHBNWVVRQWxaMlpiZEt6cGZaMjZNUjBJbTl6VVhkR1ZldlE5aXU3MDkxSHFybm9sY2dZa3lpS2hJUllmRjJ0cU1iWE1Pd05pYmxVSEJCajlUTVZwWFlmamF4RXpESHdZRHRHSVYyUWptS3laNU1YNHk0R01nUlhCMi8xeklKU3FtSGc3R1JScTl5dTdvY2R3NnhJeEdsbVZtaE12M0NleHlsS0YyMklOVzZHdmdwa3BSSEhxN3o4SUUzSHlpM2VadmF3VFhzenltc1pJTlEwQkVBbU9udWVHZzdDUzB6Wlhaamh3KzA3bnJBSnZXVURyWk5PU09iczE4aVE9PSJ9&from=searchresults",
+    "address": "Affoltern",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Switzerland&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:02:19.455Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757242939455_4",
+    "name": "Hotel Bernina 1865 by Kleos Group Collection",
+    "price": 702,
+    "currency": "USD",
+    "rating": 8.3,
+    "stars": 8,
+    "reviewCount": 643,
+    "avgReview": "8.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/579459487.webp?k=b27fd09607ac4f5e0c778a339b6cfe72034a36e1c1e9e8312bb2fea816d82964&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ch/bernina-samaden-st-moritz.html?aid=304142&label=gen173nr-10CAQoggJCEnNlYXJjaF9zd2l0emVybGFuZEgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4ArbM9cUGwAIB0gIkY2ZmNTZmYzQtM2Y5Yi00MDA4LTgyYmEtMGI4MGY1Y2FmYzcz2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=4deb4d9b1d5e01ab&srepoch=1757242937&all_sr_blocks=18800001_308046144_2_33_0&highlighted_blocks=18800001_308046144_2_33_0&matching_block_id=18800001_308046144_2_33_0&sr_pri_blocks=18800001_308046144_2_33_0__56000&from=searchresults",
+    "address": "Samedan",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Switzerland&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:02:19.455Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757242939455_5",
+    "name": "Hotel Mulin by Amanthos",
+    "price": 528,
+    "currency": "USD",
+    "rating": 9.3,
+    "stars": 9,
+    "reviewCount": 254,
+    "avgReview": "9.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/672675756.webp?k=97304fa05f208dbd6b12201687a8a45f30ecd0c36bdc8cbfddf80dae729fcb4e&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ch/mulin.html?aid=304142&label=gen173nr-10CAQoggJCEnNlYXJjaF9zd2l0emVybGFuZEgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4ArbM9cUGwAIB0gIkY2ZmNTZmYzQtM2Y5Yi00MDA4LTgyYmEtMGI4MGY1Y2FmYzcz2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=4deb4d9b1d5e01ab&srepoch=1757242937&all_sr_blocks=276976306_373951502_2_1_0_1113839&highlighted_blocks=276976306_373951502_2_1_0_1113839&matching_block_id=276976306_373951502_2_1_0_1113839&sr_pri_blocks=276976306_373951502_2_1_0_1113839_42100&nad_id=f23e6e67-cf49-45de-b318-3b4bbb4582cf_8&nad_cpc=0.65&nad_track=eyJhdWN0aW9uRXBvY2giOjE3NTcyNDI5MzUzNDgsInJhbmsiOjMsImtvZGRpVHJhY2tpbmdJbmZvIjoialdwK09rYUNwWG5peDV6RXlIa09tODROelVmaDRRV1lZNFByRHRWN2haRzNudU42MVJ4NVdGekZqbVRFWGdPSmkvSHNNcXh2QS9qR1Foa0R4VjZna0JHNGRmSzAvbDh2R0xpSmx2cFFkMVYycDNJb0xCWlY3MWQ2YU1KaHVsWmRscUhtTTFhN3NWNVV2YWgvaElqNCtZdDBDdWpSV0tFTFViTDdnMjFqeVdyWkVYTTc1MjJ4M21tMExub3VMWXY2bG5Wamt6MkozWFFyWEJKYUZSem5xblRFWUtoTG9MSWFSUDRSblB0ZnlrOHNZaW9najRTbmVjb3NkVkhsMVN4UWhIZEpzUEp4QWlubWY0TC9DcVVtOTZHUjZFaysrbzF4cHRKczlKK2dTcWNnZlM1Sk1mWGNRSkxQUzBZUUN4WWNOMWxBSklkRFJhTUkxTkljbE1TN3NQdDZvN1FLb1pnTForbW82WXlEME9VRW1sRUpMQ3g3a1hna1I3WHhSODdRQTdkTnZZQ2Y4NXdJUHR5bjNla1kvVHBpaWlreE5OR2dlMUh2SkdUbGI2Umgrb0NYTk5ndzAvZVg1SXhnRlcrdmhhZXd6cE8wbW0rZ3ZPWnBDY256YlJ0aEoxalEycitES0Z3L1BvZHpiVG9YTGxocHZEZnltK04rTm9pMVlNVUVmSVFCMUhQM0Y3MHBWTUFocGRZbkpTckZEcFA1YUdEcWNNM3dOTU5WQ1RaTkQwTkU5SSt6THhzMkk0MDBTci94bXVYNTNtUFRhNWtnMWpYZ24yWlpqdEpSVVJTWTRJb1BVTUFQcE5vYzNvRk9zamUrV3pqT3kxaUxBYXp2K3RTdkR6djY5NWJhaWNQak5xRU5qSFgzMXZGZWJwcE9zUElYN1FEWEl1d3ZwUWhXQW8vTzdDcUZGVi9tdTB5Ui9lZWlpMmRvMFZxSjRSck5LUFZPWWVSNU5uV256dHZWY3NWQzVEaElqSkhaZDkrYlFKYjErTE9qL0lwVm9hYkwzTjZUZWx6aCtua0tjTUY4MlFxTExIZVpsSGd3SU1FOS9ySGlGN1VwSzNZQWxxQ0tPd0ZkWUpYRWVuUkdCUmVBb3dsS2FZSjczZWFEZDhxZXVCaTJxcVVxbFdhU3FZSXZBNGFlLzZMS0JzdFJrd2RiOWtWZmljSGl3bTJ5dTR2TU5KekRxOEhXRjV2Q1k5RHc1Mis1Y0pZQ3dtMi9MUFpCVzI0UVFBcWlDZjhuVklhQjh6NkYyUnNkUWJWNzJ0YTNNSVdMbkErZnN0WUV5Smh3U2tPc3ltVEVaWmtJT3Q0R2pMYjZIcS9NbUt4eTA3Nklza1FUbERncmE5eEd1M212RWcxTmNKU0h4Z2lhWXU5TGtLYW9YaWM3dWM3Y0lHSVZna2ZoYUVRaG1IN2Y1OTNLc0lqWGIyM3lEeTFOSGx2ZW9FUFRXbVFGUkpjaXBEQzRwUkl1aE9ab2V3c0U3enZmaktFdVlTdFZTN2pSMzdtYVJ5N0xWL2hURU1haG95bHNteFNrb21SVE4rSEE1YzczZUpGb3JzMEpDUDVteWV2KzV6YU5XeGp3YnBrK2tBVE9NdWRWTVhFN2tKeHo0RFQ1QmVYTlFkZmxIWmRNdkVhL2oyTnZma3BQV3hIZ3BCYjRqeUZYQWlsS0dxM1NUbUNzaVNIb3huaXM3V1pmYlIrYmw2aW5lM2pQZWRUMytFRkxqV0pjQzN0MElNbTFkaGlNZGRkU25RckFHTlRFK3o4Z29SS2RIMzVHTGlZd1dTeGNRS25JRG5nUGJMNm5mUUtQbElzdjBDaXFjMG1ncmFUNVE2OVRNamxjK3FySjlTV0oyVDNJQVNWMEJVU2luOGZzWklRVk9scSszT1IwbWxzUEptbmRqU2YvK001VGJtSXE0aVBLU08xb3dXRi9uQ0Z0OHhiNk9GRGVzVmdTY2VsbUw2by8zWWthenVwNDJhdDhmL0VES2pkTlVDTGNwRVJoQ1VuVjhySlVSZ1huODkwalFrYUlkKzEycU5rcEVQSEpmTDhiSlF0eVR6WDZVejJSbmVJSFFWOURWdW9Wd0QzcUM1aGVDTEYxbEUrSmxsclBucFprV2Zja0lsYXdGV3JjOCtRMlVUOGR3cXY5MVo0ckk0aGVuZHhwRGRzTVpPTGF4M1NmaW5kWlY5bVdZSWVVbEFsenpNVmpTUUxNWE1sZGc5SDdGRnJ1SU8wRXRHSHNOTEpSdVdxMTVaTlA4QlZpV0tWZkJBL1JiK2FjWmh1NEhSZjBNKzU3RDkrTjF4TjI4eGdYK3Z5alc1V1YxbzRVN2Z1ck5BR1cybXAvSi9DeC9XZmVKa2ZnSmlxZXZJRXFCNlZkNGVhdHBsUEpRdy9UZkczMXlWN1RtZmRQSXBYU3hOVFBtVjVQeExhTVJWdC9QMlBjYjZqZFVPak5FS1JTVEtMYTFNWkptVkVSdWV4NXZxMkhWeEZDOURCUHhTRXVlU1FXL1YxbVlRNHA2bU53TVNIaUlrZlJ2V3JKRnhqc2VLYk5KTi9UVkxYY2ZPQ0ZnbEM5cDFnYTZtMVBPRzFBaFY5WEM2OFpmd1k4RGhXS2RKYkE1eFlLVXBSWFN5K3UvaE9Ka2JBcjkyRHhuYnN0UzBOZFhwTVRHUiswb3ZPazc5VEF0dTdBV2hRUjVyakNJV3NnZ2lKM3AxV3RqWU50WFBtb0tVMnRxeE5jWS9udE53d1RtN1pHQk55Y3kzY0VTMjBZbjd1ZXRqVEFiT3RySWh1dEgxa09Qa3dTY09TZGZvNkxwSkxuSGtNdS8yTDVNZnFlRDZ1K0MzWVF4ano1Z3BycDVxUlJOMUxrMW10UFBpTUhkMGJhU3ZnbS9Xc2t4Z1V2bElxOVBseE5MY2FrajFBV1pXQkJKNmJ0YWRCc2RqTjAwaW5tRVVQaEFyQmdvUkZMOHlVdzRLY2U0bU1QOVh1V2poT012cU5mTU1obWYzRHRDMHNWajB0V3pEWWtYVGVicjgrRGdpd2NMUlpkWVpjZHYrUElGZ1lhdmZZZ01LcGgvSGpoS2RnOTZxSlQxQU1BK0NlbzRoaWQyb2RVNXM5eFFOWVlkdnNOdUJYMFR1dXdxMWcwOU9VL2gvWVFDRTI1VzdsNFNTbmRrZjhXUUcwWTRiY2dxOENjdXVsWkVrTjRlNXowbWZ0TDdrZmxiTXVjQVVuSWVaUSs2dW1RZmJVcDAzQ0E4ODRQaVVOZ1h3VDhvdVNzUmJSWTFSVjRtNEUzMEJDWnZKbEtDd0ZDM3BEWUdqaERWUy9HR2t3K3BtcEdjR0plK2tGLzdPcy9qVFNsMjg5YWpaOEpoTDQxRnNIVjE4NkRhWFFJMU1LYnpRTHFGQlJTSkZ4VGN1U2ZoMHlMVFJkZXNTQVF3eGoyUEdFeE1TZGo4R0lhWDA1dDluRENEeXU0R0JHQkN3MncwL3UySjh3ditZOXdrR2hua3ZIb09lVjRuT1lnMk1zQStIN2RxbmxmQm11U3pmd0h5VkN6K3ZON2RCcmQ0M1dtNzlVVFExcEFHbUd3aGV1YzhEVytuY3JMeWJsTEJXQ1k1Y1B0aVpSYTlFRlpCblU9In0%3D&from=searchresults",
+    "address": "Breil/Brigels",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Switzerland&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:02:19.455Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757242939455_6",
+    "name": "Radisson Hotel & Suites Zurich",
+    "price": 698,
+    "currency": "USD",
+    "rating": 8,
+    "stars": 8,
+    "reviewCount": 314,
+    "avgReview": "8.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/466176802.webp?k=e052b9f0d5164d727cc96e365d0816c3da5c22a1a0c847c9fd817cc673d91bd7&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ch/joyn-zurich.html?aid=304142&label=gen173nr-10CAQoggJCEnNlYXJjaF9zd2l0emVybGFuZEgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4ArbM9cUGwAIB0gIkY2ZmNTZmYzQtM2Y5Yi00MDA4LTgyYmEtMGI4MGY1Y2FmYzcz2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=4deb4d9b1d5e01ab&srepoch=1757242937&all_sr_blocks=674314008_275679699_2_2_0&highlighted_blocks=674314008_275679699_2_2_0&matching_block_id=674314008_275679699_2_2_0&sr_pri_blocks=674314008_275679699_2_2_0__55700&from=searchresults",
+    "address": "Opfikon",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Switzerland&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:02:19.455Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757242939455_7",
+    "name": "Hotel Hirschen Wildhaus",
+    "price": 786,
+    "currency": "USD",
+    "rating": 8.3,
+    "stars": 8,
+    "reviewCount": 337,
+    "avgReview": "8.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/443157871.webp?k=b94acbdb77a01199c0da7ac6546556891d1159b7d1eaa4578ab90fadc59cf809&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ch/hirschen-wildhaus.html?aid=304142&label=gen173nr-10CAQoggJCEnNlYXJjaF9zd2l0emVybGFuZEgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4ArbM9cUGwAIB0gIkY2ZmNTZmYzQtM2Y5Yi00MDA4LTgyYmEtMGI4MGY1Y2FmYzcz2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=4deb4d9b1d5e01ab&srepoch=1757242937&all_sr_blocks=24635017_414074990_2_1_0_1093508&highlighted_blocks=24635017_414074990_2_1_0_1093508&matching_block_id=24635017_414074990_2_1_0_1093508&sr_pri_blocks=24635017_414074990_2_1_0_1093508_62700&from=searchresults",
+    "address": "Wildhaus",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Switzerland&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:02:19.455Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757242939455_8",
+    "name": "Hotel Belvedere Locarno",
+    "price": 1,
+    "currency": "USD",
+    "rating": 9.1,
+    "stars": 9,
+    "reviewCount": 477,
+    "avgReview": "9.1/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/601975474.webp?k=191909be3bcba538efb51977fd78f90f68802cfc446b5ab81fac382b473a349b&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ch/belvedere-locarno-sa.html?aid=304142&label=gen173nr-10CAQoggJCEnNlYXJjaF9zd2l0emVybGFuZEgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4ArbM9cUGwAIB0gIkY2ZmNTZmYzQtM2Y5Yi00MDA4LTgyYmEtMGI4MGY1Y2FmYzcz2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=4deb4d9b1d5e01ab&srepoch=1757242937&all_sr_blocks=6555410_120524959_2_2_0_603219&highlighted_blocks=6555410_120524959_2_2_0_603219&matching_block_id=6555410_120524959_2_2_0_603219&sr_pri_blocks=6555410_120524959_2_2_0_603219_108900&from=searchresults",
+    "address": "Locarno",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Switzerland&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:02:19.455Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757242939455_9",
+    "name": "SCHLOSS Zermatt - CBD & Adaptogenic Spa and Sport Hotel",
+    "price": 1,
+    "currency": "USD",
+    "rating": 9.5,
+    "stars": 10,
+    "reviewCount": 293,
+    "avgReview": "9.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/587409485.webp?k=4d996e961a63db4e46d5f76268ced302874ba88664a8a2bf8d3eb9a46ae81a8f&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ch/schlosshouse.html?aid=304142&label=gen173nr-10CAQoggJCEnNlYXJjaF9zd2l0emVybGFuZEgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4ArbM9cUGwAIB0gIkY2ZmNTZmYzQtM2Y5Yi00MDA4LTgyYmEtMGI4MGY1Y2FmYzcz2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=4deb4d9b1d5e01ab&srepoch=1757242937&all_sr_blocks=616252424_240759007_2_1_0_1128630&highlighted_blocks=616252424_240759007_2_1_0_1128630&matching_block_id=616252424_240759007_2_1_0_1128630&sr_pri_blocks=616252424_240759007_2_1_0_1128630_88322&from=searchresults",
+    "address": "Zermatt",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Switzerland&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:02:19.455Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "hotel_1755808804229_0",
+    "name": "Hotel Russia",
+    "price": 112,
+    "currency": "USD",
+    "rating": 9.3,
+    "stars": 9,
+    "reviewCount": 203,
+    "avgReview": "9.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/44693498.webp?k=629e05773f163b73e56dcdfc75e81c3521b745e8c02fb093c042bff5fb920e9a&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/md/russia.html?aid=304142&label=gen173nr-10CAQoggJCDXNlYXJjaF9ydXNzaWFIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKfiJ7FBsACAdICJDRmYTI0YWMzLTYzOWMtNDQwNi1iZDgxLTBkMDU2Nzc0MGE0Y9gCAeACAQ&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=4f70914f33de0056&srepoch=1755808804&soh=1&from=searchresults#no_availability_msg",
+    "address": "Tiraspol",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=russia&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-21T20:40:04.229Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755808804229_1",
+    "name": "Квартира в городе Тирасполь в самом центре Балки, улица Юности",
+    "price": 58,
+    "currency": "USD",
+    "rating": 9.5,
+    "stars": 10,
+    "reviewCount": 653,
+    "avgReview": "9.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/683412316.webp?k=10382369c5c67d00a8532667062b5aa01eab5334269492428673392cbcb411e2&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/md/kvartira-na-balke.html?aid=304142&label=gen173nr-10CAQoggJCDXNlYXJjaF9ydXNzaWFIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKfiJ7FBsACAdICJDRmYTI0YWMzLTYzOWMtNDQwNi1iZDgxLTBkMDU2Nzc0MGE0Y9gCAeACAQ&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=4f70914f33de0056&srepoch=1755808804&all_sr_blocks=1415843001_413285472_2_0_0&highlighted_blocks=1415843001_413285472_2_0_0&matching_block_id=1415843001_413285472_2_0_0&sr_pri_blocks=1415843001_413285472_2_0_0__96900&from=searchresults",
+    "address": "Crăsnăşeni",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=russia&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-21T20:40:04.229Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755808804229_2",
+    "name": "Квартира в Тирасполе в самом центре Балки",
+    "price": 81,
+    "currency": "USD",
+    "rating": 4.326269407751583,
+    "stars": 4,
+    "reviewCount": 1003,
+    "avgReview": "4.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/684804977.webp?k=6a396354b826e272bfa002b2eb9e33f3d72c190fbba57703efd071e7e1ff1381&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/md/kvartira-na-balke-tiraspol.html?aid=304142&label=gen173nr-10CAQoggJCDXNlYXJjaF9ydXNzaWFIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKfiJ7FBsACAdICJDRmYTI0YWMzLTYzOWMtNDQwNi1iZDgxLTBkMDU2Nzc0MGE0Y9gCAeACAQ&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=4f70914f33de0056&srepoch=1755808804&all_sr_blocks=1417922001_413466826_2_0_0&highlighted_blocks=1417922001_413466826_2_0_0&matching_block_id=1417922001_413466826_2_0_0&sr_pri_blocks=1417922001_413466826_2_0_0__135000&from=searchresults",
+    "address": "Crăsnăşeni",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=russia&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-21T20:40:04.229Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755808804229_3",
+    "name": "Квартира в центре Балки, город Тирасполь",
+    "price": 81,
+    "currency": "USD",
+    "rating": 4.559219745608824,
+    "stars": 5,
+    "reviewCount": 815,
+    "avgReview": "4.6/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/686636278.webp?k=fb62be8b9cfb5ae3c590c3c2a331873c302d85cbc73d03ba0daf4c95a70e06de&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/md/kvartira-v-tsentre-balki.html?aid=304142&label=gen173nr-10CAQoggJCDXNlYXJjaF9ydXNzaWFIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKfiJ7FBsACAdICJDRmYTI0YWMzLTYzOWMtNDQwNi1iZDgxLTBkMDU2Nzc0MGE0Y9gCAeACAQ&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=4f70914f33de0056&srepoch=1755808804&all_sr_blocks=1420797401_413723288_2_0_0&highlighted_blocks=1420797401_413723288_2_0_0&matching_block_id=1420797401_413723288_2_0_0&sr_pri_blocks=1420797401_413723288_2_0_0__135000&from=searchresults",
+    "address": "Crăsnăşeni",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=russia&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-21T20:40:04.229Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

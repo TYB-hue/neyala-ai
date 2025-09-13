@@ -25,6 +25,7 @@ model User {
   hotelBookings    HotelBooking[]
   reviews          Review[]
   favoriteDestinations FavoriteDestination[]
+  savedAttractions SavedAttraction[]
 }
 
 model Trip {
@@ -63,7 +64,6 @@ model Hotel {
   amenities       String    // Stored as JSON string
   image           String?
   bookings        HotelBooking[]
-  reviews         Review[]
 }
 
 model HotelBooking {
@@ -82,12 +82,17 @@ model HotelBooking {
 model Review {
   id              String    @id @default(cuid())
   userId          String
-  hotelId         String
-  rating          Int
+  placeId         String    // SHA256 hash of place name + address
+  placeName       String    // Human-readable place name
+  placeType       String    // HOTEL, RESTAURANT, ATTRACTION, etc.
+  rating          Int       // 1-5 stars
   comment         String?
   user            User      @relation(fields: [userId], references: [id])
-  hotel           Hotel     @relation(fields: [hotelId], references: [id])
   createdAt       DateTime  @default(now())
+  updatedAt       DateTime  @updatedAt
+
+  @@unique([userId, placeId]) // One review per user per place
+  @@index([placeId]) // For efficient queries by place
 }
 
 model FavoriteDestination {
@@ -98,6 +103,32 @@ model FavoriteDestination {
   createdAt       DateTime  @default(now())
 
   @@unique([userId, destination])
+}
+
+model SavedAttraction {
+  id              String    @id @default(cuid())
+  userId          String
+  attractionId    String
+  user            User      @relation(fields: [userId], references: [id])
+  attraction      Attraction @relation(fields: [attractionId], references: [id])
+  createdAt       DateTime  @default(now())
+
+  @@unique([userId, attractionId])
+}
+
+model Attraction {
+  id              String    @id @default(cuid())
+  name            String
+  type            String    // HOTEL, RESTAURANT, ATTRACTION, PLACE
+  location        String
+  description     String?
+  image           String?
+  rating          Float?
+  priceRange      String?
+  category        String?
+  savedBy         SavedAttraction[]
+  createdAt       DateTime  @default(now())
+  updatedAt       DateTime  @updatedAt
 }
 
 enum TripStatus {

@@ -5,6 +5,7 @@ import { Header } from '@/components/Header';
 import { Footer } from '@/components/Footer';
 import './globals.css';
 import { Toaster } from 'react-hot-toast';
+import { AuthProvider } from '@/contexts/AuthContext';
 
 const inter = Inter({ subsets: ['latin'] });
 
@@ -18,7 +19,7 @@ function Loading() {
 }
 
 export const metadata = {
-  title: 'NEYALA.AI - Your AI Travel Companion',
+  title: 'Nyala - Your AI Travel Companion',
   description: 'Personalized travel itineraries powered by AI',
 };
 
@@ -31,18 +32,20 @@ export default function RootLayout({
     <ClerkProvider>
       <html lang="en">
         <body className={inter.className}>
-          <Suspense fallback={<Loading />}>
-            <div className="flex flex-col min-h-screen">
-              <Header />
-              <main className="flex-grow">
-                <Suspense fallback={<Loading />}>
-                  {children}
-                </Suspense>
-              </main>
-              <Footer />
-            </div>
-          </Suspense>
-          <Toaster />
+          <AuthProvider>
+            <Suspense fallback={<Loading />}>
+              <div className="flex flex-col min-h-screen">
+                <Header />
+                <main className="flex-grow">
+                  <Suspense fallback={<Loading />}>
+                    {children}
+                  </Suspense>
+                </main>
+                <Footer />
+              </div>
+            </Suspense>
+            <Toaster />
+          </AuthProvider>
         </body>
       </html>
     </ClerkProvider>

@@ -10,7 +10,7 @@ export interface UserProfile {
 
 export interface UserStats {
   tripsPlanned: number;
-  hotelsBooked: number;
+  collections: number;
   reviews: number;
   favoriteDestinations: string[];
 }
@@ -56,6 +56,21 @@ export interface Hotel {
   status: BookingStatus;
   priceRange: string;
   amenities: string[];
+}
+
+export interface HotelOffer {
+  id: string;
+  name: string;
+  rating: number;
+  price: number;
+  image?: string;
+  location?: {
+    lat: number;
+    lng: number;
+  };
+  bookingUrl?: string;
+  images?: string[];
+  address?: string;
 }
 
 export type TripStatus = 'PLANNED' | 'ONGOING' | 'COMPLETED' | 'CANCELLED';

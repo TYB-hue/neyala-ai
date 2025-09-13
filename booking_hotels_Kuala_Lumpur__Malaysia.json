@@ -1,0 +1,272 @@
+[
+  {
+    "id": "hotel_1757167616676_0",
+    "name": "My Residence Villa Mews KLCC",
+    "price": 187,
+    "currency": "USD",
+    "rating": 10,
+    "stars": 10,
+    "reviewCount": 289,
+    "avgReview": "10.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/738070137.webp?k=7532f94a05f1587dce61a506552b5f32b8e5be9177ce0d4e6579b40e840f4c27&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/my/my-residence-villa-mews-klcc.html?aid=304142&label=gen173nr-10CAQoggJCHXNlYXJjaF9rdWFsYSBsdW1wdXIsIG1hbGF5c2lhSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC-__wxQbAAgHSAiRmZGE5Y2EzZS1mYzE4LTRkYWItYWU2Yi1iYjlkN2NlNzFhODXYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-13&checkout=2025-09-16&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=bc62633d7a0101c9&srepoch=1757167615&all_sr_blocks=1483470501_420452935_0_0_0&highlighted_blocks=1483470501_420452935_0_0_0&matching_block_id=1483470501_420452935_0_0_0&sr_pri_blocks=1483470501_420452935_0_0_0__79092&from=searchresults",
+    "address": "Downtown Kuala Lumpur, Kuala Lumpur",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Kuala+Lumpur%2C+Malaysia&checkin=2025-09-13&checkout=2025-09-16&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-06T14:06:56.676Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757167616676_1",
+    "name": "Mandarin Oriental, Kuala Lumpur",
+    "price": 539,
+    "currency": "USD",
+    "rating": 9.1,
+    "stars": 9,
+    "reviewCount": 920,
+    "avgReview": "9.1/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/598529607.webp?k=255911d2ab77fb0d2dec8f163e172e5c2cf15f54f1348338d629f45aec9bccce&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/my/mandarin-oriental-kuala-lumpur.html?aid=304142&label=gen173nr-10CAQoggJCHXNlYXJjaF9rdWFsYSBsdW1wdXIsIG1hbGF5c2lhSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC-__wxQbAAgHSAiRmZGE5Y2EzZS1mYzE4LTRkYWItYWU2Yi1iYjlkN2NlNzFhODXYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-13&checkout=2025-09-16&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=bc62633d7a0101c9&srepoch=1757167615&all_sr_blocks=2577007_366379133_2_2_0_743245&highlighted_blocks=2577007_366379133_2_2_0_743245&matching_block_id=2577007_366379133_2_2_0_743245&sr_pri_blocks=2577007_366379133_2_2_0_743245_228045&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Downtown Kuala Lumpur, Kuala Lumpur",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Kuala+Lumpur%2C+Malaysia&checkin=2025-09-13&checkout=2025-09-16&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-06T14:06:56.676Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757167616676_2",
+    "name": "Novotel Kuala Lumpur City Centre",
+    "price": 247,
+    "currency": "USD",
+    "rating": 8.4,
+    "stars": 8,
+    "reviewCount": 123,
+    "avgReview": "8.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/628034893.webp?k=9a0e20818cca1c9eebae9ad8b38d896c7efe825764212d040d59e8ead2282294&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/my/novotel-kuala-lumpur-city-centre.html?aid=304142&label=gen173nr-10CAQoggJCHXNlYXJjaF9rdWFsYSBsdW1wdXIsIG1hbGF5c2lhSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC-__wxQbAAgHSAiRmZGE5Y2EzZS1mYzE4LTRkYWItYWU2Yi1iYjlkN2NlNzFhODXYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-13&checkout=2025-09-16&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=bc62633d7a0101c9&srepoch=1757167615&all_sr_blocks=2567211_95149365_2_2_0_1133049&highlighted_blocks=2567211_95149365_2_2_0_1133049&matching_block_id=2567211_95149365_2_2_0_1133049&sr_pri_blocks=2567211_95149365_2_2_0_1133049_104280&from=searchresults",
+    "address": "Downtown Kuala Lumpur, Kuala Lumpur",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Kuala+Lumpur%2C+Malaysia&checkin=2025-09-13&checkout=2025-09-16&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-06T14:06:56.676Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757167616676_3",
+    "name": "Scarletz KLCC Apartments by soulasia",
+    "price": 178,
+    "currency": "USD",
+    "rating": 9,
+    "stars": 9,
+    "reviewCount": 318,
+    "avgReview": "9.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/560358833.webp?k=4719af1cc5b9c696979c0ecfa7efa161cc3f7608b5b7b6d13bc7f0ac7715e52b&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/my/scarletz-klcc-apartments-by-soulasia.html?aid=304142&label=gen173nr-10CAQoggJCHXNlYXJjaF9rdWFsYSBsdW1wdXIsIG1hbGF5c2lhSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC-__wxQbAAgHSAiRmZGE5Y2EzZS1mYzE4LTRkYWItYWU2Yi1iYjlkN2NlNzFhODXYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-13&checkout=2025-09-16&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=bc62633d7a0101c9&srepoch=1757167615&all_sr_blocks=967304103_369231544_3_0_0_1167674&highlighted_blocks=967304103_369231544_3_0_0_1167674&matching_block_id=967304103_369231544_3_0_0_1167674&sr_pri_blocks=967304103_369231544_3_0_0_1167674_75188&from=searchresults",
+    "address": "Downtown Kuala Lumpur, Kuala Lumpur",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Kuala+Lumpur%2C+Malaysia&checkin=2025-09-13&checkout=2025-09-16&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-06T14:06:56.676Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757167616676_4",
+    "name": "Crowne Plaza Kuala Lumpur City Centre by IHG",
+    "price": 379,
+    "currency": "USD",
+    "rating": 9,
+    "stars": 9,
+    "reviewCount": 619,
+    "avgReview": "9.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/511643406.webp?k=8a43fdd17c2cc572b7b3249229d3317bdad6b1b4a7d8c1365e053f58c113558f&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/my/crowne-plaza-kuala-lumpur-city-centre-an-ihg.html?aid=304142&label=gen173nr-10CAQoggJCHXNlYXJjaF9rdWFsYSBsdW1wdXIsIG1hbGF5c2lhSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC-__wxQbAAgHSAiRmZGE5Y2EzZS1mYzE4LTRkYWItYWU2Yi1iYjlkN2NlNzFhODXYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-13&checkout=2025-09-16&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=bc62633d7a0101c9&srepoch=1757167615&all_sr_blocks=1079356104_380538604_2_42_0&highlighted_blocks=1079356104_380538604_2_42_0&matching_block_id=1079356104_380538604_2_42_0&sr_pri_blocks=1079356104_380538604_2_42_0__160400&from=searchresults",
+    "address": "Downtown Kuala Lumpur, Kuala Lumpur",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Kuala+Lumpur%2C+Malaysia&checkin=2025-09-13&checkout=2025-09-16&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-06T14:06:56.676Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757167616676_5",
+    "name": "Majestic Residence Kuala Lumpur by Cityscape",
+    "price": 128,
+    "currency": "USD",
+    "rating": 3.014460046325066,
+    "stars": 3,
+    "reviewCount": 220,
+    "avgReview": "3.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/740261926.webp?k=5f1e4c01f35456c3cf11552c6e6ae1030c62151f86040c9ac82bd7e336ba35db&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/my/majestic-residence-kuala-lumpur-by-cityscape.html?aid=304142&label=gen173nr-10CAQoggJCHXNlYXJjaF9rdWFsYSBsdW1wdXIsIG1hbGF5c2lhSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC-__wxQbAAgHSAiRmZGE5Y2EzZS1mYzE4LTRkYWItYWU2Yi1iYjlkN2NlNzFhODXYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-13&checkout=2025-09-16&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=bc62633d7a0101c9&srepoch=1757167615&all_sr_blocks=1480765003_419534162_2_0_0_1187024&highlighted_blocks=1480765003_419534162_2_0_0_1187024&matching_block_id=1480765003_419534162_2_0_0_1187024&sr_pri_blocks=1480765003_419534162_2_0_0_1187024_54000&from=searchresults",
+    "address": "Chow Kit, Kuala Lumpur",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Kuala+Lumpur%2C+Malaysia&checkin=2025-09-13&checkout=2025-09-16&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-06T14:06:56.676Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757167616676_6",
+    "name": "Scarletz KLCC luxury suites by GC-Suites",
+    "price": 118,
+    "currency": "USD",
+    "rating": 7.9,
+    "stars": 8,
+    "reviewCount": 753,
+    "avgReview": "7.9/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/546810087.webp?k=9ecea2460b84f93bfb9ff5382468c8e7a7a43fc976afcab9a0c8c4fec4db8ca6&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/my/scarletz-luxury-suites-by-gc-suites.html?aid=304142&label=gen173nr-10CAQoggJCHXNlYXJjaF9rdWFsYSBsdW1wdXIsIG1hbGF5c2lhSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC-__wxQbAAgHSAiRmZGE5Y2EzZS1mYzE4LTRkYWItYWU2Yi1iYjlkN2NlNzFhODXYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-13&checkout=2025-09-16&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=bc62633d7a0101c9&srepoch=1757167615&all_sr_blocks=1189487902_391441707_2_0_0&highlighted_blocks=1189487902_391441707_2_0_0&matching_block_id=1189487902_391441707_2_0_0&sr_pri_blocks=1189487902_391441707_2_0_0__50000&from=searchresults",
+    "address": "Downtown Kuala Lumpur, Kuala Lumpur",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Kuala+Lumpur%2C+Malaysia&checkin=2025-09-13&checkout=2025-09-16&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-06T14:06:56.676Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757167616676_7",
+    "name": "The Kuala Lumpur Journal Hotel",
+    "price": 295,
+    "currency": "USD",
+    "rating": 8.8,
+    "stars": 9,
+    "reviewCount": 850,
+    "avgReview": "8.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/602873051.webp?k=76aa914ca544a92a8717000ea9e89e6636fb438882b8bed8baa781bf04ae7eee&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/my/the-kuala-lumpur-journal.html?aid=304142&label=gen173nr-10CAQoggJCHXNlYXJjaF9rdWFsYSBsdW1wdXIsIG1hbGF5c2lhSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC-__wxQbAAgHSAiRmZGE5Y2EzZS1mYzE4LTRkYWItYWU2Yi1iYjlkN2NlNzFhODXYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-13&checkout=2025-09-16&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=bc62633d7a0101c9&srepoch=1757167615&all_sr_blocks=158434601_88635943_0_2_0&highlighted_blocks=158434601_88635943_0_2_0&matching_block_id=158434601_88635943_0_2_0&sr_pri_blocks=158434601_88635943_0_2_0__124740&from=searchresults",
+    "address": "Bukit Bintang, Kuala Lumpur (Bukit Bintang)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Kuala+Lumpur%2C+Malaysia&checkin=2025-09-13&checkout=2025-09-16&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-06T14:06:56.676Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757167616676_8",
+    "name": "Sheraton Imperial Kuala Lumpur Hotel",
+    "price": 293,
+    "currency": "USD",
+    "rating": 8.2,
+    "stars": 8,
+    "reviewCount": 134,
+    "avgReview": "8.2/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/573744748.webp?k=d31d526de1074a9234a91e19364441c871cb317bf5268c0fb434e3c159d8a08e&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/my/sheraton-imperial-kuala-lumpur.html?aid=304142&label=gen173nr-10CAQoggJCHXNlYXJjaF9rdWFsYSBsdW1wdXIsIG1hbGF5c2lhSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC-__wxQbAAgHSAiRmZGE5Y2EzZS1mYzE4LTRkYWItYWU2Yi1iYjlkN2NlNzFhODXYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-13&checkout=2025-09-16&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=bc62633d7a0101c9&srepoch=1757167615&all_sr_blocks=25024330_274564755_2_42_0&highlighted_blocks=25024330_274564755_2_42_0&matching_block_id=25024330_274564755_2_42_0&sr_pri_blocks=25024330_274564755_2_42_0__124000&from=searchresults",
+    "address": "Kuala Lumpur",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Kuala+Lumpur%2C+Malaysia&checkin=2025-09-13&checkout=2025-09-16&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-06T14:06:56.676Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757167616676_9",
+    "name": "Holiday Inn Express Kuala Lumpur City Centre by IHG",
+    "price": 193,
+    "currency": "USD",
+    "rating": 8.1,
+    "stars": 8,
+    "reviewCount": 569,
+    "avgReview": "8.1/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/502802020.webp?k=8f2a263705e973bc20d89f7c9bc1505e952d9c63c2608086734239c6c323ae99&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/my/holiday-inn-express-kuala-lumpur-city-centre.html?aid=304142&label=gen173nr-10CAQoggJCHXNlYXJjaF9rdWFsYSBsdW1wdXIsIG1hbGF5c2lhSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC-__wxQbAAgHSAiRmZGE5Y2EzZS1mYzE4LTRkYWItYWU2Yi1iYjlkN2NlNzFhODXYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-13&checkout=2025-09-16&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=bc62633d7a0101c9&srepoch=1757167615&all_sr_blocks=172645403_94617919_2_9_0_712821&highlighted_blocks=172645403_94617919_2_9_0_712821&matching_block_id=172645403_94617919_2_9_0_712821&sr_pri_blocks=172645403_94617919_2_9_0_712821_81500&from=searchresults",
+    "address": "Downtown Kuala Lumpur, Kuala Lumpur",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Kuala+Lumpur%2C+Malaysia&checkin=2025-09-13&checkout=2025-09-16&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-06T14:06:56.676Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

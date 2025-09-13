@@ -1,0 +1,272 @@
+[
+  {
+    "id": "hotel_1756543215948_0",
+    "name": "Aman Retreat Ninh Binh",
+    "price": 223,
+    "currency": "USD",
+    "rating": 10,
+    "stars": 10,
+    "reviewCount": 814,
+    "avgReview": "10.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/735728660.webp?k=e69d035e09d38b21506d8b207d8d6261206f383becd16ae0fe59ccc577eed81f&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/vn/aman-retreat-ninh-binh.html?aid=304142&label=gen173nr-10CAQoggJCDnNlYXJjaF92aXRlbmFtSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC6vHKxQbAAgHSAiQzZGUzMjZhZS03YmE1LTQwMjktOTIxYi0wYmY5NTY2MmNjODnYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-06&checkout=2025-09-09&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=b7053cf555c30581&srepoch=1756543214&all_sr_blocks=1475827001_419001997_2_1_0&highlighted_blocks=1475827001_419001997_2_1_0&matching_block_id=1475827001_419001997_2_1_0&sr_pri_blocks=1475827001_419001997_2_1_0__588002200&from=searchresults",
+    "address": "Ninh Binh",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=vitenam&checkin=2025-09-06&checkout=2025-09-09&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-30T08:40:15.948Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756543215949_1",
+    "name": "Tru by Hilton Viet Tri City Centre",
+    "price": 119,
+    "currency": "USD",
+    "rating": 8,
+    "stars": 8,
+    "reviewCount": 649,
+    "avgReview": "8.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/733569117.webp?k=54b1f6fcfd966e403bcec8aea3cceb664844fad6d18d71713f6e7e617e1b492a&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/vn/sojo-viet-tri.html?aid=304142&label=gen173nr-10CAQoggJCDnNlYXJjaF92aXRlbmFtSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC6vHKxQbAAgHSAiQzZGUzMjZhZS03YmE1LTQwMjktOTIxYi0wYmY5NTY2MmNjODnYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-06&checkout=2025-09-09&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=b7053cf555c30581&srepoch=1756543214&all_sr_blocks=797825804_414629227_2_1_0&highlighted_blocks=797825804_414629227_2_1_0&matching_block_id=797825804_414629227_2_1_0&sr_pri_blocks=797825804_414629227_2_1_0__313956000&nad_id=130b27c2-6cc7-46e6-b89e-b97919b2a83c_1&nad_cpc=0.92&nad_track=eyJhdWN0aW9uRXBvY2giOjE3NTY1NDMyMTE3MDUsInJhbmsiOjEsImtvZGRpVHJhY2tpbmdJbmZvIjoiN2kyT2c5bUJ2SVEzRWQrd1ZaMm94MUR3U1RsQ3B4WTRvczVQbHROMTM4SVlobHhkSS9ZOGdJV2hPYnV6TS9XVHlFTm9nUHU4c2IrYjVtdnFMc2hOa2FaUEgwMG9HMC9GS1JreTA4SVlKYVpTc0lYUUxhcm0zc1puT1BXL3I0ZDRqN2taUHltME9pV1BzbzQwdHNGVmxWNTB3cXdjQytDWnNrTGtvZkNrNzA1VVlHUTVKbzNobCtzTDd1SElUZ1VGSHBQd3BMVWNoUmhuN1NwK0pKell1R3cycVREbnVtSDV4QkJiWVpydVJ1ZEJDMkh1V1UzOUVpc2c5cE9xM0FZa2lIVm0zUFpPMlplZTFCaGR4ZlNFenR0ZlBucklwbEp1RE95clFBMWJvcmtvMGYzdHg0VG5qNG4rRU1la3Q2dkNUblByT0RiWlZYZjRFSmtUTEdTUVhFS0VsK24veVF2SmRsU1dma2p1UGRHcGtIaGhpNWZSRUVwZDBPMGpKU0ZPQ1BoNGJ4dnJ3NnZUcThVT01CYUVCWlJXZldSTkxMWFIvTWxMM2xuRVVKZzE5SGw1UFAweStsWGZidmF2dmhkQUp4eFN2MHZyMGp0bDZWak9HL2F6b0NXTkRycmNFZFY1TS9ub2xkR1BURGRjTExSWHRkR1BNOVBkTDVVQVE5ZTl2RTVYSFNCZzRrV3JodDMwUkU2NS9ickF1YVhBOC80ZVp0TkRpWldJRGhNT1JLcTBPT2pQQVA2dTd6UTBaeHk2YmNOMVlMbmZQWGFwN3EzL1ppWlE4Tm9VbitNTFc3QTBVbDBvalhvc2FxV2habUpRS0NwM3FIN0pIRlpDdFlOa0FBc1Y2MWlLUXNqUm1mRUZYaEpYQUp3aVRGV0RCUmlSWGdBRU9zVTE3MmRuVE12aDVLQUV4azI3Z0ZWUTZ2aFJURThiMis0K0dCU0hTK0o2K3JOVGZkdUxwT0J1cDVGV0hyMWhIVWhEWE43Tk12dWYxaytPM2M3UEdNOFBJMjZXRUdpa3h5cEJHS3dXYWU1ZlZEZ0s0VkU5azNUSjJsYkQxdndCcGxyUUdqcnhQSVhmZzZyZFJxczlTSXVDUTZkVVhFMXd1VmtPWmNkNWYyWmJGRXA1bVUvZ2JHUG5SbEcvcFNzblE0Y1FOUzBHT1Fvb3ZxaGdJQlUwbm5VQ1cwd0RmcGFwYy9mcjhEZDJlV0VGZ3FFMFVQVTBXbWlYRVMwQTJPdFRwejR0N2pydFFua09DVG1mRDlUdEd0REJpbmk5S0VSMmkxMU1uVG95R0ZLK3dXOHJpU3JoRG5ZSXdGbitwRG1MN2N2T3pRQkZLVmJWTmc0K1Q2VDF3d1FVRFkyaVVpeVFuWDlSUVBtcGJ3VHhvLzhLZFZlL0tESmdnYmU1aVdSdDIxajRwMkdkaytiZis2Wk4zTFdvYk94UUFyc205eWRwYWZ1Tm9LZElyU2dac25FWkNUUjJ6dmR4RFFDQ3drMytyUDhGNWdLRkY2Y0J3aXJGbUlMSCtRRG95REh0L1VhSXZ5TCtoMU1SWGx4Ui80N1lEQmtyNE9acmFLdXZKZHNGR24wVGY3cGJnNjV3bVNoV3RrQktsbTJNNkJjOG43UWxXL1BGTThVZzc0bDFxMXZSS05UMWNtRFFkT3Nsc0hVQVRqZjVGWWhjTEw4RVRCclZxTXYrRmNMbFpKV0lqQy81OTN4VkJwWGhYOVVLaEFaTUwzNzRJeUxheU5yQjdDOTY3aVV6dVlzaE1NVGg0S0krQTFGZkhubXVucVp3TkJwQjBqOTdGRHlxNmRhd2txRGdzNWpaN3FLQWZJeEZHWTlINGpDUEl0ZlhJVVh6VjlWZmlCVUZyTWNZL1E1ZDl1ellpVGFpcHROaFlLU25meFZQazZieWJSMWpHQmtBNTdDOWZJbDBVM0daNDRiS0p5bmRSejdwNDJFSFN1c08raXRTREJMTEZ4ajhvSjNkWW80NDFPeGhMcU0vUlFhd3BQVjcrQjJnNDg4ZXlNR3JHenpFVW9PKzRMeHorRjY0Z0ljZ1lyMUh4OWd5bjhob0RKQmZzQ3UwekRKQ3N2ODhzamdGQUsvcWJVSFFNaVVnZzYvRmp3eTM0MmhMRlM0czVmcmEyTGtOQTF1UGgzM1gzZzY5aUZjenVPT21SN0VoaGlObkpUa3BPRFVsWTRiNUZNNHRlaGluVEFkMFBHb0xzSDRXSkZPWHlndXNMczBrK2RVZXh3N2hSRjlaTUdqY1Nxc0RjRC9lbktnSm1nNW5SdlZvTWxQbnBVWjlsRnZ3UllzNXdMOHJ5L1Q5VjRYU1dpQzJxRnI5WE94eWU0SGhoYTA3RHVRa0JCVmZLUGpBQnowczROMTNwR1lnN2tNdWNNNkFIdFo0eSsyNVpTWnhNeE9QSm9tNFNqbmNFTUVPb2JIekVTVXdKcFlyM3VNUDhaekN3eEhUOWg1bysyWnVpZlhQVk1qc0QrbXkxcE5sS2kzNXRwR056OTZseG9YWnhCU0hkaWFTT0ZRV0w2S0ZoWW4ya0lTNldpZmZNSG5mZDkwZHY2Z2lHUXF2M0JEUTlTQ3Jsa0NaNG9kdDk5WHNad3M4cGc2cGErZ2FCeXBTMGtCWDhzb0R6enJUd2xVeXF4Zm83UmJiOUdsL2lwckExMGtXWHpSMHY1Rnc5b1dGZGNleElkVEhkMnZpZk8rOXg3TnQzRVlrU2lySStIUkZFYjBRaDZDbHRFYklKMXU5RDgzU2NucHRzM3lPZi80WW9DL3RuUE5TMWRDc2t1WmZJZmhoSmRBQldOZHJJdFY1ODI3dnRidTJ4TXFIQTMyeFYrbThEWjhhRTNWMlNvTzJWVFRtL3VoZWhxYmtqYk1tYzRieGtqZjBIczVTQmlnOURsQ2NXMEZnNjUzTm5zelQ2eWtxcWNDNXVvd0dJZWdMa0J6ZTVmVUJGZDgzYW5oSUNOTWZqeFU1QWI0YUsrdHNnbU11QzBjbStsV2FCYWtGeXNUQkwvc05LNi8ra2Q0R0cyK3RpUzk2QUc3cGNQeWtBZkFaamZudC9NUk1lb0tHbDFIMnViUWNsekZCWEEva1hyN0pobysvbUtpM1E1NS8zNEJaZXJoMjJ6Q0MxeUc3WW9sVVNRSWhSQ3pTZzlrVkd2U3dYNlptZEJaeUs3V3ZyMG9ST0dDWndoNUMrSGpjM2tPVHpCeFhxcjBHaGZoVEJZcGR0cUlDazlRM0FSek5MYWlQVEo5NkF6Y2ZYTk41RGpaZ1M5NFoyZ0MwTUYvV0hvcEZpZGtLRDVDWEtIdHFZMUI5U0ZadjRmVFJGdllUQnVrc0F2NnYyVW4ybFlsa0hreEt4THQ1Q1JhT2pFTWFNZEhXL0NQTlZwVWZZOUQrb0laRm1IZDA2UC9TTDhYZGpFb0RuUHpENzFZY2RRTHdmU3E4MGlYS1pLUWJQaXdEVkQzbFhTT3FjelEwMDRXcXlYNWRaTjgwR1A3UUZrVHEifQ%3D%3D&from=searchresults",
+    "address": "Việt Trì",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=vitenam&checkin=2025-09-06&checkout=2025-09-09&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-30T08:40:15.949Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756543215949_2",
+    "name": "GRAND HOTEL du LAC Boutique Saigon",
+    "price": 415,
+    "currency": "USD",
+    "rating": 9.5,
+    "stars": 10,
+    "reviewCount": 462,
+    "avgReview": "9.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/709222466.webp?k=29f3740da3ea00054d6f90a1385a68da01b23daa9c5fc7cf152961b517e2d92d&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/vn/grand-du-lac-boutique-saigon-quan-11.html?aid=304142&label=gen173nr-10CAQoggJCDnNlYXJjaF92aXRlbmFtSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC6vHKxQbAAgHSAiQzZGUzMjZhZS03YmE1LTQwMjktOTIxYi0wYmY5NTY2MmNjODnYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-06&checkout=2025-09-09&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=b7053cf555c30581&srepoch=1756543214&all_sr_blocks=1398635901_0_2_1_0&highlighted_blocks=1398635901_0_2_1_0&matching_block_id=1398635901_0_2_1_0&sr_pri_blocks=1398635901_0_2_1_0__1093749974&from=searchresults",
+    "address": "District 1, Ho Chi Minh City (Le Thanh Ton)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=vitenam&checkin=2025-09-06&checkout=2025-09-09&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-30T08:40:15.949Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756543215949_3",
+    "name": "Midori Preminum Cruise in Ha Long Bay",
+    "price": 674,
+    "currency": "USD",
+    "rating": 9.8,
+    "stars": 10,
+    "reviewCount": 816,
+    "avgReview": "9.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/713068921.webp?k=b0c916031099f5186fcbd3703c0c0c6fba2d19fbf55e3936129d0d9d7442c807&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/vn/midori-preminum-cruise-in-ha-long-bay.html?aid=304142&label=gen173nr-10CAQoggJCDnNlYXJjaF92aXRlbmFtSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC6vHKxQbAAgHSAiQzZGUzMjZhZS03YmE1LTQwMjktOTIxYi0wYmY5NTY2MmNjODnYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-06&checkout=2025-09-09&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=b7053cf555c30581&srepoch=1756543214&all_sr_blocks=1456572401_416953952_2_41_0&highlighted_blocks=1456572401_416953952_2_41_0&matching_block_id=1456572401_416953952_2_41_0&sr_pri_blocks=1456572401_416953952_2_41_0__1776600000&from=searchresults",
+    "address": "Ha Long",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=vitenam&checkin=2025-09-06&checkout=2025-09-09&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-30T08:40:15.949Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756543215949_4",
+    "name": "Ninh Binh Kong's Homestay",
+    "price": 92,
+    "currency": "USD",
+    "rating": 9.6,
+    "stars": 10,
+    "reviewCount": 94,
+    "avgReview": "9.6/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/481481686.webp?k=a9fe3b35cefbfb8835d40d7fd4478b31ee66a7c417b7e580bae21836f17a0f5c&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/vn/kongs-homestay.html?aid=304142&label=gen173nr-10CAQoggJCDnNlYXJjaF92aXRlbmFtSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC6vHKxQbAAgHSAiQzZGUzMjZhZS03YmE1LTQwMjktOTIxYi0wYmY5NTY2MmNjODnYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-06&checkout=2025-09-09&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=b7053cf555c30581&srepoch=1756543214&all_sr_blocks=975154105_388865393_0_1_0&highlighted_blocks=975154105_388865393_0_1_0&matching_block_id=975154105_388865393_0_1_0&sr_pri_blocks=975154105_388865393_0_1_0__243000000&from=searchresults",
+    "address": "Nguyên Ngoại",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=vitenam&checkin=2025-09-06&checkout=2025-09-09&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-30T08:40:15.949Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756543215949_5",
+    "name": "Hoàng Gia Hotel",
+    "price": 26,
+    "currency": "USD",
+    "rating": 9,
+    "stars": 9,
+    "reviewCount": 823,
+    "avgReview": "9.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/647961195.webp?k=808d35e89bb24190b9e1bde8e3e194ddd35e2f6508c2d34ce54e56248307c5c8&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/vn/hoang-gia-hoai-nhon.html?aid=304142&label=gen173nr-10CAQoggJCDnNlYXJjaF92aXRlbmFtSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC6vHKxQbAAgHSAiQzZGUzMjZhZS03YmE1LTQwMjktOTIxYi0wYmY5NTY2MmNjODnYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-06&checkout=2025-09-09&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=b7053cf555c30581&srepoch=1756543214&all_sr_blocks=1361082805_418844625_2_0_0_871633&highlighted_blocks=1361082805_418844625_2_0_0_871633&matching_block_id=1361082805_418844625_2_0_0_871633&sr_pri_blocks=1361082805_418844625_2_0_0_871633_67500000&from=searchresults",
+    "address": "Cong Thanh (3)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=vitenam&checkin=2025-09-06&checkout=2025-09-09&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-30T08:40:15.949Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756543215949_6",
+    "name": "Alagon City Hotel & Spa",
+    "price": 283,
+    "currency": "USD",
+    "rating": 8.1,
+    "stars": 8,
+    "reviewCount": 670,
+    "avgReview": "8.1/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/405420769.webp?k=9c6d15f6947df476987e5c0f5af03da6d00f105a9d2180896b08677abde714ad&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/vn/alagon-city-hotel-and-spa.html?aid=304142&label=gen173nr-10CAQoggJCDnNlYXJjaF92aXRlbmFtSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC6vHKxQbAAgHSAiQzZGUzMjZhZS03YmE1LTQwMjktOTIxYi0wYmY5NTY2MmNjODnYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-06&checkout=2025-09-09&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=b7053cf555c30581&srepoch=1756543214&all_sr_blocks=25891504_0_2_1_0&highlighted_blocks=25891504_0_2_1_0&matching_block_id=25891504_0_2_1_0&sr_pri_blocks=25891504_0_2_1_0__744902796&from=searchresults",
+    "address": "District 1, Ho Chi Minh City",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=vitenam&checkin=2025-09-06&checkout=2025-09-09&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-30T08:40:15.949Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756543215949_7",
+    "name": "Asia Tropical Resort and Spa",
+    "price": 191,
+    "currency": "USD",
+    "rating": 10,
+    "stars": 10,
+    "reviewCount": 643,
+    "avgReview": "10.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/729980449.webp?k=cf4634cec98d0b912c53b7dd1b17761d294d096b13c1f89c4b6ba645b598dbe3&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/vn/asia-tropical-resort.html?aid=304142&label=gen173nr-10CAQoggJCDnNlYXJjaF92aXRlbmFtSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC6vHKxQbAAgHSAiQzZGUzMjZhZS03YmE1LTQwMjktOTIxYi0wYmY5NTY2MmNjODnYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-06&checkout=2025-09-09&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=b7053cf555c30581&srepoch=1756543214&all_sr_blocks=1383457903_410412859_2_41_0&highlighted_blocks=1383457903_410412859_2_41_0&matching_block_id=1383457903_410412859_2_41_0&sr_pri_blocks=1383457903_410412859_2_41_0__504000000&from=searchresults",
+    "address": "Làng Coc",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=vitenam&checkin=2025-09-06&checkout=2025-09-09&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-30T08:40:15.949Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756543215949_8",
+    "name": "Lá Homestay",
+    "price": 60,
+    "currency": "USD",
+    "rating": 8.8,
+    "stars": 9,
+    "reviewCount": 350,
+    "avgReview": "8.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/291269310.webp?k=36c7d9370fde87d4e56284a8b318d87b4688431e14acf385a65fe1b2d40d27ef&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/vn/la-homestay-long-xuyen-tinh-an-giang.html?aid=304142&label=gen173nr-10CAQoggJCDnNlYXJjaF92aXRlbmFtSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC6vHKxQbAAgHSAiQzZGUzMjZhZS03YmE1LTQwMjktOTIxYi0wYmY5NTY2MmNjODnYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-06&checkout=2025-09-09&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=b7053cf555c30581&srepoch=1756543214&all_sr_blocks=712175401_414241842_2_0_0_687038&highlighted_blocks=712175401_414241842_2_0_0_687038&matching_block_id=712175401_414241842_2_0_0_687038&sr_pri_blocks=712175401_414241842_2_0_0_687038_156750000&from=searchresults",
+    "address": "Mỹ Phước",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=vitenam&checkin=2025-09-06&checkout=2025-09-09&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-30T08:40:15.949Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756543215949_9",
+    "name": "Khuổi Hân Ecolodge, Cao Bằng",
+    "price": 59,
+    "currency": "USD",
+    "rating": 8.5,
+    "stars": 9,
+    "reviewCount": 606,
+    "avgReview": "8.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/615514574.webp?k=25218e4bae27bc58fd43c63e888b526b7b069537d0da88e357537131d26e5464&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/vn/khuoi-han-ecolodge-cao-bang.html?aid=304142&label=gen173nr-10CAQoggJCDnNlYXJjaF92aXRlbmFtSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC6vHKxQbAAgHSAiQzZGUzMjZhZS03YmE1LTQwMjktOTIxYi0wYmY5NTY2MmNjODnYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-06&checkout=2025-09-09&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=b7053cf555c30581&srepoch=1756543214&all_sr_blocks=1305567406_0_2_1_0&highlighted_blocks=1305567406_0_2_1_0&matching_block_id=1305567406_0_2_1_0&sr_pri_blocks=1305567406_0_2_1_0__155587633&from=searchresults",
+    "address": "Cao Bằng",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=vitenam&checkin=2025-09-06&checkout=2025-09-09&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-30T08:40:15.949Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

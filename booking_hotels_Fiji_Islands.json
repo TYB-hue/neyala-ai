@@ -1,0 +1,272 @@
+[
+  {
+    "id": "hotel_1755803962551_0",
+    "name": "Koro Sun Resort & Rainforest Spa",
+    "price": 545,
+    "currency": "USD",
+    "rating": 7.4,
+    "stars": 7,
+    "reviewCount": 458,
+    "avgReview": "7.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/111688421.webp?k=67b8ff1f159270cafce0c0ba7d156075b9ee83782c46f27164c8acad0d9c945c&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/fj/koro-sun-resort-rainforest-spa.html?aid=304142&label=gen173nr-10CAQoggJCE3NlYXJjaF9maWppIGlzbGFuZHNIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAK14p3FBsACAdICJDc0MzgyMzNhLWMyMTItNDY4MC1hODBiLThlZjI5MzUwODQ5NdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=ec8187da2d0c08cf&srepoch=1755803960&all_sr_blocks=30649515_91920270_0_1_0&highlighted_blocks=30649515_91920270_0_1_0&matching_block_id=30649515_91920270_0_1_0&sr_pri_blocks=30649515_91920270_0_1_0__124488&from=searchresults",
+    "address": "Savusavu",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Fiji+Islands&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-21T19:19:22.551Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755803962551_1",
+    "name": "Mantaray Island Resort",
+    "price": 1,
+    "currency": "USD",
+    "rating": 8.3,
+    "stars": 8,
+    "reviewCount": 493,
+    "avgReview": "8.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/695095902.webp?k=6688f9db9b7b4419e700f5ee573a15f1fe517f243fe215eeb7e98a347dbc7f83&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/fj/mantaray-island-resort.html?aid=304142&label=gen173nr-10CAQoggJCE3NlYXJjaF9maWppIGlzbGFuZHNIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAK14p3FBsACAdICJDc0MzgyMzNhLWMyMTItNDY4MC1hODBiLThlZjI5MzUwODQ5NdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=ec8187da2d0c08cf&srepoch=1755803960&all_sr_blocks=24338404_394273543_0_0_0&highlighted_blocks=24338404_394273543_0_0_0&matching_block_id=24338404_394273543_0_0_0&sr_pri_blocks=24338404_394273543_0_0_0__244500&from=searchresults",
+    "address": "Nanuya Balavu Island",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Fiji+Islands&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-21T19:19:22.551Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755803962551_2",
+    "name": "Oarsman's Bay Lodge",
+    "price": 920,
+    "currency": "USD",
+    "rating": 9.3,
+    "stars": 9,
+    "reviewCount": 214,
+    "avgReview": "9.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/228532600.webp?k=83fba08e0cc06aabf432ae0682049edec46fdae2d55be722fce7fc12d211967e&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/fj/oarsmans-bay-lodge.html?aid=304142&label=gen173nr-10CAQoggJCE3NlYXJjaF9maWppIGlzbGFuZHNIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAK14p3FBsACAdICJDc0MzgyMzNhLWMyMTItNDY4MC1hODBiLThlZjI5MzUwODQ5NdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=ec8187da2d0c08cf&srepoch=1755803960&all_sr_blocks=193586802_373320017_2_42_0&highlighted_blocks=193586802_373320017_2_42_0&matching_block_id=193586802_373320017_2_42_0&sr_pri_blocks=193586802_373320017_2_42_0__210000&from=searchresults",
+    "address": "Nacula Island",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Fiji+Islands&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-21T19:19:22.551Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755803962551_3",
+    "name": "Paradise Cove Resort",
+    "price": 1,
+    "currency": "USD",
+    "rating": 9.3,
+    "stars": 9,
+    "reviewCount": 68,
+    "avgReview": "9.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/253178617.webp?k=a2c12749180b137f893f7846afc348fed3daf932187fe278ef4b002981da8082&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/fj/paradise-cove-resort.html?aid=304142&label=gen173nr-10CAQoggJCE3NlYXJjaF9maWppIGlzbGFuZHNIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAK14p3FBsACAdICJDc0MzgyMzNhLWMyMTItNDY4MC1hODBiLThlZjI5MzUwODQ5NdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=ec8187da2d0c08cf&srepoch=1755803960&all_sr_blocks=48026807_362199231_2_0_0&highlighted_blocks=48026807_362199231_2_0_0&matching_block_id=48026807_362199231_2_0_0&sr_pri_blocks=48026807_362199231_2_0_0__287490&from=searchresults",
+    "address": "Naukacuvu Island",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Fiji+Islands&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-21T19:19:22.551Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755803962551_4",
+    "name": "Matamanoa Island Resort",
+    "price": 834,
+    "currency": "USD",
+    "rating": 8.4,
+    "stars": 8,
+    "reviewCount": 613,
+    "avgReview": "8.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/253975844.webp?k=a0de40d8df0413b8b9cddc820fbf059d810a9f885eef28809395d7d1863f3a64&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/fj/matamanoa-island-resort.html?aid=304142&label=gen173nr-10CAQoggJCE3NlYXJjaF9maWppIGlzbGFuZHNIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAK14p3FBsACAdICJDc0MzgyMzNhLWMyMTItNDY4MC1hODBiLThlZjI5MzUwODQ5NdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=ec8187da2d0c08cf&srepoch=1755803960&all_sr_blocks=40321301_339532678_0_1_0&highlighted_blocks=40321301_339532678_0_1_0&matching_block_id=40321301_339532678_0_1_0&sr_pri_blocks=40321301_339532678_0_1_0__190434&from=searchresults",
+    "address": "Matamanoa Island",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Fiji+Islands&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-21T19:19:22.551Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755803962551_5",
+    "name": "Serenity Island Resort",
+    "price": 873,
+    "currency": "USD",
+    "rating": 7.9,
+    "stars": 8,
+    "reviewCount": 464,
+    "avgReview": "7.9/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/372810038.webp?k=c9b87257ab71fc24c5ac37fff61404d2b6766da6aa4064122298fb7857dde925&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/fj/bounty-island-resort.html?aid=304142&label=gen173nr-10CAQoggJCE3NlYXJjaF9maWppIGlzbGFuZHNIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAK14p3FBsACAdICJDc0MzgyMzNhLWMyMTItNDY4MC1hODBiLThlZjI5MzUwODQ5NdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=ec8187da2d0c08cf&srepoch=1755803960&all_sr_blocks=69654802_335468321_0_41_0_556707&highlighted_blocks=69654802_335468321_0_41_0_556707&matching_block_id=69654802_335468321_0_41_0_556707&sr_pri_blocks=69654802_335468321_0_41_0_556707_199260&from=searchresults",
+    "address": "Mamanuca Islands",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Fiji+Islands&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-21T19:19:22.551Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755803962551_6",
+    "name": "Six Senses Fiji",
+    "price": 10,
+    "currency": "USD",
+    "rating": 9,
+    "stars": 9,
+    "reviewCount": 942,
+    "avgReview": "9.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/146877969.webp?k=03e3017a09b279468a7a33d246448fa1db4d10c0ea18f9c0d914163fa6f95d50&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/fj/six-senses-fiji.html?aid=304142&label=gen173nr-10CAQoggJCE3NlYXJjaF9maWppIGlzbGFuZHNIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAK14p3FBsACAdICJDc0MzgyMzNhLWMyMTItNDY4MC1hODBiLThlZjI5MzUwODQ5NdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=ec8187da2d0c08cf&srepoch=1755803960&all_sr_blocks=301506710_380618147_0_1_0&highlighted_blocks=301506710_380618147_0_1_0&matching_block_id=301506710_380618147_0_1_0&sr_pri_blocks=301506710_380618147_0_1_0__2367000&from=searchresults",
+    "address": "Malolo",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Fiji+Islands&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-21T19:19:22.551Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755803962551_7",
+    "name": "Nabua Lodge",
+    "price": 237,
+    "currency": "USD",
+    "rating": 7.8,
+    "stars": 8,
+    "reviewCount": 422,
+    "avgReview": "7.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/374492363.webp?k=0c311d97bc98a400c1177ed5561a22bdb9eb250d5f1eb956d1c89054ed34e41d&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/fj/bay-of-plenty-nature-lodge.html?aid=304142&label=gen173nr-10CAQoggJCE3NlYXJjaF9maWppIGlzbGFuZHNIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAK14p3FBsACAdICJDc0MzgyMzNhLWMyMTItNDY4MC1hODBiLThlZjI5MzUwODQ5NdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=ec8187da2d0c08cf&srepoch=1755803960&all_sr_blocks=532232505_357017261_2_40_0&highlighted_blocks=532232505_357017261_2_40_0&matching_block_id=532232505_357017261_2_40_0&sr_pri_blocks=532232505_357017261_2_40_0__54000&from=searchresults",
+    "address": "Nacula Island",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Fiji+Islands&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-21T19:19:22.551Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755803962551_8",
+    "name": "Blue Lagoon Beach Resort",
+    "price": 524,
+    "currency": "USD",
+    "rating": 9.1,
+    "stars": 9,
+    "reviewCount": 791,
+    "avgReview": "9.1/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/252130159.webp?k=8fe65ea36a932a0e18993b5942948a0ec8a61d7c288fca3cb5ffcee893640bc8&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/fj/blue-lagoon-beach-resort.html?aid=304142&label=gen173nr-10CAQoggJCE3NlYXJjaF9maWppIGlzbGFuZHNIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAK14p3FBsACAdICJDc0MzgyMzNhLWMyMTItNDY4MC1hODBiLThlZjI5MzUwODQ5NdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=ec8187da2d0c08cf&srepoch=1755803960&all_sr_blocks=48026302_357898454_2_0_0&highlighted_blocks=48026302_357898454_2_0_0&matching_block_id=48026302_357898454_2_0_0&sr_pri_blocks=48026302_357898454_2_0_0__119700&from=searchresults",
+    "address": "Nacula Island",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Fiji+Islands&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-21T19:19:22.551Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1755803962551_9",
+    "name": "Daku Resort",
+    "price": 398,
+    "currency": "USD",
+    "rating": 7.6,
+    "stars": 8,
+    "reviewCount": 999,
+    "avgReview": "7.6/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/42156842.webp?k=3338b278dc8b4c8defc61b5fdb8a33016f501b9680d0707ff5e37e1199be32af&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/fj/daku-resort-savusavu.html?aid=304142&label=gen173nr-10CAQoggJCE3NlYXJjaF9maWppIGlzbGFuZHNIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAK14p3FBsACAdICJDc0MzgyMzNhLWMyMTItNDY4MC1hODBiLThlZjI5MzUwODQ5NdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=ec8187da2d0c08cf&srepoch=1755803960&all_sr_blocks=28039811_131534955_0_42_0_1091836&highlighted_blocks=28039811_131534955_0_42_0_1091836&matching_block_id=28039811_131534955_0_42_0_1091836&sr_pri_blocks=28039811_131534955_0_42_0_1091836_90882&from=searchresults",
+    "address": "Savusavu",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Fiji+Islands&checkin=2025-08-28&checkout=2025-08-31&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-21T19:19:22.551Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

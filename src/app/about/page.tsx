@@ -5,12 +5,12 @@ export default function AboutPage() {
   return (
     <div className="min-h-screen bg-gray-50">
       <div className="container mx-auto px-4 py-16">
-        <h1 className="text-5xl font-bold text-center mb-12">About NEYALA.AI</h1>
+        <h1 className="text-5xl font-bold text-center mb-12">About Nyala</h1>
         
         <div className="max-w-3xl mx-auto space-y-8">
           <section className="prose max-w-none">
             <p className="text-xl leading-relaxed">
-              Named after one of Sudan's largest cities, NEYALA.AI is an innovative travel planning platform 
+              Named after one of Sudan's largest cities, Nyala is an innovative travel planning platform 
               that combines artificial intelligence with deep cultural understanding to create personalized 
               travel experiences for everyone.
             </p>

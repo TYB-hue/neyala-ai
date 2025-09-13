@@ -1,0 +1,272 @@
+[
+  {
+    "id": "hotel_1756475506606_0",
+    "name": "The Lush Temptations by RMJ - Azure Staycations",
+    "price": 64,
+    "currency": "USD",
+    "rating": 9.3,
+    "stars": 9,
+    "reviewCount": 108,
+    "avgReview": "9.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/738765905.webp?k=8accb722be77760ae189fecae5cefdc4c0c229f64c54d1e489082a72f876be25&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ph/the-lush-temptations-by-rmj-azure-staycations.html?aid=304142&label=gen173nr-10CAQoggJCDnNlYXJjaF9maWxpcGluSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC7eDGxQbAAgHSAiQwZGQzZjNiYy01NDdiLTRhYzQtODBjNS1jYWUxM2Q4OTA5ZjXYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=ec8161763e63007b&srepoch=1756475505&all_sr_blocks=1471780501_418521010_2_0_0&highlighted_blocks=1471780501_418521010_2_0_0&matching_block_id=1471780501_418521010_2_0_0&sr_pri_blocks=1471780501_418521010_2_0_0__365820&from=searchresults",
+    "address": "Paranaque, Manila (Azure Residences)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Filipin&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T13:51:46.606Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756475506606_1",
+    "name": "Four Points by Sheraton Palawan Puerto Princesa",
+    "price": 420,
+    "currency": "USD",
+    "rating": 8.8,
+    "stars": 9,
+    "reviewCount": 773,
+    "avgReview": "8.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/538682075.webp?k=f548ac336f82631b8018fdb221edc3e114c50179828b7f142a5143601028a48b&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ph/four-points-palawan.html?aid=304142&label=gen173nr-10CAQoggJCDnNlYXJjaF9maWxpcGluSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC7eDGxQbAAgHSAiQwZGQzZjNiYy01NDdiLTRhYzQtODBjNS1jYWUxM2Q4OTA5ZjXYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=ec8161763e63007b&srepoch=1756475505&all_sr_blocks=38964459_392132703_2_1_0&highlighted_blocks=38964459_392132703_2_1_0&matching_block_id=38964459_392132703_2_1_0&sr_pri_blocks=38964459_392132703_2_1_0__2400000&nad_id=5788360e-6ed6-441d-bd88-00c6c6ffa086_0&nad_cpc=0.45&nad_track=eyJhdWN0aW9uRXBvY2giOjE3NTY0NzU1MDI0ODUsInJhbmsiOjEsImtvZGRpVHJhY2tpbmdJbmZvIjoidWFmMEg2ZkFRTmNiSHdrdExGb3RuOFhqYU5rKzdKNll2dkh5aENYUjZIMjI0VExrRW5DSEhiZGVVMm1EYzhVVTN6UFFMMWdiQStVQTE2UER6RkFkZjRydUo5NzZKNmhIMndCcGk4YTlTNlIxaU5NR1FZaHgrSkM5M1Y3T2tJU3RaRGJlZWd2LzdTMWJHT2hSUnFqU3l2NzlNSGc4YU1LeURGdk5HeTVsRElPTnBRWVJGWS9xMU9HSUZwUmlKejc5eGpqL0FYckZBalFnaE11dkRiSXE2U0FDTTRyR1RTZUF4aW5uQTJYY2I0ZnYrKytxUDZhd0Z5aTQxSmU5eE1vRWVKTnRqaEZTanJhazZITHNKdTVGSktnUFRHZHorc1BmbTJ5QlN2L0UrSm5SWjdUZ2lEODVMbS9ZSGJCSjYyY2FNZ0RwZmhpc0hIanJKRDZ1TFVudk9LMjZtVHh2VHlpRElsUjg0ZHFDZ29lK1JraVVFZ2pYcWZTSFB6VTJGNVVCdFUyclpRYitLcmxOOHI3ZytydWwreXlpTkpDWlAyeHcybHg2cENuN2htTVdjSmJBZm5MdmN3UXlsUk5YSTVNb2tnRlJXOW05SnBtMlBqSUhkU1p3cWpodzZBYlNhRzlVSVNCclpnTFVwSXBVWXpiaEtyejZlOUtkT2lOUmpOUjhuUEwwaVlMdXVaMktrRkpLdFp6WThvcWlmZFNUUFA5QW9nSW9DZmdRQjUyeUVWdzRjeE1kV0dqZ09rRTJnOXF5WjRWMW1Ha2dXZ1FTVkdGd002ZVoxUVhCWmdLWTgvU3ZBanlYd2s0M0JWYVhZL3JiNkJzclE2VDRsUlRPYXRnZ1A3akFpV1lONjR1WlpONTRDQ01Ubm1pb0p5K2xwOUdEd3JMdjBKSGpIWWwyYTVXUlptblErVEUxeWZKYktHOHkrOHpxc1ZySjJhcE8xNW5HSnpnYk9NUm56bXAzN1l3bkFZT1hQbWowSzZudGFFSXduWDBwY0I4WWhDOUxUamNTQ1JtMzZPSzZPd3ppSmthblJ4OEs5U2pWY0UxKzdmRkR5Q2NMcUNhVHI2SHk3eUU1dEJwdzJ1QWs4RTZEZzBnM051YkovZVRwVTRZdDd4MU5NWnVIM2xnY3gzc09vaUZEaEd5cUJjb0RuVDVzRnhKdzNNQllsd3NsZ25Nb1BoZ1ZaM29MRXRXWEc3ekpya25MdG9XT082d1VycUM1SFR4SGhRekpJL1BPWXphVVdyRmRQQ0k3dmh4ZzJQOStmVWVtd2VXdzVPVnhVRURSSkliWFVFVWhpaEd0MnpSVGNNSURIdC9hbG1qNzV1MXJjQldqdm8xV3pJWWNHVWcwMHVHRjBPS3RCWmNuanlFcCtsMHdXTEdldVgvRmZqdk15RFp4WnNkNGN2b1IzOTlEQk9WYlZEY3BPTHo3S3FZUHp5U1J6d2NESzgrWndqL2RUUnVTZnJZeS80QVFGa0pXQm1LYk5JRkkySk93UkwrZFh5MDdDVFc5L2FYMmphZENRZ3lnRWtnenYwY0tBKzhLVUVTK29xTnZJdFpLWTlIZVVscFFsWkRzUENrQWZmTEtBbk5LUlJ5TTVacCtwV1gzWGNFMlZ4OGtKdEpCb0lja0tMUlJ1UXRVVzRLVldqYUd3QzFjTEVweWQ3Rmk0QW1keEtZdFVocG1BL281RFdqb29DamhSSEpWVHRiTUExWndXaEJjSEg3NFFoUTNEeUNhZVhydjFvSzJEczNmZUV5VS9RV2V2STJsVGhteE9EMEt5R1JjbkxGUWFOajI4L3FsZWRTKzZydUpjYU5Cc2JJU1IzcU4weHJMZ1ZPSW5tQm5kc3BnQ0Jyd3BURVlveksxcit3Y3pwZ2VROUN0ZDZqOUtqUkZYNHk4S0VYa3hWMERzYmNMUTh3U0pBNHVUYVFMazNEQ3RaSSsvekVRVlhRUWg3S0F0UkF2NStlYm5CeGNrWXBFVVZUd01BNmFZK09UN0pMMkY2SUFlc1lBZ2JxUkdFQko3V3NmWEtXR1pGSFNDOGV6RmJyTUpwTFJMYVdFVk1IYlFIb0o0Z2EycVBWeFl3WTMzQ1dBbzJER3FiU3ZiVkVFVjREdzEvMXNZbXZYUkZ3QXpDWk9XOVI3ZCtyWUZ3ZmRPUElhNVRMdWRyNDZNL21BUEs2ZHl3Uk5hNE1IT1Qwak90MEVrV05sVzhCU3NxV3hOZCtHSDllVGVQc1dEVk43aEtlZms0TTZrbnRneFIzSWVEVUxSU3ZBVFhMMGFZOXhwY1dJRjJXSTBFQWNTZmRZODdNRlR4ZTRzcnlNRHdhMkJxOVpOQlVaVmVyaTBCVlNlT3dMbWE2aDVycnp0SzVXK2VjSDlBTGl6aXZlcW9rL2FZSEVYOExGSlNFZUo1dTZmK1VLdUxlbFVNWWpWMEhjczJBZmNJc3ltVG15eklsTHRBQnJmSStzS3F2V28ySVNuQ1VmMDBJeU9BTktPOGphWTV3TjdkWCszK3VsWDlzNTBSa1ZmanU0dTNJSVFuL1FCTnRvQ1hISW5QSzFFV01lN0VMa0MyQWRzbjRJcmc1Q0NKbDJBY3YwU2lqcEdMQ3pLVko1SE83enNySllJZWRoRi9iaWd4YVJtRC9zTCtYblFQZDZrQm0vc0lZRjNBaXliSWNKRmMrcEN2a3BUTzZGSHB2TVF5V2lLMWtucjRLRzZhZzFPcDRydDZFQnZjQzBnSzZwcFNqTHVCSTFMbldmZGVMaW9zMzM1RFcwN3M3K0xDTERKdnlQaVJ3aUFWZXlPWEFJZ09ja1VaQjlPRDhLOURha2VaZnV6Y1ZDaVJPamFsU2pkRXdZcVhMRXN3bzRiWTFUMXFPTXFNdHA0ZEpqcGlwVUVibGNHYjFjOFZSLzE2NjY5YXBFdkhmcFFHT2hvWjJpc0w4eHR5b1JwK3FsMUNXZzg4OU95dUNSNHQ4VHlCV3pQbGJQRWNNb0UxOVgxNGJkSWtHQ0Q1Q3Q0YVdxd0IwMkJqbTlUcG8wczE2dzh2QVBuaUp3d3pzeE9UcU1SbmV1c1o5aXAvSXVWZ3luWjVaZjRkQTVLYWpncjR5V3dqZWZmbmg0N29hYXVSZWNRUWJCLzJvcjZ4YXZWVVNVN0dEQmp1alM5aklXSHEzc1d1aGllaVlVMTJvRlZMQkxUL3ByMXVXK2FiUzVjRVloMnp1T1h0OXR1cDhBbm1IYUtINXV2WllYUHNOVSt1aGNlSWxVQW9wQk5ENm40RnJPQTVvRk5tTTlwcVdpYU9NUjNOUTJ1QU84bm1GdEc3NXhKVnFpZUJ5VTZVZnBvTkptSXQ1eitlYngzZE4yNlEzWlJKNnNKM2g4blJnUWo2U3ZjNWx3MVFHVEJneTRGNXF2amtjeWFmQVk2ZXkvL2tsV3RXajVOYXBxMTZSc1RQcTI3R2JjazdSZjVhZCttV2puOEhuY25nL2Z5NkxESHl1VG9TM0lFL3NCV1BGSURRPT0ifQ%3D%3D&from=searchresults",
+    "address": "Sabang",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Filipin&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T13:51:46.606Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756475506606_2",
+    "name": "Morgan Villas",
+    "price": 1,
+    "currency": "USD",
+    "rating": 9.6,
+    "stars": 10,
+    "reviewCount": 896,
+    "avgReview": "9.6/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/570520719.webp?k=59681bfe3f6e6e0b8bcca86cd8dce31f6b759fa9fbce61965e867ba87edaffea&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ph/morgan-villas.html?aid=304142&label=gen173nr-10CAQoggJCDnNlYXJjaF9maWxpcGluSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC7eDGxQbAAgHSAiQwZGQzZjNiYy01NDdiLTRhYzQtODBjNS1jYWUxM2Q4OTA5ZjXYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=ec8161763e63007b&srepoch=1756475505&all_sr_blocks=1195219609_413991071_2_1_0_1180024&highlighted_blocks=1195219609_413991071_2_1_0_1180024&matching_block_id=1195219609_413991071_2_1_0_1180024&sr_pri_blocks=1195219609_413991071_2_1_0_1180024_6080000&from=searchresults",
+    "address": "El Nido",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Filipin&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T13:51:46.606Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756475506606_3",
+    "name": "Tamarind",
+    "price": 148,
+    "currency": "USD",
+    "rating": 8.7,
+    "stars": 9,
+    "reviewCount": 502,
+    "avgReview": "8.7/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/177271867.webp?k=b05f50b93b2cb922eaf0df93c51dabdc4a3682ac99a2f3ea38b12cb1938f6a88&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ph/tamarind.html?aid=304142&label=gen173nr-10CAQoggJCDnNlYXJjaF9maWxpcGluSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC7eDGxQbAAgHSAiQwZGQzZjNiYy01NDdiLTRhYzQtODBjNS1jYWUxM2Q4OTA5ZjXYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=ec8161763e63007b&srepoch=1756475505&all_sr_blocks=298507204_414415232_2_0_0&highlighted_blocks=298507204_414415232_2_0_0&matching_block_id=298507204_414415232_2_0_0&sr_pri_blocks=298507204_414415232_2_0_0__844800&from=searchresults",
+    "address": "Panglao Island",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Filipin&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T13:51:46.606Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756475506606_4",
+    "name": "Mad Monkey Manila",
+    "price": 77,
+    "currency": "USD",
+    "rating": 8.3,
+    "stars": 8,
+    "reviewCount": 212,
+    "avgReview": "8.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/664854439.webp?k=d765182a418394ab344df8a18bb8edb3ea29257cad90c15cb19e577d89505f10&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ph/mad-monkey-manila.html?aid=304142&label=gen173nr-10CAQoggJCDnNlYXJjaF9maWxpcGluSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC7eDGxQbAAgHSAiQwZGQzZjNiYy01NDdiLTRhYzQtODBjNS1jYWUxM2Q4OTA5ZjXYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=ec8161763e63007b&srepoch=1756475505&all_sr_blocks=1122369209_0_2_0_0&highlighted_blocks=1122369209_0_2_0_0&matching_block_id=1122369209_0_2_0_0&sr_pri_blocks=1122369209_0_2_0_0__437235&from=searchresults",
+    "address": "Makati, Manila",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Filipin&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T13:51:46.606Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756475506606_5",
+    "name": "Park Inn by Radisson Davao",
+    "price": 320,
+    "currency": "USD",
+    "rating": 8.1,
+    "stars": 8,
+    "reviewCount": 844,
+    "avgReview": "8.1/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/328920750.webp?k=bdfecb276524a4a63480ea7aab4bf345f5293f37d1b1dc076dc0a9aca5e9ad6d&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ph/park-inn-davao-by-radisson.html?aid=304142&label=gen173nr-10CAQoggJCDnNlYXJjaF9maWxpcGluSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC7eDGxQbAAgHSAiQwZGQzZjNiYy01NDdiLTRhYzQtODBjNS1jYWUxM2Q4OTA5ZjXYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=ec8161763e63007b&srepoch=1756475505&all_sr_blocks=44865403_381343491_2_2_0&highlighted_blocks=44865403_381343491_2_2_0&matching_block_id=44865403_381343491_2_2_0&sr_pri_blocks=44865403_381343491_2_2_0__1827000&from=searchresults",
+    "address": "Davao City",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Filipin&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T13:51:46.606Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756475506606_6",
+    "name": "Makati Shangri-La, Manila",
+    "price": 473,
+    "currency": "USD",
+    "rating": 8.8,
+    "stars": 9,
+    "reviewCount": 888,
+    "avgReview": "8.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/716979752.webp?k=7882628528a2a86da7ab18a87b87d24d7bcef4738345b3279486eff7bf1115c0&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ph/makati-shangri-la-manila.html?aid=304142&label=gen173nr-10CAQoggJCDnNlYXJjaF9maWxpcGluSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC7eDGxQbAAgHSAiQwZGQzZjNiYy01NDdiLTRhYzQtODBjNS1jYWUxM2Q4OTA5ZjXYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=ec8161763e63007b&srepoch=1756475505&all_sr_blocks=23713120_222642583_2_2_0&highlighted_blocks=23713120_222642583_2_2_0&matching_block_id=23713120_222642583_2_2_0&sr_pri_blocks=23713120_222642583_2_2_0__2700000&from=searchresults",
+    "address": "Makati, Manila",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Filipin&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T13:51:46.606Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756475506606_7",
+    "name": "Airport Hostel Manila",
+    "price": 55,
+    "currency": "USD",
+    "rating": 7.5,
+    "stars": 8,
+    "reviewCount": 973,
+    "avgReview": "7.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/574945937.webp?k=12a62e440dbe7a0e35e0f102c902a1ee37dc27fae1be7e21693de4ff846c8ef1&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ph/airport-hostel-manila.html?aid=304142&label=gen173nr-10CAQoggJCDnNlYXJjaF9maWxpcGluSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC7eDGxQbAAgHSAiQwZGQzZjNiYy01NDdiLTRhYzQtODBjNS1jYWUxM2Q4OTA5ZjXYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=ec8161763e63007b&srepoch=1756475505&all_sr_blocks=677602006_277300270_2_0_0&highlighted_blocks=677602006_277300270_2_0_0&matching_block_id=677602006_277300270_2_0_0&sr_pri_blocks=677602006_277300270_2_0_0__313740&from=searchresults",
+    "address": "Pasay, Manila",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Filipin&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T13:51:46.606Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756475506606_8",
+    "name": "Park Inn By Radisson Bacolod",
+    "price": 276,
+    "currency": "USD",
+    "rating": 8.5,
+    "stars": 9,
+    "reviewCount": 577,
+    "avgReview": "8.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/332054767.webp?k=6c9ea355e5632e984c59759b6fdc30d6bbb67c6c15f45a7d9feaf1d0ccfe5393&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ph/park-inn-by-radisson-bacolod.html?aid=304142&label=gen173nr-10CAQoggJCDnNlYXJjaF9maWxpcGluSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC7eDGxQbAAgHSAiQwZGQzZjNiYy01NDdiLTRhYzQtODBjNS1jYWUxM2Q4OTA5ZjXYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=ec8161763e63007b&srepoch=1756475505&all_sr_blocks=751909103_331783236_2_2_0&highlighted_blocks=751909103_331783236_2_2_0&matching_block_id=751909103_331783236_2_2_0&sr_pri_blocks=751909103_331783236_2_2_0__1579513&from=searchresults",
+    "address": "Bacolod",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Filipin&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T13:51:46.606Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756475506606_9",
+    "name": "Park Inn By Radisson Iloilo",
+    "price": 190,
+    "currency": "USD",
+    "rating": 8.5,
+    "stars": 9,
+    "reviewCount": 297,
+    "avgReview": "8.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/485559344.webp?k=813db7c82e05499e021def8d2dc73a5491e1fae184bc6c192ed510f754808a05&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ph/park-inn-by-radisson-iloilo.html?aid=304142&label=gen173nr-10CAQoggJCDnNlYXJjaF9maWxpcGluSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC7eDGxQbAAgHSAiQwZGQzZjNiYy01NDdiLTRhYzQtODBjNS1jYWUxM2Q4OTA5ZjXYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=ec8161763e63007b&srepoch=1756475505&all_sr_blocks=480727301_288808076_2_42_0&highlighted_blocks=480727301_288808076_2_42_0&matching_block_id=480727301_288808076_2_42_0&sr_pri_blocks=480727301_288808076_2_42_0__1083225&from=searchresults",
+    "address": "Iloilo City",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Filipin&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T13:51:46.606Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

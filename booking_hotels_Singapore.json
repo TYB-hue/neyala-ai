@@ -1,0 +1,272 @@
+[
+  {
+    "id": "hotel_1756476579035_0",
+    "name": "ST Signature Jalan Besar",
+    "price": 231,
+    "currency": "USD",
+    "rating": 7.4,
+    "stars": 7,
+    "reviewCount": 691,
+    "avgReview": "7.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/544662241.webp?k=d665205b9651c02f921c8ae27273c182d88c9a93dda3ecc8b9ddce8288b8dd29&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/sg/boutique-in-jalan-besar.html?aid=304142&label=gen173nr-10CAQoggJCEHNlYXJjaF9zaW5nYXBvcmVIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKe6cbFBsACAdICJGY1ZjkxNDBmLTJkZjItNDExYi1hYWY0LTExNjc2MTRjNTJmOdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=a6ce638f20340539&srepoch=1756476577&all_sr_blocks=1186000002_390970669_0_0_0&highlighted_blocks=1186000002_390970669_0_0_0&matching_block_id=1186000002_390970669_0_0_0&sr_pri_blocks=1186000002_390970669_0_0_0__29645&from=searchresults",
+    "address": "Little India, Singapore (Jalan Besar)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Singapore&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T14:09:39.035Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756476579035_1",
+    "name": "voco Orchard Singapore by IHG",
+    "price": 628,
+    "currency": "USD",
+    "rating": 8.3,
+    "stars": 8,
+    "reviewCount": 799,
+    "avgReview": "8.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/595525729.webp?k=4c66a0fa27217ae795f69c802ded1c7c1972865ec870581480ac7177522bc1a0&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/sg/voco-orchard-singapore.html?aid=304142&label=gen173nr-10CAQoggJCEHNlYXJjaF9zaW5nYXBvcmVIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKe6cbFBsACAdICJGY1ZjkxNDBmLTJkZjItNDExYi1hYWY0LTExNjc2MTRjNTJmOdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=a6ce638f20340539&srepoch=1756476577&all_sr_blocks=4375028_94263679_2_10_0_604301&highlighted_blocks=4375028_94263679_2_10_0_604301&matching_block_id=4375028_94263679_2_10_0_604301&sr_pri_blocks=4375028_94263679_2_10_0_604301_80600&nad_id=a6bd7b40-0557-44c8-88e0-3525e109b91f_1&nad_cpc=1.51&nad_track=eyJhdWN0aW9uRXBvY2giOjE3NTY0NzY1NzQ5ODcsInJhbmsiOjEsImtvZGRpVHJhY2tpbmdJbmZvIjoieU1IUU05TXZLcVZ4aEFvYlFrZnYvSHcvdmpFcGZiVCtKaWRyc0kzUENxMGJXZjA3OWJHbm5oN01IN0VmV2dacjFVdEFDYUxZL0w4TEtEaWtxREg0NWhzVGpQN1ZDNXBOVWVKMTlJMmJ0YnIvSjVnK0J6THJzRGd1NVZvNUJKanRpS3VLN21nb1ZrWWFBWDN6Njc3UEFUK0p5VUJjSWw0ZnlSYW1DWEJ2WXhBY3drZHZFUURnZzY1SVBZNDk1RXdRYWNZbFkwcjZVTkJuQk1QVkUwUzBETjBFNHUwQUtKRlNjOGJSRVdwNnlDTWVVcUNVVTF5aG5TREJ4Kzl0MG5qVTQ0anlCdjhwQXphM1FVeDNqY3V6b2FpNGdnclFXclhPeldHQU1rWUszd01mQ0FRM3l1MWljalZubU5rK3BkZmIzb0JiY0VOZFFsZHJKdi93N0h2eXdnYTF2WGY2Vmc3ZkdoUEVqM2ZKSUF0Z1ptcm9Qd0xpMk4yTStEQTJuMTJvdUdKSGR0TTRTRlFwbVhYd1FtLzBTWitCOGw1L0p3bVhJZ2hmRkRnbFN3NU1aTmsvUDBheUtydXY1aXdldUViUlRQQ3NLSzRzNEdlRWtEZCtJdzNKTjN4dFN0VksyZjBjY0JJV3FwNlpGWkRETGdMbkRQUHFxRVVhQW9UQVFEU2NVczRVRVJ1R0NRbkozNStxTHlaT0FyVThoWjVURkpjdmI2ZW80QkQ4RVl6ZEVZMW41bmhCdW9WakhGaFdEV3dWMFo2TzRyNkx3N2JpaERVMVJvWmYxMExFa3BMZFV6N3pNdTdPdEp6Wkp6WDh4akVNdGpEVm5nQm9uclpSZEVudzlOMmhlNUd6Z2wwR1d0aDRsV2dybUJyZktsaWVWK1VtdUs4d3FrdUJ4L1l2cFg1ZnJZK1JXNTY0QmY1bDNZSUVFUHRsVFlLTHNmL3VQWDBDQjFLZXFIS0ovYy9ybitQN1p1VTBOWlMzaGtXbTZNdEdUOXFVWTE2WVZWREtmbFJMdys0WDlUYnJ6WlZ5WXFSSThnVTlVb0ZkbW1VQ2JrbElEakovajNqVGYxZUd5R0hBWjJLVUZlT3dzRWw3RnMxSjBiTklKWFhsVDQxTTcwb21pWCtxVEh2dmJKQWwyY2pXR3B4dktMWDNXMDAyU3kxVzRmUmxWZm11blNsREZNdC9TdWpSd2ptc1RaM0FOL0JhQXlSVHF3anFOSGRrYVZTTkMzOFl4M29PeVJ0T3FaSit3RHdlS2ZpemhwSk9ybE5sZUJndmFlZkFEdFNESWRDWEVtSkRvcnY1VXczTyt2aCt2bTQ5enFaL0Jrcm9WZE4yN25SdnpwaTR6VGdlZ3FqVzZ4RUlRd3UwYXBKK2ZGeWs3WFNHcDU0aW40Zkc5T3hWQ3JLVjhKYlM1bVNtOSs5cU5uREpsekZUbzJKdE00UTkwQ1hHclRvTFV1elZyZm82cy9vMjN4ckRYSGRxMGpsTUhQUVVTNUxqbnRxNW5NRnQzVVdjbU53WDd5V1BzWlVid1k3alcyNVc5NkJiYUJ3cWZvNjAydkhrR3NtdFVJdDdZTW1HL3BreS9Zb1JzdVdzTWVHRkQvOXRhTXN2NFR5Q1BYaW1xbGZMU0VSMnRYcHFNRkNTZm9zWC9wazYvQlVlbit4MURFeGpqYURqOEdUUmZHNDZOelBSUEt0enFJN0MzMERCM0cwbE9GSm54d055MkE5R1lBNmx5RURkYStYRmVzNTc4WDNNck03b2s2RkFmWGV5Mk0vVi9BRzRuYjErOHVRQzNVcEtaRlR4VkR5U3dGa1RYNWdGM2NpZXFHTEk3Q0t0SjdNQUc5YWVSTUprS1hJSlpJN1RjOTM5bzdNNENIckdZL2tRK1JudENHYlM2anI1ZWhpQloyWFk1b1ZIVWNucXByUlFNaENHQmRyTXNDbldKbWcydjdtRHV6SVI0c1BmbVNSbEVtcVhqZFBNSHpKRE53ekMzZldIWm9CNFFkYTFwRUZ0TTJWb0RWTnQyQVlyNVNHMEFIM3ZFK0lTU3R5WU9oMHFzYWo5K2ozZEJ5VkZTTHp2RU5iakYyQWx2N29IeksyOFhLVm1DZ2hwUnRaMXp5dFc4OHdhU1pkL1daNHhxYUtpSzc1eDhOdG9meTFCRlJOcGU5cUlmN3lvS0x1dlVqTmFkS2NIK1VSMTFCTVdjSjd3dStIdzhMbnpyY2k1NVBOTVFkeDJCdzVQRUlpUUZ2L0VueGw1WVBORzBpdEptM1RnUk0ySEpTcXZrZHI4UTAvSFI0VnM1ZHcvdmFHUk1UVzJmbzRUTk5zMlVWeUw4RWhjQkUxN0RrUUxHYU5rWVhlY1BVYmtWZU5NMm1jSW80N3pFWUN5aVo1UlVuayt4R0h1bkFFYSthZkFvdHo2UzZSZ2R1djRWS2J1L2tubEdsU1BOTG1iQVRKelZwZ2FNZGdJUHh6bnE1QUk3RmJDUjdOVW4zTVpVQkhhZWFLLzZGd1JUNVE4QzdiaFFyQ2svSkVUWUEyVUpKOTM1ZmplZUVyV2wvUTNUNkgyYVNFZEUybXgzbWtqQk5UM3NJWERmaytGeHM3eHI0T0phYW50Z2I0SFBpMVpsMk9NcytMUmFTRVAyaENEMkQxTGE3a2syb0hXd09UR1hnaXdaeUkwUTFvZ0ZabHBJMjhxaWtqRWpLQ0hUaWs2NlFEdW1VR1hnSUlsd3NXSVUveVQwbENObnlsdjVNdjVhWmZOU2dnaUM0NEliS0NPVWhQNUljN3Z6UEFRZS9hL3RtbmlNRDlldDFRckJOa2FQakw0KzF1S2VINlBSYU8wYVAyZG0wckwwbVk2d0hHUGlnOUsxc0NFUEp5TktQY0s2dVNlNnc3amxLTGhWQmRKQUNlMEVybU1rRFkxNXQ3TWZ3QWpZS01ZYncwcDErbElBL3NaYmRIaUdnR0VRbytXR0dXWlM4WEY5NEJhSWZNT1NUUGhIQjJhWWpoSnRQMFoxanNaQTlpaTBzUWtUUU5wYmxybU1reUJEdmJOYWtveWJPdlZNV2FsdnJSeVRCQ2Y2L2F0OFdGQklPVmUrcXRXbXU4Z1hxZ0JKdmt1dXlXUXJ2Y3VzOHhHb2dBU2Y4ZlZJS05Mci9PanV4bkN2T0FGQmxjeWZYNEV4dmQ1MGVadG4vbVBZSkp1d1ZXeWZramg0QlBXcmUyQWl4RWI3QXIvOWUvV1d1YzhmYXZBaVZjdGVYSUUvSk5OL0cxYUV0R2d5dlhzSTQ0ZzI0Z0VsYjJmT1IrRS9WdVpMUzltSGVSSFUrVG5aanNhYy9CT1VUaUo3cFV4UnpPUmgvOHpaNGFUeWt1aEZ1SEFDbzNEdDEyQlZiaEN3UkFHbVdoM2NCS3d2dU1qdUJvZC9jdVdaS3hoVWRmWjdSS0tNMEVkeHRGY1R5QWRnRUcwMSsxSGQ0ZWdqeUZZQ1NKRmZOUXhhMVlGZzJXZlQ4SjhtTzZwckRLNUNMZWhXNjZhazV5bmRONE93RTBuUFZjc1cvV05ZMHJOS29rTTlHSEduQT09In0%3D&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Orchard, Singapore",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Singapore&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T14:09:39.035Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756476579035_2",
+    "name": "Holiday Inn Express Singapore Clarke Quay by IHG",
+    "price": 465,
+    "currency": "USD",
+    "rating": 8.5,
+    "stars": 9,
+    "reviewCount": 138,
+    "avgReview": "8.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/250456638.webp?k=cdda27db2f258c11594e3aab626662843cb034f613ab83cc8c998748ca41a214&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/sg/holiday-inn-express-singapore-clarke-quay.html?aid=304142&label=gen173nr-10CAQoggJCEHNlYXJjaF9zaW5nYXBvcmVIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKe6cbFBsACAdICJGY1ZjkxNDBmLTJkZjItNDExYi1hYWY0LTExNjc2MTRjNTJmOdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=a6ce638f20340539&srepoch=1756476577&all_sr_blocks=81660013_246026950_2_1_0&highlighted_blocks=81660013_246026950_2_1_0&matching_block_id=81660013_246026950_2_1_0&sr_pri_blocks=81660013_246026950_2_1_0__59700&from=searchresults",
+    "address": "Clarke Quay, Singapore",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Singapore&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T14:09:39.035Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756476579035_3",
+    "name": "Singapore Marriott Tang Plaza Hotel",
+    "price": 889,
+    "currency": "USD",
+    "rating": 8.3,
+    "stars": 8,
+    "reviewCount": 1036,
+    "avgReview": "8.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/677853526.webp?k=2331ef96e9b1d7dc7c7954035220d1c96f2841e591836b2d27da4f3138392966&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/sg/singapore-marriott.html?aid=304142&label=gen173nr-10CAQoggJCEHNlYXJjaF9zaW5nYXBvcmVIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKe6cbFBsACAdICJGY1ZjkxNDBmLTJkZjItNDExYi1hYWY0LTExNjc2MTRjNTJmOdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=a6ce638f20340539&srepoch=1756476577&all_sr_blocks=2514935_246417861_2_1_0&highlighted_blocks=2514935_246417861_2_1_0&matching_block_id=2514935_246417861_2_1_0&sr_pri_blocks=2514935_246417861_2_1_0__114000&nad_id=a6bd7b40-0557-44c8-88e0-3525e109b91f_0&nad_cpc=1.9&nad_track=eyJhdWN0aW9uRXBvY2giOjE3NTY0NzY1NzQ5OTAsInJhbmsiOjIsImtvZGRpVHJhY2tpbmdJbmZvIjoieU1IUU05TXZLcVZ4aEFvYlFrZnYvSHcvdmpFcGZiVCtKaWRyc0kzUENxMGJXZjA3OWJHbm5oN01IN0VmV2dacjFVdEFDYUxZL0w4TEtEaWtxREg0NWhzVGpQN1ZDNXBOVWVKMTlJMmJ0YnIvSjVnK0J6THJzRGd1NVZvNUJKanRpS3VLN21nb1ZrWWFBWDN6Njc3UEFUK0p5VUJjSWw0ZnlSYW1DWEJ2WXhBY3drZHZFUURnZzY1SVBZNDk1RXdRYWNZbFkwcjZVTkJuQk1QVkUwUzBETjBFNHUwQUtKRlNjOGJSRVdwNnlDTWVVcUNVVTF5aG5TRE16dXhvMFhqVTQ0anlCdjhwQXphM1FVeDNqY3V6b2FpNGdnclFXclhPeldHQU1rY0MzQVFjQ0FRM3l1MWljalZubU5rK3BkZmIwNGxZZFVCZFFsZHFMdnozNzN2eXdnYTF2WGY2Vmc3ZkdoUEVqM2ZKSUF0Z1ptcm9Qd0xpMk4yTStEQTJuMTJvdUdKSGR0TTRTRlFwbVhYd1FtLzBTWitCOGw1L0p3bVhJZ2hmRkRBc1N3NU1aTmsvUDBheUtydXY1aXdldUViUlRQQ3NLSzRzNEdlRWtEZCtJdzNKTjN4dFN0VksyZjBjY0JJV3FwNlpGWkRETGdMbkRQUHFxRVVhQW9UQVFEU2NVczRVRVJ1R0NRbkozNStxTHlaT0FyVThoWjVURkpjdmI2ZW80QkQ4RVl6ZEVZMW41bmhCdW9WakhGaFdEV3dWMFo2TzZyZUx3N2JpaERVMVJvWmYxMExFa3BMZFV6N3pNdTdPdEp6Wkp6Yjh4akVNdGpEVm5nQm9uclpSZDBuODk5eWdmNXEzaTE4S1hOcHprVzhybUJyZktsaWVWK1VtdUs4d3FrdUJ4L1l2cFg1ZnJZK1JXNTY0QmY1bDNZSUVFUHRsVFlLTHNmL3VQWDBDQjFLZXFIS0ovYy9ybitQN1p1VTBOWlMzaGtXbTZNdEdUOXFVWTE2WVZWREtmbFJMdys0WDlUYnJ6WlZ5WXFSSThnVTlVb0ZkbW1VQ2JrbElEakovajNqVGYxZUd5R0hBWjJLVUZlT3dzRWw3RnMxSjBiTklKWFhsVDQxTTcwb21pWCtxVEh2dmJKQWwyY2pXR3B4dktMWDNXMDAyU3kxVzRmUmxWZm11blNwREdNcC9TdWpSd2ptc1RaM0FOL0JhQXlSVHF3anFOSGRrYVZTTkMzOFl4M29PeVJ0T3FaSit3RHdlS2ZpemhwSk9ybE5sZUJndmFlZkFEdFNESWRDWEVtSkRvcnY1VXczTyt2aCt2bTQ5enFaL0Jrcm9WZE4yN25SdnpwaTR6VGdlZ3FqVzZ4RUlRd3UwYXBKK2ZGeWs3WFNHcDU0aW40Zkc5T3hWQ3JLVjhKYlM1bVNtOSs5cU5uREpsekZUbzJKdE00UTkwQ1hHclRvTFV1elZyZm82cy9vMjN4ckRYSGRxMGpsTUhQUVVTNUxqbnRxNW5NRnQzVVdjbU53WDd5V1BzWlVid1k3alcyNVc5S0JiYUJ3cWZvNjAydkhrR3NtdFVJdDdZTW1HL3BreS9Zb1JzdVQvTXVMYVZ2MXRhTTEvNlcyQ1BTV2crRmZMVGtRbnRTMHpZQUtRZE5nYStaZzdyeFVlbit4MURFeGpqYURqOEdUUmZHNDZOelBSUEt0enFvN0MzMERCM0cwbE9GSm54d055MkE5R1lBNmx5RURkYStYRmVzNTc4WDNNck03b2s2RkFmWGV5Mk0vVi9BRzRuYjErOHVRQzNVcEtaRmp3VlRtUnlWMFhYNWdGM2NpZXFHTEk3Q0t0SjdNQUc5YWVSTUprS1hJSlpJN1RjOTM5bzdNNENIckdZL2tRK1JudENHYlM2anI1ZWhpQloyWFk1b1ZIVWNucXByUlFNaENHQmRyTXNDbldKbWcydjdtRHV6SVI0c1BmbVNSbEVtcVhqZFBNSHpKRE53ekMzZldIWm9CNFFkYTFwRUZ0TTJWb0NGRmgyQUFyNVNHMEFIM3ZFK0lTU3R5WU9oMHFzYWo5K2ozZEJ5VkZTTHp2RU5iakYyQWx2N29IeksyOFhLVm1DZ2hwUnRaMXp5dFc4OHdhU1pkL1daNHhxYUtpSzc1eDhOdG9meTFCRlJOcGU5cUlmN3lvS0x1dlVqTmFkS2NIK1VSMTFCTVdjSjd3dStIdzhMbnpyY2k1NVBOTVFkeDJCdzVQRUlpUUZ2L0VueGw1WVBORzBpdEptM1RnUk0ySEpTcXZrZHI4UTAvSFI0VnM1ZHcvdmFHUk1UVzJmbzRUTk5zMlVWeUw4RWhjQkUxN0RrUUxHYU5rWVhlY1BVYmtWZU5NMm1jSW80N3pFWUN5aVo1UlVuayt4R0h1bkFFYSthZkFvdHo2UzZSZ2R1djRWS2J1L2tubEdsU1BOTG1iQVRKelZwZ2FNZGdJUHh6bnE1QUk3RmJDUjdOVW4zTVpVQkhhZWFLLzZGd1JUNVE4QzdiaFFyQ2svSkVUWUEyVUpKOTM1ZmplZUVyV2wvUTNUNkgyYVNFZEUybXgzbWtqQk5UM3NJWERmaytGeHM3eHI0T0phYW50Z2I0SFBpMVpsMk9NcytMUmFTRVAyaENEMkQxTGE3a2syb0hXd09UR1hnaXdaeUkwUTFvZ0ZabHBJMjhxaWtqRWpLQ0hUaWs2NlFEdW1VR1hnSUlsd3NXSVUveVQwbENObnlsdjVNdjVhWmZOU2dnaUM0NEliS0NPVWhQNUljN3Z6UEFRZS9hL3RtbmlNRDlldDFRckJOa2FQakw0KzF1S2VINlBSYU8wYVAyZG0wckwwbVk2d0hHUGlnOUsxc0NFUEp5TktQY0s2dVNlNnc3amxLTGhWQmRKQUNlMEVybU1rRFkxNXQ3TWZ3QWpZS01ZYncwcDErbElBL3NaYmRIaUdnR0VRbytXR0dXWlM4WEY5NEJhSWZNT1NUUGhIQjJhWWpoSnRQMFoxanNaQTlpaTBzUWtUUU5wYmxybU1reUJEdmJOYWtveWJPdlZNV2FsdnJSeVRCQ2Y2L2F0OFdGQklPVmUrcXRXbXU4Z1hxZ0JKdmt1dXlXUXJ2Y3VzOHhHb2dBU2Y4ZlZJS05Mci9PanV4bkN2T0FGQmxjeWZYNEV4dmQ1MGVadG4vbVBZSkp1d1ZXeWZramg0QlBXcmUyQWl4RWI3QXIvOWUvV1d1YzhmYXZBaVZjdGVYSUUvSk5OL0cxYUV0R2d5dlhzSTQ0ZzI0Z0VsYjJmT1IrRS9WdVpMUzltSGVSSFUrVG5aanNhZGZaSVVER0o3cFV4UnpPUmgvOHpaNGFUeWt1aEZ1SEFDbzNEdDEyQlZiaEN3UkFHbVdoM2NCS3d2dU1qdUJvZC9jdVdaS3hoVWRmWjdSS0tNMEVkeHRGY1R5QWRnRUcwMSsxSGQ0ZWdqeUZZQ1NKRmZOUXhhMVlGZzJXZlQ4SjhtTzZwckRLNUNMZWhXNjZhazV5bmRONE93RTBuQmxYUWxqNGhpeUZjVDErSEhrK1JsUT09In0%3D&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Orchard, Singapore",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Singapore&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T14:09:39.035Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756476579035_4",
+    "name": "The Robertson House by The Crest Collection",
+    "price": 393,
+    "currency": "USD",
+    "rating": 8.3,
+    "stars": 8,
+    "reviewCount": 325,
+    "avgReview": "8.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/548337813.webp?k=ace09218ca08b8c9bdb9c6328f462011e7f6b561be70e9a9833ed84427b6a960&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/sg/riverside-hotel-robertson-quay.html?aid=304142&label=gen173nr-10CAQoggJCEHNlYXJjaF9zaW5nYXBvcmVIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKe6cbFBsACAdICJGY1ZjkxNDBmLTJkZjItNDExYi1hYWY0LTExNjc2MTRjNTJmOdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=a6ce638f20340539&srepoch=1756476577&all_sr_blocks=2516419_0_2_0_0&highlighted_blocks=2516419_0_2_0_0&matching_block_id=2516419_0_2_0_0&sr_pri_blocks=2516419_0_2_0_0__50465&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Robertson Quay, Singapore",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Singapore&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T14:09:39.035Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756476579035_5",
+    "name": "InterContinental Singapore by IHG",
+    "price": 882,
+    "currency": "USD",
+    "rating": 8.9,
+    "stars": 9,
+    "reviewCount": 346,
+    "avgReview": "8.9/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/356695490.webp?k=9bc7fdd866e669e6baec195b4229b05907f73f2400c75bb173a322642625075a&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/sg/intercontinental-singapore.html?aid=304142&label=gen173nr-10CAQoggJCEHNlYXJjaF9zaW5nYXBvcmVIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKe6cbFBsACAdICJGY1ZjkxNDBmLTJkZjItNDExYi1hYWY0LTExNjc2MTRjNTJmOdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=a6ce638f20340539&srepoch=1756476577&all_sr_blocks=2510333_95443786_2_2_0_446966&highlighted_blocks=2510333_95443786_2_2_0_446966&matching_block_id=2510333_95443786_2_2_0_446966&sr_pri_blocks=2510333_95443786_2_2_0_446966_113100&nad_id=a6bd7b40-0557-44c8-88e0-3525e109b91f_2&nad_cpc=1.11&nad_track=eyJhdWN0aW9uRXBvY2giOjE3NTY0NzY1NzQ5OTIsInJhbmsiOjMsImtvZGRpVHJhY2tpbmdJbmZvIjoieU1IUU05TXZLcVZ4aEFvYlFrZnYvSHcvdmpFcGZiVCtKaWRyc0kzUENxMGJXZjA3OWJHbm5oN01IN0VmV2dacjFVdEFDYUxZL0w4TEtEaWtxREg0NWhzVGpQN1ZDNXBOVWVKMTlJMmJ0YnIvSjVnK0J6THJzRGd1NVZvNUJKanRpS3VLN21nb1ZrWWFBWDN6Njc3UEFUK0p5VUJjSWw0ZnlSYW1DWEJ2WXhBY3drZHZFUURnZzY1SVBZNDk1RXdRYWNZbFkwcjZVTkJuQk1QVkUwUzBETjBFNHUwQUtKRlNjOGJSRVdwNnlDTWVVcUNVVTF5aG5TREJ4Kzl0MG5qVTQ0anlCdjhwQXphM1FVeDNqY3V6b2FpNGdnclFXclhPeldHQU1rWUszd01mQ0FRM3l1MWljalZubU5rK3BkZmIzb0JiY0VOZFFsZHJKdi93N0h2eXdnYTF2WGY2Vmc3ZkdoUEVqM2ZKSUF0Z1ptcm9Qd0xpMk4yTStEQTJuMTJvdUdKSGR0TTRTRlFwbVhYd1FtLzBTWitCOGw1L0p3bVhJZ2hmRkRnbFN3NU1aTmsvUDBheUtydXY1aXdldUViUlRQQ3NLSzRzNEdlRWtEZCtJdzNKTjN4dFN0VksyZjBjY0JJV3FwNlpGWkRETGdMbkRQUHFxRVVhQW9UQVFEU2NVczRVRVJ1R0NRbkozNStxTHlaT0FyVThoWjVURkpjdmI2ZW80QkQ4RVl6ZEVZMW41bmhCdW9WakhGaFdEV3dWMFo2TzRyNkx3N2JpaERVMVJvWmYxMExFa3BMZFV6N3pNdTdPdEp6Wkp6VDh4akVNdGpEVm5nQm9uclpSZEVuNjh0S3JmSnU4aEY4S1Z0OXprRzRybUJyZktsaWVWK1VtdUs4d3FrdUJ4L1l2cFg1ZnJZK1JXNTY0QmY1bDNZSUVFUHRsVFlLTHNmL3VQWDBDQjFLZXFIS0ovYy9ybitQN1p1VTBOWlMzaGtXbTZNdEdUOXFVWTE2WVZWREtmbFJMdys0WDlUYnJ6WlZ5WXFSSThnVTlVb0ZkbW1VQ2JrbElEakovajNqVGYxZUd5R0hBWjJLVUZlT3dzRWw3RnMxSjBiTklKWFhsVDQxTTcwb21pWCtxVEh2dmJKQWwyY2pXR3B4dktMWDNXMDAyU3kxVzRmUmxWZm11blNsREhzMS9TdWpSd2ptc1RaM0FOL0JhQXlSVHF3anFOSGRrYVZTTkMzOFl4M29PeVJ0T3FaSit3RHdlS2ZpemhwSk9ybE5sZUJndmFlZkFEdFNESWRDWEVtSkRvcnY1VXczTyt2aCt2bTQ5enFaL0Jrcm9WZE4yN25SdnpwaTR6VGdlZ3FqVzZ4RUlRd3UwYXBKK2ZGeWs3WFNHcDU0aW40Zkc5T3hWQ3JLVjhKYlM1bVNtOSs5cU5uREpsekZUbzJKdE00UTkwQ1hHclRvTFV1elZyZm82cy9vMjN4ckRYSGRxMGpsTUhQUVVTNUxqbnRxNW5NRnQzVVdjbU53WDd5V1BzWlVid1k3alcyNVc5cUJiYUJ3cWZvNjAydkhrR3NtdFVJdDdZTW1HL3BreS9Zb1JzdUQ3WXJiZEFmdHNhTW9zdTJxQ1BTbjBwVmVSR2hRa3RTZzlaMVhFSklrZDhjczYvaFVlbit4MURFeGpqYURqOEdUUmZHNDZOelBSUEt0enFJN0MzMERCM0cwbE9GSm54d055MkE5R1lBNmx5RURkYStYRmVzNTc4WDNNck03b2s2RkFmWGV5Mk0vVi9BRzRuYjErOHVRQzNVcEtaRmp3VlRtUnlGc2VYNWdGM2NpZXFHTEk3Q0t0SjdNQUc5YWVSTUprS1hJSlpJN1RjOTM5bzdNNENIckdZL2tRK1JudENHYlM2anI1ZWhpQloyWFk1b1ZIVWNucXByUlFNaENHQmRyTXNDbldKbWcydjdtRHV6SVI0c1BmbVNSbEVtcVhqZFBNSHpKRE53ekMzZldIWm9CNFFkYTFwRUZ0TTJWb0NsQmgyd2NyNVNHMEFIM3ZFK0lTU3R5WU9oMHFzYWo5K2ozZEJ5VkZTTHp2RU5iakYyQWx2N29IeksyOFhLVm1DZ2hwUnRaMXp5dFc4OHdhU1pkL1daNHhxYUtpSzc1eDhOdG9meTFCRlJOcGU5cUlmN3lvS0x1dlVqTmFkS2NIK1VSMTFCTVdjSjd3dStIdzhMbnpyY2k1NVBOTVFkeDJCdzVQRUlpUUZ2L0VueGw1WVBORzBpdEptM1RnUk0ySEpTcXZrZHI4UTAvSFI0VnM1ZHcvdmFHUk1UVzJmbzRUTk5zMlVWeUw4RWhjQkUxN0RrUUxHYU5rWVhlY1BVYmtWZU5NMm1jSW80N3pFWUN5aVo1UlVuayt4R0h1bkFFYSthZkFvdHo2UzZSZ2R1djRWS2J1L2tubEdsU1BOTG1iQVRKelZwZ2FNZGdJUHh6bnE1QUk3RmJDUjdOVW4zTVpVQkhhZWFLLzZGd1JUNVE4QzdiaFFyQ2svSkVUWUEyVUpKOTM1ZmplZUVyV2wvUTNUNkgyYVNFZEUybXgzbWtqQk5UM3NJWERmaytGeHM3eHI0T0phYW50Z2I0SFBpMVpsMk9NcytMUmFTRVAyaENEMkQxTGE3a2syb0hXd09UR1hnaXdaeUkwUTFvZ0ZabHBJMjhxaWtqRWpLQ0hUaWs2NlFEdW1VR1hnSUlsd3NXSVUveVQwbENObnlsdjVNdjVhWmZOU2dnaUM0NEliS0NPVWhQNUljN3Z6UEFRZS9hL3RtbmlNRDlldDFRckJOa2FQakw0KzF1S2VINlBSYU8wYVAyZG0wckwwbVk2d0hHUGlnOUsxc0NFUEp5TktQY0s2dVNlNnc3amxLTGhWQmRKQUNlMEVybU1rRFkxNXQ3TWZ3QWpZS01ZYncwcDErbElBL3NaYmRIaUdnR0VRbytXR0dXWlM4WEY5NEJhSWZNT1NUUGhIQjJhWWpoSnRQMFoxanNaQTlpaTBzUWtUUU5wYmxybU1reUJEdmJOYWtveWJPdlZNV2FsdnJSeVRCQ2Y2L2F0OFdGQklPVmUrcXRXbXU4Z1hxZ0JKdmt1dXlXUXJ2Y3VzOHhHb2dBU2Y4ZlZJS05Mci9PanV4bkN2T0FGQmxjeWZYNEV4dmQ1MGVadG4vbVBZSkp1d1ZXeWZramg0QlBXcmUyQWl4RWI3QXIvOWUvV1d1YzhmYXZBaVZjdGVYSUUvSk5OL0cxYUV0R2d5dlhzSTQ0ZzI0Z0VsYjJmT1IrRS9WdVpMUzltSGVSSFUrVG5aanNhZGZaSVZEdUo3cFV4UnpPUmgvOHpaNGFUeWt1aEZ1SEFDbzNEdDEyQlZiaEN3UkFHbVdoM2NCS3d2dU1qdUJvZC9jdVdaS3hoVWRmWjdSS0tNMEVkeHRGY1R5QWRnRUcwMSsxSGQ0ZWdqeUZZQ1NKRmZOUXhhMVlGZzJXZlQ4SjhtTzZwckRLNUNMZWhXNjZhazV5bmRONE93RTBuRDF1NzZEdHJ1SG1Md0VXUkhkRWtiQT09In0%3D&from=searchresults",
+    "address": "Bugis, Singapore",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Singapore&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T14:09:39.035Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756476579035_6",
+    "name": "Mondrian Singapore Duxton",
+    "price": 639,
+    "currency": "USD",
+    "rating": 8.7,
+    "stars": 9,
+    "reviewCount": 497,
+    "avgReview": "8.7/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/450259578.webp?k=03fc556763f597fd276116d897975aee5dc9194ceac980d1a438ba2660ce9e31&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/sg/mondrian-singapore-duxton.html?aid=304142&label=gen173nr-10CAQoggJCEHNlYXJjaF9zaW5nYXBvcmVIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKe6cbFBsACAdICJGY1ZjkxNDBmLTJkZjItNDExYi1hYWY0LTExNjc2MTRjNTJmOdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=a6ce638f20340539&srepoch=1756476577&all_sr_blocks=971733009_369597938_2_2_0&highlighted_blocks=971733009_369597938_2_2_0&matching_block_id=971733009_369597938_2_2_0&sr_pri_blocks=971733009_369597938_2_2_0__81920&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Chinatown, Singapore",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Singapore&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T14:09:39.035Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756476579035_7",
+    "name": "Mercure ICON Singapore City Centre",
+    "price": 372,
+    "currency": "USD",
+    "rating": 8,
+    "stars": 8,
+    "reviewCount": 770,
+    "avgReview": "8.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/545172900.webp?k=e6a64d4d263a379104348a4f827854df3308eec4eda4a015aa9f7f0db08007a2&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/sg/icon-singapore.html?aid=304142&label=gen173nr-10CAQoggJCEHNlYXJjaF9zaW5nYXBvcmVIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKe6cbFBsACAdICJGY1ZjkxNDBmLTJkZjItNDExYi1hYWY0LTExNjc2MTRjNTJmOdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=a6ce638f20340539&srepoch=1756476577&all_sr_blocks=1042192117_387110331_2_2_0&highlighted_blocks=1042192117_387110331_2_2_0&matching_block_id=1042192117_387110331_2_2_0&sr_pri_blocks=1042192117_387110331_2_2_0__47760&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Outram, Singapore",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Singapore&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T14:09:39.035Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756476579035_8",
+    "name": "Hotel Boss",
+    "price": 306,
+    "currency": "USD",
+    "rating": 7.1,
+    "stars": 7,
+    "reviewCount": 711,
+    "avgReview": "7.1/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/281047348.webp?k=5aed9141d7187087ed8f98c1ae5bcff9df9c14f18859ade7c0ae54d81c1475b5&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/sg/boss.html?aid=304142&label=gen173nr-10CAQoggJCEHNlYXJjaF9zaW5nYXBvcmVIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKe6cbFBsACAdICJGY1ZjkxNDBmLTJkZjItNDExYi1hYWY0LTExNjc2MTRjNTJmOdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=a6ce638f20340539&srepoch=1756476577&all_sr_blocks=160313404_372282354_0_2_0_782269&highlighted_blocks=160313404_372282354_0_2_0_782269&matching_block_id=160313404_372282354_0_2_0_782269&sr_pri_blocks=160313404_372282354_0_2_0_782269_39286&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Kallang, Singapore",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Singapore&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T14:09:39.035Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1756476579035_9",
+    "name": "The Standard, Singapore",
+    "price": 561,
+    "currency": "USD",
+    "rating": 9,
+    "stars": 9,
+    "reviewCount": 195,
+    "avgReview": "9.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/694747737.webp?k=cd8733232529592132bba99bf9284c7b666d5e720df832f3626f6cb93e5a3220&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/sg/the-standard-singapore.html?aid=304142&label=gen173nr-10CAQoggJCEHNlYXJjaF9zaW5nYXBvcmVIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKe6cbFBsACAdICJGY1ZjkxNDBmLTJkZjItNDExYi1hYWY0LTExNjc2MTRjNTJmOdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=a6ce638f20340539&srepoch=1756476577&all_sr_blocks=1208276410_399544814_2_2_0&highlighted_blocks=1208276410_399544814_2_2_0&matching_block_id=1208276410_399544814_2_2_0&sr_pri_blocks=1208276410_399544814_2_2_0__72000&from=searchresults",
+    "address": "Orchard, Singapore (Tanglin)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Singapore&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-08-29T14:09:39.035Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

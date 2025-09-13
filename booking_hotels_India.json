@@ -1,0 +1,272 @@
+[
+  {
+    "id": "hotel_1757243630919_0",
+    "name": "Lodging Apartamento 1 Frente a la Playa",
+    "price": 245,
+    "currency": "USD",
+    "rating": 7.7,
+    "stars": 8,
+    "reviewCount": 195,
+    "avgReview": "7.7/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/620303375.webp?k=6d29fef80a85e0f765acb2cb6af7cf74f9e6e078fba96f24fffa2ffe1220c93a&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/co/apartamento-1-habitacion-cartagena-de-indias.html?aid=304142&label=gen173nr-10CAQoggJCDHNlYXJjaF9pbmRpYUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AurR9cUGwAIB0gIkZjBlMjg3YzQtOGI3YS00NjE0LTkwYjUtN2I3NzYwMjQzMThm2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=4cfa4ef523f60035&srepoch=1757243629&all_sr_blocks=1261309201_404473138_2_0_0_728582&highlighted_blocks=1261309201_404473138_2_0_0_728582&matching_block_id=1261309201_404473138_2_0_0_728582&sr_pri_blocks=1261309201_404473138_2_0_0_728582_97020000&from=searchresults",
+    "address": "Bocagrande, Cartagena de Indias",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=India&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:13:50.919Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757243630919_1",
+    "name": "GHL San Lazaro Art Hotel",
+    "price": 387,
+    "currency": "USD",
+    "rating": 9,
+    "stars": 9,
+    "reviewCount": 74,
+    "avgReview": "9.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/280958261.webp?k=dfcb1c0392067608a31893095c8ee2bda2563e80164ea1bd59fd3f28e7a772c5&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/co/san-lazaro-art-lifestyle.html?aid=304142&label=gen173nr-10CAQoggJCDHNlYXJjaF9pbmRpYUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AurR9cUGwAIB0gIkZjBlMjg3YzQtOGI3YS00NjE0LTkwYjUtN2I3NzYwMjQzMThm2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=4cfa4ef523f60035&srepoch=1757243629&all_sr_blocks=120237104_279685822_2_1_0_601954&highlighted_blocks=120237104_279685822_2_1_0_601954&matching_block_id=120237104_279685822_2_1_0_601954&sr_pri_blocks=120237104_279685822_2_1_0_601954_153360000&nad_id=4e31c6ee-fedd-492b-a9b3-c0534353a769_2&nad_cpc=0.52&nad_track=eyJhdWN0aW9uRXBvY2giOjE3NTcyNDM2MjY5MTUsInJhbmsiOjEsImtvZGRpVHJhY2tpbmdJbmZvIjoiTE5rZUhrWnhsRGN2T3RiVmNIeWs4c2R6NmR2YzI4ZnhleWhpMU9FMCs2aGRnL0hJQTFMbEtGLzlpV0FYRE43dVNmUyt6dFEwU29PTUk3VzFrOW9IV3JYWVd3eU5ZQjVaVTAwbzhKa2NYNmh4VXgxQlVnaVRlTnRvWWJWRWNFUWRwOTFUN3J5MzFhZFJ5OCtxVzJ1UkR2TURReHJTcWdycDZqWGZRMHlqamREQU16eDBqOE93a2FXcUpsZjJEMS9UcmltRERWQlhraUhqbzdjcTQ3d2FzRFJURFhoeVk2RFVnQ1ZwT1EvWktwUUIrQ2prRUJGS3JkZU1UUVhpU1BZeU9aYlJWMnozVnFUUW5qcmUybW5nUkJHNm8rdWt5aFFSZXYvYURrTFJlNGNHdzVEa2NHby84ckdyVGVXMXpQSWc4VXBCVEp0OUVNQkZYd1duSXdRa1VFYW04ZUFvcTAvN1ptTWl0dkg0Y05oSURRUGpFeW5YN3ljVGVCdVJNNzF1S04yNksrSUhKYkx1MVdwRHVsZlY3azlydHN0K0RYL0VJdTNKV0dDM3NNYUtZTWNMd3EvTVErRFJUM1JCRnEyK3Rqd0VlOWE0eWpEUDUrak5wTnJCd1ozSGVwSkIyK3UrUUwvbUN3MUpqWHJGTzhwb3d5cVdCN1dqSlAvM1ZCQUhSZUJlcVdZTXNMYSs1dWJpTG1lOFp1Nks3bmV0bmo1bGtZeUpOcHJmeTRPVlZBaHFWVzdkWWxITUtTYXBhMmhpZjg0L24yREdTaFBDZWVsZGl3YXpFYWJDOEhsZ0dtVXoreG9SZStFRHErdHVHcXErY2Ziai9SbEQrdlVCbHZJWUpQMm1hajRtWHBzNEhvSFN0RHd2UDluYkVvZEdnSU5TVnBDVFNCU1Ewb1FzTFBJenljNkVuai9nNFFhZnk4c1B3azFXU1NuRVQxNjlDZEc3akc1bldYaW9mUmxjcm10MUJPU21aSW4wc3ZDQXc5Y3d6ODFHcEppS0Job213SmI2MGxLbFdtWk9KMTU2MzBnWVNrYkNGeE9MSG8xaUk5U3dkL3dpa2JvRjJVWHdyMEdmd2gxTjFGN2dzWTFqQzhZMnZuL2Y0ellpRGNrQWl2UkVoQVZ3NDZqUjZlZU1mbUlXb0ErYTNvVVR5ZWM5cS85R1ZjcTdOTjdaZWdUenBGcWd0SEpydzZFMlA3SUE1L0d5eHZHL3IvTXZwL1R4VFk0TWhIaFlrei9JWHZkNHdXNjJrNVp1dytZZkNKNTVHM1BlUVhMVGo5WnR4WlBHeU83UGtuZmhYRHVYRkVKYllFd0sxbytiNzNPaVlnZ2FhamRuWmtQemNyQ2hqN0dkWjZZdWRGa3Q0NThnNGQzdlVpZWwvRWJoVVp2b1c5aHY5cDdBNExoM1k0VEI1L1pDbHJRMG41VXRySUg4U1N1RUY0aDRBQVNHdEVVUDdSVmlGS2M5a0VuMGV5NVlUVThnZ2dIcndJSjlEOWZoTXc3QjRiZ0Y4bkVSOXZUUVhLV25zQ0tRUTRMOEZzTUlPaVVlZENNV2VEdStuZnoxWjRtU2QwcFhDT29JTHBpMTdiZ1ArcXEvY2pGT1Zqck5ZaUpOeUxWdFhBazhKeEJ4REpvR3pQQVJ1WE5QbktLcHllVE51WHdwT01acG9nKzZhdHV5cnpBMm5hSkg0LzJTOUM1anVXTzJhMzJRS2xFeW81ZEpSL3NmdmtKZ2hoaW1vcDBxSWtoVGZSMXpOK3ZaVkU1WlliMEsveEc2NmtUYXI0QzZQV3JPdmUvOVhOSzVUNzBuZWlMSmh2bW1yOVB1T0ZUdGp4ZjVKdVpOV1NlNDdmMU1CcUcxbXNZRGkxZ2x0Ky81ZkJSeHBOVEJLTHJ0a0dKRlBQbCtuYUVTVm5ub1dVVGxyWFpDV3dDZEUvaVlNYUtremcwdzluODVyK0dNekVCb2hMKzByRmszTkdTelk2SmcySCs3ODFKRXhPWU50OWJKa2ZubzI2a0p4OUdWeWlEVG9MS2xiK0xCcXZqNndMdEpieE5ObnlTdU9HVitDTStVcmNvYXJHRndlcURkdFZPRUZqVmZqZHlyWnlVNVhSSEd0ZjdESG9HVFB3SjlFRGdIOUxaNjNhZk5JVXpjaGl5NldoRXFYMU5hQmd4cFRvbVYvaVEyQnRKTnBtYzNJVFRkdTNSZC91WEg1bzhIa1NrZGoxMGJKOERWOUdTendpemNqb3hXa204VGhFbU1MZVlza2cwWWlrNVJXNi8rcjFpY0dVN2hKRGU5SXBuSXkvMmIwd0ZHSHRZQXBtNjgrNmorUXlwNXZXb0szaTd6bGtQY3hkc2dQZ3Ywa0tydlRha0tHQjgwSHNzS3ZvVndIaTAzSTFmaEsxRDZEaERlSzFOWTJkOUJLeWQxZzJnWHAzYTNwWjdFcU9kTE1sSDdsOHVROElNbGRqdDhGbzBLT0NlR2orSXZ3d2VqMEl2MmV0dVhGN0hZYUdGNDI5SHBDRGhFNThDQ0sxTk5OQkNDc3Jya1NyVzRSUTZyTzFKQkRnbWlac3lCL05QR01oT1NLcm5vN2xVQXBOdnpRK3UyYVNja1dkYkc3VnMyT1Y1MU9qMWdOOTEvRzdBWngySlBsSFhUbDNwK3Iwd3JYaVpINEs2TzVPanZqTlczaTlqWHU0T292TjU3ZHR1ampmTmIrS3c0TFdrZmZBVVhHT2xqQ1hkbzg0T1RxZ1AwcVBERXJDVmFEc2xmRm1uV0lPUFgwRmd2TTJReCtqMzFHMzcrR3FGVjlJTWR3N21zbjdnVDA4RDZ4cUkycG45YVNOQmtwczBmNW0xd1BwWUNlbU01OC9wMHlrSlh6dmptMWlSRGYzT1BVNCtpQTF1Q2FqZ3dpanJUbkNjaHV5V2FzMytUMnpWZ0I3M01abFFiWWd5YTJJdlhpMW5qZmkvNjFxVHYvMmFGMUpFNVNHdkZtTzVXVXBKekpOc0RiV2p1cHRqSFpvbEpSWkN6OEp4WEp3bHd6VVZ5NFRMU2dPZ0lueGttbHp3KzlNdmpuZU9qWnc2RGxzMjZlZGpwQzAvTk1OYTBoejgxTC9MSXZ6cjJNdGJBRzFMS3VCWXozYzhZODQxK2VlUWowU0xUdS9Zd1JnUHhqRXE4cW1yeUcvRDhrSVJORTJuTnBxWVduNm9zeStlSkNENFJRcWNYSllKbHV3VUJJT0JQcDc0N1JOMEF5S3dhWGNYTGdBRmkvYnNNWTZ3MGdDa1NRRDd4akZGUmJuVHhSWmF2Z0xYb0U0VjByd1R1UGdBMzZUMG94K0phblJneTlGanozZmhteG1lRm5vcVFTQmF0dm1Zbm5TMG10Sit5ZmlNNTVFelNwMWxQcEhtTFVUL2JIK2FENjhUSWZwb0krbVVxbG9sc3Q4OG1QOU0yZjBoc0t6MGtweFg1MkJYVlFDY3RyelNNVnZxQkx0MThOR0Z2aUtKdkU2bVZsbEJmcXdVWHRYUDhJMS9IMmhnV2VHTT0ifQ%3D%3D&from=searchresults",
+    "address": "Cartagena de Indias",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=India&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:13:50.919Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757243630919_2",
+    "name": "Osh Hotel Cartagena",
+    "price": 675,
+    "currency": "USD",
+    "rating": 8.9,
+    "stars": 9,
+    "reviewCount": 622,
+    "avgReview": "8.9/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/713224813.webp?k=d725544389689f1f0bcf62b693d154288a5d3c14365afcc45b999497a215e6ad&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/co/osh-getsemani.html?aid=304142&label=gen173nr-10CAQoggJCDHNlYXJjaF9pbmRpYUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AurR9cUGwAIB0gIkZjBlMjg3YzQtOGI3YS00NjE0LTkwYjUtN2I3NzYwMjQzMThm2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=4cfa4ef523f60035&srepoch=1757243629&all_sr_blocks=967341004_369190244_2_1_0_812229&highlighted_blocks=967341004_369190244_2_1_0_812229&matching_block_id=967341004_369190244_2_1_0_812229&sr_pri_blocks=967341004_369190244_2_1_0_812229_267505200&from=searchresults",
+    "address": "Getsemani, Cartagena de Indias",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=India&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:13:50.919Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757243630919_3",
+    "name": "Estelar Cartagena de Indias Hotel y Centro de Convenciones",
+    "price": 659,
+    "currency": "USD",
+    "rating": 8.9,
+    "stars": 9,
+    "reviewCount": 1045,
+    "avgReview": "8.9/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/487645706.webp?k=56a020c03edb623ee2d862cc134e2522cb32ca63397c7454decd7c5d14692946&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/co/estelar-cartagena-de-indias-y-centro-de-convenciones.html?aid=304142&label=gen173nr-10CAQoggJCDHNlYXJjaF9pbmRpYUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AurR9cUGwAIB0gIkZjBlMjg3YzQtOGI3YS00NjE0LTkwYjUtN2I3NzYwMjQzMThm2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=4cfa4ef523f60035&srepoch=1757243629&all_sr_blocks=194694002_93453994_2_1_0_634068&highlighted_blocks=194694002_93453994_2_1_0_634068&matching_block_id=194694002_93453994_2_1_0_634068&sr_pri_blocks=194694002_93453994_2_1_0_634068_261326790&nad_id=4e31c6ee-fedd-492b-a9b3-c0534353a769_1&nad_cpc=0.55&nad_track=eyJhdWN0aW9uRXBvY2giOjE3NTcyNDM2MjY5MTYsInJhbmsiOjIsImtvZGRpVHJhY2tpbmdJbmZvIjoiTE5rZUhrWnhsRGN2T3RiVmNIeWs4c2R6NmR2YzI4ZnhleWhpMU9FMCs2aGRnL0hJQTFMbEtGLzlpV0FYRE43dVNmUyt6dFEwU29PTUk3VzFrOW9IV3JYWVd3eU5ZQjVaVTAwbzhKa2NYNmh4VXgxQlVnaVRlTnRvWWJWRWNFUWRwOTFUN3J5MzFhZFJ5OCtxVzJ1UkR2TURReHJTcWdycDZqWGZRMHlqamREQU16eDBqOE93a2FXcUpsZjJEMS9UcmltRERWQlhraUhqbzdjcTQ3d2FzRFJURFhoeVk2RFVnQ1ZwT1EvWktwUUIrQ2prRUJGS3JkZUdUZ2ZqVGZZeU9aYlJWMnozVnFUUW5qcmUybW5nUkJHNm8rdWt5aFFSZXYvU0MwalFlSWNlemREellXazk0NjZsVWI2dDFPa3ErazlEVDRWcEZNaEdYZ0t3T3dScEZsV244dkE4clY3aGRpaDh0dnE4ZVl4RkRBSzBDbjNPNzNjT0tGT1VNcUZyWWRucVk3TklKT1ByZ2pwQnNnVFo3bGh5dG9Rc0RTMmRNUG5NUjNtbTg1S0FaTkFRMUtQclNjM0lSSEJYRGJHNWl6TWlmNERuMlNiY3FLUGF0SXlDd1lYSmVzMFh5ZXU2RnVEbUV3Tkp3amZUT3N0MHpuclZCNjJ0SktPZ1Jna01XdUZJczFBZGpLZTB0cm54T0hUeU1lK1U2R2lCamxVN25vZUlKZGVad29pSlhoQjdWbTdUZWtEU01EZWxLamR3YThzZ2huR0xEQWZLZVBZTHdoYWxBZXVWOG5ocUFXSXU5QVliTjdBU3Zmc2dVYXlnY09qaC9Bb0p0T2NWays0Q0tyeXRaemd1WEp4MEJwbkF0U0l3UHNmRkdvNUdrbzFjRjV1ZVRoeVV5SVY2Tk9vaHlOQ2JuQ0wrNlErZjJjVUJnMFpYVENIU1dGWHhFZHVuZ2k5b1hIU2pad1JSNkhOK0JPSzlhc2ppcStpQnhNQjMxOVVCcjl2U0FFc296dER4MEY2dFhTcFdQd3Q2M3hGVVIwYkdGUlNDVjhCdUladStlYTRnakxJUXlrbjBvZ2VIMVFGUTJoSHNxSlJtSE1jaHFudlA5VEV6REk4WWdmVkVtQXMvNzdITDR1cUpjbUFNdXhYTXhvOE4wdU05cS85R1ZjcTdOTjdaZWdUenBGcWd0SEpydzZFMlA3SUE1L0d5eHZHL3IvTXZwL1R4VFk0TWhIaFlrei9JWHZkNHdXNjJrNVp1dytZZkNKNTVHM1BlUVhMVGo5WnR4WlBHeU83UGtuZmhYRHVYRkVKYllFd0sxbytiNzNPaVlnZ2FhamRuWmtQemNyQ2hqN0dkWjZZdWRGa3Q0NThnNGQzdlVpZWwvRWJoVVp2b1c5aHY5cDdBNExoM1k0VEI1L1pDbHJRMG41VXRySUg4U1N1RUY0aDRBQVNHdEVVUDdSVmlGS2M5a0VuMGV5NVlUVThnZ2dIcndJSjlEOWZoTXc3QjRiZ0Y4bkVSOXZUUlhLV25zQ0tRUTRMOEZzTUlPaVVlZENNV2VEdStuZnoxWjRtU0p4OVZDTEVPTEptMXVyNFBxcXEvZHpGSVZqcWNZU0JOaytSdUN3MXJJeEVsQzhnRXpQQVJ1WE5QbktLcHllVE51WHdwT01acG9nK3phdE8ycnpBMm5hSkg0LzJTOUM1anVXTzJhMzJRS2xFeW81ZEpSL3NmdmtKZ2hoaW1vcDBxSWtoVGZSMXpOK3ZaVkU1WlliMEsveEc2NmtUYW80RzdPR3ZNdU9yOVhOSzVUNzBuZWlMSmh2bW1yOVB1T0ZUdGp4ZjVKdVpOV1NlNDdmMU1CcUcxbXNZRGkxZ2x0Ky81ZkJSeHBOVEJLTHJ0a0dKRlBQbCtuYUVTVm5ub1dVVGxyWFpDV3dDZEUvaVlNYUtremcwdzluODVyK0dNekVCb2hMKzByRmszTkdTelk2SmcySCs3ODFKRXhPWU50OVhMbC8vcDM2a0p4OUdWeWlEVG9MS2xiK0xCcXZqNndMdEpieE5ObnlTdU9HVitDTStVcmNvYXJHRndlcURkdFZPRUZqVmZqZHlyWnlVNVhSSEd0ZjdESG9HVFB3SjlFRGdIOUxaNjNhZk5JVXpjaGl5NldoRXFYMU5hQmd4cFRvbVYvaVEyQnRKTnBtYzNJVFRkdTNSZC91WEg1bzhIa1NrZGoxMGJKOERWOUdTendpemNqb3hXa204VGhFbU1MZVlza2cwWWlrNVJXNi8rcjFpY0dVN2hKRGU5SXBuSXkvMmIwd0ZHSHRZQXBtNjgrNmorUXlwNXZXb0szaTd6bGtQY3hkc2dQZ3Ywa0tydlRha0tHQjgwSHNzS3ZvVndIaTAzSTFmaEsxRDZEaERlSzFOWTJkOUJLeWQxZzJnWHAzYTNwWjdFcU9kTE1sSDdsOHVROElNbGRqdDhGbzBLT0NlR2orSXZ3d2VqMEl2MmV0dVhGN0hZYUdGNDI5SHBDRGhFNThDQ0sxTk5OQkNDc3Jya1NyVzRSUTZyTzFKQkRnbWlac3lCL05QR01oT1NLcm5vN2xVQXBOdnpRK3UyYVNja1dkYkc3VnMyT1Y1MU9qMWdOOTEvRzdBWngySlBsSFhUbDNwK3Iwd3JYaVpINEs2TzVPanZqTlczaTlqWHU0T292TjU3ZHR1ampmTmIrS3c0TFdrZmZBVVhHT2xqQ1hkbzg0T1RxZ1AwcVBERXJDVmFEc2xmRm1uV0lPUFgwRmd2TTJReCtqMzFHMzcrR3FGVjlJTWR3N21zbjdnVDA4RDZ4cUkycG45YVNOQmtwczBmNW0xd1BwWUNlbU01OC9wMHlrSlh6dmptMWlSRGYzT1BVNCtpQTF1Q2FqZ3dpanJUbkNjaHV5V2FzMytUMnpWZ0I3M01abFFiWWd5YTJJdlhpMW5qZmkvNjFxVHYvMmFGMUpFNVNHdkZtTzVXVXBKekpOc0RiV2p1cHRqSFpvbEpSWkN6OEp4WEp3bHd6VVZ5NFRMU2dPZ0lueGttbHp3KzlNdmpuZU9qWnc2RGxzMjZlZGpwQzAvTk1OYTBoejgxTC9MSXZ6cjJNdGJBRzFMS3VCWXozYzhZODQxK2VlUWowU0xUdS9Zd1JnUHhqRXE4cW1yeUcvRDhrSVJORTJuTnBxWVduNm9zeStlSkNENFJRcWNYSllKbHV3VUJJT0JQcDc0N1JOMEF5S3dhWGNYTGdBRmkvYnNNWTZ3MGdDa1NRRDd4akZGUmJuVHhSWmF2Z0xYb0U0VjBwQURxTkFNMjZUMG94K0phblJneTlGanozZmhteG1lRm5vcVFTQmF0dm1Zbm5TMG10Sit5ZmlNNTVFelNwMWxQcEhtTFVUL2JIK2FENjhUSWZwb0krbVVxbG9sc3Q4OG1QOU0yZjBoc0t6MGtweFg1MkJYVlFDY3RyelNNVnZxQkx0MThOR0Z2aUtKdkU2bVZsdU50UTN6TUpJODZtV1EzbTNCSmVIaz0ifQ%3D%3D&from=searchresults",
+    "address": "Bocagrande, Cartagena de Indias",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=India&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:13:50.919Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757243630919_4",
+    "name": "Hotel Dann Cartagena",
+    "price": 358,
+    "currency": "USD",
+    "rating": 8.7,
+    "stars": 9,
+    "reviewCount": 841,
+    "avgReview": "8.7/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/125213512.webp?k=5eeace8e3c6fdba04b3e7bad260420b3988e685a0855fad492479b789ab75703&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/co/dann-cartagena.html?aid=304142&label=gen173nr-10CAQoggJCDHNlYXJjaF9pbmRpYUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AurR9cUGwAIB0gIkZjBlMjg3YzQtOGI3YS00NjE0LTkwYjUtN2I3NzYwMjQzMThm2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=4cfa4ef523f60035&srepoch=1757243629&all_sr_blocks=29339311_253385703_2_1_0&highlighted_blocks=29339311_253385703_2_1_0&matching_block_id=29339311_253385703_2_1_0&sr_pri_blocks=29339311_253385703_2_1_0__35821&from=searchresults",
+    "address": "Laguito, Cartagena de Indias",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=India&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:13:50.919Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757243630919_5",
+    "name": "Hotel Don Pedro De Heredia",
+    "price": 300,
+    "currency": "USD",
+    "rating": 8,
+    "stars": 8,
+    "reviewCount": 717,
+    "avgReview": "8.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/514235372.webp?k=0f5538c52fb976565a61e4de5acaed3bbd8f47f8c2883a8195abfdd8679ce096&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/co/don-pedro-de-heredia.html?aid=304142&label=gen173nr-10CAQoggJCDHNlYXJjaF9pbmRpYUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AurR9cUGwAIB0gIkZjBlMjg3YzQtOGI3YS00NjE0LTkwYjUtN2I3NzYwMjQzMThm2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=4cfa4ef523f60035&srepoch=1757243629&all_sr_blocks=26078102_336051815_2_2_0&highlighted_blocks=26078102_336051815_2_2_0&matching_block_id=26078102_336051815_2_2_0&sr_pri_blocks=26078102_336051815_2_2_0__118800000&from=searchresults",
+    "address": "Centro, Cartagena de Indias",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=India&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:13:50.919Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757243630919_6",
+    "name": "Hotel Casa del Gobernador",
+    "price": 628,
+    "currency": "USD",
+    "rating": 9.4,
+    "stars": 9,
+    "reviewCount": 660,
+    "avgReview": "9.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/620585645.webp?k=49e7bc41aeeceb53d6523b9e37bdab1a8540e84c841d871e9765318dc254971c&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/co/casa-del-gobernador.html?aid=304142&label=gen173nr-10CAQoggJCDHNlYXJjaF9pbmRpYUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AurR9cUGwAIB0gIkZjBlMjg3YzQtOGI3YS00NjE0LTkwYjUtN2I3NzYwMjQzMThm2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=4cfa4ef523f60035&srepoch=1757243629&all_sr_blocks=1098052601_392180407_0_41_0_676311&highlighted_blocks=1098052601_392180407_0_41_0_676311&matching_block_id=1098052601_392180407_0_41_0_676311&sr_pri_blocks=1098052601_392180407_0_41_0_676311_248880000&from=searchresults",
+    "address": "Centro, Cartagena de Indias",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=India&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:13:50.919Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757243630919_7",
+    "name": "Hotel Regatta Cartagena",
+    "price": 422,
+    "currency": "USD",
+    "rating": 8.1,
+    "stars": 8,
+    "reviewCount": 453,
+    "avgReview": "8.1/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/497249931.webp?k=74c8d198ee5d2ead8f131f33f5bfd3513aca2c74f71d3c499d61ad7ee9b0082c&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/co/regatta-cartagena.html?aid=304142&label=gen173nr-10CAQoggJCDHNlYXJjaF9pbmRpYUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AurR9cUGwAIB0gIkZjBlMjg3YzQtOGI3YS00NjE0LTkwYjUtN2I3NzYwMjQzMThm2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=4cfa4ef523f60035&srepoch=1757243629&all_sr_blocks=28343911_410602629_2_1_0&highlighted_blocks=28343911_410602629_2_1_0&matching_block_id=28343911_410602629_2_1_0&sr_pri_blocks=28343911_410602629_2_1_0__167244084&from=searchresults",
+    "address": "Bocagrande, Cartagena de Indias",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=India&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:13:50.919Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757243630919_8",
+    "name": "Bondo Estudio",
+    "price": 237,
+    "currency": "USD",
+    "rating": 8.7,
+    "stars": 9,
+    "reviewCount": 454,
+    "avgReview": "8.7/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/508398327.webp?k=d77e198bf99ed72213ef65629ff903cf17e372dd7fbe9223c3d6a202511befc4&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/co/bondo-estudio.html?aid=304142&label=gen173nr-10CAQoggJCDHNlYXJjaF9pbmRpYUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AurR9cUGwAIB0gIkZjBlMjg3YzQtOGI3YS00NjE0LTkwYjUtN2I3NzYwMjQzMThm2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=4cfa4ef523f60035&srepoch=1757243629&all_sr_blocks=1070476303_379899474_2_0_0_1082696&highlighted_blocks=1070476303_379899474_2_0_0_1082696&matching_block_id=1070476303_379899474_2_0_0_1082696&sr_pri_blocks=1070476303_379899474_2_0_0_1082696_93936000&from=searchresults",
+    "address": "Marbella, Cartagena de Indias",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=India&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:13:50.919Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757243630919_9",
+    "name": "Hotel Casa La Fe",
+    "price": 437,
+    "currency": "USD",
+    "rating": 9.5,
+    "stars": 10,
+    "reviewCount": 375,
+    "avgReview": "9.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/336949976.webp?k=b95a9495f34b043232c88773abc9a747f622a8eb918a51dbc3706366c1e7b7d5&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/co/casa-la-fe.html?aid=304142&label=gen173nr-10CAQoggJCDHNlYXJjaF9pbmRpYUgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AurR9cUGwAIB0gIkZjBlMjg3YzQtOGI3YS00NjE0LTkwYjUtN2I3NzYwMjQzMThm2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=4cfa4ef523f60035&srepoch=1757243629&all_sr_blocks=30810101_415522263_0_1_0&highlighted_blocks=30810101_415522263_0_1_0&matching_block_id=30810101_415522263_0_1_0&sr_pri_blocks=30810101_415522263_0_1_0__173400000&from=searchresults",
+    "address": "Centro, Cartagena de Indias",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=India&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-07T11:13:50.919Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

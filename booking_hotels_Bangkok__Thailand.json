@@ -1,0 +1,272 @@
+[
+  {
+    "id": "hotel_1757166441978_0",
+    "name": "X Mitr Inn Khaosan",
+    "price": 34,
+    "currency": "USD",
+    "rating": 9.3,
+    "stars": 9,
+    "reviewCount": 443,
+    "avgReview": "9.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/741785107.webp?k=359df939ff0625175c1946296bb37884d20340fdbb05677aa8e4cdb17c943a27&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/th/mitr-inn-khaosan.html?aid=304142&label=gen173nr-10CAQoggJCGHNlYXJjaF9iYW5na29rLCB0aGFpbGFuZEgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Auf28MUGwAIB0gIkNWQ4NzY1MWYtYjNkYi00NTdhLTgzODktYmNhYTE4NDIzY2Nk2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-13&checkout=2025-09-16&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=7ee360f34f3c0030&srepoch=1757166441&all_sr_blocks=1455802901_416882259_2_0_0&highlighted_blocks=1455802901_416882259_2_0_0&matching_block_id=1455802901_416882259_2_0_0&sr_pri_blocks=1455802901_416882259_2_0_0__109790&from=searchresults",
+    "address": "Bangkok Old Town, Bangkok (Khaosan)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Bangkok%2C+Thailand&checkin=2025-09-13&checkout=2025-09-16&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757166438357&force_referer=",
+    "scrapedAt": "2025-09-06T13:47:21.978Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757166441978_1",
+    "name": "Solitaire Bangkok Sukhumvit 11",
+    "price": 199,
+    "currency": "USD",
+    "rating": 8.3,
+    "stars": 8,
+    "reviewCount": 299,
+    "avgReview": "8.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/583980092.webp?k=4ddf5838ec64c117f3c78d802a32f06b15812ce836a4dbec63336b2bddf2d36e&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/th/solitaire.html?aid=304142&label=gen173nr-10CAQoggJCGHNlYXJjaF9iYW5na29rLCB0aGFpbGFuZEgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Auf28MUGwAIB0gIkNWQ4NzY1MWYtYjNkYi00NTdhLTgzODktYmNhYTE4NDIzY2Nk2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-13&checkout=2025-09-16&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=7ee360f34f3c0030&srepoch=1757166441&all_sr_blocks=2717029_0_2_0_0&highlighted_blocks=2717029_0_2_0_0&matching_block_id=2717029_0_2_0_0&sr_pri_blocks=2717029_0_2_0_0__636997&from=searchresults",
+    "address": "Wattana, Bangkok (Sukhumvit)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Bangkok%2C+Thailand&checkin=2025-09-13&checkout=2025-09-16&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757166438357&force_referer=",
+    "scrapedAt": "2025-09-06T13:47:21.978Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757166441978_2",
+    "name": "Oriental Residence Bangkok",
+    "price": 341,
+    "currency": "USD",
+    "rating": 9.1,
+    "stars": 9,
+    "reviewCount": 567,
+    "avgReview": "9.1/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/736990913.webp?k=e7bef3431e59bb574beca35ca7ae0ee58e8c0372c7fa301d37a62fee8daf9b75&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/th/oriental-residence-bangkok.html?aid=304142&label=gen173nr-10CAQoggJCGHNlYXJjaF9iYW5na29rLCB0aGFpbGFuZEgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Auf28MUGwAIB0gIkNWQ4NzY1MWYtYjNkYi00NTdhLTgzODktYmNhYTE4NDIzY2Nk2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-13&checkout=2025-09-16&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=7ee360f34f3c0030&srepoch=1757166441&all_sr_blocks=35649220_0_2_0_0&highlighted_blocks=35649220_0_2_0_0&matching_block_id=35649220_0_2_0_0&sr_pri_blocks=35649220_0_2_0_0__1093556&from=searchresults",
+    "address": "Pathumwan, Bangkok (Chidlom)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Bangkok%2C+Thailand&checkin=2025-09-13&checkout=2025-09-16&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757166438357&force_referer=",
+    "scrapedAt": "2025-09-06T13:47:21.978Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757166441978_3",
+    "name": "Amari Bangkok",
+    "price": 386,
+    "currency": "USD",
+    "rating": 9,
+    "stars": 9,
+    "reviewCount": 469,
+    "avgReview": "9.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/354416692.webp?k=37125b3a884b9445b1b148ec45df7dbda0132651af441df52efc0d50f267d484&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/th/amari-watergate.html?aid=304142&label=gen173nr-10CAQoggJCGHNlYXJjaF9iYW5na29rLCB0aGFpbGFuZEgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Auf28MUGwAIB0gIkNWQ4NzY1MWYtYjNkYi00NTdhLTgzODktYmNhYTE4NDIzY2Nk2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-13&checkout=2025-09-16&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=7ee360f34f3c0030&srepoch=1757166441&all_sr_blocks=2739001_407322628_2_2_0_1189608&highlighted_blocks=2739001_407322628_2_2_0_1189608&matching_block_id=2739001_407322628_2_2_0_1189608&sr_pri_blocks=2739001_407322628_2_2_0_1189608_1235850&from=searchresults",
+    "address": "Pratunam, Bangkok (Pratunam)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Bangkok%2C+Thailand&checkin=2025-09-13&checkout=2025-09-16&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757166438357&force_referer=",
+    "scrapedAt": "2025-09-06T13:47:21.978Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757166441978_4",
+    "name": "SKYVIEW Hotel Bangkok - Sukhumvit",
+    "price": 435,
+    "currency": "USD",
+    "rating": 8.9,
+    "stars": 9,
+    "reviewCount": 533,
+    "avgReview": "8.9/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/483931444.webp?k=b3877a0a1a61eda7cda0e7b3f60a1844d51ee4db34b558bd3d7532d61dc6073a&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/th/skyview.html?aid=304142&label=gen173nr-10CAQoggJCGHNlYXJjaF9iYW5na29rLCB0aGFpbGFuZEgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Auf28MUGwAIB0gIkNWQ4NzY1MWYtYjNkYi00NTdhLTgzODktYmNhYTE4NDIzY2Nk2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-13&checkout=2025-09-16&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=7ee360f34f3c0030&srepoch=1757166441&all_sr_blocks=189295011_0_2_0_0&highlighted_blocks=189295011_0_2_0_0&matching_block_id=189295011_0_2_0_0&sr_pri_blocks=189295011_0_2_0_0__1395899&from=searchresults",
+    "address": "Khlong Toei, Bangkok (Sukhumvit)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Bangkok%2C+Thailand&checkin=2025-09-13&checkout=2025-09-16&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757166438357&force_referer=",
+    "scrapedAt": "2025-09-06T13:47:21.978Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757166441978_5",
+    "name": "Ascott Embassy Sathorn Bangkok",
+    "price": 335,
+    "currency": "USD",
+    "rating": 9,
+    "stars": 9,
+    "reviewCount": 981,
+    "avgReview": "9.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/627161557.webp?k=90135fec01cb56bdf74c7cf3e6074f6b4b881fdda2fdf598df84238838805560&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/th/ascott-embassy-sathorn-bangkok.html?aid=304142&label=gen173nr-10CAQoggJCGHNlYXJjaF9iYW5na29rLCB0aGFpbGFuZEgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Auf28MUGwAIB0gIkNWQ4NzY1MWYtYjNkYi00NTdhLTgzODktYmNhYTE4NDIzY2Nk2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-13&checkout=2025-09-16&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=7ee360f34f3c0030&srepoch=1757166441&all_sr_blocks=853915801_0_2_0_0&highlighted_blocks=853915801_0_2_0_0&matching_block_id=853915801_0_2_0_0&sr_pri_blocks=853915801_0_2_0_0__1073746&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Sathorn, Bangkok (Embassy District)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Bangkok%2C+Thailand&checkin=2025-09-13&checkout=2025-09-16&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757166438357&force_referer=",
+    "scrapedAt": "2025-09-06T13:47:21.978Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757166441978_6",
+    "name": "PARKROYAL Suites Bangkok",
+    "price": 269,
+    "currency": "USD",
+    "rating": 8.3,
+    "stars": 8,
+    "reviewCount": 690,
+    "avgReview": "8.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/597684990.webp?k=03c32f435d62a507f4bf0299adf38838559548741529d37d1c89f6cee7335582&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/th/parkroyal-suite-bangkok.html?aid=304142&label=gen173nr-10CAQoggJCGHNlYXJjaF9iYW5na29rLCB0aGFpbGFuZEgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Auf28MUGwAIB0gIkNWQ4NzY1MWYtYjNkYi00NTdhLTgzODktYmNhYTE4NDIzY2Nk2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-13&checkout=2025-09-16&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=7ee360f34f3c0030&srepoch=1757166441&all_sr_blocks=17655714_0_2_0_0&highlighted_blocks=17655714_0_2_0_0&matching_block_id=17655714_0_2_0_0&sr_pri_blocks=17655714_0_2_0_0__862087&from=searchresults",
+    "address": "Khlong Toei, Bangkok (Sukhumvit)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Bangkok%2C+Thailand&checkin=2025-09-13&checkout=2025-09-16&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757166438357&force_referer=",
+    "scrapedAt": "2025-09-06T13:47:21.978Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757166441978_7",
+    "name": "SAMALA Hotel Bangkok",
+    "price": 227,
+    "currency": "USD",
+    "rating": 8.8,
+    "stars": 9,
+    "reviewCount": 255,
+    "avgReview": "8.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/507268699.webp?k=5f460ca6a3be3253bc9be8151bfb4bf3830f66536a2b317be73568587408d86a&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/th/samala-bangkok.html?aid=304142&label=gen173nr-10CAQoggJCGHNlYXJjaF9iYW5na29rLCB0aGFpbGFuZEgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Auf28MUGwAIB0gIkNWQ4NzY1MWYtYjNkYi00NTdhLTgzODktYmNhYTE4NDIzY2Nk2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-13&checkout=2025-09-16&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=7ee360f34f3c0030&srepoch=1757166441&all_sr_blocks=1079818902_0_2_0_0&highlighted_blocks=1079818902_0_2_0_0&matching_block_id=1079818902_0_2_0_0&sr_pri_blocks=1079818902_0_2_0_0__727552&from=searchresults",
+    "address": "Wattana, Bangkok (Sukhumvit)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Bangkok%2C+Thailand&checkin=2025-09-13&checkout=2025-09-16&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757166438357&force_referer=",
+    "scrapedAt": "2025-09-06T13:47:21.978Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757166441978_8",
+    "name": "Night Hotel Bangkok - Sukhumvit 15",
+    "price": 215,
+    "currency": "USD",
+    "rating": 8.7,
+    "stars": 9,
+    "reviewCount": 384,
+    "avgReview": "8.7/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/603143401.webp?k=b55086f4d9a864aa3548ad09caf154cc3513116569ec1b501599080cfe8a3754&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/th/hotel-night-sukhumvit15.html?aid=304142&label=gen173nr-10CAQoggJCGHNlYXJjaF9iYW5na29rLCB0aGFpbGFuZEgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Auf28MUGwAIB0gIkNWQ4NzY1MWYtYjNkYi00NTdhLTgzODktYmNhYTE4NDIzY2Nk2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-13&checkout=2025-09-16&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=7ee360f34f3c0030&srepoch=1757166441&all_sr_blocks=2722601_0_2_0_0&highlighted_blocks=2722601_0_2_0_0&matching_block_id=2722601_0_2_0_0&sr_pri_blocks=2722601_0_2_0_0__688125&from=searchresults",
+    "address": "Wattana, Bangkok (Sukhumvit)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Bangkok%2C+Thailand&checkin=2025-09-13&checkout=2025-09-16&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757166438357&force_referer=",
+    "scrapedAt": "2025-09-06T13:47:21.978Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757166441978_9",
+    "name": "Hotel Icon Bangkok Sukhumvit 2",
+    "price": 231,
+    "currency": "USD",
+    "rating": 8.1,
+    "stars": 8,
+    "reviewCount": 95,
+    "avgReview": "8.1/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/233727453.webp?k=5812be5f8fba117ac970c547810841764d650e65e63ac9637ddf685e7c3b3692&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/th/icon-bangkok.html?aid=304142&label=gen173nr-10CAQoggJCGHNlYXJjaF9iYW5na29rLCB0aGFpbGFuZEgzWARo5AGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Auf28MUGwAIB0gIkNWQ4NzY1MWYtYjNkYi00NTdhLTgzODktYmNhYTE4NDIzY2Nk2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-09-13&checkout=2025-09-16&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=7ee360f34f3c0030&srepoch=1757166441&all_sr_blocks=86433401_362472605_2_2_0_714643&highlighted_blocks=86433401_362472605_2_2_0_714643&matching_block_id=86433401_362472605_2_2_0_714643&sr_pri_blocks=86433401_362472605_2_2_0_714643_741000&from=searchresults",
+    "address": "Khlong Toei, Bangkok (Sukhumvit)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Bangkok%2C+Thailand&checkin=2025-09-13&checkout=2025-09-16&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757166438357&force_referer=",
+    "scrapedAt": "2025-09-06T13:47:21.978Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

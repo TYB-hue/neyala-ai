@@ -1,0 +1,272 @@
+[
+  {
+    "id": "hotel_1757367660682_0",
+    "name": "Burj Khalifa View Downtown Dubai",
+    "price": 412,
+    "currency": "USD",
+    "rating": 9.7,
+    "stars": 10,
+    "reviewCount": 209,
+    "avgReview": "9.7/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/684530951.webp?k=baa63d62f5a06bccb0bfd852c675440173ffc8a35897aa1cd74672c60991a59a&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ae/burj-khalifa-view-downtown-dubai-dubai2.html?aid=304142&label=gen173nr-10CAQoggJCEXNlYXJjaF9kdWJhaSwgdWFlSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC55r9xQbAAgHSAiQyZDUyZmNiZC03NTZmLTRlMTgtYjExNC1iYWYyNDBjZTAzOGbYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-15&checkout=2025-09-18&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=99369873f591003b&srepoch=1757367659&all_sr_blocks=1349291401_407271915_5_0_0&highlighted_blocks=1349291401_407271915_5_0_0&matching_block_id=1349291401_407271915_5_0_0&sr_pri_blocks=1349291401_407271915_5_0_0__151200&from=searchresults",
+    "address": "Downtown Dubai, Dubai",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Dubai%2C+UAE&checkin=2025-09-15&checkout=2025-09-18&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-08T21:41:00.683Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757367660683_1",
+    "name": "Rove JBR",
+    "price": 191,
+    "currency": "USD",
+    "rating": 9.5,
+    "stars": 10,
+    "reviewCount": 446,
+    "avgReview": "9.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/578658137.webp?k=298500e1e853e92027d2578e52d03e51bc9dea60a528677064e5047a17453224&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ae/rove-jbr.html?aid=304142&label=gen173nr-10CAQoggJCEXNlYXJjaF9kdWJhaSwgdWFlSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC55r9xQbAAgHSAiQyZDUyZmNiZC03NTZmLTRlMTgtYjExNC1iYWYyNDBjZTAzOGbYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-15&checkout=2025-09-18&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=99369873f591003b&srepoch=1757367659&all_sr_blocks=1217100003_393872199_0_2_0_505825&highlighted_blocks=1217100003_393872199_0_2_0_505825&matching_block_id=1217100003_393872199_0_2_0_505825&sr_pri_blocks=1217100003_393872199_0_2_0_505825_69974&from=searchresults",
+    "address": "Jumeirah Beach Residence, Dubai (Beach & Coast)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Dubai%2C+UAE&checkin=2025-09-15&checkout=2025-09-18&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-08T21:41:00.683Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757367660683_2",
+    "name": "Atana Hotel",
+    "price": 109,
+    "currency": "USD",
+    "rating": 8.4,
+    "stars": 8,
+    "reviewCount": 673,
+    "avgReview": "8.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/59789878.webp?k=4158ab1a2e81cf4be56142752687e4d8a34c943b1d3d19f701826d0c0ff14dea&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ae/atana.html?aid=304142&label=gen173nr-10CAQoggJCEXNlYXJjaF9kdWJhaSwgdWFlSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC55r9xQbAAgHSAiQyZDUyZmNiZC03NTZmLTRlMTgtYjExNC1iYWYyNDBjZTAzOGbYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-15&checkout=2025-09-18&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=99369873f591003b&srepoch=1757367659&all_sr_blocks=150556209_0_2_0_0&highlighted_blocks=150556209_0_2_0_0&matching_block_id=150556209_0_2_0_0&sr_pri_blocks=150556209_0_2_0_0__40186&from=searchresults",
+    "address": "Al Barsha, Dubai",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Dubai%2C+UAE&checkin=2025-09-15&checkout=2025-09-18&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-08T21:41:00.683Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757367660683_3",
+    "name": "FIVE LUXE",
+    "price": 653,
+    "currency": "USD",
+    "rating": 9.4,
+    "stars": 9,
+    "reviewCount": 273,
+    "avgReview": "9.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/532286787.webp?k=b225bb29a52972e41afa90d0e886b9ab2e350fdde660c568bf21d80a62a6ba4a&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ae/five-luxe-llc.html?aid=304142&label=gen173nr-10CAQoggJCEXNlYXJjaF9kdWJhaSwgdWFlSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC55r9xQbAAgHSAiQyZDUyZmNiZC03NTZmLTRlMTgtYjExNC1iYWYyNDBjZTAzOGbYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-15&checkout=2025-09-18&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=99369873f591003b&srepoch=1757367659&all_sr_blocks=1112102218_390772805_2_34_0_319704&highlighted_blocks=1112102218_390772805_2_34_0_319704&matching_block_id=1112102218_390772805_2_34_0_319704&sr_pri_blocks=1112102218_390772805_2_34_0_319704_240000&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Jumeirah Beach Residence, Dubai (Beach & Coast)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Dubai%2C+UAE&checkin=2025-09-15&checkout=2025-09-18&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-08T21:41:00.683Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757367660683_4",
+    "name": "Leva Hotel and Suites, Opposite Downtown",
+    "price": 176,
+    "currency": "USD",
+    "rating": 8.9,
+    "stars": 9,
+    "reviewCount": 530,
+    "avgReview": "8.9/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/213788532.webp?k=63672c90c43ad140550462ede25e55117c826a4436eb2a2ca84f06df28c6dae6&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ae/leva-apartments.html?aid=304142&label=gen173nr-10CAQoggJCEXNlYXJjaF9kdWJhaSwgdWFlSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC55r9xQbAAgHSAiQyZDUyZmNiZC03NTZmLTRlMTgtYjExNC1iYWYyNDBjZTAzOGbYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-15&checkout=2025-09-18&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=99369873f591003b&srepoch=1757367659&all_sr_blocks=0_0_2_0_0&highlighted_blocks=0_0_2_0_0&matching_block_id=0_0_2_0_0&sr_pri_blocks=0_0_2_0_0__64560&from=searchresults",
+    "address": "Al Wasl, Dubai (Sheikh Zayed Road)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Dubai%2C+UAE&checkin=2025-09-15&checkout=2025-09-18&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-08T21:41:00.683Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757367660683_5",
+    "name": "One&Only One Za'abeel",
+    "price": 1,
+    "currency": "USD",
+    "rating": 9.1,
+    "stars": 9,
+    "reviewCount": 606,
+    "avgReview": "9.1/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/546843825.webp?k=75c96131ff777838bf07dcb6ec510df30ef83ca566dfde837fe38c44f7b8521f&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ae/one-amp-only-one-za-39-abeel.html?aid=304142&label=gen173nr-10CAQoggJCEXNlYXJjaF9kdWJhaSwgdWFlSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC55r9xQbAAgHSAiQyZDUyZmNiZC03NTZmLTRlMTgtYjExNC1iYWYyNDBjZTAzOGbYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-15&checkout=2025-09-18&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=99369873f591003b&srepoch=1757367659&all_sr_blocks=1025273301_0_2_1_0&highlighted_blocks=1025273301_0_2_1_0&matching_block_id=1025273301_0_2_1_0&sr_pri_blocks=1025273301_0_2_1_0__388199&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Trade Center Area, Dubai (Sheikh Zayed Road)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Dubai%2C+UAE&checkin=2025-09-15&checkout=2025-09-18&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-08T21:41:00.683Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757367660683_6",
+    "name": "FIVE Palm Jumeirah Dubai",
+    "price": 551,
+    "currency": "USD",
+    "rating": 9,
+    "stars": 9,
+    "reviewCount": 983,
+    "avgReview": "9.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/117749607.webp?k=8d316ce1b9e96ee12a805ec69d9434a85f6b3fd2eb7cab4dc866fffba1246b45&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ae/five-palm-jumeirah-dubai.html?aid=304142&label=gen173nr-10CAQoggJCEXNlYXJjaF9kdWJhaSwgdWFlSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC55r9xQbAAgHSAiQyZDUyZmNiZC03NTZmLTRlMTgtYjExNC1iYWYyNDBjZTAzOGbYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-15&checkout=2025-09-18&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=99369873f591003b&srepoch=1757367659&all_sr_blocks=219798912_363076152_2_42_0_308219&highlighted_blocks=219798912_363076152_2_42_0_308219&matching_block_id=219798912_363076152_2_42_0_308219&sr_pri_blocks=219798912_363076152_2_42_0_308219_202500&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Palm Jumeirah, Dubai (Beach & Coast)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Dubai%2C+UAE&checkin=2025-09-15&checkout=2025-09-18&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-08T21:41:00.683Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757367660683_7",
+    "name": "Nikki Beach Resort & Spa Dubai",
+    "price": 742,
+    "currency": "USD",
+    "rating": 9.1,
+    "stars": 9,
+    "reviewCount": 260,
+    "avgReview": "9.1/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/537712661.webp?k=eea21dcc49a59539186feea392659422df89b8683106f98537ae2ed7b98b89db&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ae/nikki-beach-resort-amp-spa-dubai.html?aid=304142&label=gen173nr-10CAQoggJCEXNlYXJjaF9kdWJhaSwgdWFlSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC55r9xQbAAgHSAiQyZDUyZmNiZC03NTZmLTRlMTgtYjExNC1iYWYyNDBjZTAzOGbYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-15&checkout=2025-09-18&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=99369873f591003b&srepoch=1757367659&all_sr_blocks=210671050_0_2_1_0&highlighted_blocks=210671050_0_2_1_0&matching_block_id=210671050_0_2_1_0&sr_pri_blocks=210671050_0_2_1_0__272643&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Beach & Coast, Dubai (Beach & Coast)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Dubai%2C+UAE&checkin=2025-09-15&checkout=2025-09-18&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-08T21:41:00.683Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757367660683_8",
+    "name": "Hotel Local Dubai at Jumeirah Village Triangle",
+    "price": 196,
+    "currency": "USD",
+    "rating": 9.3,
+    "stars": 9,
+    "reviewCount": 699,
+    "avgReview": "9.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/661701824.webp?k=2462ebb101f1784cd69b93e2fad6f3268db2d052bbea79bdc74accac61ee7c2f&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ae/local-at-jumeirah-village-triangle-by-the-first-collection.html?aid=304142&label=gen173nr-10CAQoggJCEXNlYXJjaF9kdWJhaSwgdWFlSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC55r9xQbAAgHSAiQyZDUyZmNiZC03NTZmLTRlMTgtYjExNC1iYWYyNDBjZTAzOGbYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-15&checkout=2025-09-18&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=99369873f591003b&srepoch=1757367659&all_sr_blocks=1364181101_410201395_2_42_0_1126095&highlighted_blocks=1364181101_410201395_2_42_0_1126095&matching_block_id=1364181101_410201395_2_42_0_1126095&sr_pri_blocks=1364181101_410201395_2_42_0_1126095_72000&from=searchresults",
+    "address": "Dubai",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Dubai%2C+UAE&checkin=2025-09-15&checkout=2025-09-18&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-08T21:41:00.683Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757367660683_9",
+    "name": "Citymax Hotel Al Barsha at the Mall",
+    "price": 111,
+    "currency": "USD",
+    "rating": 8.1,
+    "stars": 8,
+    "reviewCount": 234,
+    "avgReview": "8.1/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/268414613.webp?k=e640450c2710ffbb0c5b03213c0c0f009b9cfdc243dd9b465cf34c1c90cb44f0&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ae/citymax-al-barsha.html?aid=304142&label=gen173nr-10CAQoggJCEXNlYXJjaF9kdWJhaSwgdWFlSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC55r9xQbAAgHSAiQyZDUyZmNiZC03NTZmLTRlMTgtYjExNC1iYWYyNDBjZTAzOGbYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-15&checkout=2025-09-18&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=99369873f591003b&srepoch=1757367659&all_sr_blocks=23865003_88789285_0_2_0&highlighted_blocks=23865003_88789285_0_2_0&matching_block_id=23865003_88789285_0_2_0&sr_pri_blocks=23865003_88789285_0_2_0__40800&from=searchresults",
+    "address": "Al Barsha, Dubai",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Dubai%2C+UAE&checkin=2025-09-15&checkout=2025-09-18&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-08T21:41:00.683Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "hotel_1755803099753_2",
+    "name": "We don't have any available properties for your search",
+    "price": 0,
+    "currency": "USD",
+    "rating": 0,
+    "reviewCount": 121,
+    "avgReview": "0/5",
+    "images": [],
+    "bookingUrl": "",
+    "address": {
+      "ancestorOrigins": {},
+      "href": "https://www.expedia.com/Hotel-Search?destination=iraq+&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+      "origin": "https://www.expedia.com",
+      "protocol": "https:",
+      "host": "www.expedia.com",
+      "hostname": "www.expedia.com",
+      "port": "",
+      "pathname": "/Hotel-Search",
+      "search": "?destination=iraq+&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+      "hash": "",
+      "assign": {},
+      "reload": {},
+      "replace": {},
+      "toString": {}
+    },
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.expedia.com/Hotel-Search?destination=iraq+&startDate=2025-08-28&endDate=2025-08-31&adults=2&rooms=1&sort=RECOMMENDED",
+    "scrapedAt": "2025-08-21T19:04:59.753Z",
+    "source": "Expedia (ScraperAPI)"
+  }
+]

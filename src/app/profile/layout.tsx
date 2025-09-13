@@ -5,12 +5,11 @@ import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { 
   User, 
-  Building2, 
   Settings, 
   History, 
-  LogOut 
+  LogOut
 } from 'lucide-react';
-import { SignOutButton } from '@clerk/nextjs';
+import { useLogout } from '@/hooks/useLogout';
 
 export default function ProfileLayout({
   children,
@@ -18,17 +17,13 @@ export default function ProfileLayout({
   children: React.ReactNode;
 }) {
   const pathname = usePathname();
+  const { handleLogout, isLoggingOut } = useLogout();
 
   const menuItems = [
     {
       title: 'Your Profile',
       href: '/profile',
       icon: User,
-    },
-    {
-      title: 'Manage Hotels',
-      href: '/profile/hotels',
-      icon: Building2,
     },
     {
       title: 'Settings',
@@ -72,12 +67,14 @@ export default function ProfileLayout({
                   </Link>
                 );
               })}
-              <SignOutButton>
-                <button className="w-full flex items-center px-4 py-3 text-sm font-medium text-gray-600 hover:bg-gray-50 hover:text-gray-900 rounded-md">
-                  <LogOut className="mr-3 h-5 w-5 text-gray-400" />
-                  Log out
-                </button>
-              </SignOutButton>
+              <button 
+                onClick={handleLogout}
+                disabled={isLoggingOut}
+                className="w-full flex items-center px-4 py-3 text-sm font-medium text-gray-600 hover:bg-gray-50 hover:text-gray-900 rounded-md disabled:opacity-50"
+              >
+                <LogOut className="mr-3 h-5 w-5 text-gray-400" />
+                {isLoggingOut ? 'Logging out...' : 'Log out'}
+              </button>
             </nav>
           </div>
 

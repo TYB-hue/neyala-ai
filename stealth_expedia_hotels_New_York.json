@@ -1,0 +1,58 @@
+[
+  {
+    "id": "stealth_1755767729658_7pp8rk19i",
+    "name": "DatesAug 28 - Aug 31",
+    "price": 150,
+    "currency": "USD",
+    "rating": 4,
+    "reviewCount": 818,
+    "avgReview": "4/5",
+    "images": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800&h=600&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=800&h=600&fit=crop&q=80"
+    ],
+    "bookingUrl": "https://www.expedia.com/Hotel-Search?destination=DatesAug%2028%20-%20Aug%2031",
+    "address": "Address not available",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation - DatesAug 28 - Aug 31",
+    "scrapedAt": "2025-08-21T09:15:29.658Z",
+    "source": "Expedia (Stealth Mode)"
+  },
+  {
+    "id": "stealth_1755767729667_coij8czme",
+    "name": "Room 1",
+    "price": 150,
+    "currency": "USD",
+    "rating": 4,
+    "reviewCount": 145,
+    "avgReview": "4/5",
+    "images": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800&h=600&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=800&h=600&fit=crop&q=80"
+    ],
+    "bookingUrl": "https://www.expedia.com/Hotel-Search?destination=Room%201",
+    "address": "Address not available",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation - Room 1",
+    "scrapedAt": "2025-08-21T09:15:29.667Z",
+    "source": "Expedia (Stealth Mode)"
+  }
+]

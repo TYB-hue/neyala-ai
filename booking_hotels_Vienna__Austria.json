@@ -1,0 +1,272 @@
+[
+  {
+    "id": "hotel_1757259186101_0",
+    "name": "Historic Redesigned Schönbrunn Palace Apartments w Free Parking and 24h Check-in",
+    "price": 265,
+    "currency": "USD",
+    "rating": 8.3,
+    "stars": 8,
+    "reviewCount": 251,
+    "avgReview": "8.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/653034341.webp?k=d516925384d357fc8cf2ba1ce4811c67022d14137df2057f72e6b0504e5f74f8&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/at/historic-redesigned-schonbrunn-palace-apartments-w-free-parking-and-24h-check-in.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF92aWVubmEsIGF1c3RyaWFIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKvy_bFBsACAdICJDY1YzA5MjNjLTRmZjAtNDBmNC1hZDdiLTkyZmI5Y2YwZGY5OdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=9fc26d57297c07ea&srepoch=1757259185&all_sr_blocks=1368511402_409082408_2_0_0&highlighted_blocks=1368511402_409082408_2_0_0&matching_block_id=1368511402_409082408_2_0_0&sr_pri_blocks=1368511402_409082408_2_0_0__22610&from=searchresults",
+    "address": "12. Meidling, Vienna",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Vienna%2C+Austria&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757259182043&force_referer=",
+    "scrapedAt": "2025-09-07T15:33:06.102Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757259186102_1",
+    "name": "Rioca Vienna Posto 2",
+    "price": 772,
+    "currency": "USD",
+    "rating": 9,
+    "stars": 9,
+    "reviewCount": 406,
+    "avgReview": "9.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/353661089.webp?k=ef4bc9c5b26ae37b40a6eab5d4bee95239901d9b7b87140d98d8a8f361f3555a&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/at/rioca-vienna-posto-2.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF92aWVubmEsIGF1c3RyaWFIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKvy_bFBsACAdICJDY1YzA5MjNjLTRmZjAtNDBmNC1hZDdiLTkyZmI5Y2YwZGY5OdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=9fc26d57297c07ea&srepoch=1757259185&all_sr_blocks=750944006_335648648_0_2_0_736579&highlighted_blocks=750944006_335648648_0_2_0_736579&matching_block_id=750944006_335648648_0_2_0_736579&sr_pri_blocks=750944006_335648648_0_2_0_736579_65780&from=searchresults",
+    "address": "03. Landstraße, Vienna",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Vienna%2C+Austria&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757259182043&force_referer=",
+    "scrapedAt": "2025-09-07T15:33:06.102Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757259186102_2",
+    "name": "A&T Hotel & Hostel",
+    "price": 384,
+    "currency": "USD",
+    "rating": 8.2,
+    "stars": 8,
+    "reviewCount": 485,
+    "avgReview": "8.2/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/586237398.webp?k=4b79b21c945b3133ffad664cccda87ef5d391aba47147318005f9a3532c7a9b1&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/at/a-amp-t-holiday-hostel.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF92aWVubmEsIGF1c3RyaWFIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKvy_bFBsACAdICJDY1YzA5MjNjLTRmZjAtNDBmNC1hZDdiLTkyZmI5Y2YwZGY5OdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=9fc26d57297c07ea&srepoch=1757259185&all_sr_blocks=47338916_93758903_4_2_0&highlighted_blocks=47338916_93758903_4_2_0&matching_block_id=47338916_93758903_4_2_0&sr_pri_blocks=47338916_93758903_4_2_0__32695&from=searchresults",
+    "address": "10. Favoriten, Vienna",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Vienna%2C+Austria&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757259182043&force_referer=",
+    "scrapedAt": "2025-09-07T15:33:06.102Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757259186102_3",
+    "name": "The Levante Rathaus Apartments",
+    "price": 735,
+    "currency": "USD",
+    "rating": 8.6,
+    "stars": 9,
+    "reviewCount": 697,
+    "avgReview": "8.6/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/308221959.webp?k=ebe9d3425c2ec1ce0eb3c7c961d01466eefe77043644dcb604dd057e157d4567&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/at/thelevantelaudon.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF92aWVubmEsIGF1c3RyaWFIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKvy_bFBsACAdICJDY1YzA5MjNjLTRmZjAtNDBmNC1hZDdiLTkyZmI5Y2YwZGY5OdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=9fc26d57297c07ea&srepoch=1757259185&all_sr_blocks=0_0_2_0_0&highlighted_blocks=0_0_2_0_0&matching_block_id=0_0_2_0_0&sr_pri_blocks=0_0_2_0_0__62600&from=searchresults",
+    "address": "08. Josefstadt, Vienna",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Vienna%2C+Austria&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757259182043&force_referer=",
+    "scrapedAt": "2025-09-07T15:33:06.102Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757259186102_4",
+    "name": "Private CENTRAL Vienna I Self Check In",
+    "price": 1,
+    "currency": "USD",
+    "rating": 9.1,
+    "stars": 9,
+    "reviewCount": 193,
+    "avgReview": "9.1/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/410731661.webp?k=d7c6d09d820f679005dabcb010f5240c39dda8198090e5247fe88442839bfe4b&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/at/private-c-e-n-t-r-a-l-vienna.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF92aWVubmEsIGF1c3RyaWFIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKvy_bFBsACAdICJDY1YzA5MjNjLTRmZjAtNDBmNC1hZDdiLTkyZmI5Y2YwZGY5OdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=9fc26d57297c07ea&srepoch=1757259185&all_sr_blocks=746071906_419913754_2_0_0&highlighted_blocks=746071906_419913754_2_0_0&matching_block_id=746071906_419913754_2_0_0&sr_pri_blocks=746071906_419913754_2_0_0__94800&from=searchresults",
+    "address": "01. Innere Stadt, Vienna",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Vienna%2C+Austria&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757259182043&force_referer=",
+    "scrapedAt": "2025-09-07T15:33:06.102Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757259186102_5",
+    "name": "Ruby Marie Hotel Vienna",
+    "price": 872,
+    "currency": "USD",
+    "rating": 8.5,
+    "stars": 9,
+    "reviewCount": 113,
+    "avgReview": "8.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/638300034.webp?k=c26ef22dc15a4f06f26ff15108bdf619a347ebbd3fa5113ccec969f41169b001&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/at/ruby-marie-vienna-wien2.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF92aWVubmEsIGF1c3RyaWFIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKvy_bFBsACAdICJDY1YzA5MjNjLTRmZjAtNDBmNC1hZDdiLTkyZmI5Y2YwZGY5OdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=9fc26d57297c07ea&srepoch=1757259185&all_sr_blocks=156722103_127030710_2_2_0&highlighted_blocks=156722103_127030710_2_2_0&matching_block_id=156722103_127030710_2_2_0&sr_pri_blocks=156722103_127030710_2_2_0__74300&from_sustainable_property_sr=1&from=searchresults",
+    "address": "07. Neubau, Vienna",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Vienna%2C+Austria&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757259182043&force_referer=",
+    "scrapedAt": "2025-09-07T15:33:06.102Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757259186102_6",
+    "name": "Hotel Schani Wien Hauptbahnhof",
+    "price": 561,
+    "currency": "USD",
+    "rating": 8.6,
+    "stars": 9,
+    "reviewCount": 813,
+    "avgReview": "8.6/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/183625118.webp?k=094e837c840974bb9c11a76c9f1d262782225156a363dc935cf73061b99ce2b1&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/at/schani-wien.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF92aWVubmEsIGF1c3RyaWFIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKvy_bFBsACAdICJDY1YzA5MjNjLTRmZjAtNDBmNC1hZDdiLTkyZmI5Y2YwZGY5OdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=9fc26d57297c07ea&srepoch=1757259185&all_sr_blocks=128759702_0_2_0_0&highlighted_blocks=128759702_0_2_0_0&matching_block_id=128759702_0_2_0_0&sr_pri_blocks=128759702_0_2_0_0__47793&from_sustainable_property_sr=1&from=searchresults",
+    "address": "10. Favoriten, Vienna",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Vienna%2C+Austria&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757259182043&force_referer=",
+    "scrapedAt": "2025-09-07T15:33:06.102Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757259186102_7",
+    "name": "The Leo Grand",
+    "price": 1,
+    "currency": "USD",
+    "rating": 9.4,
+    "stars": 9,
+    "reviewCount": 409,
+    "avgReview": "9.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/385143879.webp?k=c1edec6ceef559df0d6353fc943c3bab2cdae5ba0b26b891d59f8291f55c18af&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/at/the-leo-grand.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF92aWVubmEsIGF1c3RyaWFIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKvy_bFBsACAdICJDY1YzA5MjNjLTRmZjAtNDBmNC1hZDdiLTkyZmI5Y2YwZGY5OdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=9fc26d57297c07ea&srepoch=1757259185&all_sr_blocks=826255303_347102318_0_2_0&highlighted_blocks=826255303_347102318_0_2_0&matching_block_id=826255303_347102318_0_2_0&sr_pri_blocks=826255303_347102318_0_2_0__167925&from=searchresults",
+    "address": "01. Innere Stadt, Vienna",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Vienna%2C+Austria&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757259182043&force_referer=",
+    "scrapedAt": "2025-09-07T15:33:06.102Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757259186102_8",
+    "name": "Vienna Lotus Apartments",
+    "price": 629,
+    "currency": "USD",
+    "rating": 8.4,
+    "stars": 8,
+    "reviewCount": 562,
+    "avgReview": "8.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/519194810.webp?k=a6daf5648c1f80fa9800047c456900143c0931d0843a16c4e22a2e83c6cdd004&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/at/vienna-lotus-apartments-wien.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF92aWVubmEsIGF1c3RyaWFIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKvy_bFBsACAdICJDY1YzA5MjNjLTRmZjAtNDBmNC1hZDdiLTkyZmI5Y2YwZGY5OdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=9fc26d57297c07ea&srepoch=1757259185&all_sr_blocks=1117606317_407327434_0_0_0&highlighted_blocks=1117606317_407327434_0_0_0&matching_block_id=1117606317_407327434_0_0_0&sr_pri_blocks=1117606317_407327434_0_0_0__53609&from=searchresults",
+    "address": "16. Ottakring, Vienna",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Vienna%2C+Austria&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757259182043&force_referer=",
+    "scrapedAt": "2025-09-07T15:33:06.102Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757259186102_9",
+    "name": "Ibis budget Wien Sankt Marx",
+    "price": 373,
+    "currency": "USD",
+    "rating": 7.5,
+    "stars": 8,
+    "reviewCount": 670,
+    "avgReview": "7.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/162062678.webp?k=7b894083c0ebafbb9a473b74e4000c20ab47cc32af9e630ea5fa9257272d2f57&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/at/ibis-wien-sankt-marx.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF92aWVubmEsIGF1c3RyaWFIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKvy_bFBsACAdICJDY1YzA5MjNjLTRmZjAtNDBmNC1hZDdiLTkyZmI5Y2YwZGY5OdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=9fc26d57297c07ea&srepoch=1757259185&all_sr_blocks=59324206_94496581_2_2_0&highlighted_blocks=59324206_94496581_2_2_0&matching_block_id=59324206_94496581_2_2_0&sr_pri_blocks=59324206_94496581_2_2_0__31806&from=searchresults",
+    "address": "03. Landstraße, Vienna",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Vienna%2C+Austria&checkin=2025-09-14&checkout=2025-09-17&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757259182043&force_referer=",
+    "scrapedAt": "2025-09-07T15:33:06.102Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

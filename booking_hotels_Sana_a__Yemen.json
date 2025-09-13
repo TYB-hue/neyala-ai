@@ -1,0 +1,191 @@
+[
+  {
+    "id": "hotel_1757009539931_0",
+    "name": "SabaSofitel Apartments سبأ سوفتيل للشقق المفروشة",
+    "price": 230,
+    "currency": "USD",
+    "rating": 4.139490883330715,
+    "stars": 4,
+    "reviewCount": 656,
+    "avgReview": "4.1/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/648023754.webp?k=be78c19c0f4d23aa69a0301e47232c5b2464e6f758cc0a247fe0f58df38847e1&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ye/sabasofitel-apartments-sb-swftyl-llshqq-lmfrwsh.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9zYW5hJ2EsIHllbWVuSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC_6znxQbAAgHSAiQ1YjNlMmEyNy0zZjhjLTRkZTctODNkNS0wYjhlZGMxZTYxMGXYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-11&checkout=2025-09-14&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=95ff7fff699a0130&srepoch=1757009538&all_sr_blocks=1361234801_408432088_2_0_0&highlighted_blocks=1361234801_408432088_2_0_0&matching_block_id=1361234801_408432088_2_0_0&sr_pri_blocks=1361234801_408432088_2_0_0__22950&from=searchresults",
+    "address": "‘Aţţān",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Sana%27a%2C+Yemen&checkin=2025-09-11&checkout=2025-09-14&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-04T18:12:19.931Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757009539931_1",
+    "name": "Hada deluxe 3 Rooms Apartment",
+    "price": 259,
+    "currency": "USD",
+    "rating": 4.855996823931649,
+    "stars": 5,
+    "reviewCount": 983,
+    "avgReview": "4.9/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/654071814.webp?k=ffd84963d37c33e99c1fc064de91fb10bc007adbb4a0cd9bbb221b7a41a8abcc&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ye/hada-deluxe-flat.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9zYW5hJ2EsIHllbWVuSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC_6znxQbAAgHSAiQ1YjNlMmEyNy0zZjhjLTRkZTctODNkNS0wYjhlZGMxZTYxMGXYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-11&checkout=2025-09-14&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=95ff7fff699a0130&srepoch=1757009538&all_sr_blocks=1337644601_406207278_2_0_0&highlighted_blocks=1337644601_406207278_2_0_0&matching_block_id=1337644601_406207278_2_0_0&sr_pri_blocks=1337644601_406207278_2_0_0__25920&from=searchresults",
+    "address": "Sana‘",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Sana%27a%2C+Yemen&checkin=2025-09-11&checkout=2025-09-14&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-04T18:12:19.931Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757009539931_2",
+    "name": "شاليه واستراحة روزلاند",
+    "price": 1,
+    "currency": "USD",
+    "rating": 3.0169379717783262,
+    "stars": 3,
+    "reviewCount": 555,
+    "avgReview": "3.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/729298831.webp?k=b9098deaa4601ab4617f991efcb920e7f673881d15ba403db1f02c4cd57ee229&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ye/shlyh-wstrh-rwzlnd.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9zYW5hJ2EsIHllbWVuSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC_6znxQbAAgHSAiQ1YjNlMmEyNy0zZjhjLTRkZTctODNkNS0wYjhlZGMxZTYxMGXYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-11&checkout=2025-09-14&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=95ff7fff699a0130&srepoch=1757009538&all_sr_blocks=1473948701_418755914_50_0_0&highlighted_blocks=1473948701_418755914_50_0_0&matching_block_id=1473948701_418755914_50_0_0&sr_pri_blocks=1473948701_418755914_50_0_0__135000&from=searchresults",
+    "address": "Ḩişn al Qā‘",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Sana%27a%2C+Yemen&checkin=2025-09-11&checkout=2025-09-14&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-04T18:12:19.931Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757009539931_3",
+    "name": "Yemen houstel",
+    "price": 10,
+    "currency": "USD",
+    "rating": 4.276035100395561,
+    "stars": 4,
+    "reviewCount": 442,
+    "avgReview": "4.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/637590246.webp?k=7dc64ff2b6e73776961828b0584bc9b2db67747359af1da3ace55312cad99ddb&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ye/yemen-houstel.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9zYW5hJ2EsIHllbWVuSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC_6znxQbAAgHSAiQ1YjNlMmEyNy0zZjhjLTRkZTctODNkNS0wYjhlZGMxZTYxMGXYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-11&checkout=2025-09-14&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=95ff7fff699a0130&srepoch=1757009538&all_sr_blocks=1343924401_406751824_2_0_0&highlighted_blocks=1343924401_406751824_2_0_0&matching_block_id=1343924401_406751824_2_0_0&sr_pri_blocks=1343924401_406751824_2_0_0__1020&from=searchresults",
+    "address": "Madhbaḩ",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Sana%27a%2C+Yemen&checkin=2025-09-11&checkout=2025-09-14&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-04T18:12:19.931Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757009539931_4",
+    "name": "Artel luxury Suits",
+    "price": 360,
+    "currency": "USD",
+    "rating": 3.4303021289066304,
+    "stars": 3,
+    "reviewCount": 561,
+    "avgReview": "3.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/736888462.webp?k=cd6e387bbc3cdfc0f0f068eb95f327d3a5da1f7747a8f0e4eb665c62afafafbc&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ye/artel-luxury-suits.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9zYW5hJ2EsIHllbWVuSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC_6znxQbAAgHSAiQ1YjNlMmEyNy0zZjhjLTRkZTctODNkNS0wYjhlZGMxZTYxMGXYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-11&checkout=2025-09-14&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=95ff7fff699a0130&srepoch=1757009538&all_sr_blocks=1482144102_419925103_2_0_0&highlighted_blocks=1482144102_419925103_2_0_0&matching_block_id=1482144102_419925103_2_0_0&sr_pri_blocks=1482144102_419925103_2_0_0__36034&from=searchresults",
+    "address": "Al Qirrān",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Sana%27a%2C+Yemen&checkin=2025-09-11&checkout=2025-09-14&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-04T18:12:19.931Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757009539931_5",
+    "name": "شاليه واستراحة غروب",
+    "price": 1,
+    "currency": "USD",
+    "rating": 4.844626510455244,
+    "stars": 5,
+    "reviewCount": 708,
+    "avgReview": "4.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/729293211.webp?k=18eb4f42e62d781f23f32e016797318cdc52676492161197b1650fdafd6acbbb&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ye/shlyh-wstrh-grwb.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9zYW5hJ2EsIHllbWVuSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC_6znxQbAAgHSAiQ1YjNlMmEyNy0zZjhjLTRkZTctODNkNS0wYjhlZGMxZTYxMGXYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-11&checkout=2025-09-14&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=95ff7fff699a0130&srepoch=1757009538&all_sr_blocks=1473935301_418755394_30_0_0&highlighted_blocks=1473935301_418755394_30_0_0&matching_block_id=1473935301_418755394_30_0_0&sr_pri_blocks=1473935301_418755394_30_0_0__135000&from=searchresults",
+    "address": "Aţ Ţuwayr",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Sana%27a%2C+Yemen&checkin=2025-09-11&checkout=2025-09-14&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-04T18:12:19.931Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757009539931_6",
+    "name": "كمباوند شاليهات فابيلوس",
+    "price": 2,
+    "currency": "USD",
+    "rating": 10,
+    "stars": 10,
+    "reviewCount": 266,
+    "avgReview": "10.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/718423770.webp?k=cdbf6ff026eae153b728edf140fc926da17e0bc63db8e74e6bf7ab6102d0317b&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/ye/shlyht-fbylws.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9zYW5hJ2EsIHllbWVuSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC_6znxQbAAgHSAiQ1YjNlMmEyNy0zZjhjLTRkZTctODNkNS0wYjhlZGMxZTYxMGXYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-11&checkout=2025-09-14&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=95ff7fff699a0130&srepoch=1757009538&all_sr_blocks=1456407501_419443611_0_0_0&highlighted_blocks=1456407501_419443611_0_0_0&matching_block_id=1456407501_419443611_0_0_0&sr_pri_blocks=1456407501_419443611_0_0_0__213300&from=searchresults",
+    "address": "Maḩall Rayd",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Sana%27a%2C+Yemen&checkin=2025-09-11&checkout=2025-09-14&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-04T18:12:19.931Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

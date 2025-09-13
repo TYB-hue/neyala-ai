@@ -1,0 +1,142 @@
+[
+  {
+    "id": "fallback_1",
+    "name": "Grand tokyo Hotel",
+    "price": 750,
+    "currency": "USD",
+    "rating": 5,
+    "reviewCount": 860,
+    "avgReview": "5/5",
+    "images": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800&h=600&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=800&h=600&fit=crop&q=80"
+    ],
+    "bookingUrl": "https://www.expedia.com/Hotel-Search?destination=Grand%20tokyo%20Hotel",
+    "address": "Tokyo, Japan",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable luxury accommodation in Tokyo, Japan",
+    "scrapedAt": "2025-08-21T18:01:05.773Z",
+    "source": "Fallback"
+  },
+  {
+    "id": "fallback_2",
+    "name": "tokyo Comfort Inn",
+    "price": 214,
+    "currency": "USD",
+    "rating": 4.4,
+    "reviewCount": 822,
+    "avgReview": "4.4/5",
+    "images": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800&h=600&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=800&h=600&fit=crop&q=80"
+    ],
+    "bookingUrl": "https://www.expedia.com/Hotel-Search?destination=tokyo%20Comfort%20Inn",
+    "address": "Tokyo, Japan",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable mid accommodation in Tokyo, Japan",
+    "scrapedAt": "2025-08-21T18:01:05.773Z",
+    "source": "Fallback"
+  },
+  {
+    "id": "fallback_3",
+    "name": "tokyo Hostel",
+    "price": 71,
+    "currency": "USD",
+    "rating": 3.5,
+    "reviewCount": 752,
+    "avgReview": "3.5/5",
+    "images": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800&h=600&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=800&h=600&fit=crop&q=80"
+    ],
+    "bookingUrl": "https://www.expedia.com/Hotel-Search?destination=tokyo%20Hostel",
+    "address": "Tokyo, Japan",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable budget accommodation in Tokyo, Japan",
+    "scrapedAt": "2025-08-21T18:01:05.773Z",
+    "source": "Fallback"
+  },
+  {
+    "id": "fallback_4",
+    "name": "tokyo Plaza Hotel",
+    "price": 781,
+    "currency": "USD",
+    "rating": 4.7,
+    "reviewCount": 165,
+    "avgReview": "4.7/5",
+    "images": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800&h=600&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=800&h=600&fit=crop&q=80"
+    ],
+    "bookingUrl": "https://www.expedia.com/Hotel-Search?destination=tokyo%20Plaza%20Hotel",
+    "address": "Tokyo, Japan",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable luxury accommodation in Tokyo, Japan",
+    "scrapedAt": "2025-08-21T18:01:05.773Z",
+    "source": "Fallback"
+  },
+  {
+    "id": "fallback_5",
+    "name": "tokyo Express Inn",
+    "price": 345,
+    "currency": "USD",
+    "rating": 4.4,
+    "reviewCount": 201,
+    "avgReview": "4.4/5",
+    "images": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800&h=600&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=800&h=600&fit=crop&q=80"
+    ],
+    "bookingUrl": "https://www.expedia.com/Hotel-Search?destination=tokyo%20Express%20Inn",
+    "address": "Tokyo, Japan",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable mid accommodation in Tokyo, Japan",
+    "scrapedAt": "2025-08-21T18:01:05.773Z",
+    "source": "Fallback"
+  }
+]

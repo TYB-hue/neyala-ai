@@ -1,0 +1,272 @@
+[
+  {
+    "id": "hotel_1757515484900_0",
+    "name": "Home Story in Tokyo Hirai&新宿-Ueno-秋葉原まで直通&東京屋語",
+    "price": 376,
+    "currency": "USD",
+    "rating": 8.8,
+    "stars": 9,
+    "reviewCount": 819,
+    "avgReview": "8.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/666112859.webp?k=1679458859e060878faf95ca0985137ca8aa436dda99657ff69e697e66861f00&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/jp/home-story-in-tokyo-hirai-akihabara.html?aid=304142&label=gen173nr-10CAQoggJCE3NlYXJjaF90b2t5bywgamFwYW5IM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALXnYbGBsACAdICJDlhOGExYTUzLWIyMGEtNDRiOS1hMDZiLTg4MmE3MTE2ODA0YdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=921f67ab90b1097b&srepoch=1757515483&all_sr_blocks=1386741903_419830029_2_0_0&highlighted_blocks=1386741903_419830029_2_0_0&matching_block_id=1386741903_419830029_2_0_0&sr_pri_blocks=1386741903_419830029_2_0_0__5530000&from=searchresults",
+    "address": "Edogawa, Tokyo",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Tokyo%2C+Japan&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-10T14:44:44.900Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757515484900_1",
+    "name": "remm plus Ginza",
+    "price": 571,
+    "currency": "USD",
+    "rating": 8.5,
+    "stars": 9,
+    "reviewCount": 1000,
+    "avgReview": "8.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/243472697.webp?k=8274b10ae1395e74d9587908fb9a20157d175dcb793f7385cf962e9fc9a5220d&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/jp/remm-plus-ginza.html?aid=304142&label=gen173nr-10CAQoggJCE3NlYXJjaF90b2t5bywgamFwYW5IM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALXnYbGBsACAdICJDlhOGExYTUzLWIyMGEtNDRiOS1hMDZiLTg4MmE3MTE2ODA0YdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=921f67ab90b1097b&srepoch=1757515483&all_sr_blocks=514685701_244788726_2_2_0&highlighted_blocks=514685701_244788726_2_2_0&matching_block_id=514685701_244788726_2_2_0&sr_pri_blocks=514685701_244788726_2_2_0__8393250&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Chuo Ward, Tokyo (Ginza)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Tokyo%2C+Japan&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-10T14:44:44.900Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757515484900_2",
+    "name": "Hotel Mystays Premier Hamamatsucho",
+    "price": 419,
+    "currency": "USD",
+    "rating": 8.4,
+    "stars": 8,
+    "reviewCount": 666,
+    "avgReview": "8.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/83389472.webp?k=c258a0f5e03e65fb578acf3fef1c68c6ac38693a8b23f72f6de91ef6697f34e1&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/jp/art-hotels-hamamatsucho.html?aid=304142&label=gen173nr-10CAQoggJCE3NlYXJjaF90b2t5bywgamFwYW5IM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALXnYbGBsACAdICJDlhOGExYTUzLWIyMGEtNDRiOS1hMDZiLTg4MmE3MTE2ODA0YdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=921f67ab90b1097b&srepoch=1757515483&all_sr_blocks=57060763_412089607_2_2_0&highlighted_blocks=57060763_412089607_2_2_0&matching_block_id=57060763_412089607_2_2_0&sr_pri_blocks=57060763_412089607_2_2_0__6160000&from=searchresults",
+    "address": "Minato, Tokyo (Shiba)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Tokyo%2C+Japan&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-10T14:44:44.900Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757515484900_3",
+    "name": "Hotel Mystays Premier Akasaka",
+    "price": 381,
+    "currency": "USD",
+    "rating": 8.2,
+    "stars": 8,
+    "reviewCount": 473,
+    "avgReview": "8.2/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/76546783.webp?k=3b165c0c6781d486a9a5f0a7074f3977e6d02b710a223e1b78d0608c27e2b37e&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/jp/mystays-akasaka.html?aid=304142&label=gen173nr-10CAQoggJCE3NlYXJjaF90b2t5bywgamFwYW5IM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALXnYbGBsACAdICJDlhOGExYTUzLWIyMGEtNDRiOS1hMDZiLTg4MmE3MTE2ODA0YdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=921f67ab90b1097b&srepoch=1757515483&all_sr_blocks=174729918_123048092_2_2_0&highlighted_blocks=174729918_123048092_2_2_0&matching_block_id=174729918_123048092_2_2_0&sr_pri_blocks=174729918_123048092_2_2_0__5600000&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Minato, Tokyo (Akasaka)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Tokyo%2C+Japan&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-10T14:44:44.900Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757515484900_4",
+    "name": "YOTEL Tokyo Ginza",
+    "price": 472,
+    "currency": "USD",
+    "rating": 8.6,
+    "stars": 9,
+    "reviewCount": 713,
+    "avgReview": "8.6/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/642332149.webp?k=cd3d10d3cfedf6e2e64f01987b498002677f7e2b152c5976364f62707f2d0b14&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/jp/yotel-tokyo-ginza.html?aid=304142&label=gen173nr-10CAQoggJCE3NlYXJjaF90b2t5bywgamFwYW5IM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALXnYbGBsACAdICJDlhOGExYTUzLWIyMGEtNDRiOS1hMDZiLTg4MmE3MTE2ODA0YdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=921f67ab90b1097b&srepoch=1757515483&all_sr_blocks=1281788301_416890148_0_2_0&highlighted_blocks=1281788301_416890148_0_2_0&matching_block_id=1281788301_416890148_0_2_0&sr_pri_blocks=1281788301_416890148_0_2_0__6948000&from=searchresults",
+    "address": "Minato, Tokyo (Ginza)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Tokyo%2C+Japan&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-10T14:44:44.900Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757515484900_5",
+    "name": "The OneFive Tokyo Kameido",
+    "price": 233,
+    "currency": "USD",
+    "rating": 8,
+    "stars": 8,
+    "reviewCount": 525,
+    "avgReview": "8.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/615797055.webp?k=320e38febbd1cb862012ad48861d2b4bb52d62892d0e31d0a296308076d2d27c&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/jp/the-onefive-tokyo-kameido.html?aid=304142&label=gen173nr-10CAQoggJCE3NlYXJjaF90b2t5bywgamFwYW5IM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALXnYbGBsACAdICJDlhOGExYTUzLWIyMGEtNDRiOS1hMDZiLTg4MmE3MTE2ODA0YdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=921f67ab90b1097b&srepoch=1757515483&all_sr_blocks=1304390404_403301760_0_0_0&highlighted_blocks=1304390404_403301760_0_0_0&matching_block_id=1304390404_403301760_0_0_0&sr_pri_blocks=1304390404_403301760_0_0_0__3432000&from=searchresults",
+    "address": "Koto Ward, Tokyo",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Tokyo%2C+Japan&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-10T14:44:44.900Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757515484900_6",
+    "name": "SAKE Bar Hotel Asakusa",
+    "price": 415,
+    "currency": "USD",
+    "rating": 9,
+    "stars": 9,
+    "reviewCount": 823,
+    "avgReview": "9.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/506417506.webp?k=e284707e74ea360482888e72c373d3a5982aef9b58269579c70e9385a4905197&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/jp/sake-bar-asakusa.html?aid=304142&label=gen173nr-10CAQoggJCE3NlYXJjaF90b2t5bywgamFwYW5IM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALXnYbGBsACAdICJDlhOGExYTUzLWIyMGEtNDRiOS1hMDZiLTg4MmE3MTE2ODA0YdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=921f67ab90b1097b&srepoch=1757515483&all_sr_blocks=1102635807_383051436_2_1_0&highlighted_blocks=1102635807_383051436_2_1_0&matching_block_id=1102635807_383051436_2_1_0&sr_pri_blocks=1102635807_383051436_2_1_0__6101000&from=searchresults",
+    "address": "Taito, Tokyo (Asakusa)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Tokyo%2C+Japan&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-10T14:44:44.900Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757515484900_7",
+    "name": "Hotel Wing International Premium Tokyo Yotsuya",
+    "price": 428,
+    "currency": "USD",
+    "rating": 8.2,
+    "stars": 8,
+    "reviewCount": 526,
+    "avgReview": "8.2/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/515850124.webp?k=3149ab00428f3d554d2210b09f418b31149a0bdee31431e4fbd1c6f3d25ad04a&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/jp/wing-international-tokyo-yotsuya.html?aid=304142&label=gen173nr-10CAQoggJCE3NlYXJjaF90b2t5bywgamFwYW5IM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALXnYbGBsACAdICJDlhOGExYTUzLWIyMGEtNDRiOS1hMDZiLTg4MmE3MTE2ODA0YdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=921f67ab90b1097b&srepoch=1757515483&all_sr_blocks=103720204_380350158_2_2_0&highlighted_blocks=103720204_380350158_2_2_0&matching_block_id=103720204_380350158_2_2_0&sr_pri_blocks=103720204_380350158_2_2_0__6300180&from=searchresults",
+    "address": "Shinjuku Ward, Tokyo (Shinjuku Area)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Tokyo%2C+Japan&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-10T14:44:44.900Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757515484900_8",
+    "name": "APA Hotel Nihombashi Bakuroyokoyama Ekimae",
+    "price": 387,
+    "currency": "USD",
+    "rating": 8.4,
+    "stars": 8,
+    "reviewCount": 943,
+    "avgReview": "8.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/267970549.webp?k=d43562bb502d63c0ca0d85b91fb458121e79cc34952d23d79367d6b77eb4e884&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/jp/apahotel-nihonbashi-bakuroyokoyama-ekimae.html?aid=304142&label=gen173nr-10CAQoggJCE3NlYXJjaF90b2t5bywgamFwYW5IM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALXnYbGBsACAdICJDlhOGExYTUzLWIyMGEtNDRiOS1hMDZiLTg4MmE3MTE2ODA0YdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=921f67ab90b1097b&srepoch=1757515483&all_sr_blocks=637975802_401023827_0_0_0&highlighted_blocks=637975802_401023827_0_0_0&matching_block_id=637975802_401023827_0_0_0&sr_pri_blocks=637975802_401023827_0_0_0__5696000&from=searchresults",
+    "address": "Chuo Ward, Tokyo (Nihonbashi)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Tokyo%2C+Japan&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-10T14:44:44.900Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1757515484900_9",
+    "name": "Mitsui Garden Hotel Roppongi Tokyo Premier",
+    "price": 790,
+    "currency": "USD",
+    "rating": 8.4,
+    "stars": 8,
+    "reviewCount": 416,
+    "avgReview": "8.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/675779802.webp?k=e0238926bb43e541f67764c2c4289c2e8e7b2cec4dd7ff26e6a7298f3900edd2&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/jp/mitsui-garden-roppongi-tokyo-permier.html?aid=304142&label=gen173nr-10CAQoggJCE3NlYXJjaF90b2t5bywgamFwYW5IM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALXnYbGBsACAdICJDlhOGExYTUzLWIyMGEtNDRiOS1hMDZiLTg4MmE3MTE2ODA0YdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=921f67ab90b1097b&srepoch=1757515483&all_sr_blocks=542041610_246006591_0_0_0&highlighted_blocks=542041610_246006591_0_0_0&matching_block_id=542041610_246006591_0_0_0&sr_pri_blocks=542041610_246006591_0_0_0__11617170&from=searchresults",
+    "address": "Minato, Tokyo (Roppongi)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Tokyo%2C+Japan&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-10T14:44:44.900Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]
