@@ -153,7 +153,7 @@ export async function POST(req: Request) {
     const timeoutId = setTimeout(() => controller.abort(), 30000); // 30 second timeout
 
     try {
-      const completion = await getGroqChatCompletion([
+      const completion: any = await getGroqChatCompletion([
           {
             role: "system",
             content: `You are a professional travel planner AI. Your task is to create detailed and realistic itineraries with SPECIFIC, REAL attractions and restaurants.  
@@ -212,7 +212,7 @@ CRITICAL: Your response must be a single, valid JSON object. Do NOT use markdown
 
       clearTimeout(timeoutId);
 
-      if (!completion.choices[0]?.message?.content) {
+      if (!completion || !completion.choices || completion.choices.length === 0 || !completion.choices[0]?.message?.content) {
         throw new Error('No content received from Groq API');
       }
 

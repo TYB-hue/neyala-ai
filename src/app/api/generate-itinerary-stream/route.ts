@@ -45,7 +45,7 @@ export async function POST(req: Request) {
             
             try {
                                   // Try Groq AI API
-    const completion = await getGroqChatCompletion([
+              const completion: any = await getGroqChatCompletion([
                 {
                   role: "system",
                   content: `You are a professional travel planner AI. Your task is to create detailed and realistic itineraries with SPECIFIC, REAL attractions and restaurants.  
@@ -150,7 +150,7 @@ If you include any actual image URLs, the response will be rejected and you will
                 }
               ]);
 
-              if (!completion.choices[0]?.message?.content) {
+              if (!completion || !completion.choices || completion.choices.length === 0 || !completion.choices[0]?.message?.content) {
                 throw new Error('No content received from Groq API');
               }
 
@@ -401,7 +401,11 @@ If you include any actual image URLs, the response will be rejected and you will
           controller.close();
 
         } catch (error: any) {
-          controller.enqueue(new TextEncoder().encode(`data: {"status": "error", "error": "${error.message}"}\n\n`));
+          const payload = {
+            status: "error",
+            error: error && typeof error.message === 'string' ? error.message : 'Unknown error'
+          };
+          controller.enqueue(new TextEncoder().encode(`data: ${JSON.stringify(payload)}\n\n`));
           controller.close();
         }
       }

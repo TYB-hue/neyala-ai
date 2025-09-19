@@ -396,10 +396,13 @@ export default function PlanForm() {
         const chunk = decoder.decode(value);
         const lines = chunk.split('\n');
 
-        for (const line of lines) {
+        for (const rawLine of lines) {
+          const line = rawLine.trim();
+          if (!line) continue;
           if (line.startsWith('data: ')) {
             try {
-              const data = JSON.parse(line.slice(6));
+              const payload = line.slice(6).trim();
+              const data = JSON.parse(payload);
               console.log('Received stream data:', data);
               
               if (data.status === 'completed' && data.data) {
@@ -420,11 +423,22 @@ export default function PlanForm() {
                 router.push(`/itinerary/${tempId}`);
                 return;
               } else if (data.status === 'error') {
-                throw new Error(data.error);
+                // Normalize common auth errors for clearer UX
+                const errMsg = String(data.error || '').toLowerCase();
+                if (errMsg.includes('invalid api key') || errMsg.includes('invalid_api_key') || errMsg.includes('unauthorized') || errMsg.includes('401')) {
+                  throw new Error('Unauthorized: Invalid API key. Please set a valid key in your environment and restart the server.');
+                }
+                throw new Error(data.error || 'An error occurred while generating the itinerary.');
               }
             } catch (parseError) {
               console.log('Parse error for line:', line.substring(0, 200) + '...', parseError);
               
+              // Detect auth/401 errors embedded in stream text
+              const lower = line.toLowerCase();
+              if (lower.includes('invalid api key') || lower.includes('invalid_api_key') || lower.includes('unauthorized') || lower.includes('"401"') || lower.includes(' 401 ')) {
+                throw new Error('Unauthorized: Invalid API key. Please set a valid key in your environment and restart the server.');
+              }
+
               // Check if it's a rate limit error
               if (line.includes('429') || line.includes('Rate limit') || line.includes('Too Many Requests')) {
                 console.log('Rate limit error detected in stream');
@@ -495,6 +509,10 @@ export default function PlanForm() {
               return;
             } else if (fallbackData.error) {
               console.error('Fallback API returned error:', fallbackData.error);
+              const errText = String(fallbackData.error).toLowerCase();
+              if (errText.includes('invalid api key') || errText.includes('invalid_api_key') || errText.includes('unauthorized')) {
+                throw new Error('Unauthorized: Invalid API key. Please configure a valid key in your .env.local and restart.');
+              }
             }
           } else {
             console.error('Fallback API returned status:', fallbackResponse.status);
@@ -502,6 +520,8 @@ export default function PlanForm() {
             // Handle specific error statuses
             if (fallbackResponse.status === 429) {
               throw new Error('Rate limit exceeded. Please wait a moment and try again.');
+            } else if (fallbackResponse.status === 401) {
+              throw new Error('Unauthorized: Invalid API key. Please configure a valid key in your .env.local and restart.');
             } else if (fallbackResponse.status >= 500) {
               throw new Error('Server error. Please try again later.');
             }
@@ -517,6 +537,8 @@ export default function PlanForm() {
       if (err instanceof Error) {
         if (err.message.includes('Rate limit exceeded')) {
           errorMessage = 'Rate limit exceeded. Please wait a moment and try again.';
+        } else if (err.message.toLowerCase().includes('invalid api key') || err.message.toLowerCase().includes('unauthorized')) {
+          errorMessage = 'Authentication failed: Invalid API key. Please set your API key in .env.local and restart the server.';
         } else if (err.message.includes('No itinerary was generated')) {
           errorMessage = 'Unable to generate itinerary. Please try a different destination or check your internet connection.';
         } else if (err.message.includes('Failed to parse')) {
