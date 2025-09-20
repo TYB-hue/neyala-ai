@@ -20,7 +20,7 @@ export default function ProfilePageClient() {
         imageUrl: clerkUser.imageUrl || null,
         emailAddress: clerkUser.emailAddresses[0]?.emailAddress || 'user@example.com',
         phoneNumber: clerkUser.phoneNumbers[0]?.phoneNumber || null,
-        createdAt: new Date(clerkUser.createdAt),
+        createdAt: new Date(clerkUser.createdAt || Date.now()),
       };
       setUserProfile(profile);
 
