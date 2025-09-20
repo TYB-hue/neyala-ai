@@ -64,13 +64,7 @@ export async function getUserHotels(userId: string): Promise<Hotel[]> {
   const bookings = await prisma.hotelBooking.findMany({
     where: { userId },
     include: {
-      hotel: {
-        include: {
-          reviews: {
-            where: { userId }
-          }
-        }
-      }
+      hotel: true
     },
     orderBy: { checkIn: 'desc' }
   });
