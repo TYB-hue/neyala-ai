@@ -14,7 +14,7 @@ export async function GET(req: NextRequest) {
 
     const queryString = [airport, city, country].filter(Boolean).join(', ');
 
-    const messages = [
+    const messages: Array<{ role: 'system' | 'user' | 'assistant'; content: string }> = [
       {
         role: 'system',
         content:
