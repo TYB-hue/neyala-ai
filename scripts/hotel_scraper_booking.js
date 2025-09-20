@@ -266,8 +266,8 @@ class BookingHotelScraper {
                             }
                         }
                         
-                        // Extract image - try multiple selectors for Booking.com
-                        let image = '';
+                        // Extract images - try multiple selectors for Booking.com
+                        const images = [];
                         const imageSelectors = [
                             'img[src*="cf.bstatic.com"]', // Booking.com CDN images
                             'img[src*="booking.com"]',
@@ -275,23 +275,62 @@ class BookingHotelScraper {
                             'img[data-src*="cf.bstatic.com"]', // Lazy loaded images
                             'img[data-src*="booking.com"]',
                             'img[data-src*="bstatic.com"]',
+                            'img[class*="property-image"]', // Property image class
+                            'img[alt*="hotel"]', // Hotel images
+                            'img[alt*="property"]', // Property images
+                            'img[class*="image"]', // Image class
                             'img' // Fallback to any img
                         ];
                         
+                        console.log(`Extracting images for hotel: ${name}`);
+                        
+                        // Try to find multiple images for each hotel
                         for (const selector of imageSelectors) {
-                            const imageElement = card.querySelector(selector);
-                            if (imageElement && imageElement.src) {
-                                image = imageElement.src;
-                                break;
-                            } else if (imageElement && imageElement.dataset.src) {
-                                image = imageElement.dataset.src;
-                                break;
+                            const imageElements = card.querySelectorAll(selector);
+                            console.log(`Found ${imageElements.length} elements with selector: ${selector}`);
+                            
+                            for (const imageElement of imageElements) {
+                                let imageUrl = '';
+                                if (imageElement.src && imageElement.src.startsWith('http')) {
+                                    imageUrl = imageElement.src;
+                                } else if (imageElement.dataset.src && imageElement.dataset.src.startsWith('http')) {
+                                    imageUrl = imageElement.dataset.src;
+                                }
+                                
+                                console.log(`Checking image URL: ${imageUrl}`);
+                                
+                                // Only add valid Booking.com images or high-quality images
+                                if (imageUrl && 
+                                    (imageUrl.includes('cf.bstatic.com') || 
+                                     imageUrl.includes('booking.com') ||
+                                     imageUrl.includes('bstatic.com') ||
+                                     imageUrl.includes('hotel') ||
+                                     imageUrl.includes('property')) &&
+                                    !imageUrl.includes('logo') &&
+                                    !imageUrl.includes('icon') &&
+                                    !imageUrl.includes('flag') &&
+                                    !imageUrl.includes('avatar') &&
+                                    !imageUrl.includes('star') &&
+                                    !imageUrl.includes('rating') &&
+                                    !images.includes(imageUrl)) {
+                                    images.push(imageUrl);
+                                    console.log(`✅ Found valid image: ${imageUrl}`);
+                                } else if (imageUrl) {
+                                    console.log(`❌ Rejected image: ${imageUrl}`);
+                                }
+                                
+                                // Limit to 5 images per hotel
+                                if (images.length >= 5) break;
                             }
+                            if (images.length >= 5) break;
                         }
                         
-                        // If no image found, use a placeholder
-                        if (!image) {
-                            image = 'https://images.unsplash.com/photo-1566073771259-6a8506099945?w=400&h=300&fit=crop&q=80';
+                        console.log(`Total images found for ${name}: ${images.length}`);
+                        
+                        // If no real images found, use a placeholder
+                        if (images.length === 0) {
+                            console.log(`No images found for ${name}, using placeholder`);
+                            images.push('https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop&q=80');
                         }
                         
                         // Extract booking URL
@@ -326,7 +365,7 @@ class BookingHotelScraper {
                                 stars: stars,
                                 reviewCount: Math.floor(Math.random() * 1000) + 50,
                                 avgReview: `${rating.toFixed(1)}/5`,
-                                images: image ? [image] : [],
+                                images: images,
                                 bookingUrl: bookingUrl,
                                 address: address,
                                 location: { lat: 0, lng: 0 },
@@ -383,7 +422,7 @@ class BookingHotelScraper {
                 stars: stars,
                 reviewCount: Math.floor(Math.random() * 1000) + 50,
                 avgReview: `${rating.toFixed(1)}/5`,
-                images: [],
+                images: ['https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop&q=80'],
                 bookingUrl: `https://www.booking.com/hotel/fallback-${i}.html`,
                 address: `${location}`,
                 location: { lat: 0, lng: 0 },

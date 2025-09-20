@@ -175,7 +175,7 @@ export async function generateExpediaFallbackHotels(location: string, maxHotels:
         rating: Math.round(rating * 10) / 10,
         reviewCount: Math.floor(Math.random() * 1000) + 50,
         address: location,
-        photos: [hotelImage],
+        photos: ['https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop&q=80'],
         website: `https://www.expedia.com/Hotel-Search?destination=${encodeURIComponent(location)}`,
         phone: '',
         bookingUrls: {

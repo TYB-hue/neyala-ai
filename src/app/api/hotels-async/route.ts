@@ -53,19 +53,81 @@ export async function POST(request: NextRequest) {
         const source = isRealData ? 'Booking.com' : 'Fallback';
         console.log(`Found ${hotels.length} hotels with source: ${source}`);
         
+        // Convert BookingHotelData to the format expected by AsyncHotelOffers
+        const convertedHotels = hotels.map(hotel => ({
+          id: hotel.id,
+          name: hotel.name,
+          stars: hotel.stars,
+          rating: hotel.rating,
+          price: hotel.price,
+          currency: hotel.currency,
+          images: hotel.images,
+          location: hotel.location,
+          amenities: hotel.amenities,
+          description: hotel.description,
+          bookingUrl: hotel.bookingUrl,
+          source: hotel.source,
+          details: {
+            name: hotel.name,
+            rating: hotel.rating,
+            reviewCount: hotel.reviewCount,
+            address: hotel.address,
+            photos: hotel.images,
+            website: hotel.bookingUrl,
+            phone: '',
+            bookingUrls: {
+              agoda: `https://www.agoda.com/search?q=${encodeURIComponent(hotel.name)}&aid=1891470`,
+              expedia: `https://www.expedia.com/Hotel-Search?destination=${encodeURIComponent(destination)}&aid=1891470`,
+              hotels: `https://www.hotels.com/search.do?q-destination=${encodeURIComponent(destination)}&aid=1891470`,
+              direct: hotel.bookingUrl
+            }
+          }
+        }));
+
         return NextResponse.json({
           success: true,
-          hotels: hotels,
-          count: hotels.length,
+          hotels: convertedHotels,
+          count: convertedHotels.length,
           source: source
         });
       } else {
         console.log('ScraperAPI scraper returned no results, using fallback');
         const fallbackHotels = await generateExpediaFallbackHotels(destination, 10);
+        // Convert fallback hotels to the expected format
+        const convertedFallbackHotels = fallbackHotels.map(hotel => ({
+          id: hotel.id,
+          name: hotel.name,
+          stars: hotel.stars,
+          rating: hotel.rating,
+          price: hotel.price,
+          currency: hotel.currency,
+          images: [hotel.image], // Convert single image to array
+          location: hotel.location,
+          amenities: hotel.amenities,
+          description: hotel.description,
+          bookingUrl: hotel.bookingUrl,
+          source: hotel.source,
+          details: {
+            name: hotel.name,
+            rating: hotel.rating,
+            reviewCount: hotel.details?.reviewCount || Math.floor(Math.random() * 1000) + 50,
+            address: hotel.details?.address || destination,
+            photos: [hotel.image], // Convert single image to array
+            website: hotel.bookingUrl,
+            phone: '',
+            bookingUrls: hotel.details?.bookingUrls || {
+              agoda: `https://www.agoda.com/search?q=${encodeURIComponent(hotel.name)}&aid=1891470`,
+              expedia: `https://www.expedia.com/Hotel-Search?destination=${encodeURIComponent(destination)}&aid=1891470`,
+              hotels: `https://www.hotels.com/search.do?q-destination=${encodeURIComponent(destination)}&aid=1891470`,
+              direct: hotel.bookingUrl
+            }
+          }
+        }));
+
         return NextResponse.json({
           success: true,
-          hotels: fallbackHotels,
-          count: fallbackHotels.length,
+          hotels: convertedFallbackHotels,
+          count: convertedFallbackHotels.length,
           source: 'Fallback'
         });
       }
@@ -74,10 +136,40 @@ export async function POST(request: NextRequest) {
       
       // Fallback to generated hotels
       const fallbackHotels = await generateExpediaFallbackHotels(destination, 10);
+      const convertedErrorFallbackHotels = fallbackHotels.map(hotel => ({
+        id: hotel.id,
+        name: hotel.name,
+        stars: hotel.stars,
+        rating: hotel.rating,
+        price: hotel.price,
+        currency: hotel.currency,
+        images: [hotel.image], // Convert single image to array
+        location: hotel.location,
+        amenities: hotel.amenities,
+        description: hotel.description,
+        bookingUrl: hotel.bookingUrl,
+        source: hotel.source,
+        details: {
+          name: hotel.name,
+          rating: hotel.rating,
+          reviewCount: hotel.details?.reviewCount || Math.floor(Math.random() * 1000) + 50,
+          address: hotel.details?.address || destination,
+          photos: [hotel.image], // Convert single image to array
+          website: hotel.bookingUrl,
+          phone: '',
+          bookingUrls: hotel.details?.bookingUrls || {
+            agoda: `https://www.agoda.com/search?q=${encodeURIComponent(hotel.name)}&aid=1891470`,
+            expedia: `https://www.expedia.com/Hotel-Search?destination=${encodeURIComponent(destination)}&aid=1891470`,
+            hotels: `https://www.hotels.com/search.do?q-destination=${encodeURIComponent(destination)}&aid=1891470`,
+            direct: hotel.bookingUrl
+          }
+        }
+      }));
+
       return NextResponse.json({
         success: true,
-        hotels: fallbackHotels,
-        count: fallbackHotels.length,
+        hotels: convertedErrorFallbackHotels,
+        count: convertedErrorFallbackHotels.length,
         source: 'Fallback (Error)'
       });
     }
