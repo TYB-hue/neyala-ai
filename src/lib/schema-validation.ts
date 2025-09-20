@@ -87,7 +87,7 @@ export function parseGroqJson(raw: string) {
   console.log('Raw parsed data keys:', Object.keys(data));
   
   const sanitized = sanitizeUnknownUrls(data);
-  console.log('Sanitized data keys:', Object.keys(sanitized));
+  console.log('Sanitized data keys:', Object.keys(sanitized as object));
   
   // Schema will reject any additional keys or URLs in unauthorized places
   try {
