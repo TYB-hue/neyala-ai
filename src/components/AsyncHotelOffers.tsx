@@ -59,6 +59,7 @@ export default function AsyncHotelOffers({
     }, 30000); // 30 second timeout
     
     try {
+      console.log('Fetching hotels for:', { destination, startDate, endDate, travelGroup });
       const response = await fetch('/api/hotels-async', {
         method: 'POST',
         headers: {
@@ -72,7 +73,9 @@ export default function AsyncHotelOffers({
         }),
       });
 
+      console.log('API Response status:', response.status);
       const data = await response.json();
+      console.log('API Response data:', data);
 
       if (data.success) {
         // Filter out hotels with no valid data
@@ -83,8 +86,10 @@ export default function AsyncHotelOffers({
         );
         
         if (validHotels.length > 0) {
+          console.log('Valid hotels received:', validHotels.map(h => ({ name: h.name, images: h.images, source: h.source })));
           setHotels(validHotels);
         } else {
+          console.log('No valid hotels found in response');
           setError('No valid hotel data found. Please try again.');
         }
       } else {
