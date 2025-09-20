@@ -1,6 +1,8 @@
 import { getHeaderImageForDestination, getFallbackHeaderImage } from '@/lib/country-images';
+import { searchAirport, getAirportPhotos } from '@/lib/foursquare';
 
 const PEXELS_API_KEY = process.env.PEXELS_API_KEY;
+const FOURSQUARE_API_KEY = process.env.FOURSQUARE_API_KEY;
 
 // Optimized fallback images for better performance
 const optimizedFallbacks = {
@@ -350,9 +352,36 @@ async function getGomapsAirportPhotos(airportName: string, destination?: string)
   return [];
 }
 
-export async function getHotelImage(hotelName: string): Promise<string> {
-  // Try optimized queries for better hotel photos
+export async function getHotelImage(hotelName: string, destination?: string): Promise<string> {
+  // Try GOMAPS.PRO API for real hotel photos first
+  if (process.env.GOMAPS_API_KEY && destination) {
+    try {
+      const gomapsImage = await getGomapsHotelImage(hotelName, destination);
+      if (gomapsImage) {
+        console.log(`Using GOMAPS.PRO photo for ${hotelName}`);
+        return gomapsImage;
+      }
+    } catch (error) {
+      console.error(`Error fetching GOMAPS.PRO hotel image for ${hotelName}:`, error);
+    }
+  }
+
+  // Try Foursquare API for real hotel photos
+  if (FOURSQUARE_API_KEY && destination) {
+    try {
+      const foursquareImage = await getFoursquareHotelImage(hotelName, destination);
+      if (foursquareImage) {
+        console.log(`Using Foursquare photo for ${hotelName}`);
+        return foursquareImage;
+      }
+    } catch (error) {
+      console.error(`Error fetching Foursquare hotel image for ${hotelName}:`, error);
+    }
+  }
+
+  // Fallback to Pexels with enhanced queries
   const queries = [
+    `${hotelName} ${destination} hotel exterior`,
     `${hotelName} hotel exterior`,
     `${hotelName} hotel building`,
     `${hotelName} hotel`
@@ -369,15 +398,51 @@ export async function getHotelImage(hotelName: string): Promise<string> {
 }
 
 export async function getActivityImage(activityName: string, destination?: string): Promise<string> {
-  // Use the same method as hotels - Google Places API first
-  if (destination) {
-    const googlePhoto = await fetchPexelsImageOptimized(activityName, 'landscape');
-    if (googlePhoto !== 'https://images.pexels.com/photos/1502602898657-3e91760cbb34/pexels-photo-1502602898657-3e91760cbb34.jpeg?auto=compress&cs=tinysrgb&w=1200') {
-      return googlePhoto;
+  // First try Foursquare API for real attraction photos
+  if (FOURSQUARE_API_KEY && destination) {
+    try {
+      const foursquareImage = await getFoursquareAttractionImage(activityName, destination);
+      if (foursquareImage) {
+        console.log(`Using Foursquare photo for ${activityName}`);
+        return foursquareImage;
+      }
+    } catch (error) {
+      console.error(`Error fetching Foursquare image for ${activityName}:`, error);
     }
   }
 
-  return await fetchPexelsImageOptimized(activityName, 'landscape');
+  // Try GOMAPS.PRO API for real attraction photos
+  if (process.env.GOMAPS_API_KEY && destination) {
+    try {
+      const gomapsImage = await getGomapsAttractionImage(activityName, destination);
+      if (gomapsImage) {
+        console.log(`Using GOMAPS.PRO photo for ${activityName}`);
+        return gomapsImage;
+      }
+    } catch (error) {
+      console.error(`Error fetching GOMAPS.PRO image for ${activityName}:`, error);
+    }
+  }
+
+  // Fallback to Pexels with enhanced queries
+  const enhancedQueries = [
+    `${activityName} ${destination}`,
+    `${activityName} attraction`,
+    `${activityName} landmark`,
+    `${activityName} tourism`,
+    `${activityName} travel`,
+    activityName
+  ];
+  
+  for (const query of enhancedQueries) {
+    const image = await fetchPexelsImageOptimized(query, 'landscape');
+    if (image !== 'https://images.unsplash.com/photo-1502602898536-47ad22581b52?w=1200&h=600&fit=crop&q=80') {
+      return image;
+    }
+  }
+  
+  // Final fallback
+  return 'https://images.unsplash.com/photo-1502602898536-47ad22581b52?w=800&h=600&fit=crop&q=80';
 }
 
 export async function getDestinationHeaderImage(destination: string): Promise<string> {
@@ -434,4 +499,240 @@ export function generateHotelAffiliateLink(hotelName: string, destination: strin
 export function generateESIMLink(destination: string): string {
   const country = destination.split(',')[1]?.trim() || destination;
   return `https://www.airalo.com/global-esim?ref=neyala-ai&country=${encodeURIComponent(country)}`;
+}
+
+// New function to get attraction images from Foursquare
+async function getFoursquareAttractionImage(activityName: string, destination: string): Promise<string | null> {
+  if (!FOURSQUARE_API_KEY) {
+    return null;
+  }
+
+  try {
+    console.log(`Searching Foursquare for attraction: ${activityName} in ${destination}`);
+    
+    // Extract city and country from destination
+    const [city, country] = destination.split(',').map(s => s.trim());
+    
+    // Search for the attraction
+    const searchQueries = [
+      `${activityName} ${city}`,
+      `${activityName} ${destination}`,
+      activityName
+    ];
+
+    for (const query of searchQueries) {
+      const searchUrl = `https://places-api.foursquare.com/places/search?query=${encodeURIComponent(query)}&limit=5`;
+      const nearParam = city && country ? `&near=${encodeURIComponent(`${city}, ${country}`)}` : '';
+      
+      const response = await fetch(`${searchUrl}${nearParam}`, {
+        headers: {
+          'Authorization': `Bearer ${FOURSQUARE_API_KEY}`,
+          'Accept': 'application/json',
+          'X-Places-Api-Version': '2025-06-17'
+        },
+        cache: 'no-store'
+      });
+
+      if (!response.ok) continue;
+
+      const data = await response.json();
+      
+      if (data.results && data.results.length > 0) {
+        // Find the best match
+        const bestMatch = data.results.find((place: any) => 
+          place.name.toLowerCase().includes(activityName.toLowerCase()) ||
+          activityName.toLowerCase().includes(place.name.toLowerCase())
+        ) || data.results[0];
+
+        if (bestMatch.fsq_place_id || bestMatch.fsq_id) {
+          const placeId = bestMatch.fsq_place_id || bestMatch.fsq_id;
+          
+          // Get photos for this place
+          const photosUrl = `https://places-api.foursquare.com/places/${placeId}/photos?limit=1`;
+          const photosResponse = await fetch(photosUrl, {
+            headers: {
+              'Authorization': `Bearer ${FOURSQUARE_API_KEY}`,
+              'Accept': 'application/json',
+              'X-Places-Api-Version': '2025-06-17'
+            },
+            cache: 'no-store'
+          });
+
+          if (photosResponse.ok) {
+            const photosData = await photosResponse.json();
+            const photos = Array.isArray(photosData) ? photosData : photosData.results || [];
+            
+            if (photos.length > 0) {
+              const photo = photos[0];
+              const width = Math.min(800, photo.width || 800);
+              const height = Math.round(width * ((photo.height || 600) / (photo.width || 800)));
+              return `${photo.prefix}${width}x${height}${photo.suffix}`;
+            }
+          }
+        }
+      }
+    }
+  } catch (error) {
+    console.error('Error fetching Foursquare attraction image:', error);
+  }
+  
+  return null;
+}
+
+// New function to get attraction images from GOMAPS.PRO
+async function getGomapsAttractionImage(activityName: string, destination: string): Promise<string | null> {
+  if (!process.env.GOMAPS_API_KEY) {
+    return null;
+  }
+
+  try {
+    console.log(`Searching GOMAPS.PRO for attraction: ${activityName} in ${destination}`);
+    
+    const searchQueries = [
+      `${activityName} ${destination}`,
+      `${activityName} attraction`,
+      activityName
+    ];
+
+    for (const query of searchQueries) {
+      const apiUrl = `https://maps.gomaps.pro/maps/api/place/textsearch/json?query=${encodeURIComponent(query)}&key=${process.env.GOMAPS_API_KEY}`;
+      
+      const response = await fetch(apiUrl);
+
+      if (!response.ok) continue;
+
+      const data = await response.json();
+      
+      if (data.status === 'OK' && data.results && data.results.length > 0) {
+        const place = data.results[0];
+        
+        if (place.photos && place.photos.length > 0) {
+          const photo = place.photos[0];
+          return `https://maps.gomaps.pro/maps/api/place/photo?maxwidth=800&photoreference=${photo.photo_reference}&key=${process.env.GOMAPS_API_KEY}`;
+        }
+      }
+    }
+  } catch (error) {
+    console.error('Error fetching GOMAPS.PRO attraction image:', error);
+  }
+  
+  return null;
+}
+
+// New function to get hotel images from Foursquare
+async function getFoursquareHotelImage(hotelName: string, destination: string): Promise<string | null> {
+  if (!FOURSQUARE_API_KEY) {
+    return null;
+  }
+
+  try {
+    console.log(`Searching Foursquare for hotel: ${hotelName} in ${destination}`);
+    
+    // Extract city and country from destination
+    const [city, country] = destination.split(',').map(s => s.trim());
+    
+    // Search for the hotel
+    const searchQueries = [
+      `${hotelName} ${city}`,
+      `${hotelName} ${destination}`,
+      hotelName
+    ];
+
+    for (const query of searchQueries) {
+      const searchUrl = `https://places-api.foursquare.com/places/search?query=${encodeURIComponent(query)}&limit=5`;
+      const nearParam = city && country ? `&near=${encodeURIComponent(`${city}, ${country}`)}` : '';
+      
+      const response = await fetch(`${searchUrl}${nearParam}`, {
+        headers: {
+          'Authorization': `Bearer ${FOURSQUARE_API_KEY}`,
+          'Accept': 'application/json',
+          'X-Places-Api-Version': '2025-06-17'
+        },
+        cache: 'no-store'
+      });
+
+      if (!response.ok) continue;
+
+      const data = await response.json();
+      
+      if (data.results && data.results.length > 0) {
+        // Find the best match
+        const bestMatch = data.results.find((place: any) => 
+          place.name.toLowerCase().includes(hotelName.toLowerCase()) ||
+          hotelName.toLowerCase().includes(place.name.toLowerCase())
+        ) || data.results[0];
+
+        if (bestMatch.fsq_place_id || bestMatch.fsq_id) {
+          const placeId = bestMatch.fsq_place_id || bestMatch.fsq_id;
+          
+          // Get photos for this place
+          const photosUrl = `https://places-api.foursquare.com/places/${placeId}/photos?limit=1`;
+          const photosResponse = await fetch(photosUrl, {
+            headers: {
+              'Authorization': `Bearer ${FOURSQUARE_API_KEY}`,
+              'Accept': 'application/json',
+              'X-Places-Api-Version': '2025-06-17'
+            },
+            cache: 'no-store'
+          });
+
+          if (photosResponse.ok) {
+            const photosData = await photosResponse.json();
+            const photos = Array.isArray(photosData) ? photosData : photosData.results || [];
+            
+            if (photos.length > 0) {
+              const photo = photos[0];
+              const width = Math.min(800, photo.width || 800);
+              const height = Math.round(width * ((photo.height || 600) / (photo.width || 800)));
+              return `${photo.prefix}${width}x${height}${photo.suffix}`;
+            }
+          }
+        }
+      }
+    }
+  } catch (error) {
+    console.error('Error fetching Foursquare hotel image:', error);
+  }
+  
+  return null;
+}
+
+// New function to get hotel images from GOMAPS.PRO
+async function getGomapsHotelImage(hotelName: string, destination: string): Promise<string | null> {
+  if (!process.env.GOMAPS_API_KEY) {
+    return null;
+  }
+
+  try {
+    console.log(`Searching GOMAPS.PRO for hotel: ${hotelName} in ${destination}`);
+    
+    const searchQueries = [
+      `${hotelName} ${destination}`,
+      `${hotelName} hotel`,
+      hotelName
+    ];
+
+    for (const query of searchQueries) {
+      const apiUrl = `https://maps.gomaps.pro/maps/api/place/textsearch/json?query=${encodeURIComponent(query)}&key=${process.env.GOMAPS_API_KEY}`;
+      
+      const response = await fetch(apiUrl);
+
+      if (!response.ok) continue;
+
+      const data = await response.json();
+      
+      if (data.status === 'OK' && data.results && data.results.length > 0) {
+        const place = data.results[0];
+        
+        if (place.photos && place.photos.length > 0) {
+          const photo = place.photos[0];
+          return `https://maps.gomaps.pro/maps/api/place/photo?maxwidth=800&photoreference=${photo.photo_reference}&key=${process.env.GOMAPS_API_KEY}`;
+        }
+      }
+    }
+  } catch (error) {
+    console.error('Error fetching GOMAPS.PRO hotel image:', error);
+  }
+  
+  return null;
 } 

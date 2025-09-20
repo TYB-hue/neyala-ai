@@ -1,5 +1,6 @@
 import { exec } from 'child_process';
 import { promisify } from 'util';
+import { getHotelImage } from '@/lib/unsplash';
 
 const execAsync = promisify(exec);
 
@@ -97,11 +98,11 @@ export async function searchHotelsWithBooking(options: BookingScraperOptions): P
     console.error('Error in searchHotelsWithBooking:', error);
     
     // Return fallback data
-    return generateFallbackHotels(destination, maxHotels);
+    return await generateFallbackHotels(destination, maxHotels);
   }
 }
 
-function generateFallbackHotels(destination: string, maxHotels: number): BookingHotelData[] {
+async function generateFallbackHotels(destination: string, maxHotels: number): Promise<BookingHotelData[]> {
   console.log(`Generating ${maxHotels} fallback hotels for ${destination}`);
   
   const fallbackHotels: BookingHotelData[] = [];
@@ -120,20 +121,29 @@ function generateFallbackHotels(destination: string, maxHotels: number): Booking
 
   for (let i = 0; i < maxHotels; i++) {
     const name = hotelNames[i % hotelNames.length];
+    const fullHotelName = `${name} ${destination}`;
     const price = Math.floor(Math.random() * 300) + 100;
     const rating = (Math.random() * 2) + 3;
     const stars = Math.round(rating);
 
+    // Get hotel image using the improved image fetching
+    let hotelImage = 'https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop&q=80';
+    try {
+      hotelImage = await getHotelImage(fullHotelName, destination);
+    } catch (error) {
+      console.error(`Error fetching image for ${fullHotelName}:`, error);
+    }
+
     fallbackHotels.push({
       id: `fallback_hotel_${Date.now()}_${i}`,
-      name: `${name} ${destination}`,
+      name: fullHotelName,
       price: price,
       currency: 'USD',
       rating: rating,
       stars: stars,
       reviewCount: Math.floor(Math.random() * 1000) + 50,
       avgReview: `${rating.toFixed(1)}/5`,
-      images: [],
+      images: [hotelImage],
       bookingUrl: `https://www.booking.com/hotel/fallback-${i}.html`,
       address: `${destination}`,
       location: { lat: 0, lng: 0 },

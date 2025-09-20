@@ -61,7 +61,7 @@ export async function POST(request: NextRequest) {
         });
       } else {
         console.log('ScraperAPI scraper returned no results, using fallback');
-        const fallbackHotels = generateExpediaFallbackHotels(destination, 10);
+        const fallbackHotels = await generateExpediaFallbackHotels(destination, 10);
         return NextResponse.json({
           success: true,
           hotels: fallbackHotels,
@@ -73,7 +73,7 @@ export async function POST(request: NextRequest) {
       console.error('Error with ScraperAPI scraper:', hotelError);
       
       // Fallback to generated hotels
-      const fallbackHotels = generateExpediaFallbackHotels(destination, 10);
+      const fallbackHotels = await generateExpediaFallbackHotels(destination, 10);
       return NextResponse.json({
         success: true,
         hotels: fallbackHotels,

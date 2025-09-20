@@ -1,4 +1,5 @@
 import { HotelOffer } from './expedia';
+import { getHotelImage } from '@/lib/unsplash';
 
 export interface ExpediaHotelData {
   id: string;
@@ -124,7 +125,7 @@ export async function searchHotelsWithExpedia(
 }
 
 // Fallback function that generates realistic hotel data
-export function generateExpediaFallbackHotels(location: string, maxHotels: number = 10): HotelOffer[] {
+export async function generateExpediaFallbackHotels(location: string, maxHotels: number = 10): Promise<HotelOffer[]> {
   console.log(`Generating ${maxHotels} fallback hotels for ${location}`);
   
   const locationKey = location.toLowerCase().split(',')[0].trim();
@@ -157,11 +158,13 @@ export function generateExpediaFallbackHotels(location: string, maxHotels: numbe
       rating = 3.5 + (Math.random() * 0.5);
     }
 
-    const fallbackImages = [
-      'https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop&q=80',
-      'https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800&h=600&fit=crop&q=80',
-      'https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=800&h=600&fit=crop&q=80'
-    ];
+    // Get hotel image using the improved image fetching
+    let hotelImage = 'https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop&q=80';
+    try {
+      hotelImage = await getHotelImage(template.name, location);
+    } catch (error) {
+      console.error(`Error fetching image for ${template.name}:`, error);
+    }
 
     hotels.push({
       id: `fallback_${i + 1}`,
@@ -170,7 +173,7 @@ export function generateExpediaFallbackHotels(location: string, maxHotels: numbe
       rating: Math.round(rating * 10) / 10,
       price: price,
       currency: 'USD',
-      image: fallbackImages[i % fallbackImages.length],
+      image: hotelImage,
       location: { lat: 0, lng: 0 },
       amenities: ['WiFi', 'Air Conditioning', 'Free Breakfast'],
       description: `Comfortable ${template.type} accommodation in ${location}`,
@@ -181,7 +184,7 @@ export function generateExpediaFallbackHotels(location: string, maxHotels: numbe
         rating: Math.round(rating * 10) / 10,
         reviewCount: Math.floor(Math.random() * 1000) + 50,
         address: location,
-        photos: [fallbackImages[i % fallbackImages.length]],
+        photos: [hotelImage],
         website: `https://www.expedia.com/Hotel-Search?destination=${encodeURIComponent(location)}`,
         phone: '',
         bookingUrls: {
