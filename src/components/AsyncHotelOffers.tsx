@@ -86,7 +86,7 @@ export default function AsyncHotelOffers({
         );
         
         if (validHotels.length > 0) {
-          console.log('Valid hotels received:', validHotels.map(h => ({ name: h.name, images: h.images, source: h.source })));
+          console.log('Valid hotels received:', validHotels.map((h: any) => ({ name: h.name, images: h.images, source: h.source })));
           setHotels(validHotels);
         } else {
           console.log('No valid hotels found in response');
