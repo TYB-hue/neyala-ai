@@ -1,6 +1,5 @@
 import { exec } from 'child_process';
 import { promisify } from 'util';
-import { getHotelImage } from '@/lib/unsplash';
 
 const execAsync = promisify(exec);
 
@@ -126,14 +125,6 @@ async function generateFallbackHotels(destination: string, maxHotels: number): P
     const rating = (Math.random() * 2) + 3;
     const stars = Math.round(rating);
 
-    // Get hotel image using the improved image fetching
-    let hotelImage = 'https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop&q=80';
-    try {
-      hotelImage = await getHotelImage(fullHotelName, destination);
-    } catch (error) {
-      console.error(`Error fetching image for ${fullHotelName}:`, error);
-    }
-
     fallbackHotels.push({
       id: `fallback_hotel_${Date.now()}_${i}`,
       name: fullHotelName,
@@ -143,7 +134,7 @@ async function generateFallbackHotels(destination: string, maxHotels: number): P
       stars: stars,
       reviewCount: Math.floor(Math.random() * 1000) + 50,
       avgReview: `${rating.toFixed(1)}/5`,
-      images: [hotelImage],
+      images: ['https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop&q=80'],
       bookingUrl: `https://www.booking.com/hotel/fallback-${i}.html`,
       address: `${destination}`,
       location: { lat: 0, lng: 0 },

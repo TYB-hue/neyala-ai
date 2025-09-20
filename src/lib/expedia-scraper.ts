@@ -1,5 +1,4 @@
 import { HotelOffer } from './expedia';
-import { getHotelImage } from '@/lib/unsplash';
 
 export interface ExpediaHotelData {
   id: string;
@@ -158,14 +157,6 @@ export async function generateExpediaFallbackHotels(location: string, maxHotels:
       rating = 3.5 + (Math.random() * 0.5);
     }
 
-    // Get hotel image using the improved image fetching
-    let hotelImage = 'https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop&q=80';
-    try {
-      hotelImage = await getHotelImage(template.name, location);
-    } catch (error) {
-      console.error(`Error fetching image for ${template.name}:`, error);
-    }
-
     hotels.push({
       id: `fallback_${i + 1}`,
       name: template.name,
@@ -173,7 +164,7 @@ export async function generateExpediaFallbackHotels(location: string, maxHotels:
       rating: Math.round(rating * 10) / 10,
       price: price,
       currency: 'USD',
-      image: hotelImage,
+      image: 'https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop&q=80',
       location: { lat: 0, lng: 0 },
       amenities: ['WiFi', 'Air Conditioning', 'Free Breakfast'],
       description: `Comfortable ${template.type} accommodation in ${location}`,
