@@ -156,14 +156,18 @@ export async function bookHotel(
 
 export async function addReview(
   userId: string,
-  hotelId: string,
+  placeId: string,
+  placeName: string,
+  placeType: string,
   rating: number,
   comment?: string
 ) {
   return prisma.review.create({
     data: {
       userId,
-      hotelId,
+      placeId,
+      placeName,
+      placeType,
       rating,
       comment
     }
