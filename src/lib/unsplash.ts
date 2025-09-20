@@ -1,5 +1,5 @@
 import { getHeaderImageForDestination, getFallbackHeaderImage } from '@/lib/country-images';
-import { searchAirport, getAirportPhotos } from '@/lib/foursquare';
+import { searchAirport } from '@/lib/foursquare';
 
 const PEXELS_API_KEY = process.env.PEXELS_API_KEY;
 const FOURSQUARE_API_KEY = process.env.FOURSQUARE_API_KEY;
