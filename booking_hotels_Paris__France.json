@@ -1,179 +1,71 @@
 [
   {
-    "id": "hotel_1757492518908_0",
-    "name": "Seb & Co",
+    "id": "hotel_1758442151708_0",
+    "name": "Cachette Bohème dans le Marais",
     "price": 1,
     "currency": "USD",
-    "rating": 8.8,
+    "rating": 7.3,
+    "stars": 7,
+    "reviewCount": 793,
+    "avgReview": "7.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/631555557.webp?k=3a6728c7932e8a016285c729b505a37fab06f3843a7b6acc1bff44e7e12487eb&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/fr/cachette-boheme-dans-le-marais.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9wYXJpcywgZnJhbmNlSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCpOW-xgbAAgHSAiRhYzEyNjA3MC0yNTczLTQ5YzQtOGQ3NC0yYmI2Zjk0ZmJjMDXYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-28&checkout=2025-10-01&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=2fc639522ea301bc&srepoch=1758442151&all_sr_blocks=1334466801_418298365_4_0_0&highlighted_blocks=1334466801_418298365_4_0_0&matching_block_id=1334466801_418298365_4_0_0&sr_pri_blocks=1334466801_418298365_4_0_0__125906&from=searchresults",
+    "address": "3rd arr., Paris",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Paris%2C+France&checkin=2025-09-28&checkout=2025-10-01&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1758442148320&force_referer=",
+    "scrapedAt": "2025-09-21T08:09:11.708Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1758442151709_1",
+    "name": "ibis Paris Bercy Village",
+    "price": 631,
+    "currency": "USD",
+    "rating": 8,
+    "stars": 8,
+    "reviewCount": 283,
+    "avgReview": "8.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square240/17528246.webp?k=d499f198bb4bb79ead8e598d11717005c42c8215009b25989eab948348635b64&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/fr/ibis-paris-bercy-village.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9wYXJpcywgZnJhbmNlSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCpOW-xgbAAgHSAiRhYzEyNjA3MC0yNTczLTQ5YzQtOGQ3NC0yYmI2Zjk0ZmJjMDXYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-28&checkout=2025-10-01&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=2fc639522ea301bc&srepoch=1758442151&all_sr_blocks=54542903_94489684_2_42_0&highlighted_blocks=54542903_94489684_2_42_0&matching_block_id=54542903_94489684_2_42_0&sr_pri_blocks=54542903_94489684_2_42_0__53637&nad_id=29219acd-ce7b-46a9-8e0e-d126b6e61382_10&nad_cpc=0.81&nad_track=eyJhdWN0aW9uRXBvY2giOjE3NTg0NDIxNDk2NDksInJhbmsiOjEsImtvZGRpVHJhY2tpbmdJbmZvIjoiNUUrK2NjMXFvY01kc0JrdG5OcEFDbHc5Z0ZSdGo4dithbGpkUlFIWkZ4OHFXbWZXTnlZaUUwZEk0V1Y0VVpnQ05MY1NERXRvcm9oLzQzUE1tM1BxWDlncnZzQWwwQWEwdTgrZ0M5WjViR0QvZUlpRkZENnVqZTc1ckNSbDRrN1pYcEUxSVNZWmpGMlE3M011NXFUaENTYzRPS3I4ZXhvK3RMRVZnUUhKN0pWaFdTenc3NU1QY1RuNFhFMTN6Mm5mZWphZ2JSZkZaV1ROajlUV1NpdSsySEk0L21DMkU2Tjc5VjEzTy8waFZEK0xEMXBodTdVbTVTdElRNVFlRWFnVC9oUXpZcFVaeGxKaUJKSmVxK2xKdTBvazlIb1Z2Nk5oSVRocS9JUVJ6dnlRbkdzUGpPZ3JEVkNZUTZvdFN0d0NzN0szU2xPOG1rTC90RVdQYU1nazNmUjlVSjZhckhWcEhneHVkVStJSDc1YlpmcnBkMFZ1cU9QMnZMUklxRFdrbjYrWHNHeDVKQ2pxSDZscnIzR2FUdjBJUnMyWmUzNjNkUE5uYVRWMUNTdjIyQ3F5TGpGYVA0VkN4OVBObGRENlRxMjB0WGJJT3pMZEtSUTNUdGc3ZUs1RFhSWE9mYzI5VEtrakVaVlhrVlU4anJuNHE5SUJFaXJVSS9odnd5K2UxS0U5THc0YVUrM2YvSktBOFN0MTlYaVdJWjV3YUsxeTJoUkR4Sk10RUdGRG5ZYXVNTmkzSGJqcVFOZzhoT1dWVlBZRW9XWTNYbU45b0ZJYUlkalcrWXJ4Ym15UVBxZVZucks5L0xmS3V4cklhd1J6Vk83S3haMVg0TFY0RVp3WWl2Q2RTditZRHlXWVF4WGJSL2o5L29jbitsRU0yUEhHbGxUWEp1WTkxdzU5V3M3UWVaNXlucUFqbWNyWEszdHY3MU1Ic3pPQWxEUHFXUHJzOHJPS0RrUTA1Ujdva3JEODRuYThzRjdjalMzY1Y2SHhBYjJ6SGZ0eGo2b1hRRmR5UTdtWlByK2Z4eUVOM2ZTVDNNNDB4aVFnK2ZhOWExcW1aZWVsRmxVQnRqd1I3QUJCbnRrdjduYlRzS3dsTmFDYThwYkErTG1YaGRyajlPaXNFN3ZKRURYQzZTRkUzR2kxdVZjY2lLZ04vRytoUmVvbW9MWElxSlI5aU5RaXVEald2ZTRqOHhXaWxNSGNZN21MSzBKc2RMRW1UUTlaY05LWHpwd3BQc3dQWW4yUHV0c2NKb1EvOWhVMkMyYndiSWMzeXhuVURBVWlJV0NtMWJhVkgzN0hpZFoyaVFacTYyQkhTNjErNUE1b2pLK05jOGY1Z2tqdmRQNGRMd0tEZU1sSHdpK2VpU1pDZ2JmOUI3VU11MlVVK0ppbytFU2ZKeDk4M2dVOWZVNEEvUG41ZXdBTTZFUnAxVFJoMEIzbGJSakdBZGVlc0daKzVZNWlSeGVHQmFrSWRqVHU3MUtsWnd4blVUTmR2UFExVWhvRXBWWmVyYk5wNEZXK2w5MFUzVGw0VjV4c096dHlBTWlIWjRkeW5TSG5UYzZQZHdQUkdubjdDdndTNE43K3o3RjQ3OWw0c2VjRFJPNHJIL1NqRU92Um1GTUxFSzdSbnhiU0VPS2JBWFZHUGNWQVl6R2ZKaE9QVzE3QnN3cUNpb3RTSzNYWkw5a0d3Wko4WjcvVzJvVFM0WlV3NkgyMU9qSVpMVi9ubDlKcGl4MFhMY3JPRHNVbldGRGduNy9BdTVEY3VqZ3pZQkVKS01pT0k0SFJkVTRVMVNrdzQ3amxMbjVBdVk3RExjeXQ0bUVhU3Mwc0JsMU0zU1MvWHM3K0FQeE1kN2RqU2NYRk95TnFTR0s5VUF4cWwzRXQ2Y2NPNmpDSUFzbWN5UmNGaTJxS0lJcFRzZ0Y2RHl4K0pxaVZJcmtkT1ZNckNYcVFiSHVkS0lpR0FVRHowcXRQVkF3WjhCakJaV28rM2FUc04yWmpkOGRhQWlBTVQ0Z3I3QVlTUWlUTFZheitiM041SElBdnBmTURtMHJJckIwaTJROXkzeDdJS3FEL2VIRzBuTnFpT01wS0hOTldxUG1xUkhYVXNZVC9CbC8xclV2dU0yZnQ0WEt6UHpzSmhxMk5MZXl5Tkw5U3VwQ1FxREhhU1hvMEVXTWR5QmY0V3JPeWlORTl2bUVsVngySGpZclExdmxwNEo1Sy9JeUdtckdRT1dSRHJocXJ3YjNGMkMxb250WE1tdTRjTklFZ0pFNG1BT0NIckhlQVpCRGZRTmYwSFlwSnRXRnhubXlOQ0Ntc3pTMDREUXo2aThDM214b0o5QnE1aE9nbWp4NnlzallrdVpvNUpCRk1tanYvdStVSzl1cmJQaXRGUzFoZGljOW4wSk5ZYWU2OXlsZ0ViazVQek5Zbm1aNjVxNWg3OVVOM0J2SVVtUzg3eEduQW1JWkZwU2psUG56SEpIdmkvR0NRYWdJTitoVFpFTzh3TlRtVlR2SXhjeEYzakhDakJCNURzUzlON2MwQWNMVmpGT3hFRnZyWFM1TVhqLzcxK1VhL1Nad255SVhzOCtTUkxCRjlXMXROeENKbERhNDI0bzZ4T2VjYmdmRVdDeEp1OUFldUl5LzJ3ZVdmVjBWZ013OVVPa3d5TENBaCtraHdKQ05TVFFHVGRBUWRnUzNGM1BNeVBtekRlWEozRnZNNmljbDZrM25TaWtsekpXMnN1Rko1UkZjem9vdWhzM1dlRHNUUUNXWkxqdkRvWFBHNDQxVXlnSjZVazhnU2t2TEU2bG9VKzMyWG56STJlSW9hL0VFS1ZhUzZ5SlY4ZWJCMDRxNU10QXhlUVpKNUhyR3A2UkN2WFR3SGNnWGNTZGVVbXBDVUF2QUxMb0l0c0hBRURxVk84clJqb1lieXJ2SkhtaXRHZ0JwSzA2QVc1MTV0aG0zUi9rVjR4KzBGajNjMWRTbEVCblZ4MVV5S09namlQWkRkS2x5NXhBeDZnd2sxV0ZzdlZwVE5KZTlnVVpUb1V6QkN3YmVMdWk2SG50Z3BxRWkyZmFHR0RYcEc2RXVNQ29kV28xNXppZkJqN2c4SGQ1bzh6NEpJb0dybFdqL2J0STU1ZzlmZ2lWVTZFMHBMMjB4QklKSUUxUGErZUpMYzZFY3FqRGsrSEtzMFVITC94VkV1dCtkZ3d3VzlXcnNqSllhcXo1SmNuTkFlSWoxTnAxT3ZsVHhwWExaOVJ1Wkx5dUxKR1JIaCtJY0tKWC90Y1A5c2tZTUt5V3YxR3QrK2UvdGpvYUljbS9KdlV4MUlMcnJNczVuU1l3SktoTlhLVXU1U1lOT1ppWDJ1bG9TYjhGODFnYWgvN081cUwwdU9xMTBNVmMySm5BUThWb2JqYUNFYWk3MURDZy8xT1U2SUt6ZndnQ25RbjVIRkFodmJ5VU5ZeHozOCtLRVhBRkRNQ0k0PSJ9&from_sustainable_property_sr=1&from=searchresults",
+    "address": "12th arr., Paris",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Paris%2C+France&checkin=2025-09-28&checkout=2025-10-01&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1758442148320&force_referer=",
+    "scrapedAt": "2025-09-21T08:09:11.709Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1758442151709_2",
+    "name": "Hôtel Saint-Pétersbourg Opéra & Spa",
+    "price": 1,
+    "currency": "USD",
+    "rating": 8.9,
     "stars": 9,
-    "reviewCount": 1002,
-    "avgReview": "8.8/5",
+    "reviewCount": 842,
+    "avgReview": "8.9/5",
     "images": [
-      "https://cf.bstatic.com/xdata/images/hotel/square240/673534930.webp?k=a0d6829855f9d07d2e1b344287923c42a7ffed3871500146f22c8076ae8e27ea&o="
+      "https://cf.bstatic.com/xdata/images/hotel/square240/290866131.webp?k=f62a5050479bd3520a75640d7308171de511ef61f1dfd3eacf76ad9ed2619763&o="
     ],
-    "bookingUrl": "https://www.booking.com/hotel/fr/sebco.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9wYXJpcywgZnJhbmNlSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCo-qExgbAAgHSAiRiYzIzM2M4Zi02YWY4LTQ4ZTgtOWZhZi1mNzQzN2E1ZjMwNDLYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=5af33ad1d254007f&srepoch=1757492519&all_sr_blocks=1399040105_411763160_0_2_0&highlighted_blocks=1399040105_411763160_0_2_0&matching_block_id=1399040105_411763160_0_2_0&sr_pri_blocks=1399040105_411763160_0_2_0__114189&from=searchresults",
-    "address": "11th arr., Paris",
-    "location": {
-      "lat": 0,
-      "lng": 0
-    },
-    "amenities": [
-      "WiFi",
-      "Air Conditioning",
-      "Free Breakfast"
-    ],
-    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Paris%2C+France&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757492515015&force_referer=",
-    "scrapedAt": "2025-09-10T08:21:58.908Z",
-    "source": "Booking.com (ScraperAPI)"
-  },
-  {
-    "id": "hotel_1757492518908_1",
-    "name": "Grand Hôtel Amelot",
-    "price": 1,
-    "currency": "USD",
-    "rating": 8.2,
-    "stars": 8,
-    "reviewCount": 986,
-    "avgReview": "8.2/5",
-    "images": [
-      "https://cf.bstatic.com/xdata/images/hotel/square240/42220880.webp?k=0e7a7cd183184b09434feaab308f6f8b17d6d7ba39e59890d9acff69a26d55a3&o="
-    ],
-    "bookingUrl": "https://www.booking.com/hotel/fr/grand-amelot-paris4.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9wYXJpcywgZnJhbmNlSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCo-qExgbAAgHSAiRiYzIzM2M4Zi02YWY4LTQ4ZTgtOWZhZi1mNzQzN2E1ZjMwNDLYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=5af33ad1d254007f&srepoch=1757492519&all_sr_blocks=127931402_88551804_0_0_0&highlighted_blocks=127931402_88551804_0_0_0&matching_block_id=127931402_88551804_0_0_0&sr_pri_blocks=127931402_88551804_0_0_0__94392&from=searchresults",
-    "address": "11th arr., Paris",
-    "location": {
-      "lat": 0,
-      "lng": 0
-    },
-    "amenities": [
-      "WiFi",
-      "Air Conditioning",
-      "Free Breakfast"
-    ],
-    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Paris%2C+France&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757492515015&force_referer=",
-    "scrapedAt": "2025-09-10T08:21:58.908Z",
-    "source": "Booking.com (ScraperAPI)"
-  },
-  {
-    "id": "hotel_1757492518908_2",
-    "name": "ibis Paris Gare du Nord Château Landon 10ème",
-    "price": 838,
-    "currency": "USD",
-    "rating": 7.5,
-    "stars": 8,
-    "reviewCount": 187,
-    "avgReview": "7.5/5",
-    "images": [
-      "https://cf.bstatic.com/xdata/images/hotel/square240/251797160.webp?k=81c3a6157f424faa5a48d7a056877fa4a8a794d83bf8aad6efeea0ccad4c62da&o="
-    ],
-    "bookingUrl": "https://www.booking.com/hotel/fr/ibis-gare-du-nord-chateau-landon.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9wYXJpcywgZnJhbmNlSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCo-qExgbAAgHSAiRiYzIzM2M4Zi02YWY4LTQ4ZTgtOWZhZi1mNzQzN2E1ZjMwNDLYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=5af33ad1d254007f&srepoch=1757492519&all_sr_blocks=54797402_376297350_2_2_0&highlighted_blocks=54797402_376297350_2_2_0&matching_block_id=54797402_376297350_2_2_0&sr_pri_blocks=54797402_376297350_2_2_0__71400&from=searchresults",
-    "address": "10th arr., Paris",
-    "location": {
-      "lat": 0,
-      "lng": 0
-    },
-    "amenities": [
-      "WiFi",
-      "Air Conditioning",
-      "Free Breakfast"
-    ],
-    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Paris%2C+France&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757492515015&force_referer=",
-    "scrapedAt": "2025-09-10T08:21:58.908Z",
-    "source": "Booking.com (ScraperAPI)"
-  },
-  {
-    "id": "hotel_1757492518908_3",
-    "name": "Novotel Paris Centre Tour Eiffel",
-    "price": 1,
-    "currency": "USD",
-    "rating": 7.6,
-    "stars": 8,
-    "reviewCount": 448,
-    "avgReview": "7.6/5",
-    "images": [
-      "https://cf.bstatic.com/xdata/images/hotel/square240/276090071.webp?k=2a424e62b1bb4805edcb3cf3bdc4fb901cc136e1f17a6ee2f33e53c3ef4804b7&o="
-    ],
-    "bookingUrl": "https://www.booking.com/hotel/fr/novotel-paris-tour-eiffel.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9wYXJpcywgZnJhbmNlSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCo-qExgbAAgHSAiRiYzIzM2M4Zi02YWY4LTQ4ZTgtOWZhZi1mNzQzN2E1ZjMwNDLYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=5af33ad1d254007f&srepoch=1757492519&all_sr_blocks=5371814_94272864_2_34_0&highlighted_blocks=5371814_94272864_2_34_0&matching_block_id=5371814_94272864_2_34_0&sr_pri_blocks=5371814_94272864_2_34_0__129605&from_sustainable_property_sr=1&from=searchresults",
-    "address": "15th arr., Paris",
-    "location": {
-      "lat": 0,
-      "lng": 0
-    },
-    "amenities": [
-      "WiFi",
-      "Air Conditioning",
-      "Free Breakfast"
-    ],
-    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Paris%2C+France&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757492515015&force_referer=",
-    "scrapedAt": "2025-09-10T08:21:58.908Z",
-    "source": "Booking.com (ScraperAPI)"
-  },
-  {
-    "id": "hotel_1757492518908_4",
-    "name": "Hôtel Alexandrine Opera",
-    "price": 886,
-    "currency": "USD",
-    "rating": 8.1,
-    "stars": 8,
-    "reviewCount": 225,
-    "avgReview": "8.1/5",
-    "images": [
-      "https://cf.bstatic.com/xdata/images/hotel/square240/303902565.webp?k=220f9e1d9f3486cad1e4615c6343cc6cc8ce4d17ccef187404f5231742dee427&o="
-    ],
-    "bookingUrl": "https://www.booking.com/hotel/fr/hotel-balladins-paris-8eme-confort.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9wYXJpcywgZnJhbmNlSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCo-qExgbAAgHSAiRiYzIzM2M4Zi02YWY4LTQ4ZTgtOWZhZi1mNzQzN2E1ZjMwNDLYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=5af33ad1d254007f&srepoch=1757492519&all_sr_blocks=38622_0_2_0_0&highlighted_blocks=38622_0_2_0_0&matching_block_id=38622_0_2_0_0&sr_pri_blocks=38622_0_2_0_0__75510&from=searchresults",
-    "address": "8th arr., Paris",
-    "location": {
-      "lat": 0,
-      "lng": 0
-    },
-    "amenities": [
-      "WiFi",
-      "Air Conditioning",
-      "Free Breakfast"
-    ],
-    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Paris%2C+France&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757492515015&force_referer=",
-    "scrapedAt": "2025-09-10T08:21:58.908Z",
-    "source": "Booking.com (ScraperAPI)"
-  },
-  {
-    "id": "hotel_1757492518908_5",
-    "name": "Welcome Hotel",
-    "price": 2,
-    "currency": "USD",
-    "rating": 8.6,
-    "stars": 9,
-    "reviewCount": 318,
-    "avgReview": "8.6/5",
-    "images": [
-      "https://cf.bstatic.com/xdata/images/hotel/square240/348868115.webp?k=422f6e50a940c53a804f4824210f3d98ac6e507287e54fd7ca6b1d45a60e4657&o="
-    ],
-    "bookingUrl": "https://www.booking.com/hotel/fr/welcome-paris.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9wYXJpcywgZnJhbmNlSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCo-qExgbAAgHSAiRiYzIzM2M4Zi02YWY4LTQ4ZTgtOWZhZi1mNzQzN2E1ZjMwNDLYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=5af33ad1d254007f&srepoch=1757492519&all_sr_blocks=235645802_353782213_0_2_0&highlighted_blocks=235645802_353782213_0_2_0&matching_block_id=235645802_353782213_0_2_0&sr_pri_blocks=235645802_353782213_0_2_0__191268&from=searchresults",
-    "address": "6th arr., Paris",
-    "location": {
-      "lat": 0,
-      "lng": 0
-    },
-    "amenities": [
-      "WiFi",
-      "Air Conditioning",
-      "Free Breakfast"
-    ],
-    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Paris%2C+France&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757492515015&force_referer=",
-    "scrapedAt": "2025-09-10T08:21:58.908Z",
-    "source": "Booking.com (ScraperAPI)"
-  },
-  {
-    "id": "hotel_1757492518908_6",
-    "name": "Secret de Paris - Hotel & Spa",
-    "price": 1,
-    "currency": "USD",
-    "rating": 8.6,
-    "stars": 9,
-    "reviewCount": 817,
-    "avgReview": "8.6/5",
-    "images": [
-      "https://cf.bstatic.com/xdata/images/hotel/square240/10578938.webp?k=494757e47957e768b8a5806a80c2eecdd801a692aca2d1f35717219fa152351b&o="
-    ],
-    "bookingUrl": "https://www.booking.com/hotel/fr/secret-de-paris-design-boutique.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9wYXJpcywgZnJhbmNlSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCo-qExgbAAgHSAiRiYzIzM2M4Zi02YWY4LTQ4ZTgtOWZhZi1mNzQzN2E1ZjMwNDLYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=5af33ad1d254007f&srepoch=1757492519&all_sr_blocks=17157209_99043297_0_2_0&highlighted_blocks=17157209_99043297_0_2_0&matching_block_id=17157209_99043297_0_2_0&sr_pri_blocks=17157209_99043297_0_2_0__101633&from=searchresults",
+    "bookingUrl": "https://www.booking.com/hotel/fr/saintpetersbourg.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9wYXJpcywgZnJhbmNlSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCpOW-xgbAAgHSAiRhYzEyNjA3MC0yNTczLTQ5YzQtOGQ3NC0yYmI2Zjk0ZmJjMDXYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-28&checkout=2025-10-01&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=2fc639522ea301bc&srepoch=1758442151&all_sr_blocks=5176502_91902556_2_2_0&highlighted_blocks=5176502_91902556_2_2_0&matching_block_id=5176502_91902556_2_2_0&sr_pri_blocks=5176502_91902556_2_2_0__109480&from=searchresults",
     "address": "9th arr., Paris",
     "location": {
       "lat": 0,
@@ -184,89 +76,8 @@
       "Air Conditioning",
       "Free Breakfast"
     ],
-    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Paris%2C+France&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757492515015&force_referer=",
-    "scrapedAt": "2025-09-10T08:21:58.908Z",
-    "source": "Booking.com (ScraperAPI)"
-  },
-  {
-    "id": "hotel_1757492518908_7",
-    "name": "Hotel d'Espagne",
-    "price": 1,
-    "currency": "USD",
-    "rating": 8.2,
-    "stars": 8,
-    "reviewCount": 720,
-    "avgReview": "8.2/5",
-    "images": [
-      "https://cf.bstatic.com/xdata/images/hotel/square240/637973296.webp?k=7ab285255de96054b9a86cd1e7354445acaac11a432161701de022847b59a1d5&o="
-    ],
-    "bookingUrl": "https://www.booking.com/hotel/fr/d-espagne-paris.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9wYXJpcywgZnJhbmNlSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCo-qExgbAAgHSAiRiYzIzM2M4Zi02YWY4LTQ4ZTgtOWZhZi1mNzQzN2E1ZjMwNDLYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=5af33ad1d254007f&srepoch=1757492519&all_sr_blocks=47776102_88931477_2_2_0&highlighted_blocks=47776102_88931477_2_2_0&matching_block_id=47776102_88931477_2_2_0&sr_pri_blocks=47776102_88931477_2_2_0__99691&from=searchresults",
-    "address": "9th arr., Paris",
-    "location": {
-      "lat": 0,
-      "lng": 0
-    },
-    "amenities": [
-      "WiFi",
-      "Air Conditioning",
-      "Free Breakfast"
-    ],
-    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Paris%2C+France&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757492515015&force_referer=",
-    "scrapedAt": "2025-09-10T08:21:58.908Z",
-    "source": "Booking.com (ScraperAPI)"
-  },
-  {
-    "id": "hotel_1757492518908_8",
-    "name": "Le Nest by Sweett",
-    "price": 1,
-    "currency": "USD",
-    "rating": 8.6,
-    "stars": 9,
-    "reviewCount": 166,
-    "avgReview": "8.6/5",
-    "images": [
-      "https://cf.bstatic.com/xdata/images/hotel/square240/433831494.webp?k=8ba69ff32825d6c4460bc13f710066c8ba6abcc0b42d3a21774bb091c3616305&o="
-    ],
-    "bookingUrl": "https://www.booking.com/hotel/fr/le-nest-paris.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9wYXJpcywgZnJhbmNlSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCo-qExgbAAgHSAiRiYzIzM2M4Zi02YWY4LTQ4ZTgtOWZhZi1mNzQzN2E1ZjMwNDLYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=5af33ad1d254007f&srepoch=1757492519&all_sr_blocks=966748002_369147178_2_2_0&highlighted_blocks=966748002_369147178_2_2_0&matching_block_id=966748002_369147178_2_2_0&sr_pri_blocks=966748002_369147178_2_2_0__107574&from=searchresults",
-    "address": "17th arr., Paris",
-    "location": {
-      "lat": 0,
-      "lng": 0
-    },
-    "amenities": [
-      "WiFi",
-      "Air Conditioning",
-      "Free Breakfast"
-    ],
-    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Paris%2C+France&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757492515015&force_referer=",
-    "scrapedAt": "2025-09-10T08:21:58.908Z",
-    "source": "Booking.com (ScraperAPI)"
-  },
-  {
-    "id": "hotel_1757492518908_9",
-    "name": "Paris j'Adore Hotel & Spa",
-    "price": 1,
-    "currency": "USD",
-    "rating": 9.1,
-    "stars": 9,
-    "reviewCount": 787,
-    "avgReview": "9.1/5",
-    "images": [
-      "https://cf.bstatic.com/xdata/images/hotel/square240/309975114.webp?k=a2824eb9389f8c54905821dcefbb7c6233541f5d01953695baeced0809c83b78&o="
-    ],
-    "bookingUrl": "https://www.booking.com/hotel/fr/paris-j-39-adore-amp-spa.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9wYXJpcywgZnJhbmNlSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCo-qExgbAAgHSAiRiYzIzM2M4Zi02YWY4LTQ4ZTgtOWZhZi1mNzQzN2E1ZjMwNDLYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=5af33ad1d254007f&srepoch=1757492519&all_sr_blocks=0_0_2_0_0&highlighted_blocks=0_0_2_0_0&matching_block_id=0_0_2_0_0&sr_pri_blocks=0_0_2_0_0__151200&from=searchresults",
-    "address": "17th arr., Paris",
-    "location": {
-      "lat": 0,
-      "lng": 0
-    },
-    "amenities": [
-      "WiFi",
-      "Air Conditioning",
-      "Free Breakfast"
-    ],
-    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Paris%2C+France&checkin=2025-09-17&checkout=2025-09-20&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1757492515015&force_referer=",
-    "scrapedAt": "2025-09-10T08:21:58.908Z",
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Paris%2C+France&checkin=2025-09-28&checkout=2025-10-01&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1758442148320&force_referer=",
+    "scrapedAt": "2025-09-21T08:09:11.709Z",
     "source": "Booking.com (ScraperAPI)"
   }
 ]

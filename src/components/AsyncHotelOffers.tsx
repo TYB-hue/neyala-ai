@@ -60,7 +60,7 @@ export default function AsyncHotelOffers({
     
     try {
       console.log('Fetching hotels for:', { destination, startDate, endDate, travelGroup });
-      const response = await fetch('/api/hotels-real', {
+      const response = await fetch('/api/hotels-booking', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
