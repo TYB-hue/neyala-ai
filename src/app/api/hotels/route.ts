@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { searchHotels } from '@/lib/expedia';
+import { searchHotelsWithBooking } from '@/lib/booking-scraper';
 
 export async function GET(request: NextRequest) {
   try {
@@ -7,21 +7,52 @@ export async function GET(request: NextRequest) {
     const location = searchParams.get('location') || 'Tokyo, Japan';
     
     console.log(`API: Searching hotels for location: ${location}`);
-    console.log('Using Expedia scraper for hotel search');
+    console.log('Using Booking.com scraper for hotel search');
     
-    // Use the Expedia-based hotel search
-    const hotels = await searchHotels({ 
-      location,
-      checkIn: '2024-11-16',
-      checkOut: '2024-11-20'
+    // Use the Booking.com scraper
+    const hotels = await searchHotelsWithBooking({
+      destination: location,
+      maxHotels: 10,
+      useScraperApi: true
     });
+    
+    // Convert BookingHotelData to the format expected by frontend
+    const convertedHotels = hotels.map(hotel => ({
+      id: hotel.id,
+      name: hotel.name,
+      stars: hotel.stars,
+      rating: hotel.rating,
+      price: hotel.price,
+      currency: hotel.currency,
+      images: hotel.images,
+      location: hotel.location,
+      amenities: hotel.amenities,
+      description: hotel.description,
+      bookingUrl: hotel.bookingUrl,
+      source: hotel.source,
+      details: {
+        name: hotel.name,
+        rating: hotel.rating,
+        reviewCount: hotel.reviewCount,
+        address: hotel.address,
+        photos: hotel.images,
+        website: hotel.bookingUrl,
+        phone: '',
+        bookingUrls: {
+          agoda: `https://www.agoda.com/search?q=${encodeURIComponent(hotel.name)}&aid=1891470`,
+          expedia: `https://www.expedia.com/Hotel-Search?destination=${encodeURIComponent(location)}&aid=1891470`,
+          hotels: `https://www.hotels.com/search.do?q-destination=${encodeURIComponent(location)}&aid=1891470`,
+          direct: hotel.bookingUrl
+        }
+      }
+    }));
     
     return NextResponse.json({
       success: true,
       location,
-      hotels,
-      count: hotels.length,
-      message: `Found ${hotels.length} hotels for ${location}`
+      hotels: convertedHotels,
+      count: convertedHotels.length,
+      message: `Found ${convertedHotels.length} hotels for ${location}`
     });
     
   } catch (error) {
@@ -50,19 +81,52 @@ export async function POST(request: NextRequest) {
     }
     
     console.log(`API: Searching hotels for location: ${location}`);
+    console.log('Using Booking.com scraper for hotel search');
     
-    const hotels = await searchHotels({ 
-      location,
-      checkIn: checkInDate || '2024-11-16',
-      checkOut: checkOutDate || '2024-11-20'
+    // Use the Booking.com scraper
+    const hotels = await searchHotelsWithBooking({
+      destination: location,
+      maxHotels: 10,
+      useScraperApi: true
     });
+    
+    // Convert BookingHotelData to the format expected by frontend
+    const convertedHotels = hotels.map(hotel => ({
+      id: hotel.id,
+      name: hotel.name,
+      stars: hotel.stars,
+      rating: hotel.rating,
+      price: hotel.price,
+      currency: hotel.currency,
+      images: hotel.images,
+      location: hotel.location,
+      amenities: hotel.amenities,
+      description: hotel.description,
+      bookingUrl: hotel.bookingUrl,
+      source: hotel.source,
+      details: {
+        name: hotel.name,
+        rating: hotel.rating,
+        reviewCount: hotel.reviewCount,
+        address: hotel.address,
+        photos: hotel.images,
+        website: hotel.bookingUrl,
+        phone: '',
+        bookingUrls: {
+          agoda: `https://www.agoda.com/search?q=${encodeURIComponent(hotel.name)}&aid=1891470`,
+          expedia: `https://www.expedia.com/Hotel-Search?destination=${encodeURIComponent(location)}&aid=1891470`,
+          hotels: `https://www.hotels.com/search.do?q-destination=${encodeURIComponent(location)}&aid=1891470`,
+          direct: hotel.bookingUrl
+        }
+      }
+    }));
     
     return NextResponse.json({
       success: true,
       location,
-      hotels,
-      count: hotels.length,
-      message: `Found ${hotels.length} hotels for ${location}`
+      hotels: convertedHotels,
+      count: convertedHotels.length,
+      message: `Found ${convertedHotels.length} hotels for ${location}`
     });
     
   } catch (error) {
