@@ -115,7 +115,7 @@ export async function searchHotelsWithBooking(options: BookingScraperOptions): P
       if (hotelData.length === 0) {
         try {
           const files = fs.readdirSync('.');
-          const bookingFiles = files.filter(file => 
+          const bookingFiles = files.filter((file: string) => 
             file.startsWith('booking_hotels_') && 
             file.endsWith('.json') &&
             file.toLowerCase().includes(destination.toLowerCase().split(',')[0].trim().toLowerCase())
