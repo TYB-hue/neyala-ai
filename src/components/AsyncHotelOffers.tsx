@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect, useCallback } from 'react';
+import { useState, useEffect, useCallback, useRef } from 'react';
 import Image from 'next/image';
 import { Star, MapPin, ChevronLeft, ChevronRight } from 'lucide-react';
 
@@ -37,18 +37,23 @@ export default function AsyncHotelOffers({
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const [scrollContainerRef, setScrollContainerRef] = useState<HTMLDivElement | null>(null);
+  const isLoadingRef = useRef(false);
 
   const loadHotels = useCallback(async () => {
-    if (loading) {
+    if (isLoadingRef.current) {
       return; // Prevent multiple simultaneous requests
     }
+    isLoadingRef.current = true;
     setLoading(true);
     setError(null);
     
     // Add timeout to prevent infinite loading
     const timeoutId = setTimeout(() => {
-      setLoading(false);
-      setError('Request timeout. Please try again.');
+      if (isLoadingRef.current) {
+        setLoading(false);
+        setError('Request timeout. Please try again.');
+        isLoadingRef.current = false;
+      }
     }, 30000); // 30 second timeout
     
     try {
@@ -94,8 +99,9 @@ export default function AsyncHotelOffers({
     } finally {
       clearTimeout(timeoutId);
       setLoading(false);
+      isLoadingRef.current = false;
     }
-  }, [destination, startDate, endDate, travelGroup, loading]);
+  }, [destination, startDate, endDate, travelGroup]);
 
   useEffect(() => {
     // Only load hotels when dependencies change, not on every render
