@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useCallback } from 'react';
 import Image from 'next/image';
 import { Star, MapPin, ChevronLeft, ChevronRight } from 'lucide-react';
 
@@ -38,14 +38,7 @@ export default function AsyncHotelOffers({
   const [error, setError] = useState<string | null>(null);
   const [scrollContainerRef, setScrollContainerRef] = useState<HTMLDivElement | null>(null);
 
-  useEffect(() => {
-    // Only load hotels when dependencies change, not on every render
-    if (destination && startDate && endDate) {
-      loadHotels();
-    }
-  }, [destination, startDate, endDate, travelGroup]);
-
-  const loadHotels = async () => {
+  const loadHotels = useCallback(async () => {
     if (loading) {
       return; // Prevent multiple simultaneous requests
     }
@@ -102,7 +95,14 @@ export default function AsyncHotelOffers({
       clearTimeout(timeoutId);
       setLoading(false);
     }
-  };
+  }, [destination, startDate, endDate, travelGroup, loading]);
+
+  useEffect(() => {
+    // Only load hotels when dependencies change, not on every render
+    if (destination && startDate && endDate) {
+      loadHotels();
+    }
+  }, [destination, startDate, endDate, travelGroup, loadHotels]);
 
   const handleBookNow = (hotel: Hotel) => {
     window.open(hotel.bookingUrl, '_blank');
@@ -255,15 +255,15 @@ export default function AsyncHotelOffers({
             {/* Hotel Image */}
             <div className="relative h-48">
               <Image
-                src={hotel.images && hotel.images.length > 0 ? hotel.images[0] : 'https://images.unsplash.com/photo-1566073771259-6a8506099945?w=400&h=300&fit=crop&q=80'}
+                src={hotel.images && hotel.images.length > 0 ? hotel.images[0] : 'https://cf.bstatic.com/xdata/images/hotel/square600/510565710.webp?k=dff438e940e280b0b5740485b7a0a6b9bd9adfa97f59a835c7f98536bc137080&o='}
                 alt={hotel.name}
                 fill
                 className="object-cover"
                 sizes="320px"
                 onError={(e) => {
-                  // Fallback to Unsplash placeholder if image fails to load
+                  // Fallback to high-quality Booking.com placeholder if image fails to load
                   const target = e.target as HTMLImageElement;
-                  target.src = 'https://images.unsplash.com/photo-1566073771259-6a8506099945?w=400&h=300&fit=crop&q=80';
+                  target.src = 'https://cf.bstatic.com/xdata/images/hotel/square600/510565710.webp?k=dff438e940e280b0b5740485b7a0a6b9bd9adfa97f59a835c7f98536bc137080&o=';
                 }}
               />
               {/* Rating Badge */}

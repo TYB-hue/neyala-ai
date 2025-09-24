@@ -1,0 +1,89 @@
+[
+  {
+    "id": "hotel_1758630761333_0",
+    "name": "Thamel Heritage Hostel",
+    "price": 81,
+    "currency": "USD",
+    "rating": 9.2,
+    "stars": 9,
+    "reviewCount": 238,
+    "avgReview": "9.2/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/631345104.webp?k=bd2934f3c1a8387dac3555f0a3a916b89e8b9b26ad1d8612aa99c646f4eba784&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/631345104.webp?k=bd2934f3c1a8387dac3555f0a3a916b89e8b9b26ad1d8612aa99c646f4eba784&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/631345104.webp?k=bd2934f3c1a8387dac3555f0a3a916b89e8b9b26ad1d8612aa99c646f4eba784&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/np/thamel-heritage-hostel.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9rYXRobWFuZHUsIG5lcGFsSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC5qbKxgbAAgHSAiRhNzczYTNkMy1lMjMzLTQ5ZGYtYTBiZC1kNjkwNzYxYTIxOTfYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-30&checkout=2025-10-03&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=8a295833a3b4019f&srepoch=1758630761&all_sr_blocks=1311867804_403967558_2_2_0&highlighted_blocks=1311867804_403967558_2_2_0&matching_block_id=1311867804_403967558_2_2_0&sr_pri_blocks=1311867804_403967558_2_2_0__8109&from=searchresults",
+    "address": "Thamel, Kathmandu",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Kathmandu%2C+Nepal&checkin=2025-09-30&checkout=2025-10-03&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1758630757978&force_referer=",
+    "scrapedAt": "2025-09-23T12:32:41.334Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1758630761334_1",
+    "name": "Kathmandu Marriott Hotel",
+    "price": 405,
+    "currency": "USD",
+    "rating": 9.2,
+    "stars": 9,
+    "reviewCount": 982,
+    "avgReview": "9.2/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/641797691.webp?k=ce18576211c19dcda3769a42a0ef1de0783f532aaac0306c487d93b54e320b73&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/641797691.webp?k=ce18576211c19dcda3769a42a0ef1de0783f532aaac0306c487d93b54e320b73&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/641797691.webp?k=ce18576211c19dcda3769a42a0ef1de0783f532aaac0306c487d93b54e320b73&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/np/kathmandu-marriott.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9rYXRobWFuZHUsIG5lcGFsSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC5qbKxgbAAgHSAiRhNzczYTNkMy1lMjMzLTQ5ZGYtYTBiZC1kNjkwNzYxYTIxOTfYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-30&checkout=2025-10-03&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=8a295833a3b4019f&srepoch=1758630761&all_sr_blocks=497558706_372329624_3_33_0&highlighted_blocks=497558706_372329624_3_33_0&matching_block_id=497558706_372329624_3_33_0&sr_pri_blocks=497558706_372329624_3_33_0__40500&nad_id=7c0ffb79-2a08-49b1-89ea-3ff3da98fa54_0&nad_cpc=0.5&nad_track=eyJhdWN0aW9uRXBvY2giOjE3NTg2MzA3NTkyNjgsInJhbmsiOjEsImtvZGRpVHJhY2tpbmdJbmZvIjoib2haMlBkSXNNM0dUYWdqN2VCSjcyZUlEaVNFbEV1NHV6R2c1d043emlHY1AveGxCUmZKanFEOWlHVllQd2NPZUtJaC84Z1F6TUpSelNIdjNEVkFycjFuTW5hWkhwajNSS3M1R2o3Zm13S2RGdUZiT0VDQ1hCN0xkaFdSM3NvbHNvTzhDOGNGRkkxZTloT1Z2dDIxYWZWeldkbTF6Qm9KRjY4M2g4Y0Z0MEZOOG9SQWZFRlk5aW9PT213cVJ0dmxtZWdHUXJlVk5meFUvMlhGYmpoaTFjeStLZWJ4S25QQ2pHeVVVa1V5ZUtRdkk3bjQwR00vRDJmeWsxZ0dXa0tFMUhHb21acWlHWjVsTTg0SGt2ZExQZUYrVGVRM0s2a0dpRjltSGV4ZEE0M1lySDZoM0pNRVh6Qnd3SlczMWFOcEgrUlpzdy9TRVBER3h6QVcrZUlUQTlCMkxxMExYV1BreGx1VWxVYzAzKzhuVnJtNWZqZUdXTmJKTU5PakxYVTJYMm1EZ0ZieStWWmU0TXkxVGIrQzNmWjIvVUtLU3F4NTdSdUt6cm5sZVBCOFo0ajFuT2dBQ2ZSTGloejM5SWJqdTlKVXNIRTZ4QThNajFFTnVGQ1VoMmw3LysvTktxUHAvWEdveUN1TkRCeTVIcml6c3JBdTFnVmdZRXFaLzk0ck9uQit5ZkVzS0NYY3hNZm9wMGZ6UC9ZSzhHcE5uUVJZVUthRlNxMmdMZ3pSRUR6ZjcvSWkvS0oyeHB3VFpjMmdUYnlCNERjRlBIeEhwZ1NoSmM2ZkZsWVBvbHp4UndBdDdyS0lVc3gxeWN6ZFF4enNsVElUWUt0YWxacGlOWW1OeXA2UXhhakVVTDJqWmZuWVg3cEtQekxFK2UrdEJLZUNybFRBUWVDWlJFeVJsRDQwNmkyUnpRYzhrV1l3NG9lbVBVSU9XS0p5dUFMWTJscDBJZWtUTTRhSnRBV2hDaHp2SWJ2dkc0K0hUd2NlSXNWa0J5bjJLd3V0VnRFeCtyd1dER20yWDR5Ylh2dks3SUVYcklpNkFpenlKeWJXNTcwaitNUkhqanc1SHR4dHJndG1XbXNuamZIOStSbHAyajVFNVkxaXZKcUkrUVNUMTh5TktPRXoxejJvcG1QQ0ZNUHZ1eWc5RmtSL1pnVVJMaFo4RVpvK3pxekRkL2FrV2tuWVN2eVdyUE5HUm16REVCaDFvQ25XbG1JSVYrQW1nUk1EV05XSCtLYmZLazNiVUpGWmdsVFdqalVBMG45ZWl2aUZ1cDdoN1l0M3Avb09oU200S1A0ZDBmVSsyMVM5REpkUW0rbFVNaUlkY1JabldsTUlGUi9ETkZ4ZysxM08xTVB1cG45VEY1dVhWMlhNTFlvc3o0TklXTzlQaUQxbjFSSGhoK05DdTZjVFE1cWJoK0NrTThDT2s1WGpGSzI1MGlHN21NN2kvVWZGdElUTmxjTmVmRXpXUHlqam0yRVlqVFN4eGVzR1pXM29lU21zdm1neUR0YlptUVVldko5dGhlOTV1YmxaQ1U1dUxDVHh2aFNPbENPc0RKQ1JjaVVRNlljMk9EUkFuajdZZWZUM0RMcmsyK3J6eWJjQUxTQzZHNmZmYVFTamRoays0Ym9jZ0R6enFydDBZWGNjV25NS082cStPQ1RJMXFhd2FIRU1JeC9PWkhhZFgwMkU4R0hQVG9hYk5lTGpjVEpTdmZhQTJHNDNhQTVYRUx4ZVFvb3VldTFVZkg4ejlPeDFpZnNxbUZudEgyVVZBdU4rMnhNNnZoTVZnbW1FYnRXRkE2b0sxaWNTRjl4VCttanZJNDRqNWFXSS84aDVpMUp2V05zd2V2T3NUMFlyT1JleFlWbnM5bmZ1akEzNlhnNGVER3VRL3d5NWlLZk1CS2hPdGJJWER1Tjh4Q2Q0TlNYczlma2RHUU5IUHpMZ0tjaXM0VUR3bWkwODJ2K2IvdVFlS3VReVh2QWUzc3BzbUt3bFJpTjFHOU0yengzUzlxWkM4ZmpGdFdJWlZaUmQrSnd5NTcvdENWUWRTQ3VrTXNLMy95bUd4ODFrNGN3d01wMHFXQ3ZlNkNqR0tpRjRuZWN4NmxpSUdOZVdmaFh1c01iYzhwbzNrb1RVNWlNM1luRWhFT3NUdExtOGMvZzZQWTI3UGdoQm81YkUwczZkek9ZRlkwaDNkckRyUWZTa3UrVG8zbHhqZXRZUFFVUFZ3WjdRWWRlaXBvRzRZWnF6Z1BrRktIaUhLN3lyY0VFUGhXRFRRaGlKaFlXU21YTVp6RU5STkdxN3p3R0VBUVNqWEtXSEVESUtzeC9CK0Z0SlpxZmRRK1FrM0hSVGpWTXpKRXFEQUVhV1FFNDZKSXZlendtaHlMQitpVDVXTmZndHRYVkl3MmdmMEJSN1grUEhYY21jZ0svTFZjZGxiWDNaNFdwMk84Z2F0WTRkZ1Qxc3Avek9WS05yQXdZaXh5a0dvUW5UQnFKd1lYV2N3VWM2cCs4ZkJ6azBrTDNnb1UzcHBFL3ppNGVVTGI2KzFneFUwblFIZ2Z2eVhWeVJYRjNaUTYyOXdvVi9sTWZRSWpxZlB2TUZKOExMWGZBRVFzQjhhdUZGNC9YVEgvNHBINzlZd1d0THpuWU5uYXpjNXgyRG1tMmJNcTRMVVpxbzVqdy9ZNUpPL3U4OEZ3MXgyT3BPNnJPMmpxVjYwaml2QjkvOTQ3aFV6a2pWeEU4MFpZOVBEODczQU41V0ozVXhnWUY5cEZoNVllQVE2ZXlNb0tiLzU5OGxjMHVWekhYY2laYXF3SDY1QlZQcUtjcHI1YnJxSkJpbEhpZVRmbjRpT2Q0RHZOOWtSTHlIWnZmMHFSaWhQMFQ0OFpXNVJBenJ4b1lJLzJzZTk2WTZ0Z3FmVHZzM3RFYzRkeHJSV3FSM2g3TmVGdUJQYitlRDlzQnp1VFljcUNlVzR4ZjlJNytQb2ZRbWJoelcyRXZ0RTZMSCt2dXk1WS9LT3hLc3dYSWQyT24xUnVFLzhCN2YzZWcxMmRXZzBJd0dlNnVtUTB4aUFiaXhZRzk3TVRHcHcxWVhIR3RsQ3FSZnZvRndUcjV2NTVXVTMzV0IyeUZHUTZ5ZEo1STB1VkMyQ293cHp6eFZxWElIeTFXampEVHI5bU92UlJPSnJkK1JjWlZjcEtEUXNWTkhGY3NWT3d6YVpNY0V6K0VDbWxPM0pLc2NzRE8rRjJyT0FVYzJBVVlUZDNzREtIcUlKNjRsUldKQ01GL3JlQmkzS3N2czZUcXpxZnI0aWJhNGJLWlV3YkRTa1FRc1pFS2hhUy9Cekh4VHQ0TmhoN293OFNQdFBHTzY1ejdKcFhxNWMzdjVhU29FaXNZa0Y2YTJSZjljc2dWVk5vT2xSeHpha3lucFhFUUEwM1ZQdDNBWUhuV3dpZ25ZZ2I1UEZOYk1xV2hqY2tKcEdmcitNIn0%3D&from=searchresults",
+    "address": "Kathmandu",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Kathmandu%2C+Nepal&checkin=2025-09-30&checkout=2025-10-03&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1758630757978&force_referer=",
+    "scrapedAt": "2025-09-23T12:32:41.334Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1758630761334_2",
+    "name": "Kwabahal Boutique Hostel",
+    "price": 102,
+    "currency": "USD",
+    "rating": 9.3,
+    "stars": 9,
+    "reviewCount": 951,
+    "avgReview": "9.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/614483945.webp?k=2917eed618ff592776d92489805988ec4295e41f70f231d581b64f4d2e1260c8&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/614483945.webp?k=2917eed618ff592776d92489805988ec4295e41f70f231d581b64f4d2e1260c8&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/614483945.webp?k=2917eed618ff592776d92489805988ec4295e41f70f231d581b64f4d2e1260c8&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/np/kwabahal-boutique-hostel.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9rYXRobWFuZHUsIG5lcGFsSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC5qbKxgbAAgHSAiRhNzczYTNkMy1lMjMzLTQ5ZGYtYTBiZC1kNjkwNzYxYTIxOTfYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-30&checkout=2025-10-03&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=8a295833a3b4019f&srepoch=1758630761&all_sr_blocks=0_0_2_0_0&highlighted_blocks=0_0_2_0_0&matching_block_id=0_0_2_0_0&sr_pri_blocks=0_0_2_0_0__10184&from=searchresults",
+    "address": "Thamel, Kathmandu",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Kathmandu%2C+Nepal&checkin=2025-09-30&checkout=2025-10-03&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1758630757978&force_referer=",
+    "scrapedAt": "2025-09-23T12:32:41.334Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

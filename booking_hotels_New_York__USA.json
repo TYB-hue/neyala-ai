@@ -1,0 +1,89 @@
+[
+  {
+    "id": "hotel_1758630261939_0",
+    "name": "Refinery Hotel - New York",
+    "price": 928,
+    "currency": "USD",
+    "rating": 8.4,
+    "stars": 8,
+    "reviewCount": 683,
+    "avgReview": "8.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/220697962.webp?k=c221ec26cb5a5a2ddd5699793d605cc4633c3aad26f9210593888459b05a66bf&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/220697962.webp?k=c221ec26cb5a5a2ddd5699793d605cc4633c3aad26f9210593888459b05a66bf&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/220697962.webp?k=c221ec26cb5a5a2ddd5699793d605cc4633c3aad26f9210593888459b05a66bf&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/us/the-refinery.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9uZXcgeW9yaywgdXNhSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC8aLKxgbAAgHSAiQ5ZjAwM2ZjNy0wM2RmLTRmY2EtOGFiMC03ODY1OGI0NTMyOTTYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-30&checkout=2025-10-03&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=5d155738a8050459&srepoch=1758630259&all_sr_blocks=39745102_414904060_0_2_0&highlighted_blocks=39745102_414904060_0_2_0&matching_block_id=39745102_414904060_0_2_0&sr_pri_blocks=39745102_414904060_0_2_0__92820&from=searchresults",
+    "address": "Manhattan, New York",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=New+York%2C+USA&checkin=2025-09-30&checkout=2025-10-03&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-23T12:24:21.939Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1758630261940_1",
+    "name": "Hilton New York Fashion District",
+    "price": 891,
+    "currency": "USD",
+    "rating": 7.9,
+    "stars": 8,
+    "reviewCount": 326,
+    "avgReview": "7.9/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/484329266.webp?k=e0e88cf6cfd8890dcb3fce845e2e2ff21a5a0af1be357ce501c1990ea729aa2b&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/484329266.webp?k=e0e88cf6cfd8890dcb3fce845e2e2ff21a5a0af1be357ce501c1990ea729aa2b&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/484329266.webp?k=e0e88cf6cfd8890dcb3fce845e2e2ff21a5a0af1be357ce501c1990ea729aa2b&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/us/hilton-new-york-fashion-district.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9uZXcgeW9yaywgdXNhSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC8aLKxgbAAgHSAiQ5ZjAwM2ZjNy0wM2RmLTRmY2EtOGFiMC03ODY1OGI0NTMyOTTYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-30&checkout=2025-10-03&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=5d155738a8050459&srepoch=1758630259&all_sr_blocks=28351802_353224644_2_2_0&highlighted_blocks=28351802_353224644_2_2_0&matching_block_id=28351802_353224644_2_2_0&sr_pri_blocks=28351802_353224644_2_2_0__89080&nad_id=65f0c3d9-ff28-49ef-8175-5092b04fcc5f_0&nad_cpc=1.24&nad_track=eyJhdWN0aW9uRXBvY2giOjE3NTg2MzAyNTc5OTQsInJhbmsiOjEsImtvZGRpVHJhY2tpbmdJbmZvIjoiYURGeml3NDhFWkZXbFhkYmYwaUFTbjNYa0VLYkQzdUtXcWhmMEphcU1ydWlRT0VpY1lFQW1aR1F0OVcwYnREUDVaa3lvSnlvZFQ0TFZwMXBXb3AvTDFmb1Bac05jVk1xMkR5WTRmV2xQZis3SXpBYWJzeVo0TjhrMEFZYnZZTkErdjBSWnlzRDlzSS9td21hQW0rcDAyODl6S20vSmcwQnZaNXgxaWJHMVJrYXA5ZlF5eUpGU2s1Q0w1SHR1SHJlT3VvL2hEUUlhOS9XNU1VMFRmOXpVNjY5bUhCV1FQK3doQXJiV3hUNyt2YlZVNzFTem5KRlpyaW53QnF6L1lKbUNBbmVPcll5TGxBOFR6YWxQblJrMjdsYUZRcWwvRHJCTHJsaXB6cmRXYXRrWFQ1cWc1cVlERVRjeEtxTGI1Tk9nTzFISm5UZEVweHFoZkpRdmNmVnVuTUtQR0xhb1JhcjB3cSsxb1FJL0ladGJ1QW8reUNUd0pscmtNdVNlbTVYaTVTZVJRenptaWZHU1l2SnVGdjl4ZDlObUVDMkE5b29XanhEaGdqejdZbGVDWGhScDZ2bmxvOUhBNjhGQSsvbXNucEszOTFtdEVUZ3pFSXh2T3JXOE94ZmdWRnh4akFmaXZJS3hsNXNLbmN6TXZFbkdXRGF5TW5nbUlheUM5REkrVGdlVXdDVHhsVUNuc2VuNEFiamVVZjNSbWVoVmJ3MUhyVFFnL2pya3FkcVQxaEE3OWJKZ1ZYUkY0VTByajdHdWxPYnQvVndnbldrSFR3ckhxY3NCL2JVeTcrZHJXQk1hYWNjZnREZGYxQ0VJSi9aa2gxZTNpczJaSUZGM3Y3aGhyM3VTdlZIeVVSVGZGMERieUNVQ0RJeHB2OXYralV3a2xqUUUwY1lVclNXdGdaTFBtcVJFZHg2d0VDRlVJb3lRMzVFa3JRbkttdk1OT3RDRVBDMlh4OHJMa3pZMlFDNWE4OWZjandOT1B3Skd2aWpUOFA0WkRlZ1RqRFZ6di9FVGxYVis3dXFlQkgvUGVUa2JXSkZ3bFFuSGlkcjQ3YkYzd0FmVGZXYUJranU0V1hyUHlkWFFCcHQ5VUJ2VzNHbW45cHBHQVFsa0FTc3hsZzU3NGVidm1LWFlob3NjRHpTNkVRUVFBME5CUWpJV3dQSm8rdFpsMUN4akc1RjJCWkVzd2IwYitQaFNLVXpUSmV2a3NJZE9VZHRsd3A5WG10MEFreElVcmI1S0pwRUt3T1V4K1NPbzNwczRLcHpuVTByM0VtMDhFMlBzNW53cFJRQ3JoY3lRUUxIYjVqSWxReTQ0dk1KQW55ZmRhZTRRcnI4NmVnSHBQSTFCQTNaTmIzWEF3b1V0Sm1xSGI2a3o4TG1Ub2xma0M5SnlWSnhOa09NQ1pHR21uc3djL2srL0xRWEF3MllacDFsZ2M5ZG41b0xnOStzTTZxay9zVG5la2ZtQmxOZkJtOTJSTFE2WUdTRjNLWXluRkliR015NWx0RExQTDRkbzlaTlFyUklOcDI3bDlrMUdOQlJtdEF2Y3BHcUJqclVheE41VjgvVWtNRkZLYTI2UjhDZkVwY3pVWGh1SXpwa0ZqOGxoNFdZWm9raUk2VElOdGhFRFp5TXczWlhZK2V1eVM2QzlXS045dHd6dk41U2VHNUdZWnJqVmhhQ1g4YTdpQ0VXZS9zSVNERFFXSThOWjdpbHBnQThLL3hETzhWOG50em1OM2VyU2FTdTNiOWtDajVHYmFMVFMvTUdvVGM5RVZOQkJnMHQzNS9HUEpqcHdmL0J6WFFBT21Xb1dxYlBka2hmazJTdkNzTTJFdFc2ZHhlTzhVWHlsb24vVGYzZFQ5VHBLcVcyVldqQ2hUaUlDc1VQaTJRa25abjVOeFRSVmIyT3FOeFBHVTBsM1MwUUlHNjBZSFFodjFERnVPTnZVMnBqSEcvcGVuNEdkSU5HZnowNE4zRllDcnVidUN3NlVBZmRlWHByWmpvMzIyVFZETCtWM1hIQUpoYlJUbytwQXJJRzk3VTI5aHpIRG1jcUxoZHNzZ0tmbkdRSEdyMGEyTTJzYXJBVW9Ed0x3Qzh0QnJIYVVYZDBSTnFiclA4em5wdUJDdDZVUkl6eVRnUGh6enhmSlY5VENJK2V4MWQwN29DZXIrVENwVDdHNmFmSWJUbWErUkJiYkxjeUp3MWZYMVF4azNxeCtDL3V3RDhXNjgyMXFGajFUVHhzbWx5aWFxcG0yL0crV0ZhdjgxWnFwRTBUQWc2dUdXVk9FS1ljTCttSTJuaWNhU1BpZ0lJYko3SXRXL1hXSWJHRTJGRm83SVZtOE9tUnlHYndFaW5jdWs2UEZNZ2U2N1lYa0xMeHdnc2d2L2FCZEhncFdGRVh0Zi9zbVpUK2RjMGRadTZKZTgzN2M5c1Vac3VueERsTUQ1UUJYUEZRdXpoa2FFQ2VKVkhIcWtISnczRy9LUGZ0NExHOW9jeGlDQ0dtQTRETXB6TG5zblc3RkJUZGdMK0FkRm1yOFAzd3RKeS9wVW8xR1FqanVzWVIyVGQxVjNiWlF0U09UUzBleFlqVnZGMDNTWFRoZ2o4cXJOUHhNYmZvQ2VpdTJYd2NnQk1TUUJSc2JCNi9HS2taeDQ4WndjZjlvNUhISmVvT3dMR1dkcUpnampEYzRvUXlUb1BiWkFqNisvNDh3RkQ3ZnROYlVkTURRNzRvOXhmVWtaSjNRSTNXQzNBL25weVNMNE1VUGhsUXE3cFdUOVN6VG9Kdlp5cXAvQmZTRE9LV2pVRnRqcjhsV2JJQW90NEhNVjRSR2o5L0VLU3RKOEE2RG95QmJac0FHMHlpOTNBbTVWa2dxSnM4TjNveWQ0TmJuQVFlVStmdzcxRlM3d2JjRmQrTDhWajVFU01BMml3NW5WMGRvaU1HTEplQlB0MjlHZjBQeUg3Z3E4RnZpTGp6Q21aR1NnaFB5d3BaM2o1Nk9ndExvSTZPampFUW83ZmJFNzNqbHpkSXQzaUo2YW5NcDJOOVRwQmJjOHJmSUdUZ3JFSk85YTNwd0JnVDJ6OXd2TnBFa0UxdjNNWnR1SXhQTXl0RGxFS1BXQnBsWGxPSG10amhUNXduSUh1ckV2VEE5Q1ZKMUhoVkIxb3pwcktzemxGVzAvQUl0d283TkZaTVphNWdObG40ajBQRUFFUy9JcXJNdXpyU2d6alJyOEErVEVoMlJ3NDlDU0hpemRaMGdleHBQajJIc2pqdmNKNmdpVHJaeDJJb0JPcS9rWkxhekpKWG1taXZpQ0dPVjlBNEEzVE5OMitwWnJ4NjRDbUVmdzhOc3V4UVJqZjRDM3BsdHBaRjFRTkUxM3NiY2ZTZjh0SGc1RXEwRUNsci9NRGVSSk1lb2xGVjI5TGRLeGhkOXRNenhWNFkrZkZUSmdWRFdOT0dhZnRUNmJyM0VyQXUrYTJIZ1ZBcTQ5QzkzTWhud1lMdjBkaXFZbjlocW0ySTNPMnF0MHNnbTQwTHRqVFRFK3VWZkFMb1lNSDVWcHJPIn0%3D&from=searchresults",
+    "address": "Chelsea, New York",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=New+York%2C+USA&checkin=2025-09-30&checkout=2025-10-03&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-23T12:24:21.940Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1758630261941_2",
+    "name": "Hudson Yards Hotel",
+    "price": 424,
+    "currency": "USD",
+    "rating": 6.8,
+    "stars": 7,
+    "reviewCount": 115,
+    "avgReview": "6.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/607669121.webp?k=893c5ce929d38c2cb131c47e995221a083baa04b188659287e7072228e2ad3fc&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/607669121.webp?k=893c5ce929d38c2cb131c47e995221a083baa04b188659287e7072228e2ad3fc&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/607669121.webp?k=893c5ce929d38c2cb131c47e995221a083baa04b188659287e7072228e2ad3fc&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/us/hudson-yard-new-york7.html?aid=304142&label=gen173nr-10CAQoggJCFHNlYXJjaF9uZXcgeW9yaywgdXNhSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC8aLKxgbAAgHSAiQ5ZjAwM2ZjNy0wM2RmLTRmY2EtOGFiMC03ODY1OGI0NTMyOTTYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-30&checkout=2025-10-03&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=5d155738a8050459&srepoch=1758630259&all_sr_blocks=1258791402_0_2_0_0&highlighted_blocks=1258791402_0_2_0_0&matching_block_id=1258791402_0_2_0_0&sr_pri_blocks=1258791402_0_2_0_0__42406&from=searchresults",
+    "address": "Hell's Kitchen, New York",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=New+York%2C+USA&checkin=2025-09-30&checkout=2025-10-03&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-23T12:24:21.941Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

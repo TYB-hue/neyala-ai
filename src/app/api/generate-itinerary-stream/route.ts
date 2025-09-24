@@ -703,13 +703,13 @@ function generateFallbackItinerary(requestData: ItineraryRequest) {
     },
     airport: {
       name: `${locationKey} International Airport`,
-      image: `https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=800&h=600&fit=crop&q=80`,
+      image: `https://cf.bstatic.com/xdata/images/hotel/square600/510565710.webp?k=dff438e940e280b0b5740485b7a0a6b9bd9adfa97f59a835c7f98536bc137080&o=`,
       info: `The main international airport serving ${destination}, offering connections to major cities worldwide.`
     },
     hotels: [
       {
         name: `Luxury Hotel ${locationKey}`,
-        image: `https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop&q=80`,
+        image: `https://cf.bstatic.com/xdata/images/hotel/square600/510565710.webp?k=dff438e940e280b0b5740485b7a0a6b9bd9adfa97f59a835c7f98536bc137080&o=`,
         rating: 4.8,
         price: 250,
         link: `https://www.expedia.com/Hotel-Search?destination=${encodeURIComponent(`Luxury Hotel ${locationKey}`)}&aid=1891470&utm_source=neyalaAI&utm_medium=travel_planner&utm_campaign=hotel_booking`,
@@ -717,7 +717,7 @@ function generateFallbackItinerary(requestData: ItineraryRequest) {
       },
       {
         name: `Comfort Inn ${locationKey}`,
-        image: `https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800&h=600&fit=crop&q=80`,
+        image: `https://cf.bstatic.com/xdata/images/hotel/square600/583993655.webp?k=ee897e371b17460203379ef7f5cd2eadff8a1cc5e49adc139c7ef70f1c118b09&o=`,
         rating: 4.2,
         price: 120,
         link: `https://www.expedia.com/Hotel-Search?destination=${encodeURIComponent(`Comfort Inn ${locationKey}`)}&aid=1891470&utm_source=neyalaAI&utm_medium=travel_planner&utm_campaign=hotel_booking`,
@@ -725,7 +725,7 @@ function generateFallbackItinerary(requestData: ItineraryRequest) {
       },
       {
         name: `Budget Hostel ${locationKey}`,
-        image: `https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=800&h=600&fit=crop&q=80`,
+        image: `https://cf.bstatic.com/xdata/images/hotel/square600/749265489.webp?k=7b8f592ffd657941e29fd267a71249fd888ef5423c0d5dd2a2a8d4b3fb805725&o=`,
         rating: 3.8,
         price: 45,
         link: `https://www.expedia.com/Hotel-Search?destination=${encodeURIComponent(`Hostel ${locationKey}`)}&aid=1891470&utm_source=neyalaAI&utm_medium=travel_planner&utm_campaign=hotel_booking`,

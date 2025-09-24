@@ -1,0 +1,89 @@
+[
+  {
+    "id": "hotel_1758630756724_0",
+    "name": "Reykjavik Residence Apartment Hotel",
+    "price": 755,
+    "currency": "USD",
+    "rating": 9.2,
+    "stars": 9,
+    "reviewCount": 751,
+    "avgReview": "9.2/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/140572130.webp?k=fc8941528222501954a8baa78ddf31a8af7977f617b8a83d882fa4e932154f73&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/140572130.webp?k=fc8941528222501954a8baa78ddf31a8af7977f617b8a83d882fa4e932154f73&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/140572130.webp?k=fc8941528222501954a8baa78ddf31a8af7977f617b8a83d882fa4e932154f73&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/is/reykjavik-residence.html?aid=304142&label=gen173nr-10CAQoggJCGXNlYXJjaF9yZXlramF2aWssIGljZWxhbmRIM1gEaKEBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALipsrGBsACAdICJDY0NmJmMTQzLTc0MmEtNDE1Mi05Y2Q0LTk3ZGQwZTAxNzY3YtgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-30&checkout=2025-10-03&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=7c1758306d430485&srepoch=1758630756&all_sr_blocks=27118801_0_2_0_0&highlighted_blocks=27118801_0_2_0_0&matching_block_id=27118801_0_2_0_0&sr_pri_blocks=27118801_0_2_0_0__64098&from=searchresults",
+    "address": "Reykjavík 101, Reykjavík",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Reykjavik%2C+Iceland&checkin=2025-09-30&checkout=2025-10-03&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1758630753401&force_referer=",
+    "scrapedAt": "2025-09-23T12:32:36.724Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1758630756724_1",
+    "name": "Loft - HI Eco Hostel",
+    "price": 849,
+    "currency": "USD",
+    "rating": 8.4,
+    "stars": 8,
+    "reviewCount": 218,
+    "avgReview": "8.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/742494176.webp?k=e0e8fa21a708eea71f272c45e2c1f5425d4593eb889afe59adb930afff53c56f&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/742494176.webp?k=e0e8fa21a708eea71f272c45e2c1f5425d4593eb889afe59adb930afff53c56f&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/742494176.webp?k=e0e8fa21a708eea71f272c45e2c1f5425d4593eb889afe59adb930afff53c56f&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/is/loft-hostel.html?aid=304142&label=gen173nr-10CAQoggJCGXNlYXJjaF9yZXlramF2aWssIGljZWxhbmRIM1gEaKEBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALipsrGBsACAdICJDY0NmJmMTQzLTc0MmEtNDE1Mi05Y2Q0LTk3ZGQwZTAxNzY3YtgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-30&checkout=2025-10-03&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=7c1758306d430485&srepoch=1758630756&all_sr_blocks=58440502_231962880_0_0_0_794989&highlighted_blocks=58440502_231962880_0_0_0_794989&matching_block_id=58440502_231962880_0_0_0_794989&sr_pri_blocks=58440502_231962880_0_0_0_794989_72109&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Reykjavík 101, Reykjavík",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Reykjavik%2C+Iceland&checkin=2025-09-30&checkout=2025-10-03&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1758630753401&force_referer=",
+    "scrapedAt": "2025-09-23T12:32:36.724Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1758630756724_2",
+    "name": "Old Town Reykjavik",
+    "price": 416,
+    "currency": "USD",
+    "rating": 7.4,
+    "stars": 7,
+    "reviewCount": 838,
+    "avgReview": "7.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/707391277.webp?k=c10592107358512f71ee79c8d0c65feaf44b4879c4abef0fe6be40f35d2b8ea1&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/707391277.webp?k=c10592107358512f71ee79c8d0c65feaf44b4879c4abef0fe6be40f35d2b8ea1&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/707391277.webp?k=c10592107358512f71ee79c8d0c65feaf44b4879c4abef0fe6be40f35d2b8ea1&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/is/kastalin-guesthouse.html?aid=304142&label=gen173nr-10CAQoggJCGXNlYXJjaF9yZXlramF2aWssIGljZWxhbmRIM1gEaKEBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALipsrGBsACAdICJDY0NmJmMTQzLTc0MmEtNDE1Mi05Y2Q0LTk3ZGQwZTAxNzY3YtgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-30&checkout=2025-10-03&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=7c1758306d430485&srepoch=1758630756&all_sr_blocks=900492202_360727537_2_0_0&highlighted_blocks=900492202_360727537_2_0_0&matching_block_id=900492202_360727537_2_0_0&sr_pri_blocks=900492202_360727537_2_0_0__35316&from=searchresults",
+    "address": "Reykjavík 101, Reykjavík",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Reykjavik%2C+Iceland&checkin=2025-09-30&checkout=2025-10-03&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1758630753401&force_referer=",
+    "scrapedAt": "2025-09-23T12:32:36.724Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

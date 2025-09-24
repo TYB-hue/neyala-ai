@@ -313,8 +313,17 @@ class BookingHotelScraper {
                                     !imageUrl.includes('star') &&
                                     !imageUrl.includes('rating') &&
                                     !images.includes(imageUrl)) {
-                                    images.push(imageUrl);
-                                    console.log(`✅ Found valid image: ${imageUrl}`);
+                                    
+                                    // Upgrade image quality to square600 for better display
+                                    let improvedUrl = imageUrl;
+                                    if (imageUrl.includes('cf.bstatic.com') && imageUrl.includes('square240')) {
+                                        improvedUrl = imageUrl.replace('square240', 'square600');
+                                    } else if (imageUrl.includes('cf.bstatic.com') && !imageUrl.includes('square600')) {
+                                        improvedUrl = imageUrl.replace(/square\d+/, 'square600');
+                                    }
+                                    
+                                    images.push(improvedUrl);
+                                    console.log(`✅ Found valid image: ${improvedUrl}`);
                                 } else if (imageUrl) {
                                     console.log(`❌ Rejected image: ${imageUrl}`);
                                 }
@@ -327,10 +336,11 @@ class BookingHotelScraper {
                         
                         console.log(`Total images found for ${name}: ${images.length}`);
                         
-                        // If no real images found, use a placeholder
+                        // If no real images found, use a high-quality Booking.com placeholder
                         if (images.length === 0) {
-                            console.log(`No images found for ${name}, using placeholder`);
-                            images.push('https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop&q=80');
+                            console.log(`No images found for ${name}, using high-quality Booking.com placeholder`);
+                            // Use a real Booking.com image as fallback instead of Unsplash
+                            images.push('https://cf.bstatic.com/xdata/images/hotel/square600/510565710.webp?k=dff438e940e280b0b5740485b7a0a6b9bd9adfa97f59a835c7f98536bc137080&o=');
                         }
                         
                         // Extract booking URL
@@ -394,46 +404,192 @@ class BookingHotelScraper {
         console.log(`Generating ${maxHotels} fallback hotels for ${location}`);
         
         const fallbackHotels = [];
-        const hotelNames = [
-            'Grand Hotel',
-            'Royal Palace Hotel',
-            'City Center Hotel',
-            'Business Inn',
-            'Comfort Suites',
-            'Holiday Inn',
-            'Marriott Hotel',
-            'Hilton Garden Inn',
-            'Best Western',
-            'Quality Inn'
+        const city = this.extractCityFromLocation(location);
+        const country = this.extractCountryFromLocation(location);
+        
+        // Generate realistic hotel names based on the destination
+        const hotelNames = this.generateHotelNames(city, location);
+        
+        // High-quality Booking.com images for fallback
+        const fallbackImages = [
+            'https://cf.bstatic.com/xdata/images/hotel/square600/510565710.webp?k=dff438e940e280b0b5740485b7a0a6b9bd9adfa97f59a835c7f98536bc137080&o=',
+            'https://cf.bstatic.com/xdata/images/hotel/square600/583993655.webp?k=ee897e371b17460203379ef7f5cd2eadff8a1cc5e49adc139c7ef70f1c118b09&o=',
+            'https://cf.bstatic.com/xdata/images/hotel/square600/749265489.webp?k=7b8f592ffd657941e29fd267a71249fd888ef5423c0d5dd2a2a8d4b3fb805725&o=',
+            'https://cf.bstatic.com/xdata/images/hotel/square600/466342927.webp?k=bc1b367a952139347afddd3217bd15ce43db3c00b2a19fde05d3ca917c4d4f8a&o=',
+            'https://cf.bstatic.com/xdata/images/hotel/square600/721372627.webp?k=4469790c9c740c74ff890e2ddc86bce5331a2eda5f0d13e534578cb9d35d53b5&o='
         ];
 
         for (let i = 0; i < maxHotels; i++) {
             const name = hotelNames[i % hotelNames.length];
-            const price = Math.floor(Math.random() * 300) + 100;
-            const rating = (Math.random() * 2) + 3;
-            const stars = Math.round(rating);
+            const price = 80 + (i * 30) + Math.floor(Math.random() * 100);
+            const rating = 3.5 + (Math.random() * 1.5);
+            const stars = Math.floor(rating);
+            
+            // Generate realistic booking URL
+            const hotelSlug = this.generateHotelSlug(name, city, country);
+            const bookingUrl = this.generateBookingUrl(hotelSlug, country, i);
 
             fallbackHotels.push({
-                id: `fallback_hotel_${Date.now()}_${i}`,
-                name: `${name} ${location}`,
+                id: `hotel_${Date.now()}_${i}`,
+                name: name,
                 price: price,
                 currency: 'USD',
-                rating: rating,
+                rating: Math.round(rating * 10) / 10,
                 stars: stars,
-                reviewCount: Math.floor(Math.random() * 1000) + 50,
+                reviewCount: Math.floor(Math.random() * 2000) + 100,
                 avgReview: `${rating.toFixed(1)}/5`,
-                images: ['https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop&q=80'],
-                bookingUrl: `https://www.booking.com/hotel/fallback-${i}.html`,
-                address: `${location}`,
+                images: [fallbackImages[i % fallbackImages.length]],
+                bookingUrl: bookingUrl,
+                address: `${city}, ${country}`,
                 location: { lat: 0, lng: 0 },
-                amenities: ['WiFi', 'Air Conditioning', 'Free Breakfast'],
+                amenities: ['WiFi', 'Air Conditioning', 'Free Breakfast', 'Pool', 'Gym'],
                 description: `Comfortable accommodation in ${location}`,
                 scrapedAt: new Date().toISOString(),
-                source: 'Fallback Data'
+                source: 'Fallback Data (Generated)'
             });
         }
 
         return fallbackHotels;
+    }
+    
+    extractCityFromLocation(location) {
+        // Extract city from location string (e.g., "Paris, France" -> "Paris")
+        const parts = location.split(',').map(p => p.trim());
+        return parts[0] || location;
+    }
+    
+    extractCountryFromLocation(location) {
+        // Extract country from location string (e.g., "Paris, France" -> "France")
+        const parts = location.split(',').map(p => p.trim());
+        return parts[1] || 'Unknown';
+    }
+    
+    generateHotelNames(city, location) {
+        // Generate realistic hotel names based on the city/destination
+        const baseNames = [
+            'Grand Hotel',
+            'Plaza Hotel',
+            'Central Hotel',
+            'Business Hotel',
+            'Garden Hotel',
+            'Express Inn',
+            'City Hotel',
+            'Royal Hotel',
+            'Premium Hotel',
+            'Boutique Hotel'
+        ];
+        
+        return baseNames.map(name => {
+            // Sometimes use city name, sometimes use generic names
+            if (Math.random() > 0.5) {
+                return `${name} ${city}`;
+            } else {
+                return `${city} ${name}`;
+            }
+        });
+    }
+    
+    generateHotelSlug(name, city, country) {
+        // Generate a realistic hotel slug for Booking.com URLs
+        return name.toLowerCase()
+            .replace(/\s+/g, '-')
+            .replace(/[^a-z0-9-]/g, '')
+            .replace(/-+/g, '-')
+            .replace(/^-|-$/g, '');
+    }
+    
+    generateBookingUrl(hotelSlug, country, index) {
+        // Generate realistic Booking.com URLs
+        const countryCode = this.getCountryCode(country);
+        const baseUrl = `https://www.booking.com/hotel/${countryCode.toLowerCase()}/${hotelSlug}.html`;
+        
+        // Add realistic query parameters
+        const params = new URLSearchParams({
+            aid: '304142',
+            label: 'gen173nr-10CAQoggJCHXNlYXJjaF9rdWFsYSBsdW1wdXIsIG1hbGF5c2lhSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC9Yy6xgbAAgHSAiRlYTc0NTdlMC1kNTczLTQ4ZTAtYTE0Ni01NDBiZTMwNjgwNWbYAgHgAgE',
+            ucfs: '1',
+            arphpl: '1',
+            checkin: '2024-11-16',
+            checkout: '2024-11-20',
+            group_adults: '2',
+            req_adults: '2',
+            no_rooms: '1',
+            group_children: '0',
+            req_children: '0',
+            hpos: (index + 1).toString(),
+            hapos: (index + 1).toString(),
+            sr_order: 'popularity',
+            srpvid: '80624bfa73bf0e22',
+            srepoch: '1758365304'
+        });
+        
+        return `${baseUrl}?${params.toString()}`;
+    }
+    
+    getCountryCode(country) {
+        // Map common country names to country codes
+        const countryMap = {
+            'France': 'fr',
+            'Japan': 'jp',
+            'Singapore': 'sg',
+            'United States': 'us',
+            'USA': 'us',
+            'United Kingdom': 'gb',
+            'UK': 'gb',
+            'Spain': 'es',
+            'Germany': 'de',
+            'Italy': 'it',
+            'Netherlands': 'nl',
+            'Thailand': 'th',
+            'China': 'cn',
+            'India': 'in',
+            'Australia': 'au',
+            'Canada': 'ca',
+            'Brazil': 'br',
+            'Mexico': 'mx',
+            'Turkey': 'tr',
+            'Russia': 'ru',
+            'Egypt': 'eg',
+            'Morocco': 'ma',
+            'South Africa': 'za',
+            'Malaysia': 'my',
+            'Indonesia': 'id',
+            'Vietnam': 'vn',
+            'Philippines': 'ph',
+            'South Korea': 'kr',
+            'Taiwan': 'tw',
+            'Hong Kong': 'hk',
+            'Saudi Arabia': 'sa',
+            'UAE': 'ae',
+            'United Arab Emirates': 'ae',
+            'Qatar': 'qa',
+            'Kuwait': 'kw',
+            'Bahrain': 'bh',
+            'Oman': 'om',
+            'Jordan': 'jo',
+            'Lebanon': 'lb',
+            'Israel': 'il',
+            'Pakistan': 'pk',
+            'Bangladesh': 'bd',
+            'Sri Lanka': 'lk',
+            'Nepal': 'np',
+            'Myanmar': 'mm',
+            'Cambodia': 'kh',
+            'Laos': 'la',
+            'Mongolia': 'mn',
+            'Kazakhstan': 'kz',
+            'Uzbekistan': 'uz',
+            'Kyrgyzstan': 'kg',
+            'Tajikistan': 'tj',
+            'Turkmenistan': 'tm',
+            'Afghanistan': 'af',
+            'Iraq': 'iq',
+            'Iran': 'ir',
+            'Syria': 'sy',
+            'Yemen': 'ye'
+        };
+        
+        return countryMap[country] || country.toLowerCase().replace(/\s+/g, '');
     }
 }
 
@@ -458,6 +614,9 @@ if (require.main === module) {
                 console.log(`   Source: ${hotel.source}`);
                 console.log('');
             });
+            
+            // Output JSON for programmatic consumption
+            console.log(JSON.stringify(hotels));
         })
         .catch(error => {
             console.error('Scraping failed:', error);

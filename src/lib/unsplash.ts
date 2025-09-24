@@ -201,7 +201,25 @@ export async function getDestinationImage(query: string, orientation: 'landscape
 
 export async function getAirportImage(airportName: string, destination?: string): Promise<string> {
   try {
-    // Try GOMAPS.PRO API first for real airport image
+    // Try Wikipedia airport photos API first
+    const city = destination?.split(',')[0]?.trim();
+    const country = destination?.split(',')[1]?.trim();
+    
+    const baseUrl = process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}` : 'http://localhost:3000';
+    const wikiResponse = await fetch(`${baseUrl}/api/airport-photos?airport=${encodeURIComponent(airportName)}&city=${encodeURIComponent(city || '')}&country=${encodeURIComponent(country || '')}`);
+    if (wikiResponse.ok) {
+      const wikiData = await wikiResponse.json();
+      if (wikiData.photos && wikiData.photos.length > 0) {
+        console.log(`Using Wikipedia photo for ${airportName}`);
+        return wikiData.photos[0];
+      }
+    }
+  } catch (error) {
+    console.error(`Error fetching Wikipedia airport image for ${airportName}:`, error);
+  }
+
+  try {
+    // Try GOMAPS.PRO API second for real airport image
     const gomapsPhotos = await getGomapsAirportPhotos(airportName, destination);
     if (gomapsPhotos.length > 0) {
       console.log(`Using GOMAPS.PRO photo for ${airportName}`);
@@ -229,7 +247,25 @@ export async function getAirportImage(airportName: string, destination?: string)
 
 export async function getAirportPhotos(airportName: string, destination?: string): Promise<string[]> {
   try {
-    // Try GOMAPS.PRO API first for real airport photos
+    // Try Wikipedia airport photos API first
+    const city = destination?.split(',')[0]?.trim();
+    const country = destination?.split(',')[1]?.trim();
+    
+    const baseUrl = process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}` : 'http://localhost:3000';
+    const wikiResponse = await fetch(`${baseUrl}/api/airport-photos?airport=${encodeURIComponent(airportName)}&city=${encodeURIComponent(city || '')}&country=${encodeURIComponent(country || '')}`);
+    if (wikiResponse.ok) {
+      const wikiData = await wikiResponse.json();
+      if (wikiData.photos && wikiData.photos.length > 0) {
+        console.log(`Found ${wikiData.photos.length} Wikipedia photos for ${airportName}`);
+        return wikiData.photos;
+      }
+    }
+  } catch (error) {
+    console.error(`Error fetching Wikipedia airport photos for ${airportName}:`, error);
+  }
+
+  try {
+    // Try GOMAPS.PRO API second for real airport photos
     const gomapsPhotos = await getGomapsAirportPhotos(airportName, destination);
     if (gomapsPhotos.length > 0) {
       console.log(`Found ${gomapsPhotos.length} GOMAPS.PRO photos for ${airportName}`);
