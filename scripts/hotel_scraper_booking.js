@@ -182,11 +182,26 @@ class BookingHotelScraper {
             '--disable-renderer-backgrounding'
         ];
 
-        return await puppeteer.launch({
+        // Use system Chromium if available, otherwise let Puppeteer use its bundled Chrome
+        const executablePath = process.env.PUPPETEER_EXECUTABLE_PATH || 
+                              (require('fs').existsSync('/usr/bin/chromium-browser') ? '/usr/bin/chromium-browser' : 
+                               require('fs').existsSync('/usr/bin/chromium') ? '/usr/bin/chromium' : 
+                               null);
+
+        const launchOptions = {
             headless: headless,
             args: args,
             ignoreHTTPSErrors: true
-        });
+        };
+
+        if (executablePath) {
+            launchOptions.executablePath = executablePath;
+            console.log(`Using Chromium at: ${executablePath}`);
+        } else {
+            console.log('Using Puppeteer bundled Chrome');
+        }
+
+        return await puppeteer.launch(launchOptions);
     }
 
     buildSearchUrl(location, checkinDate = null, checkoutDate = null, adults = 2, children = 0, rooms = 1) {
