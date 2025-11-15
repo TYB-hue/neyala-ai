@@ -370,29 +370,6 @@ CRITICAL: Your response must be a single, valid JSON object. Do NOT use markdown
   } catch (error: any) {
     console.error('API Route Error:', error);
     
-    // Handle daily token limit errors specifically
-    const errorMessage = error?.message || '';
-    if (errorMessage.includes('Daily token limit') || errorMessage.includes('tokens per day') || errorMessage.includes('TPD')) {
-      return NextResponse.json(
-        { 
-          success: false,
-          error: errorMessage || 'Daily token limit reached. Please try again later or upgrade your Groq plan.'
-        },
-        { status: 429 } // 429 Too Many Requests
-      );
-    }
-    
-    // Handle rate limit errors
-    if (errorMessage.includes('Rate limit') || errorMessage.includes('rate limit') || error?.status === 429) {
-      return NextResponse.json(
-        { 
-          success: false,
-          error: errorMessage || 'Rate limit exceeded. The API is currently busy. Please wait 1-2 minutes and try again.'
-        },
-        { status: 429 }
-      );
-    }
-    
     return NextResponse.json(
       { 
         success: false,

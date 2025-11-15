@@ -517,35 +517,17 @@ export default function PlanForm() {
           } else {
             console.error('Fallback API returned status:', fallbackResponse.status);
             
-            // Try to parse the error message from the response body
-            let errorMessage = '';
-            try {
-              const errorData = await fallbackResponse.json();
-              errorMessage = errorData.error || errorData.message || '';
-            } catch (parseError) {
-              // If we can't parse the response, use default messages
-            }
-            
             // Handle specific error statuses
             if (fallbackResponse.status === 429) {
-              // Use the error message from the API if available, otherwise use default
-              const message = errorMessage || 'Rate limit exceeded. The API is currently busy. Please wait 1-2 minutes and try again.';
-              throw new Error(message);
+              throw new Error('Rate limit exceeded. The API is currently busy. Please wait 1-2 minutes and try again.');
             } else if (fallbackResponse.status === 401) {
               throw new Error('Unauthorized: Invalid API key. Please configure a valid key in your .env.local and restart.');
             } else if (fallbackResponse.status >= 500) {
-              // Use the error message from the API if available
-              const message = errorMessage || 'Server error. Please try again later.';
-              throw new Error(message);
-            } else {
-              // For other error statuses, use the API error message if available
-              throw new Error(errorMessage || `Request failed with status ${fallbackResponse.status}`);
+              throw new Error('Server error. Please try again later.');
             }
           }
         } catch (fallbackErr) {
           console.error('Fallback API also failed:', fallbackErr);
-          // Re-throw the error so it gets displayed to the user
-          throw fallbackErr;
         }
       }
       
