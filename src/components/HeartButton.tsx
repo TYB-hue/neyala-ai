@@ -33,8 +33,8 @@ export default function HeartButton({
     const checkIfSaved = async () => {
       try {
         // For testing, check localStorage first
-        const savedAttractions = JSON.parse(localStorage.getItem('savedAttractions') || '[]');
-        const saved = savedAttractions.some((item: any) => item.attractionId === attractionId);
+        const savedFavorites = JSON.parse(localStorage.getItem('savedFavorites') || '[]');
+        const saved = savedFavorites.some((item: any) => item.attractionId === attractionId);
         setIsSaved(saved);
 
         // Also try to check from API if authenticated
@@ -72,16 +72,16 @@ export default function HeartButton({
           if (response.ok) {
             setIsSaved(false);
             // Also update localStorage
-            const savedAttractions = JSON.parse(localStorage.getItem('savedAttractions') || '[]');
-            const updated = savedAttractions.filter((item: any) => item.attractionId !== attractionId);
-            localStorage.setItem('savedAttractions', JSON.stringify(updated));
+            const savedFavorites = JSON.parse(localStorage.getItem('savedFavorites') || '[]');
+            const updated = savedFavorites.filter((item: any) => item.attractionId !== attractionId);
+            localStorage.setItem('savedFavorites', JSON.stringify(updated));
           }
         } catch (apiError) {
           console.log('API remove failed, using localStorage:', apiError);
           // Fallback to localStorage
-          const savedAttractions = JSON.parse(localStorage.getItem('savedAttractions') || '[]');
-          const updated = savedAttractions.filter((item: any) => item.attractionId !== attractionId);
-          localStorage.setItem('savedAttractions', JSON.stringify(updated));
+          const savedFavorites = JSON.parse(localStorage.getItem('savedFavorites') || '[]');
+          const updated = savedFavorites.filter((item: any) => item.attractionId !== attractionId);
+          localStorage.setItem('savedFavorites', JSON.stringify(updated));
           setIsSaved(false);
         }
       } else {
@@ -101,16 +101,16 @@ export default function HeartButton({
           if (response.ok) {
             setIsSaved(true);
             // Also update localStorage
-            const savedAttractions = JSON.parse(localStorage.getItem('savedAttractions') || '[]');
-            savedAttractions.push({ attractionId, attractionData, savedAt: new Date().toISOString() });
-            localStorage.setItem('savedAttractions', JSON.stringify(savedAttractions));
+            const savedFavorites = JSON.parse(localStorage.getItem('savedFavorites') || '[]');
+            savedFavorites.push({ attractionId, attractionData, savedAt: new Date().toISOString() });
+            localStorage.setItem('savedFavorites', JSON.stringify(savedFavorites));
           }
         } catch (apiError) {
           console.log('API add failed, using localStorage:', apiError);
           // Fallback to localStorage
-          const savedAttractions = JSON.parse(localStorage.getItem('savedAttractions') || '[]');
-          savedAttractions.push({ attractionId, attractionData, savedAt: new Date().toISOString() });
-          localStorage.setItem('savedAttractions', JSON.stringify(savedAttractions));
+          const savedFavorites = JSON.parse(localStorage.getItem('savedFavorites') || '[]');
+          savedFavorites.push({ attractionId, attractionData, savedAt: new Date().toISOString() });
+          localStorage.setItem('savedFavorites', JSON.stringify(savedFavorites));
           setIsSaved(true);
         }
       }

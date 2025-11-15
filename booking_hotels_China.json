@@ -1,0 +1,293 @@
+[
+  {
+    "id": "hotel_1759401458378_0",
+    "name": "Longji Rice Terraces Homestead Resort",
+    "price": 570,
+    "currency": "USD",
+    "rating": 10,
+    "stars": 10,
+    "reviewCount": 429,
+    "avgReview": "10.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/668143365.webp?k=ddb68b3ff7ed5f26ba3f7c49f120c26f7acd8c388b37a2b34a3a0779c790abde&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/668143365.webp?k=ddb68b3ff7ed5f26ba3f7c49f120c26f7acd8c388b37a2b34a3a0779c790abde&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/668143365.webp?k=ddb68b3ff7ed5f26ba3f7c49f120c26f7acd8c388b37a2b34a3a0779c790abde&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/cn/shan-shui-jian-de-jia-min-su-long-ji-ti-tian-dian.html?aid=304142&label=gen173nr-10CAQoggJCDHNlYXJjaF9jaGluYUgzWARooQGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Au-r-cYGwAIB0gIkOWY4MmViOGMtNWI1OS00YTMxLWI4NDYtNDcwZjBkM2NiOWMw2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-10-09&checkout=2025-10-12&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=fed64ab743a800ef&srepoch=1759401458&all_sr_blocks=1345348001_413570904_2_1_0&highlighted_blocks=1345348001_413570904_2_1_0&matching_block_id=1345348001_413570904_2_1_0&sr_pri_blocks=1345348001_413570904_2_1_0__405768&from=searchresults",
+    "address": "Longsheng",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=China&checkin=2025-10-09&checkout=2025-10-12&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1759401454857&force_referer=",
+    "scrapedAt": "2025-10-02T10:37:38.378Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1759401458378_1",
+    "name": "Hilton Changsha Riverside",
+    "price": 247,
+    "currency": "USD",
+    "rating": 9.1,
+    "stars": 9,
+    "reviewCount": 384,
+    "avgReview": "9.1/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/483781010.webp?k=65af42a360f9b75744f1730ee844b45ebbc02f8b3790f78d171607f3888f70be&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/483781010.webp?k=65af42a360f9b75744f1730ee844b45ebbc02f8b3790f78d171607f3888f70be&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/483781010.webp?k=65af42a360f9b75744f1730ee844b45ebbc02f8b3790f78d171607f3888f70be&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/cn/hilton-changsha-riverside.html?aid=304142&label=gen173nr-10CAQoggJCDHNlYXJjaF9jaGluYUgzWARooQGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Au-r-cYGwAIB0gIkOWY4MmViOGMtNWI1OS00YTMxLWI4NDYtNDcwZjBkM2NiOWMw2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-10-09&checkout=2025-10-12&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=fed64ab743a800ef&srepoch=1759401458&all_sr_blocks=742155610_329284111_2_2_0&highlighted_blocks=742155610_329284111_2_2_0&matching_block_id=742155610_329284111_2_2_0&sr_pri_blocks=742155610_329284111_2_2_0__175500&nad_id=2d612cea-556c-4cea-ac64-04c63f790fb0_1&nad_cpc=0.72&nad_track=eyJhdWN0aW9uRXBvY2giOjE3NTk0MDE0NTYyNDUsInJhbmsiOjEsImtvZGRpVHJhY2tpbmdJbmZvIjoiK0R3bFBNaXVxeEdpSGNscDdIUlFiYlBTRWluV0tERFZaODNoODNEVGtvZWczQjZ5ZEdiR0U0b0x5WnZ2MW9YdUwyMTY3QzUwYS94YkEvcUkyRE9oNkRGY3ZGOXpqaStLdjUyTnZQcW1QdWVhUWlrV0wza1EyRHdvOCs5VkZhWFpWL0VEaTA1N2Rwc1lyWnBuelIwZ1I4QTFmVkNkT0RkSXJvZk54YnU5K3FaYzd4anNZUTRka20zM0lXcnFQT3E0NFJ6eEY3aGtjazVRZVkzbnUweVFQS0QxSkdzOXRCWmNHMU9CWkRubzA3Vk0zVVl5R0dCQkt4Mk9JM1JFZkJ6cTdKQTBpNUc3TnlYNjZCSCtmK20yQkJIVnpKQ0FtemFsMncrb0h1TWRFT3lmQ2x1ZjZCZndVOFUreWo3bXFHbVhGdkhwTm5Yd1JQMlZvUnRTVU13VmZBUjFQM2wrM0tLMmFyMWEwZnBFVjg4cXBRR0cxY1REUmp2MHlLeHdNQ1N5QjdUU2R4N21wdHpyRU9Ra3UzalhHaWRraUY5UVZxYzFhbHJUVmE0SEhub2tjMDFnRWpGOWtwS0VYUVpnNUE3ZlJLNkF2ODkzWmpuZ3ppTzk5ZnJmb1llV2tyczVXOVlTZlIza0EyWnlmL2lsMWRnemg2M2Z5b09hVlVYVEp1aDdpSk9DWG5yWFI3WkdBRWQ5bzNaOW5pMlFWQlBqbXJwZ3VoMWszRFJBTGNhb0NSbE9xcTVoaWhhMEl0dVlWVmFPY1oxSFo4dExQaTBQdVh6T2xzZ1ZZK3lKZHF4SFRQMlZiSVRuZ0l6L0tyU2lkeWp0NWR6ZkN4NnFQQ0Q2K3czblFSaDNhUXNPd0RMK2I2TXc3aElIbnF3b0FqV0ZNQ0FNMjlScUlnazV2REx6OVcrOXJVQmJ0MFhaQWoyWmJ6OXpkcFhOYUwxR0JJaGpERS9DcXNFS0pOZm50eGRkSjNrNGJHeldWQ0JHdit3ZlBOK2NlYkpnZXNna212U0lwa25ZTDF6QklwNkhSREhXcEIvRFMybGhwWEl5Z2F4ejRzVlFNeXBLU05PT2lNWmpkaVdnSWpWcXdoMWJBVU5qbEdDcmt5ckJUdTMwZ0t1NlNnM3ovdUZOc2dveHlRUlBOUm0xajd0RVJuQXFMVjVuKzE3cUFpbjJzYVkwK29JbmRGeXNPTXFXOTFDNWdRdmtRZ2lNckU3RkxKbHYxWTI3L2lJV09pZExxbVhpTnpWSmlRSDJhb0ZLWjJ6SVhuL1BvaXZvc2N2R1V6VnRlUGJlQ0JNNmw5Qy96eXJDT1M4SkhUUHRObjVKWGh6VVFFenJhNm1nMm51cjUvRzNLeHorRTVDQmdodmQ2RkZUaXJ3L3BueXZrcHRvT1FqRjVUTFNwMlM3UWRFbUU1UnVWNzg1ZjBlYTdlMzdocnhpa0pEdmhYMXh4M1VDSjZtUEZxU1prTHpTVk16d08xZkQ1bWNwNXU3TGFnY2xxam13VHhhRHhudjBqbXpsSUhNWmtVTHNxVUM0ejI3dWtqOHpUcWpIeHFiTnhScHNPZWpYTTU1S3ltT2RkS3ZsZGtBRnhoUmlua2xNOTh4ME5zbUFadzY4S1RCUlBkbWF5NTNLd1QvTmFkQzdwMTNSbXdQZU9UdEtSNlRrK1NWaUFYUGVHWklqSVBOZnpaVkJEekxPMHNManVoOU5wOWJBTndNV21uMUdsOUtKaU92NDY3emZJYVdkeWJKeHMwcDYrcVl0dC93S1puWHlWWHpKSmVEZEVDb1hKbi9zbktVWk9XbGdvRmZLVENzb2w1MGFXNDFHYm5YU1k5alJuTlFpSHRhV1E0b2dyOVo3V0lLeGpBRU45NFBkU0ZVZ2RvTnNhdEFHMkFSVldoZm1WYmx4V21OeFdadlZVVmFmU2xFN2ZsTkh3bElJK1Y5eVNUMGF6WjQwb3JBbmJzTjk2RVB4NWtTQ1lodk9nbkNhQ0RoUTZKWS9TajhYY1c2N3RyMWw4UStlYnphb3ZNdEtPUjRzbHEwdXhuNXFQeERBK0MwT3l2L0ZBWXVweXVDQlh5T0hWZ0twZWxtOUVYeVBaT0Fhb2Y4d01zc1VUYjFtdFg2OUM5SHpUcHZWVDFaMGxVTFN3UUNSVFVLNTNodnd4cmdDMTdkZHNZeC9rNW1WYWpkS1RYemRVOVkwWUdzYWNhUDhhNWlqUkVZR3NoU1RWc1lhdnM2ZWlpTFFWdWlkY0RxQ2xnaHIwRFZ1R3ZGa0NJV2tmZ3hJdjN4a0JzMmdFYzNJTVd5cHlMSW9EZ2RrS0NxQ244UHIwSnZkV0xYdStxU3Zud3huMWljclE3MHIwQXBoUmFrZXFya2MxbjRMS2srU2Z3RGRuY1g5OGpoU1MzUGFnR0c5UzZPcVMzUW9zU01xekovOHlJd2hxQ291NmtyOFZ6MSs4OEJVMWwzTWpNcVhmak13MkdKdHU2b3MyVHA4dXVXL05yRzhTY0xWRmZQeHRBbWo2VkY5a1JYdThoakhkcWRhaW1iSndXQUJ3Y3N1cmdzUE9KTFVUQ2U2QmFwRGkvMXJ0UVRyZHBBNzljNHpWWXViOHlydmVWV3U5TCsvMWZERVJIQU5OZFV3amtkOHUrbjR6S3AvVUNHTzVCd1dkcHprRGNFb1JoejlVS0g3eFdrQWt6Mm40R3AxMDBKdG5YYzlpSndEYVBkRnhBTGxrMXN2bkxmejJXdTlPdzdqMHdacjdiOXp4VXpnYTFjK3lRSVNVdHRrbC9hcFAycXJmWFgxQ24vWGJyZjZiSUxJTXpEa1BZNG5jMDlsUll3UU5ocHRmM2dzcXA5cXpXVEVEN2RxcTdPQUJ2V21hemlUcDJuWlQ4MnFnRmJOd0pWclBZd1I5QnpCd3g4d3p4UEl6Tnd2UzNETzVoUnFldWw0dDdISENZQVFsNURwTFA0UHhSbHYvd2JvdUh4ZDJPeFVpMnJWdWVaL2Z5Z1VDZ01tVUR4U252V2F1WEFPTUsycmhuODhoYU9jRVk3ZWlkMUJtNEVHUUZHZXJGbGRaeDAydEc5T2FjSU8xa3BCQmN6UU92QWNMZXhVeWh1NFBxZlBDcFVEZjRuMVZXNzh5OXpLcVkyQkpkRmdmRHkwMTgzZ3VsOGdrMWZCOXNrbnFraUVVb1AvbWFZZ3Y5VGpnY3owOUNXQVZJeVFTL1lnblMwbTQxMnY2em4waVBZa2JWKzVYZENNZHU4NW42VVFNMVZZdkJTSGJoWDM0aDZFajhFOEd0TXVqUkttYjlCREFhOHdlM3ZINCtnQVBBQnRDMllDZ0NNdGVGTTlydUQ1dS9XRlNvYWtKWktMUnRPUzlyeERkdkF6RmR2djF6QmFoNS9XNmpRNEV6T2w1VUJZSFR6aW5FWWtUbEtyN0g2U2RNaURlLzZ4bGY0VVFvaEhQanJvK1VqWXN4d3djOWtMOVVXUStPc2xDeXUxb2c9PSJ9&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Yue Lu, Changsha",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=China&checkin=2025-10-09&checkout=2025-10-12&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1759401454857&force_referer=",
+    "scrapedAt": "2025-10-02T10:37:38.378Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1759401458379_2",
+    "name": "Wangxian Valley Qingchuanxingguan - Wangxian Valley Scenic Area",
+    "price": 110,
+    "currency": "USD",
+    "rating": 9.4,
+    "stars": 9,
+    "reviewCount": 311,
+    "avgReview": "9.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/626176143.webp?k=e6cb41b7580ccb1633230ee4bf6145f9542eff1c98617b11d1ad69db1cf3aa0b&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/626176143.webp?k=e6cb41b7580ccb1633230ee4bf6145f9542eff1c98617b11d1ad69db1cf3aa0b&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/626176143.webp?k=e6cb41b7580ccb1633230ee4bf6145f9542eff1c98617b11d1ad69db1cf3aa0b&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/cn/wang-xian-gu-qing-chuan-xing-guan-min-su.html?aid=304142&label=gen173nr-10CAQoggJCDHNlYXJjaF9jaGluYUgzWARooQGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Au-r-cYGwAIB0gIkOWY4MmViOGMtNWI1OS00YTMxLWI4NDYtNDcwZjBkM2NiOWMw2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-10-09&checkout=2025-10-12&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=fed64ab743a800ef&srepoch=1759401458&all_sr_blocks=1325975403_418577495_2_1_0_882170&highlighted_blocks=1325975403_418577495_2_1_0_882170&matching_block_id=1325975403_418577495_2_1_0_882170&sr_pri_blocks=1325975403_418577495_2_1_0_882170_78030&from=searchresults",
+    "address": "Jiangcun",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=China&checkin=2025-10-09&checkout=2025-10-12&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1759401454857&force_referer=",
+    "scrapedAt": "2025-10-02T10:37:38.379Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1759401458379_3",
+    "name": "Family Hotel Zhangjiajie",
+    "price": 72,
+    "currency": "USD",
+    "rating": 9.4,
+    "stars": 9,
+    "reviewCount": 498,
+    "avgReview": "9.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/545947701.webp?k=c92d4913bea3c79ac04056cb996cb6566e06a44b587e87333118a7d5319b8836&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/545947701.webp?k=c92d4913bea3c79ac04056cb996cb6566e06a44b587e87333118a7d5319b8836&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/545947701.webp?k=c92d4913bea3c79ac04056cb996cb6566e06a44b587e87333118a7d5319b8836&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/cn/zhang-jia-jie-jin-hong-min-su.html?aid=304142&label=gen173nr-10CAQoggJCDHNlYXJjaF9jaGluYUgzWARooQGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Au-r-cYGwAIB0gIkOWY4MmViOGMtNWI1OS00YTMxLWI4NDYtNDcwZjBkM2NiOWMw2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-10-09&checkout=2025-10-12&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=fed64ab743a800ef&srepoch=1759401458&all_sr_blocks=1099771201_382835263_0_0_0&highlighted_blocks=1099771201_382835263_0_0_0&matching_block_id=1099771201_382835263_0_0_0&sr_pri_blocks=1099771201_382835263_0_0_0__51224&from=searchresults",
+    "address": "Wu Lingyuan, Zhangjiajie",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=China&checkin=2025-10-09&checkout=2025-10-12&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1759401454857&force_referer=",
+    "scrapedAt": "2025-10-02T10:37:38.379Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1759401458380_4",
+    "name": "ZhangJiaJie Enjoy Nature hotel",
+    "price": 171,
+    "currency": "USD",
+    "rating": 9.8,
+    "stars": 10,
+    "reviewCount": 692,
+    "avgReview": "9.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/725527853.webp?k=5042d7488795ac9e8c2e8879a2564ede2ee23066ba783d26027769351683c096&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/725527853.webp?k=5042d7488795ac9e8c2e8879a2564ede2ee23066ba783d26027769351683c096&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/725527853.webp?k=5042d7488795ac9e8c2e8879a2564ede2ee23066ba783d26027769351683c096&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/725527853.webp?k=5042d7488795ac9e8c2e8879a2564ede2ee23066ba783d26027769351683c096&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/cn/xitjing-enjoy-nature.html?aid=304142&label=gen173nr-10CAQoggJCDHNlYXJjaF9jaGluYUgzWARooQGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Au-r-cYGwAIB0gIkOWY4MmViOGMtNWI1OS00YTMxLWI4NDYtNDcwZjBkM2NiOWMw2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-10-09&checkout=2025-10-12&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=fed64ab743a800ef&srepoch=1759401458&all_sr_blocks=1382357807_410302431_4_0_0&highlighted_blocks=1382357807_410302431_4_0_0&matching_block_id=1382357807_410302431_4_0_0&sr_pri_blocks=1382357807_410302431_4_0_0__121500&from=searchresults",
+    "address": "Wu Lingyuan, Hanqiyu",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=China&checkin=2025-10-09&checkout=2025-10-12&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1759401454857&force_referer=",
+    "scrapedAt": "2025-10-02T10:37:38.380Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1759401458380_5",
+    "name": "Baike Boutique Hotel",
+    "price": 289,
+    "currency": "USD",
+    "rating": 9.7,
+    "stars": 10,
+    "reviewCount": 651,
+    "avgReview": "9.7/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/453486640.webp?k=9a68fd90685fe89cbfa135a8e3a4eae308d184b01fbfd7234aead8940fac2633&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/453486640.webp?k=9a68fd90685fe89cbfa135a8e3a4eae308d184b01fbfd7234aead8940fac2633&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/453486640.webp?k=9a68fd90685fe89cbfa135a8e3a4eae308d184b01fbfd7234aead8940fac2633&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/cn/long-sheng-bai-ke-jing-pin-jiu-dian.html?aid=304142&label=gen173nr-10CAQoggJCDHNlYXJjaF9jaGluYUgzWARooQGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Au-r-cYGwAIB0gIkOWY4MmViOGMtNWI1OS00YTMxLWI4NDYtNDcwZjBkM2NiOWMw2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-10-09&checkout=2025-10-12&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=fed64ab743a800ef&srepoch=1759401458&all_sr_blocks=129114014_372669822_2_42_0_205855&highlighted_blocks=129114014_372669822_2_42_0_205855&matching_block_id=129114014_372669822_2_42_0_205855&sr_pri_blocks=129114014_372669822_2_42_0_205855_205609&from=searchresults",
+    "address": "Longsheng",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=China&checkin=2025-10-09&checkout=2025-10-12&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1759401454857&force_referer=",
+    "scrapedAt": "2025-10-02T10:37:38.380Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1759401458381_6",
+    "name": "Simatai No.19 Villa",
+    "price": 160,
+    "currency": "USD",
+    "rating": 9.2,
+    "stars": 9,
+    "reviewCount": 825,
+    "avgReview": "9.2/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/162624145.webp?k=562d5ca4d24c5685411e25cc8ccd262ea7d04ce61dc24f646783d678f83eab50&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/162624145.webp?k=562d5ca4d24c5685411e25cc8ccd262ea7d04ce61dc24f646783d678f83eab50&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/162624145.webp?k=562d5ca4d24c5685411e25cc8ccd262ea7d04ce61dc24f646783d678f83eab50&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/cn/si-ma-tai-19hao-yuan.html?aid=304142&label=gen173nr-10CAQoggJCDHNlYXJjaF9jaGluYUgzWARooQGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Au-r-cYGwAIB0gIkOWY4MmViOGMtNWI1OS00YTMxLWI4NDYtNDcwZjBkM2NiOWMw2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-10-09&checkout=2025-10-12&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=fed64ab743a800ef&srepoch=1759401458&all_sr_blocks=409288401_405056475_2_0_0&highlighted_blocks=409288401_405056475_2_0_0&matching_block_id=409288401_405056475_2_0_0&sr_pri_blocks=409288401_405056475_2_0_0__114000&from=searchresults",
+    "address": "Miyun",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=China&checkin=2025-10-09&checkout=2025-10-12&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1759401454857&force_referer=",
+    "scrapedAt": "2025-10-02T10:37:38.381Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1759401458381_7",
+    "name": "Harbin Binpeng Inn - Harbin Taiping International Airport",
+    "price": 83,
+    "currency": "USD",
+    "rating": 8.8,
+    "stars": 9,
+    "reviewCount": 483,
+    "avgReview": "8.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/508012650.webp?k=d9ce36900dffa07f94abb4e14ea8a2040b8cdd130b515838068efae15f89ffaa&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/508012650.webp?k=d9ce36900dffa07f94abb4e14ea8a2040b8cdd130b515838068efae15f89ffaa&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/508012650.webp?k=d9ce36900dffa07f94abb4e14ea8a2040b8cdd130b515838068efae15f89ffaa&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/cn/bin-peng-tian-xia-bin-guan-tai-ping-guo-ji-ji-chang-dian.html?aid=304142&label=gen173nr-10CAQoggJCDHNlYXJjaF9jaGluYUgzWARooQGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Au-r-cYGwAIB0gIkOWY4MmViOGMtNWI1OS00YTMxLWI4NDYtNDcwZjBkM2NiOWMw2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-10-09&checkout=2025-10-12&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=fed64ab743a800ef&srepoch=1759401458&all_sr_blocks=1095403801_408474610_2_42_0&highlighted_blocks=1095403801_408474610_2_42_0&matching_block_id=1095403801_408474610_2_42_0&sr_pri_blocks=1095403801_408474610_2_42_0__59400&from=searchresults",
+    "address": "Taipingzhuang",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=China&checkin=2025-10-09&checkout=2025-10-12&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1759401454857&force_referer=",
+    "scrapedAt": "2025-10-02T10:37:38.381Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1759401458382_8",
+    "name": "YC Hotel Haikou",
+    "price": 91,
+    "currency": "USD",
+    "rating": 9.2,
+    "stars": 9,
+    "reviewCount": 1042,
+    "avgReview": "9.2/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/614402347.webp?k=ba917f7656e5822fccfefb1e65e4421ebb60cf1045c6abaf5b8527c89ab03f86&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/614402347.webp?k=ba917f7656e5822fccfefb1e65e4421ebb60cf1045c6abaf5b8527c89ab03f86&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/614402347.webp?k=ba917f7656e5822fccfefb1e65e4421ebb60cf1045c6abaf5b8527c89ab03f86&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/cn/yi-chen-jing-pin-jiu-dian-hai-kou-guo-ji-hui-zhan-zhong-xin-dian.html?aid=304142&label=gen173nr-10CAQoggJCDHNlYXJjaF9jaGluYUgzWARooQGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Au-r-cYGwAIB0gIkOWY4MmViOGMtNWI1OS00YTMxLWI4NDYtNDcwZjBkM2NiOWMw2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-10-09&checkout=2025-10-12&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=fed64ab743a800ef&srepoch=1759401458&all_sr_blocks=1290503801_403619976_0_1_0_803994&highlighted_blocks=1290503801_403619976_0_1_0_803994&matching_block_id=1290503801_403619976_0_1_0_803994&sr_pri_blocks=1290503801_403619976_0_1_0_803994_64980&from=searchresults",
+    "address": "Zhenhai",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=China&checkin=2025-10-09&checkout=2025-10-12&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1759401454857&force_referer=",
+    "scrapedAt": "2025-10-02T10:37:38.382Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1759401458382_9",
+    "name": "Wangxian Mountain Retreat B&B-Wangxian Valley Scenic Area",
+    "price": 99,
+    "currency": "USD",
+    "rating": 9.7,
+    "stars": 10,
+    "reviewCount": 231,
+    "avgReview": "9.7/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/724785540.webp?k=2ce7abc8701118706e045ae66b83db5c65e863dbf49d237ae476631ac20d596c&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/724785540.webp?k=2ce7abc8701118706e045ae66b83db5c65e863dbf49d237ae476631ac20d596c&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/724785540.webp?k=2ce7abc8701118706e045ae66b83db5c65e863dbf49d237ae476631ac20d596c&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/cn/wang-xian-shan-she-min-su.html?aid=304142&label=gen173nr-10CAQoggJCDHNlYXJjaF9jaGluYUgzWARooQGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Au-r-cYGwAIB0gIkOWY4MmViOGMtNWI1OS00YTMxLWI4NDYtNDcwZjBkM2NiOWMw2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-10-09&checkout=2025-10-12&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=fed64ab743a800ef&srepoch=1759401458&all_sr_blocks=1347857602_407134486_2_1_0_921841&highlighted_blocks=1347857602_407134486_2_1_0_921841&matching_block_id=1347857602_407134486_2_1_0_921841&sr_pri_blocks=1347857602_407134486_2_1_0_921841_70200&from=searchresults",
+    "address": "Qiaotou",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=China&checkin=2025-10-09&checkout=2025-10-12&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1759401454857&force_referer=",
+    "scrapedAt": "2025-10-02T10:37:38.382Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

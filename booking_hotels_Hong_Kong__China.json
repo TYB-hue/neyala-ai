@@ -1,0 +1,292 @@
+[
+  {
+    "id": "hotel_1763178549158_0",
+    "name": "Eco Tree Hotel Sheung Wan",
+    "price": 469,
+    "currency": "USD",
+    "rating": 8.3,
+    "stars": 8,
+    "reviewCount": 566,
+    "avgReview": "8.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/118980811.webp?k=3f3d85e773f298aa89dbcb80a4d197161c1c05357a78b02685acd3dac9dc012d&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/118980811.webp?k=3f3d85e773f298aa89dbcb80a4d197161c1c05357a78b02685acd3dac9dc012d&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/118980811.webp?k=3f3d85e773f298aa89dbcb80a4d197161c1c05357a78b02685acd3dac9dc012d&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/hk/eco-tree.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9ob25nIGtvbmcsIGNoaW5hSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCtvDfyAbAAgHSAiQyNjkxNDEwYy02ZmNkLTRiN2MtYjc3Mi1lMDA5NDc0MGZjNznYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=a3d41adba8b50cba&srepoch=1763178549&all_sr_blocks=161086601_88945894_0_0_0&highlighted_blocks=161086601_88945894_0_0_0&matching_block_id=161086601_88945894_0_0_0&sr_pri_blocks=161086601_88945894_0_0_0__364320&from=searchresults",
+    "address": "Hong Kong Island, Hong Kong (Hong Kong Island)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Hong+Kong%2C+China&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1763178549552&force_referer=",
+    "scrapedAt": "2025-11-15T03:49:09.158Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763178549159_1",
+    "name": "Eaton HK",
+    "price": 492,
+    "currency": "USD",
+    "rating": 8.4,
+    "stars": 8,
+    "reviewCount": 572,
+    "avgReview": "8.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/682219119.webp?k=75828533492f7f95a333fb7b7de0b31107d2dcd3af04d52ae659f7bfab9d238e&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/682219119.webp?k=75828533492f7f95a333fb7b7de0b31107d2dcd3af04d52ae659f7bfab9d238e&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/682219119.webp?k=75828533492f7f95a333fb7b7de0b31107d2dcd3af04d52ae659f7bfab9d238e&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/hk/eaton.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9ob25nIGtvbmcsIGNoaW5hSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCtvDfyAbAAgHSAiQyNjkxNDEwYy02ZmNkLTRiN2MtYjc3Mi1lMDA5NDc0MGZjNznYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=a3d41adba8b50cba&srepoch=1763178549&all_sr_blocks=5505641_89149810_2_2_0&highlighted_blocks=5505641_89149810_2_2_0&matching_block_id=5505641_89149810_2_2_0&sr_pri_blocks=5505641_89149810_2_2_0__382500&from=searchresults",
+    "address": "Yau Tsim Mong District, Hong Kong (Kowloon)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Hong+Kong%2C+China&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1763178549552&force_referer=",
+    "scrapedAt": "2025-11-15T03:49:09.159Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763178549159_2",
+    "name": "Gateway Hotel, Marco Polo",
+    "price": 718,
+    "currency": "USD",
+    "rating": 8.5,
+    "stars": 9,
+    "reviewCount": 369,
+    "avgReview": "8.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/361500740.webp?k=85dd4e59dcecc5793d159863c4efb5b2098c58501e6cccdc73e891ba898eed9b&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/361500740.webp?k=85dd4e59dcecc5793d159863c4efb5b2098c58501e6cccdc73e891ba898eed9b&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/361500740.webp?k=85dd4e59dcecc5793d159863c4efb5b2098c58501e6cccdc73e891ba898eed9b&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/hk/gateway-hong-kong.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9ob25nIGtvbmcsIGNoaW5hSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCtvDfyAbAAgHSAiQyNjkxNDEwYy02ZmNkLTRiN2MtYjc3Mi1lMDA5NDc0MGZjNznYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=a3d41adba8b50cba&srepoch=1763178549&all_sr_blocks=5769101_404683429_0_34_0&highlighted_blocks=5769101_404683429_0_34_0&matching_block_id=5769101_404683429_0_34_0&sr_pri_blocks=5769101_404683429_0_34_0__557600&from=searchresults",
+    "address": "Yau Tsim Mong District, Hong Kong (Tsim Sha Tsui)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Hong+Kong%2C+China&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1763178549552&force_referer=",
+    "scrapedAt": "2025-11-15T03:49:09.159Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763178549160_3",
+    "name": "B P International",
+    "price": 477,
+    "currency": "USD",
+    "rating": 7.8,
+    "stars": 8,
+    "reviewCount": 438,
+    "avgReview": "7.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/252128167.webp?k=9f5a769e105b9cde634addd1e73d2e859ef210ecec6fcbd3b0716954aa104ea6&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/252128167.webp?k=9f5a769e105b9cde634addd1e73d2e859ef210ecec6fcbd3b0716954aa104ea6&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/252128167.webp?k=9f5a769e105b9cde634addd1e73d2e859ef210ecec6fcbd3b0716954aa104ea6&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/hk/b-p-international.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9ob25nIGtvbmcsIGNoaW5hSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCtvDfyAbAAgHSAiQyNjkxNDEwYy02ZmNkLTRiN2MtYjc3Mi1lMDA5NDc0MGZjNznYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=a3d41adba8b50cba&srepoch=1763178549&all_sr_blocks=5507699_381899090_2_2_0&highlighted_blocks=5507699_381899090_2_2_0&matching_block_id=5507699_381899090_2_2_0&sr_pri_blocks=5507699_381899090_2_2_0__370668&from=searchresults",
+    "address": "Yau Tsim Mong District, Hong Kong (Tsim Sha Tsui)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Hong+Kong%2C+China&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1763178549552&force_referer=",
+    "scrapedAt": "2025-11-15T03:49:09.160Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763178549160_4",
+    "name": "Prudential Hotel",
+    "price": 528,
+    "currency": "USD",
+    "rating": 8,
+    "stars": 8,
+    "reviewCount": 605,
+    "avgReview": "8.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/65244095.webp?k=06cce182482f8b567b80b3fd090eb2ca63861b1c27100561f5d250fc512cf947&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/65244095.webp?k=06cce182482f8b567b80b3fd090eb2ca63861b1c27100561f5d250fc512cf947&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/65244095.webp?k=06cce182482f8b567b80b3fd090eb2ca63861b1c27100561f5d250fc512cf947&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/hk/prudential.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9ob25nIGtvbmcsIGNoaW5hSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCtvDfyAbAAgHSAiQyNjkxNDEwYy02ZmNkLTRiN2MtYjc3Mi1lMDA5NDc0MGZjNznYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=a3d41adba8b50cba&srepoch=1763178549&all_sr_blocks=5503302_380804669_2_2_0&highlighted_blocks=5503302_380804669_2_2_0&matching_block_id=5503302_380804669_2_2_0&sr_pri_blocks=5503302_380804669_2_2_0__410000&from=searchresults",
+    "address": "Yau Tsim Mong District, Hong Kong (Tsim Sha Tsui)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Hong+Kong%2C+China&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1763178549552&force_referer=",
+    "scrapedAt": "2025-11-15T03:49:09.160Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763178549161_5",
+    "name": "Marco Polo Hongkong Hotel",
+    "price": 700,
+    "currency": "USD",
+    "rating": 8,
+    "stars": 8,
+    "reviewCount": 804,
+    "avgReview": "8.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/361459424.webp?k=0734e6913046391c9702fd10bc2fee9d5a91820b0c8ab72036b3a23ee2b0d9cc&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/361459424.webp?k=0734e6913046391c9702fd10bc2fee9d5a91820b0c8ab72036b3a23ee2b0d9cc&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/361459424.webp?k=0734e6913046391c9702fd10bc2fee9d5a91820b0c8ab72036b3a23ee2b0d9cc&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/hk/marco-polo-hongkong.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9ob25nIGtvbmcsIGNoaW5hSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCtvDfyAbAAgHSAiQyNjkxNDEwYy02ZmNkLTRiN2MtYjc3Mi1lMDA5NDc0MGZjNznYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=a3d41adba8b50cba&srepoch=1763178549&all_sr_blocks=5768814_404680523_0_34_0&highlighted_blocks=5768814_404680523_0_34_0&matching_block_id=5768814_404680523_0_34_0&sr_pri_blocks=5768814_404680523_0_34_0__544000&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Yau Tsim Mong District, Hong Kong (Tsim Sha Tsui)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Hong+Kong%2C+China&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1763178549552&force_referer=",
+    "scrapedAt": "2025-11-15T03:49:09.161Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763178549161_6",
+    "name": "Sheraton Hong Kong Hotel & Towers",
+    "price": 843,
+    "currency": "USD",
+    "rating": 8.3,
+    "stars": 8,
+    "reviewCount": 503,
+    "avgReview": "8.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/621262194.webp?k=64f17e98f42e74d8db4a1c096cdaad33bfa144edd67ed3d69b62d40427dbf9f8&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/621262194.webp?k=64f17e98f42e74d8db4a1c096cdaad33bfa144edd67ed3d69b62d40427dbf9f8&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/621262194.webp?k=64f17e98f42e74d8db4a1c096cdaad33bfa144edd67ed3d69b62d40427dbf9f8&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/hk/sheraton-hong-kong.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9ob25nIGtvbmcsIGNoaW5hSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCtvDfyAbAAgHSAiQyNjkxNDEwYy02ZmNkLTRiN2MtYjc3Mi1lMDA5NDc0MGZjNznYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=a3d41adba8b50cba&srepoch=1763178549&all_sr_blocks=33166125_376279320_2_42_0&highlighted_blocks=33166125_376279320_2_42_0&matching_block_id=33166125_376279320_2_42_0&sr_pri_blocks=33166125_376279320_2_42_0__655000&from=searchresults",
+    "address": "Yau Tsim Mong District, Hong Kong (Tsim Sha Tsui)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Hong+Kong%2C+China&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1763178549552&force_referer=",
+    "scrapedAt": "2025-11-15T03:49:09.161Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763178549162_7",
+    "name": "Holiday Inn Golden Mile by IHG",
+    "price": 857,
+    "currency": "USD",
+    "rating": 8.1,
+    "stars": 8,
+    "reviewCount": 95,
+    "avgReview": "8.1/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/245806026.webp?k=eed9366eec24cb6e424c73c637b51452f6da7a261f2831c2e10235899747330e&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/245806026.webp?k=eed9366eec24cb6e424c73c637b51452f6da7a261f2831c2e10235899747330e&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/245806026.webp?k=eed9366eec24cb6e424c73c637b51452f6da7a261f2831c2e10235899747330e&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/hk/holidayinn.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9ob25nIGtvbmcsIGNoaW5hSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCtvDfyAbAAgHSAiQyNjkxNDEwYy02ZmNkLTRiN2MtYjc3Mi1lMDA5NDc0MGZjNznYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=a3d41adba8b50cba&srepoch=1763178549&all_sr_blocks=5500521_94273746_2_34_0_633573&highlighted_blocks=5500521_94273746_2_34_0_633573&matching_block_id=5500521_94273746_2_34_0_633573&sr_pri_blocks=5500521_94273746_2_34_0_633573_665800&from=searchresults",
+    "address": "Yau Tsim Mong District, Hong Kong (Tsim Sha Tsui)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Hong+Kong%2C+China&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1763178549552&force_referer=",
+    "scrapedAt": "2025-11-15T03:49:09.162Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763178549162_8",
+    "name": "Page148, Page Hotels",
+    "price": 575,
+    "currency": "USD",
+    "rating": 8.9,
+    "stars": 9,
+    "reviewCount": 658,
+    "avgReview": "8.9/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/303424306.webp?k=1d864c883c7bf6d09355db0799003d3f6173c42d866172fabc095b3e65e78630&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/303424306.webp?k=1d864c883c7bf6d09355db0799003d3f6173c42d866172fabc095b3e65e78630&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/303424306.webp?k=1d864c883c7bf6d09355db0799003d3f6173c42d866172fabc095b3e65e78630&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/hk/page-148.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9ob25nIGtvbmcsIGNoaW5hSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCtvDfyAbAAgHSAiQyNjkxNDEwYy02ZmNkLTRiN2MtYjc3Mi1lMDA5NDc0MGZjNznYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=a3d41adba8b50cba&srepoch=1763178549&all_sr_blocks=430305826_129522169_0_0_0&highlighted_blocks=430305826_129522169_0_0_0&matching_block_id=430305826_129522169_0_0_0&sr_pri_blocks=430305826_129522169_0_0_0__447120&from=searchresults",
+    "address": "Yau Tsim Mong District, Hong Kong (Tsim Sha Tsui)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Hong+Kong%2C+China&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1763178549552&force_referer=",
+    "scrapedAt": "2025-11-15T03:49:09.162Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763178549163_9",
+    "name": "The Langham Hong Kong",
+    "price": 741,
+    "currency": "USD",
+    "rating": 8.7,
+    "stars": 9,
+    "reviewCount": 1043,
+    "avgReview": "8.7/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/38889045.webp?k=95d2d1ed092c475a55953261a6ede11983fef499d7f4c1a64fede6585f168a25&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/38889045.webp?k=95d2d1ed092c475a55953261a6ede11983fef499d7f4c1a64fede6585f168a25&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/38889045.webp?k=95d2d1ed092c475a55953261a6ede11983fef499d7f4c1a64fede6585f168a25&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/hk/langham.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9ob25nIGtvbmcsIGNoaW5hSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCtvDfyAbAAgHSAiQyNjkxNDEwYy02ZmNkLTRiN2MtYjc3Mi1lMDA5NDc0MGZjNznYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=a3d41adba8b50cba&srepoch=1763178549&all_sr_blocks=5503914_389012557_2_2_0&highlighted_blocks=5503914_389012557_2_2_0&matching_block_id=5503914_389012557_2_2_0&sr_pri_blocks=5503914_389012557_2_2_0__576000&from=searchresults",
+    "address": "Yau Tsim Mong District, Hong Kong (Tsim Sha Tsui)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Hong+Kong%2C+China&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1763178549552&force_referer=",
+    "scrapedAt": "2025-11-15T03:49:09.163Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

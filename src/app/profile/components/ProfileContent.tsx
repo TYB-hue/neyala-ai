@@ -62,11 +62,11 @@ export default function ProfileContent({ user, stats }: ProfileContentProps) {
                 <p className="text-sm text-gray-500 mt-2">Click to view details</p>
                 <div className="mt-3">
                   <a 
-                    href="/attractions" 
+                    href="/favorites" 
                     className="text-sm text-green-600 hover:text-green-800 font-medium"
                     onClick={(e) => e.stopPropagation()}
                   >
-                    Explore Attractions →
+                    Explore Favorites →
                   </a>
                 </div>
               </div>

@@ -1,179 +1,19 @@
 [
   {
-    "id": "hotel_1757406566318_0",
-    "name": "Park Lane New York",
-    "price": 1,
+    "id": "hotel_1763184944722_0",
+    "name": "Royalton New York",
+    "price": 544,
     "currency": "USD",
-    "rating": 7.7,
-    "stars": 8,
-    "reviewCount": 854,
-    "avgReview": "7.7/5",
-    "images": [
-      "https://cf.bstatic.com/xdata/images/hotel/square240/336418375.webp?k=2ac283e2f1206c3146b6d994f7c79a6f1bb7db983b598a378ce19862f2b5decb&o="
-    ],
-    "bookingUrl": "https://www.booking.com/hotel/us/park-lane-new-york.html?aid=304142&label=gen173nr-10CAQoggJCGXNlYXJjaF9uZXcgeW9yayBjaXR5LCB1c2FIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALhyv_FBsACAdICJDEzNThlYmNlLWJiYjEtNGNjYy1iODRhLWExNWNmYjNjYjRjYdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=d3493bb0ee5301c6&srepoch=1757406564&all_sr_blocks=5700925_219604946_2_0_0_660603&highlighted_blocks=5700925_219604946_2_0_0_660603&matching_block_id=5700925_219604946_2_0_0_660603&sr_pri_blocks=5700925_219604946_2_0_0_660603_179686&from=searchresults",
-    "address": "New York Central Park, New York",
-    "location": {
-      "lat": 0,
-      "lng": 0
-    },
-    "amenities": [
-      "WiFi",
-      "Air Conditioning",
-      "Free Breakfast"
-    ],
-    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=New+York+City%2C+USA&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
-    "scrapedAt": "2025-09-09T08:29:26.318Z",
-    "source": "Booking.com (ScraperAPI)"
-  },
-  {
-    "id": "hotel_1757406566318_1",
-    "name": "The Chelsean New York",
-    "price": 1,
-    "currency": "USD",
-    "rating": 7,
+    "rating": 7.4,
     "stars": 7,
-    "reviewCount": 699,
-    "avgReview": "7.0/5",
+    "reviewCount": 764,
+    "avgReview": "7.4/5",
     "images": [
-      "https://cf.bstatic.com/xdata/images/hotel/square240/461624499.webp?k=d408a6975837a7d41860b6be7865e9f45478a5c61f8f6ecb7bf894dc4ee47046&o="
+      "https://cf.bstatic.com/xdata/images/hotel/square600/205408681.webp?k=1a257205c89046eb547842e7edf80c537553b34cf4f3460951fefbe7ca83f7f0&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/205408681.webp?k=1a257205c89046eb547842e7edf80c537553b34cf4f3460951fefbe7ca83f7f0&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/205408681.webp?k=1a257205c89046eb547842e7edf80c537553b34cf4f3460951fefbe7ca83f7f0&o="
     ],
-    "bookingUrl": "https://www.booking.com/hotel/us/four-points-by-sheraton-manhattan-chelsea.html?aid=304142&label=gen173nr-10CAQoggJCGXNlYXJjaF9uZXcgeW9yayBjaXR5LCB1c2FIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALhyv_FBsACAdICJDEzNThlYmNlLWJiYjEtNGNjYy1iODRhLWExNWNmYjNjYjRjYdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=d3493bb0ee5301c6&srepoch=1757406564&all_sr_blocks=4177930_337871201_2_0_0_562521&highlighted_blocks=4177930_337871201_2_0_0_562521&matching_block_id=4177930_337871201_2_0_0_562521&sr_pri_blocks=4177930_337871201_2_0_0_562521_103445&nad_id=7f14f950-0025-44c6-a247-3e9912d19fbc_8&nad_cpc=1.01&nad_track=eyJhdWN0aW9uRXBvY2giOjE3NTc0MDY1NjE5MjYsInJhbmsiOjEsImtvZGRpVHJhY2tpbmdJbmZvIjoiSnR3ME9iMkQ3NDN6dWV6SVI0bUdNa2VKaENYMWtjcFo3cGxSam9wb3BYNjdLeUpxb0dOb1R2dkZBQ0djZ1pnYkZLNUJ5SUR0NzZSbFF3VVFxZVR4UlBySmVrYkx6eGFieHFQOGhEUml5ZWhsQXBzaUYxV2hEY1ZvNEVFcC9obEdTSms4a3FUU2RPNTBKcjJJcnBVdHZLK2hHa2h4SWNDbDhIZ0VLVi9xaGl1aWF6TW5JdWg5K09QQWR6RzdCL3JGbldsNHNPS0Q4SkxISFMyeFZ6K0NUaVdDTEJzdlM0VkNzdVhiMlFPbU1uL1dCWTdqQ0pEemh0ZFJ1cXRpTGFZcDhXV2JNS0l3QytkbDNiZmx0LzUwQTNWL09tczV0OVAxTjJFb04zSmNKTFZBYzZjb2UzbHF6aEFrNWo1WjAzeHR2T2k5UWxuNFJmMldzME5yUlA4R05tMEhvWDVOZmZSR1pjb2hYaG8rd2FhUnUwNjJGb1FoZWdWaFVwbWFDS2R1eURuMXRodnVSUzg5Ukc5amFYbW5zbGsrTlFvZkJ6Q01vODdBWTlJSCtQUnJUb1NaL3gzeENaVXp6cHBBMWNPTnlWV2Y5TkxWbDJ0c3lkQVdGZlZqQ1ZtL3JUK3hlWnNkMkpnQVZyMEdrRTUreXZZTGFDOFYzWGJ1a1FGNVllakNlU2YxSWxWL05QQkpmaVY1L1orLzdZTzhSZm5jWWh4azZINDNNUG04dzRrbDQvYVlTQ0ZTWnJ2NzVlaENjUE40RTNWcGtRWVg0eis2S2FFTFRhdEcvTm16cFNYRVNmcis1T0ZvSnk4Sk9tbG5nRzhqS3c4M1FEZms1eUdGSHE4VElxdDdPRmFPb2k5OWUyKytDZjEvU3FyZitOY0czMGpvbWMyenZTVi9lbTRxbTlTNGFLSGxVZmhMUDBmemMzeHhQd0wwTDZQR0RVd09CSmZ6cDdhcU1pS3pkRWxtdGlveWpJR2hXUUhiS1lSV2VaZUhhUWpNWTR2bStOYnFabi9qSGkwZStMYzJWZlQ5RGpxSWE2cE84R2tjREFENXdQT3pMRTNYOVlwREFXVU5mN2tuNHc3NUZhaWRPOWN0RTc3cUdCMThwM3h5RGNnZ0ZDUjNZaWxRdDI1VkJUZmdhdkZqMFBMUkYvWldEVytCVkpPOEg4clFMRXBheWJhRUpjYWdvRkw4OVpiQ1BUaVB2SXZ5TDhNZnNyR3RmcU5NV0Q5K1JYNnJaTS85bTJJQk9tS2dsb05VWVQ2VW50UXRsRDQxaHpqMDhaMTFvMCtHOEN2R2NLTHdzZEF3aEtzVnBkU29sdDU5TFhCWGwrd3lEUmh4eGhqamx3akRDTEx4RUh4dGdQNENwa3k3K2N6OEpjVWY4ckxvaHhmd0gwOWJPOU0rODU1U01TWGV3NGN3dHhXYmV3TmpYSVl0WEhsTzB6MS93RG40dEZsSytLdHd6WmFiUkZqM05YSEJvSVNmOVN2T1dWeXZieHdMSWdYN2hBVmZpeEN6RDRzdUhpUERrQjFUZ3AramdmZXZzWnJYWDhsMm1CTDlwMVlTR3dGSGFzeUxXLzBnclA1ZUJaT2xLUkI1RjRVbkMxa3VpbGhzTERWZFloWUc2c09hUXJNOVZMTEFDd0ZwazRjWjVGb2FiYXFUdUFPNGlQK1E5aFp5dDBvcWhIRWtTTlppenhBblJaRU5YQm1zMldyd3BNeTh6QXhGV254eDhsWUlsaE1Ya1hFRTh2QVg1WjVEaUJScjNoamJzVS9Jem9CVFdONE5TNHRxcEErMDBIdWwwa0pCS0tZeVI3bVFxOHlCenV6Z3ZuSWtOWkV6NldHVFdXUWtkL0U4Rk9LeWhENHVjRWxiUUJSL0hSVFVsZXhpSGJsQUo2WTNjYXJQeE5vR0VLNFdybGJOWjBGTnlOc3lTVlJ1MTlMT2xKbTJxOWN2MmZzVHovZm5TZUtibXpKdmZ5S292czRNNEhUYjY5VXlvTkdkWmViMmFvd0FVOEFmcnhnM2t1YTN3aVI4aml6dFJsSGhqSXA3RzFFR3NkOGdsdlcxeEhKWHdyRWh2ZEt6elNuckFDRGpBaVc3dFVVK3gxNWJHWWxNZjJjWHdQTFFIaGc3THhwNEdrNmRjZzBQMFZ4Y0o1bW5PUU4veDNLM3doaE5HNWhXZm1vUlJoTysvL29zZGZsRlNnZ2dyVCs3Qzg3U1oyQzlJeEcrUzR2TG0vbEFjMFI0WExvRWVMeEpIYjBoTzIySWVod1U2VjczRWpua3lWbE13bERGdVp5bjlSWkwxdlFGWC9jVk8vaFhsRWZZdjBucFUxWWE3MWVmNXlKYXpzU1pRSTRwbjBXMEhhV0w0Snd4VEdxMTQ0SThDOFNzQjB6ZlJ1RGs2b2JnczVOdHR5cWlCR3lmcktjT2JQKzZZYWJxQi9xUGhERHFHd2ZFY2pnOXorZ2FlVWRrVG85SDVIVjRKSHhrbGRXNFFFMVZZZ1B3RFdBR3RXd3FTQ0hYd3dkK29lOXRldCswNXBydUluLzQwcytWZ3JUZVZaT2tnUkZRcFB2OTRMSVcxNXlYWHphb0QvTHIrSFRHdnpzdkV0RmoxcVZBTzB6Y0tUOWUwWllFTUpxbVV6czkvc3lURGxTUVc4bkJIbCtMUVpTTnJRcFREMTA4ZmVsS0o3MGhKTHQ3YklyZVZGUU1EUEVpLzJWU3JDZ2luL0NYQVVGRHBUdTV3WUFmeG92WDY1ZGVVMG0yQmptT3pwUTZHNHZwWWpIcC9Tb2RPNWF4NEZFUmVwbmcvdXBzUW5Bc3R2bTErUDRyV25DUE5STW1zR0Z1NXdzWFB4d0FJeXZ2cEJFOXZPby92d2lsSEF4a0JGbzFGQlJJblhjVUxWR2V3eVhUWitLUktjSm9kdW1wY0ZEKzRLQ2E5aktBdU5KdkxMTHZhN1JhbFAyRGQyR3ZrQTN3dVR2RE5ZZE5ZNE42MkxRRU5YdnlsSE5wSFMrMXdZVFcyN1BVSFluRW83U2dmbUZQQnZpZkwzTi9yRU5OTGxpVlpjSndzcWJRd0dqdy9YV0ZSQ3BWSlVhSGNEY0FZMjkzYTAybUs3amJ4T0hYaGJmV3NhSmVkWWNwcStqSUpGelh2aFdkeGlIMXQrN2xtanpLaTV2bWM4dXNvZ0hzbnV2bHpKOGl5SGd1UysrR2lzS3h6QWJoRUMzLy9MbzRkRytsbk5tSXFxZ2s3Vk51TU9vL3ZCajZMSmlkd3RhTzYrWFZvTStnWjhlWFpsRXRuNXE1cjhCZ3BFY2l1ZVg3TCtPYWpiczJGY2lEY05UeDk5M2JTTExVUlRhRVlmcC9WRTZKSzJVTU1vUHA2V3hkTXFQcmFZaUZPckI5YUpKM2NpbEFkUGF0dlcvTGovZFgrQVAxMk5zUDVsY3l3d3NKTlRwbEdpcnJheGoxd0dNSlErb1o0TStLa2JBMzhIWHpMNnMxS3lOamtscHNGb0FsanJzZnBWaElGYi9jN0VUWm9RcEtMcmQwWjJ2ZGR5VDUifQ%3D%3D&from=searchresults",
-    "address": "Chelsea, New York",
-    "location": {
-      "lat": 0,
-      "lng": 0
-    },
-    "amenities": [
-      "WiFi",
-      "Air Conditioning",
-      "Free Breakfast"
-    ],
-    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=New+York+City%2C+USA&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
-    "scrapedAt": "2025-09-09T08:29:26.318Z",
-    "source": "Booking.com (ScraperAPI)"
-  },
-  {
-    "id": "hotel_1757406566318_2",
-    "name": "Midtown West Hotel",
-    "price": 436,
-    "currency": "USD",
-    "rating": 5.4,
-    "stars": 5,
-    "reviewCount": 124,
-    "avgReview": "5.4/5",
-    "images": [
-      "https://cf.bstatic.com/xdata/images/hotel/square240/228358430.webp?k=c9dbaabd509a2b12286fdad0610707fbd2e3a489c578a4ca88446991a43e1ad0&o="
-    ],
-    "bookingUrl": "https://www.booking.com/hotel/us/manhattan-west.html?aid=304142&label=gen173nr-10CAQoggJCGXNlYXJjaF9uZXcgeW9yayBjaXR5LCB1c2FIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALhyv_FBsACAdICJDEzNThlYmNlLWJiYjEtNGNjYy1iODRhLWExNWNmYjNjYjRjYdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=d3493bb0ee5301c6&srepoch=1757406564&all_sr_blocks=106486501_88773347_0_0_0&highlighted_blocks=106486501_88773347_0_0_0&matching_block_id=106486501_88773347_0_0_0&sr_pri_blocks=106486501_88773347_0_0_0__43605&from=searchresults",
-    "address": "Hell's Kitchen, New York",
-    "location": {
-      "lat": 0,
-      "lng": 0
-    },
-    "amenities": [
-      "WiFi",
-      "Air Conditioning",
-      "Free Breakfast"
-    ],
-    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=New+York+City%2C+USA&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
-    "scrapedAt": "2025-09-09T08:29:26.318Z",
-    "source": "Booking.com (ScraperAPI)"
-  },
-  {
-    "id": "hotel_1757406566318_3",
-    "name": "Hilton Garden Inn New York Times Square South",
-    "price": 1,
-    "currency": "USD",
-    "rating": 8.3,
-    "stars": 8,
-    "reviewCount": 267,
-    "avgReview": "8.3/5",
-    "images": [
-      "https://cf.bstatic.com/xdata/images/hotel/square240/485847822.webp?k=c3b244bcc3f73498dc0e074b60dcbbc1a30fc6fa4405b1e7e515ea684e20b5bf&o="
-    ],
-    "bookingUrl": "https://www.booking.com/hotel/us/hilton-garden-inn-west-37th-times-square-south.html?aid=304142&label=gen173nr-10CAQoggJCGXNlYXJjaF9uZXcgeW9yayBjaXR5LCB1c2FIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALhyv_FBsACAdICJDEzNThlYmNlLWJiYjEtNGNjYy1iODRhLWExNWNmYjNjYjRjYdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=d3493bb0ee5301c6&srepoch=1757406564&all_sr_blocks=221010403_98029812_2_2_0_985835&highlighted_blocks=221010403_98029812_2_2_0_985835&matching_block_id=221010403_98029812_2_2_0_985835&sr_pri_blocks=221010403_98029812_2_2_0_985835_148280&nad_id=7f14f950-0025-44c6-a247-3e9912d19fbc_34&nad_cpc=0.82&nad_track=eyJhdWN0aW9uRXBvY2giOjE3NTc0MDY1NjE5MjcsInJhbmsiOjIsImtvZGRpVHJhY2tpbmdJbmZvIjoiSnR3ME9iMkQ3NDN6dWV6SVI0bUdNa2VKaENYMWtjcFo3cGxSam9wb3BYNjdLeUpxb0dOb1R2dkZBQ0djZ1pnYkZLNUJ5SUR0NzZSbFF3VVFxZVR4UlBySmVrYkx6eGFieHFQOGhEUml5ZWhsQXBzaUYxV2hEY1ZvNEVFcC9obEdTSms4a3FUU2RPNTBKcjJJcnBVdHZLK2hHa2h4SWNDbDhIZ0VLVi9xaGl1aWF6TW5JdWg5K09QQWR6RzdCL3JGbldsNHNPS0Q4SkxISFMyeFZ6K0NUaVdDTEJzdlM0VkNzdVhiMlFPbU1uL1dCWTdqQ0pEemh0WlFzYU5tTDZZcDhXV2JNS0l3QytkbDNiZmx0LzUwQTNWL09tczV0OVAxTjJFZ04zVmFKYk5jZmVjL2FucG8zdzhxK21WQnkyWnN2ZXV3UmtQc1JQaVd2azk3V1A5TGNINEdvbTVaZStWY2RZRi9YaFlra3FpV3ZVcXhYWU05TEZFcUE0R2FDNzVnaERlaXJVK2lGWG8zRkdkbGJpbWw1VTUzTlVWTkIyTFZzTnJBZjhZV3U2QmhTcE9DNlJIV0E3Z3F4WjVXenQrSzlGcTU4SVNLaEgxL2hwc0JCYU1nQ1VHeHJXRG5hNXNaanNjQVRyTUczd05veS9jWFpYOVczVzdna1YwdWMvSEpaaWJqT0dOdUNPRkRMbnBxNjR6eHVvS2lRK2J3Y25jNjUzVTJJN1Q2eW9JNTZlNkpTeUZjZnFybC9QbE9NYXhyQjNWMWhSZGFwU3V5S0w1ZEJMdFE3SlRrcHlUT1V2M2o2LzFpYTM0U0xIZ3d4U2sySndJblRTcWh0V1NKRkswUk9Qb21iUVhWKzNGdmNYMitDT0ovU3FuTW9vOVRuZytqbElmcy9INGhJQ281anNleGFiNzNUL1VaYmhLZ09qOG1LRWluWWZlRlJ4SWVFWmJtdGVYa2QyVythRWx1OEdKbTA1UzNTMDZNSnB4S2JwelJPazZMTjVlaXZOamtKMjdnQnprRjg3YzJWZWJrVkdHWkp1a0gvV2dXUXdyNGordTllVXJTdEk5ZUQyTU5kZnd6clZDNEZlbmVNOFFtQjc3dUJBRjk5akk2V01ZNFNIVS9MMjlPcEhOR0dUYnljL3R5bkx6Q0hmZFVIekRNRHB5NUdzZmFMRlpRbjY2T09jcjI5Z2FxK3BQSE5UcVNwSnp5TDhNZnNxK3BZYkpBVURaL0FqYjRkbzZreENOT0pXZW1oNFJhWW5YRndaYytsRFVGbUREbzRKQjF1WCtMdHl6YU0veXhxZTQyaWJFRTY1cjIrSkUyS1h3WDE2Y3hCQWxyMmcrazMwS0hUZlNqWHp4SHZjY1poM0NoNHZ6NGUvd0R4dUtoMXlIK1lFOTVBZklENTVzR0tDcks5cTRCbjMzclcxUmtlNkFiRFRnNTJBcGI5UWpGNTNCK3ByRjluTnVLUkZqM00zUEN1NVdINmkvT1FsMnZieDRMSWdidml3SVV4VkRzVHBZekZHeUtnd3RBM055NW1MVDI2Y2FWR3R4c25odXN2MDRVQmhBREtzbUpWYmtzL2FoSVFjTzJLbFJsRjk4dFdFTnkwMDFxTERjTEtSVlN0Y1dWVnZjNlZ1bkJUME5pMk5RSXZsOE1acUtEb0JMbzFMclpwZzkrcVUwOW4zSjBIWklqamsxbEVNbEZYRTdydzMvaStNbWh6QkpjUjNJcjlGQUJsZ1VYaldrWHVQc2Q1SUZEa2dvczJWV01vVkhTbE5rT0JJOVJGOU1odVFXQzF5bjh2eDhEZmVOMUdlakMvNDZCbmZuZXNYRWlSdHdzLzB5Q1FHMGZmZWw3WFBhNmpDa3VNa2tJVlNwd0hoeW4yT3B5RGFkQU1LbzNiZUdSZ0lGYlcrY1k3a1BaWmtKSzJNRXlXa2x2a1ltTHlaZXU2NEIraUtGUW5MeXZHSytxejJzaEtEbW9yczBTNUhQRzZOUXJxZGp3RC96Z2V0cE1CSU5EOEU1aTFMSDBqbkErb0hxb0NWdTEwOW81UWdWUzdvcGd6cUQzNURZT2xlUXp2Y0N6cHp2MkQzUzNXWHpwaEFGM2pRdEpHWnRlQ1dkYWp2cmFIeFFnT2d0ekEwYmFKbHRNaVJkU0pkZnlLQWRyeEhMcGlSaEhFWWxiWkdJVFRSTyt1N2xzSk9nTUd4RTVyQ2lrRE1EUklIamNYQit3SEl6TG11UlNOQXdwRi9sSUwvVjNNdkoyUEd5SVpoWUo2VjczWlVhQ25nWUx4RkxDckl1MjhodFYxdlJjS01VMWJMZ0Jrd1NRNmdDL1dWQVlyZ2E3ckMwY2dZcmZBNTRtZ0ZtdlUvellvZHRNUm16eXVzdFJVcGpHVGgyZk5MNjBsOTJudFpBcTdtT3BHR2V6cktjT0VieitYYm5xQWZyeTBXZktURmlWSkdsMjJPa0lJd0l3Rk1ZMHFXTmtieW9pMVlEa1YxcFZkd3lsVVRSRDlHb2RUajZSaTBCVTVxWTJJcEtnb2NDbEpYL1IxTi9TNStMalFJWHR6MXhrNDZTMDhMZ1FuTlBRWnpDK0N1ZnIrSFRNK0dSbUN0Rmcxck5SY0J6Qk15QVJtSlp3STVxbVREMDZ1ZFNhQUFHVlE0ak9BaExhR2RiSThBQklCMTBxZmVwUE1lVW1KNHRuYklyZEZVQkJXK1FpLzJSVHFDd1luOENEQ1Z0T3BTSzV3WlZIbHR6Wm9zZDBVVkswRlNxQzFaOThmdC84ZkdieG9pcFNMcC84c0VVWVlZajN3T3BzUjJrb3A3ZnFvYmswVkNHQUx4VW50SGxzOXc0U2YwcFVMVE94N1ZjM3FPZ2h1d2l2QVVjNkZrd21WVk5Ca1hJT09GT1QxaTdkZXFuUE85UjZONjZ1ZUVYbzg3Mko2ektVNDRGbGUrU3phN1JKaCtDRmRWRzdsUWZzNlNPWGNNVVVZNE42MkxRRU5YdnlsSE5wSFZMN2lOcUcxYXVHREl6T280V3lUVzFWQnRXT09HQmowUlFHSTJ1ZWFjZ213ZWZBeW1ydzRYK1pkU1JaRkhDQk8ya1RmbUV3Y1ZTbkJxWEgydWZ0czdxUXFhbERac1I5clBQZUVrekxrUk95ekdmdHZmUHIxeVhabkp2OWZzcVduaEx4My9QdjBKRnYxV2NzVVBPT2d2aU4zeFd1Q0Nmajh2Y2xiMkdybTlhRm1aUTM4QkoyT3ZZeC93VDdJSXVIam8yTXdlcko0Yy80UG8vUllsQUJrNHJvdDlnNjRCeDVyT1cxWlBPZnQ3b2REczNWTDVHNjU5YkpDL0tEU256SmR1NVRRbDdaWmpNY0pwKzVqQ1pPTWFpWmJaS0ZKS1pzTG9wb1ozQVJZL0NRdEZIYWpzeFI2QkxCME1CSnVRZ24xUXNKTlRwbEdpWHViQXJpN1V3Rlgvb2o2WlhBMzYweDl6YUFZTFV6TVRSS2cxVjhHNEF6bGFRQnJ3Z1hCKzdQVWhMWFRZcGRjL1FYUS8zWTlWS0swcXNURGVtOW5sR0U4ZDErUGlEbkJIbklwd2c9In0%3D&from_sustainable_property_sr=1&from=searchresults",
-    "address": "Hell's Kitchen, New York",
-    "location": {
-      "lat": 0,
-      "lng": 0
-    },
-    "amenities": [
-      "WiFi",
-      "Air Conditioning",
-      "Free Breakfast"
-    ],
-    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=New+York+City%2C+USA&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
-    "scrapedAt": "2025-09-09T08:29:26.318Z",
-    "source": "Booking.com (ScraperAPI)"
-  },
-  {
-    "id": "hotel_1757406566318_4",
-    "name": "The Standard, High Line New York",
-    "price": 2,
-    "currency": "USD",
-    "rating": 7.9,
-    "stars": 8,
-    "reviewCount": 264,
-    "avgReview": "7.9/5",
-    "images": [
-      "https://cf.bstatic.com/xdata/images/hotel/square240/454790382.webp?k=bb3ddaa89d1b57c5bca30ca29f1d928ab4bbe5aa0fdde0d8c170a5962fba202e&o="
-    ],
-    "bookingUrl": "https://www.booking.com/hotel/us/the-standard-new-york.html?aid=304142&label=gen173nr-10CAQoggJCGXNlYXJjaF9uZXcgeW9yayBjaXR5LCB1c2FIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALhyv_FBsACAdICJDEzNThlYmNlLWJiYjEtNGNjYy1iODRhLWExNWNmYjNjYjRjYdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=d3493bb0ee5301c6&srepoch=1757406564&all_sr_blocks=17115521_375676013_2_0_0&highlighted_blocks=17115521_375676013_2_0_0&matching_block_id=17115521_375676013_2_0_0&sr_pri_blocks=17115521_375676013_2_0_0__256700&from=searchresults",
-    "address": "Greenwich Village, New York",
-    "location": {
-      "lat": 0,
-      "lng": 0
-    },
-    "amenities": [
-      "WiFi",
-      "Air Conditioning",
-      "Free Breakfast"
-    ],
-    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=New+York+City%2C+USA&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
-    "scrapedAt": "2025-09-09T08:29:26.318Z",
-    "source": "Booking.com (ScraperAPI)"
-  },
-  {
-    "id": "hotel_1757406566318_5",
-    "name": "Shoreham Hotel",
-    "price": 1,
-    "currency": "USD",
-    "rating": 7.3,
-    "stars": 7,
-    "reviewCount": 197,
-    "avgReview": "7.3/5",
-    "images": [
-      "https://cf.bstatic.com/xdata/images/hotel/square240/46393850.webp?k=f858132ab55757b144c44a40c63eab5c3972bd96edbbc89d3e38fb93d631484b&o="
-    ],
-    "bookingUrl": "https://www.booking.com/hotel/us/shoreham.html?aid=304142&label=gen173nr-10CAQoggJCGXNlYXJjaF9uZXcgeW9yayBjaXR5LCB1c2FIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALhyv_FBsACAdICJDEzNThlYmNlLWJiYjEtNGNjYy1iODRhLWExNWNmYjNjYjRjYdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=d3493bb0ee5301c6&srepoch=1757406564&all_sr_blocks=5586129_91458470_2_0_0_684005&highlighted_blocks=5586129_91458470_2_0_0_684005&matching_block_id=5586129_91458470_2_0_0_684005&sr_pri_blocks=5586129_91458470_2_0_0_684005_131341&nad_id=7f14f950-0025-44c6-a247-3e9912d19fbc_59&nad_cpc=0.75&nad_track=eyJhdWN0aW9uRXBvY2giOjE3NTc0MDY1NjE5MjgsInJhbmsiOjMsImtvZGRpVHJhY2tpbmdJbmZvIjoiSnR3ME9iMkQ3NDN6dWV6SVI0bUdNa2VKaENYMWtjcFo3cGxSam9wb3BYNjdLeUpxb0dOb1R2dkZBQ0djZ1pnYkZLNUJ5SUR0NzZSbFF3VVFxZVR4UlBySmVrYkx6eGFieHFQOGhEUml5ZWhsQXBzaUYxV2hEY1ZvNEVFcC9obEdTSms4a3FUU2RPNTBKcjJJcnBVdHZLK2hHa2h4SWNDbDhIZ0VLVi9xaGl1aWF6TW5JdWg5K09QQWR6RzdCL3JGbldsNHNPS0Q4SkxISFMyeFZ6K0NUaVdDTEJzdlM0VkNzdVhiMlFPbU1uL1dCWTdqQ0pEemh0WmNzSzl2THFZcDhXV2JNS0l3QytkbDNiZmx0LzUwQTNWL09tczV0OVAxTjJFb01IRmJLN2hBYzZjb2UzbHF6aEFrNWo1WjAzMWd0dXl3UVZuNFF2NlJ2RTVyUlA4R05tMEhvWDVOZmZSR1pjb2hYaG8rd2FhUnUwNjJGb1FoZWdWaFVwbWFDS2R1eURuMXRodnVSUzg5Ukc5amFYbW5zbGsrTlFvZkJ6Q01vczdIWk5JSCtQUnJUb1NaL3gzeENaVXp6cHBBMWNPTnlWV2Y5TkxWbDJ0c3lkQVdGZlZqQ1ZtL3JUK3hlWnNkMkpnQVZyMEdrRTUreXZZTGFDOFYzWGJ1a1FGNVllakNlU2YxSWxWL05QQkpmaVY1L1orLzdZTzhSZm5jWWh4azZINDNNUG04dzRrbDQvYVlTQ0ZTWnJ2NzVlaENjUE41RTNKdWtRWVg0eis2S2FFTFRhdEcvTm16cFNYRVNmcis1T0ZvSnk4R0ptY25pMkl3T1FNNVR5dXkveXFiQUtvS0xPcHdOVkNHb0NneFkzZXNDT05nUzdUQjhONEd6VWJtMk1hK3V5MTdZRzk4Zzh5cWFiLzZVK1ZWTjA3ellYSi9mZ24xS3F2UUdrZENISjN2cWZlbE55NjRibFJyOERJNWpJZTZWMEROTUp4WGZvREFjUkNMYU1pKy9vZmthRG5vSENFVy8vc3VUYUg5RG1QRVpxcEs4bTRWUlUzMXdyeTlJaC9WNklKV0Vta0pjdjgvOUJMa0crZVJJczRvQkwvOURCbHNzWHRqREk0NEh5VjNmaWNmdTNkUERqcmxadk41eStpSEQvMUlFMnFZV3R5OUVzZmJKRXhYajY2T09janNxMC93NDUzUFBUbVl2NG1qTjhrRHZPTzhlS0ZIVnpOMkFtYXpKODM5bDJBQk9HbWxnNTVTWUg3SmlOQStoVFVDcWkvaTk0UnRwR082K2piTEs2eis0OEVsbUtvWTQ4eS9pc056ZjNWQW1la29GaFZtd1I3MWdCM1JGTCszQ0dRSmt1QTdrVWFhL3ZIZmFyQW0xNURwaGhYYWNBbE9LZWtsNTZ4TUNRcmd3Sm9wckgvc2JXRWhScHdwQ1hkQWdEOXZ6Q1R2c0ZSQjhLMTlpNDZTVzFha01XWE1wWm1TL3p2Q1JFdm9keGNXTEZYb2l3QVdreE9wSGRWakF5SGYzMVJBbEl6NzBlSyt1NURTVWNCa2xnTzIrVllmQ0ZORFljdUpYT2x3dC9nTEg4YTVKRU13RU10M1dVd254bGRzTERRS1owSUQ0NUtPRDdOd0VxWEJEeEJ5bElzWTZFeFJNN21idlFPL2h2U0U3RmMxdDAwaWxITWtRTkY5eVFrZ1NZd01GMGVzbEQvdy9kbjl3UWhEWDNJeDloY0cyMUlYMWp3TCtmMFc0bzlFaUFSMncxT0ZvVWZDelk1YlZ0OE5TcEo0NFY2Q3dGU2wvVTVvSXFJbFhLK2Rxc2JHbXFpN3RHQXRhdFoydUZlRGRtb0xkZGcyRVBXcGtqTXZlZzRQQkU5MUR4MkwwckExRDZCTE9LY2hhNmJaajRRVkVyTU00QkhPWVU5QXhNYzBXa1ZxeDliZWtNL3BxOTg5MmY0TXl1UDZRUGIva2w1bGRTR2d0Y1VRNTJqZDZ0MHlxOWVSQy9XQWFzOVVXY1FJdEE0N2hPYTAwakI2bnl2d1gxMnUwNHB4Q1ZFSHJONDhpL1Nwb0hNenlMRXJ0OUs1cHp1ZEFHaWtFQ211dVZJaXcwSUpSb2xVY1dkYWp2L1RCUkkwT2dkNkZsR1JjUndBMFZSSElOVHpmVmgxMVh2b2hWa0FFcEplZFdjU1FsemgvK0lpZGFFQ1RSa2x2RHV0RU5MVktqVEVSR2JCRXRyYm12VldPQnA0UkxRRUllMVpITHNtS21xZlpob0RxQjMzZlVqMXVERk1taFBEdjR1MCtReEZtcWxjUisxVEwvQldpeEdScjEvNUhCd2M1Rm1qNVJNUm1zU1JVbzRzZ0VDZ0FLMlE4NFl4QXlDejZJd0FDZldhRFhMQ2VQYmQycGZhb1owcTVpck1VMTJacmJVVEw2cTZMdXpzRFBTemdCcnhURW5FZWlvOXl2Y2ZiVnBzV3B4UzVEb3lMbmhwaTlTa0J4bEhkQkc0U25JS29HQVdRZzJhaWdjQTV0aGpmZHV3cThidWFqanEzdHFadnFYNFVZLzIzaEV1NDh6ejU3WVNtc0NYRkdhZ0NPMjhzblN5djFrdlVweDhtK3hSTFYyQ1pDSmN6ZGxOSTR5MURIQTY4cHJNRGhuRlc1RFVYMUtQUjVHRDdRNFNBUkI5ZmJFYU1ya2xQb0ZnV3BQVFZVZEJRZVEwNmp3RHZDa1lnY0NZRDFaTHZqejBsWUJSbHQzWTVjZ0hIMGk1QUQrWjNaUXFJWm5YZUNYZysyMVVZdEhtdnc1ZlpvSDg2KzlzWFgwa3VQU3l0cUU2VEdIQVlnSWhwMzFvOEFFS2RFSVROVGl1NHhneHVmTXlyZ3F0RmtjNkZrd25WVk5Ca1hJT09GQ0x4U0hBZSt5TVlweDZZUHZtTTBmNjg2cVA4Q1dhLzVzalk3RDJLL29HeE9TU2UxMnNvd1R6cEhhTEo1TklZWlFtaUswVk9VZnhwM3BxQUIrejU0REtpZXpVUk1mT3FyT3hUM1psRi8rSU0zVm9rRmQ3TFc2WlU4UTcrcWFabW4zdC8zbVNReXhlR1VxOE8ya1RhSEprSlFhZ0hhajl3UDM0aVl5ZDc3Rklac1I5b2V6ZlAwcmJoUk95eG5Pc3BmajMyV2pBajR6OVpjZVhwQzdpekx6MzJvMWhtSDQ3UythT2lQeSs0d2F6U1QvcDd2bG9jbnFsbGRHS2xLY0w0d0U1SXZ3dDhVbm9PcCtMbEovQ3BPZk00SUh1TE1HYVowY1hoS0h5OGNCdXQwVWd1UEhtTDd2WnBxa2RGTjJGZE1mdHNwN2JBT0RGR0RQR1pPQnZSRm5PWTJWVlk1UG8wM1pqS2FySFk2S0VKTFppTDl4bWZ6WlZLcUM5cUZMSXVmRmErUlhQeCtzRzdGOTFsUXRCWXlwd0p5YllaUUxrNldFM1FQODE4ZWlmaGE4cCtpVzZML1Z5TlNONWxrSnVBYnd2c3FjT3J3Z1hCL2pkWFMrWndXTUVoZ0RFdnNBZUJkblMrem89In0%3D&from=searchresults",
-    "address": "New York Central Park, New York",
-    "location": {
-      "lat": 0,
-      "lng": 0
-    },
-    "amenities": [
-      "WiFi",
-      "Air Conditioning",
-      "Free Breakfast"
-    ],
-    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=New+York+City%2C+USA&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
-    "scrapedAt": "2025-09-09T08:29:26.318Z",
-    "source": "Booking.com (ScraperAPI)"
-  },
-  {
-    "id": "hotel_1757406566318_6",
-    "name": "The Manhattan at Times Square",
-    "price": 869,
-    "currency": "USD",
-    "rating": 5.5,
-    "stars": 6,
-    "reviewCount": 55,
-    "avgReview": "5.5/5",
-    "images": [
-      "https://cf.bstatic.com/xdata/images/hotel/square240/524489007.webp?k=32948ee311fe4b62147816987d95fd739527e7fe65780d5c927db23283d41ecf&o="
-    ],
-    "bookingUrl": "https://www.booking.com/hotel/us/the-manhattan-at-times-square.html?aid=304142&label=gen173nr-10CAQoggJCGXNlYXJjaF9uZXcgeW9yayBjaXR5LCB1c2FIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALhyv_FBsACAdICJDEzNThlYmNlLWJiYjEtNGNjYy1iODRhLWExNWNmYjNjYjRjYdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=d3493bb0ee5301c6&srepoch=1757406564&all_sr_blocks=43682717_410588543_2_2_0&highlighted_blocks=43682717_410588543_2_2_0&matching_block_id=43682717_410588543_2_2_0&sr_pri_blocks=43682717_410588543_2_2_0__86925&from_sustainable_property_sr=1&from=searchresults",
+    "bookingUrl": "https://www.booking.com/hotel/us/royalton.html?aid=304142&label=gen173nr-10CAQoggJCGXNlYXJjaF9uZXcgeW9yayBjaXR5LCB1c2FIM1gEaKEBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKrouDIBsACAdICJGUzYWFjM2NlLTg4YmYtNGI1NS05NTk5LTkyM2VjMTQ4NmJmMtgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=831e2755b9180062&srepoch=1763184943&all_sr_blocks=0_0_2_0_0&highlighted_blocks=0_0_2_0_0&matching_block_id=0_0_2_0_0&sr_pri_blocks=0_0_2_0_0__54373&from=searchresults",
     "address": "Manhattan, New York",
     "location": {
       "lat": 0,
@@ -184,24 +24,26 @@
       "Air Conditioning",
       "Free Breakfast"
     ],
-    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=New+York+City%2C+USA&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
-    "scrapedAt": "2025-09-09T08:29:26.318Z",
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=New+York+City%2C+USA&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-11-15T05:35:44.722Z",
     "source": "Booking.com (ScraperAPI)"
   },
   {
-    "id": "hotel_1757406566318_7",
-    "name": "Trump International New York",
-    "price": 2,
+    "id": "hotel_1763184944722_1",
+    "name": "TownePlace Suites by Marriott New York Manhattan/Chelsea",
+    "price": 714,
     "currency": "USD",
-    "rating": 8.8,
-    "stars": 9,
-    "reviewCount": 624,
-    "avgReview": "8.8/5",
+    "rating": 8.3,
+    "stars": 8,
+    "reviewCount": 961,
+    "avgReview": "8.3/5",
     "images": [
-      "https://cf.bstatic.com/xdata/images/hotel/square240/536021806.webp?k=51f8a40525baf0dc8adb6895d32e904ea0054596e0aba389275160a48ca43b36&o="
+      "https://cf.bstatic.com/xdata/images/hotel/square600/453296389.webp?k=d60876303d79cc006702ec6f3bcc950266ec052c0af7461dfe213543f05ac915&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/453296389.webp?k=d60876303d79cc006702ec6f3bcc950266ec052c0af7461dfe213543f05ac915&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/453296389.webp?k=d60876303d79cc006702ec6f3bcc950266ec052c0af7461dfe213543f05ac915&o="
     ],
-    "bookingUrl": "https://www.booking.com/hotel/us/trump-international-new-york.html?aid=304142&label=gen173nr-10CAQoggJCGXNlYXJjaF9uZXcgeW9yayBjaXR5LCB1c2FIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALhyv_FBsACAdICJDEzNThlYmNlLWJiYjEtNGNjYy1iODRhLWExNWNmYjNjYjRjYdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=d3493bb0ee5301c6&srepoch=1757406564&all_sr_blocks=29132401_91471366_2_0_0&highlighted_blocks=29132401_91471366_2_0_0&matching_block_id=29132401_91471366_2_0_0&sr_pri_blocks=29132401_91471366_2_0_0__284835&from=searchresults",
-    "address": "Upper West Side, New York",
+    "bookingUrl": "https://www.booking.com/hotel/us/towneplace-suites-by-marriott-new-york-manhattan-chelsea.html?aid=304142&label=gen173nr-10CAQoggJCGXNlYXJjaF9uZXcgeW9yayBjaXR5LCB1c2FIM1gEaKEBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKrouDIBsACAdICJGUzYWFjM2NlLTg4YmYtNGI1NS05NTk5LTkyM2VjMTQ4NmJmMtgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=831e2755b9180062&srepoch=1763184943&all_sr_blocks=707864402_295614434_0_1_0&highlighted_blocks=707864402_295614434_0_1_0&matching_block_id=707864402_295614434_0_1_0&sr_pri_blocks=707864402_295614434_0_1_0__71400&nad_id=d8353bce-19ad-4cbe-a33e-8b274e468bcf_3&nad_cpc=2.26&nad_track=eyJhdWN0aW9uRXBvY2giOjE3NjMxODQ5NDA2NjAsInJhbmsiOjEsImtvZGRpVHJhY2tpbmdJbmZvIjoiTHVya293N3FDU3hwUzh6VnZ6N1NHLzlUcCtsQlBld3dqUnBXT1lqY0N6ZW93cGRKN2hOMlVPcTM3UGVMV3RBaXlvT3JRUjlYbWVid1RScFVtZjc0aURtbUtlak1CNVlFWEhnRDJsNlN6VjZJbTVxcGVkbSt5L3N6L3I1elpvRzU4dlZQY0RpdGlTT0xpRUE5bTRWYjhhSG5Wc21TNFZzcmJKdnNzK1pTZmgwZFlGUUYvSnBxeEo2OC8ySHoxTDAycVIrQXROM1d4SkhBT1JOSWVZZWJPc0xXcUVna3NLbGU2QTc5WFRZUzR5dHhCME1NNUZSWlVSRDE5NU5PVnF1T3h6UkdSRWdIV0JtZ3orZTgrUjJiTDlLS3NMQVB5dDFLTWJDdVArWlI3MWxZa1BhandaV2FwQWc2WDI4NkU4SnhGSlJCRUk0eU5wYXpLdi9sVXBJVHZLeDZzM3h5SFZLTTZ6bkRVOEV3b0JkWnFTZ2JLNjk2Q2FkZC9tT2tFRGFkWjQxOUkyMHcrbUF6NE1GU0NNamVYaFhOQ0VCUldNQllOZ1QzWmJpS0l5eFRNMk5kbDd1MTJ1L1Qrb1ZudVhLdTdFYTBFbWdTb2tPb3p3OW5WMi9NS2ZUdTdMWTBpbmI0VzJKMTJKSElSejdyQ204ZVdVekFBRXlhcE93bW52aHNsejdFQ1dXc1hRQjl1bVBjakxob0FTNG0ybUkzb1EzcXY5T0p3dmk3NjR5aUlWeFhmTGdqS2VMWnJzYzcvcnhNbEMxTTdFYjRwVFE3SzduVWY4Tjc3YXBRUWZySnJDbW9scG1OWnZPV0ZLZDJTT0VCcENCWW5KUzRyc214Z2hka0xIVVFNSHM3R1FZYnJraXZFdTA5K1JjWFFjZlRmV2huTTlOV1dBeStjc0ZIR29uM3VKOVcyUEtPU2lvSnZrUDY5cFU5OGFWNjNjM1B4UGkzMjI3UWhpLy9xdURCaHc0RlNQY2RCRXgxWS9yd2RHRnoydWRiSldWTGpZaUVWaTJFMDNIenp0a21Qc2RwM09YQkdLMm9FSHBlYXdQVEU4KzM3WnoydlVMWUxUelJKNWlrWFVJcE8wUmVERHB2OWlOaHFFSUJDVDBLYUVya3Z2NExrOE4vME9IRmlSd0RBTVdCM1B2LzdWWG1SQno1Vmh4c1BkRDAxTnRIUjFHNjJKeWhkUHltQXFJamYwcTRFMkc2bjA5VGNPNFJ2Zm1yb0RjVXZ4U2l3VUkxMEVYT2VUb05zcHBqcGxQdnRWUWM3Qk0xRGZNSG9DNUwrdjBUaDJqY0tLQS95S3VCT2hPNHEraDZkZUtqMzdyaWN6azRWV1V1d0ZqV2M3UDYvUTd4Rm95RWE2dk5DQ243NFYvVC9CSmdxeGFUeGpEWE0wamFmYnBFQmZBTTNkUFpFNXgydVY5YlFqNlhsOXNQVmpBaXUyTU9vbVNjN2dLYUhtNkpKTWJ3TWY1UkFVVE1Qcm9RTnpiYzR0M3JsUUlOMW5weDJwSTFPNy9XdHljZWhRYkNJeC9hS2I4Ym83aXhmUWtlK1J2VmlPNXFxaHBENWpNVHB5UGFwT2hVaTdpMmE0bmRnS2hIeUxYYmcvaUVEZ2crdEF0OU10UkFyR3plalgrdlN0WmNmMW5LTEI2S1hnWTFKZnhDWFAwcDZPakhBUGVORGluNXkvYm56Szh6QVU3ZWc5d3IrU3lPUktsRHArVUlRN2hXdFBqNzQ4ZFNzeC9FdXI5aElKOUU2YllBSUJaSWMzTGk5cU9XY1NzYVBZR2RFb0hPWElMWVNnTkx2ZFF1ZW92dnpzajVhMkw3RzA4OVNXR2p3dFZ3V3lnM3dTcDFYSjFLbXlzZ1FJWUVJdEh4NXduamlCMW5qSVlIRUNnQ2hZMjRYTzhRc1BNZ3BoeTEyd1JyOFE0UHhlSXVvK3RpUkd2aDVjaHVFUjVIeldoUWJNd2Y1OGltclppbXY5bXZIYVUxMXlJTXNvWEN4eEhkemsyckN6aHJPUFk4S3FaRjdYUUVQdVBHN1hheDlzNjkxSVFFc3lJPSJ9&nad_placement=SR_MAIN&from=searchresults",
+    "address": "Chelsea, New York",
     "location": {
       "lat": 0,
       "lng": 0
@@ -211,23 +53,83 @@
       "Air Conditioning",
       "Free Breakfast"
     ],
-    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=New+York+City%2C+USA&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
-    "scrapedAt": "2025-09-09T08:29:26.318Z",
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=New+York+City%2C+USA&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-11-15T05:35:44.722Z",
     "source": "Booking.com (ScraperAPI)"
   },
   {
-    "id": "hotel_1757406566318_8",
-    "name": "Romer Hell's Kitchen",
-    "price": 1,
+    "id": "hotel_1763184944723_2",
+    "name": "Hyatt Place New York/Midtown-South",
+    "price": 630,
     "currency": "USD",
-    "rating": 8.6,
-    "stars": 9,
-    "reviewCount": 850,
-    "avgReview": "8.6/5",
+    "rating": 8.2,
+    "stars": 8,
+    "reviewCount": 664,
+    "avgReview": "8.2/5",
     "images": [
-      "https://cf.bstatic.com/xdata/images/hotel/square240/492030917.webp?k=17a535e60b478aa3e86e8ca033509f7cc6262352106ecba454df2fa67c5ac36e&o="
+      "https://cf.bstatic.com/xdata/images/hotel/square600/492008361.webp?k=8ca40b9d55a84aa69cb1d68e0577023106b80d544f1dfd55a98366b8150c2e6d&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/492008361.webp?k=8ca40b9d55a84aa69cb1d68e0577023106b80d544f1dfd55a98366b8150c2e6d&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/492008361.webp?k=8ca40b9d55a84aa69cb1d68e0577023106b80d544f1dfd55a98366b8150c2e6d&o="
     ],
-    "bookingUrl": "https://www.booking.com/hotel/us/romer-hell-39-s-kitchen.html?aid=304142&label=gen173nr-10CAQoggJCGXNlYXJjaF9uZXcgeW9yayBjaXR5LCB1c2FIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALhyv_FBsACAdICJDEzNThlYmNlLWJiYjEtNGNjYy1iODRhLWExNWNmYjNjYjRjYdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=d3493bb0ee5301c6&srepoch=1757406564&all_sr_blocks=1002769926_388445017_2_2_0&highlighted_blocks=1002769926_388445017_2_2_0&matching_block_id=1002769926_388445017_2_2_0&sr_pri_blocks=1002769926_388445017_2_2_0__162700&from_sustainable_property_sr=1&from=searchresults",
+    "bookingUrl": "https://www.booking.com/hotel/us/hyatt-place-new-york.html?aid=304142&label=gen173nr-10CAQoggJCGXNlYXJjaF9uZXcgeW9yayBjaXR5LCB1c2FIM1gEaKEBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKrouDIBsACAdICJGUzYWFjM2NlLTg4YmYtNGI1NS05NTk5LTkyM2VjMTQ4NmJmMtgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=831e2755b9180062&srepoch=1763184943&all_sr_blocks=46694108_380648666_2_1_0&highlighted_blocks=46694108_380648666_2_1_0&matching_block_id=46694108_380648666_2_1_0&sr_pri_blocks=46694108_380648666_2_1_0__63000&from=searchresults",
+    "address": "Manhattan, New York",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=New+York+City%2C+USA&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-11-15T05:35:44.723Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763184944723_3",
+    "name": "Hotel Indigo NYC Financial District by IHG",
+    "price": 568,
+    "currency": "USD",
+    "rating": 8.9,
+    "stars": 9,
+    "reviewCount": 132,
+    "avgReview": "8.9/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/441038178.webp?k=a719c79be9adbf8a5a21df34550cfe3d4c8bede6b79dd829c1253c596316ea4f&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/441038178.webp?k=a719c79be9adbf8a5a21df34550cfe3d4c8bede6b79dd829c1253c596316ea4f&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/441038178.webp?k=a719c79be9adbf8a5a21df34550cfe3d4c8bede6b79dd829c1253c596316ea4f&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/us/indigo-world-trade-center-nyc-an-ihg.html?aid=304142&label=gen173nr-10CAQoggJCGXNlYXJjaF9uZXcgeW9yayBjaXR5LCB1c2FIM1gEaKEBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKrouDIBsACAdICJGUzYWFjM2NlLTg4YmYtNGI1NS05NTk5LTkyM2VjMTQ4NmJmMtgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=831e2755b9180062&srepoch=1763184943&all_sr_blocks=845393409_351507578_2_0_0&highlighted_blocks=845393409_351507578_2_0_0&matching_block_id=845393409_351507578_2_0_0&sr_pri_blocks=845393409_351507578_2_0_0__56810&nad_id=d8353bce-19ad-4cbe-a33e-8b274e468bcf_7&nad_cpc=2.06&nad_track=eyJhdWN0aW9uRXBvY2giOjE3NjMxODQ5NDA2NjEsInJhbmsiOjIsImtvZGRpVHJhY2tpbmdJbmZvIjoiTHVya293N3FDU3hwUzh6VnZ6N1NHLzl0cDVsQlBad3d0UnBYS1lqeUFoY24vbUNRZ3A4d2IwSzhIK3hRVXp3M0lEKzFjYUh4dlRVUzE0RkREbXJxanNtQkFNM00xRVRCbjZyU0E5Qi9nU2xuZHJKQm9KcFp2TjBOQkdmeUY4RHc4R25nclJ0Y05ZWEpIRCs3T1pCVXk5YXZYTmFiYk5SWWMvbEtDcUxTMFJYYnJ5SjFlUE5lSVJJZWI3NDdZNWg2emk3V2xnRnl1ajZ4Vld3KzVJUWJHOExlcUFnMnV2YU8wUm5UcUVkdjRkQnZCTjlXQzBadytPZFg5R29PQlBOOGNOTE01L3JJZi9YVzJCeFVYeHdZcXdTd0J1eU5CdHd0dnZobjhtZmU2M1JRVy9GYVRpclNuc0FwZXFSS1VzVXJQQXpGYjI4bTRzS24rczJKaDFaQmVrRFcwRmVLZVFXQm4vOFRadytQcUVPZUNrQkpDV1I4YldWL2p1S2FqMHl4N2swdjhxZmtjQzlJVVVGQkFOZVBDT1dNeFhHWmxOTFFRbWx0MjRrd3YrYmpSVkErbm9tc2NkbkR2azJkMG1Jd0JBS0ZCcmFiZHJHeU5BT0MyaGFldTVEMTJnRUJtenl1N0g3YTdyTTlvL1RySEpoNDBsUUFJc2JhcjNtT2F1UThJZXZDT21MdUVURkxJWkluQk8xMlZlbzVVcnJQUmxLVGxJeEhaekxtZWFvYmpac3Y0T28zYklwcXc4V2IzUHRLa25SbEJzNkE2NmNRNWEvRGFwVm1oSFFVQXVkTUx1c3E3OVI1UFpXRXhuQmNqK2o2Y2c2ZkNxUGJyVmZpNGl1eGpuSXNSZXdyNVlxb210Q1dLazBxRXhKNnErT0pVNXFzK0pqUUVNZ1NLWUVEejRwc2pwTlViL01uMnlvaXdGVkRXY0RBcnhEUW9aYldJWjF5M21mZ01FUzd5UEUwK29SMlQzNmZLeEFxUDdRK1d2aHkzV2ROK0hjT0xBRFZrV0loM0REVmtmRFk5Q2srcjZ3UXJaRWdSc3VWVmxLS2FEUlhYYzluZW1kVEZVMmNCclZra0hFbHlKOTA5OGl2QmZxbkFQQkprU2twMEZTVU5CR0szZHVUUXhmK0dZaVh1bHp1NlcrRWxDM25SUGtGQmZzM2t3Z2tGWHB4amFHSzIxZ1ZONFZSWW9Ebm55bWJ2UU9DQkV6azV2NHdyaXBoQ0RJVHRoZnhOK2lsenJCWjdMUVljVFl4WHd2NjZGS2EySWkrTXpJQ043V1VvbHRFcVpYWXI5bXE1Rm9FUW04UGd3WE1hNkdZS0FmR1FTYXU0Nnd2U2dMNm9OQlArTThQSUVnQ09rcFFvQjB5WUZiSjdsb2tOaG9pdHJhWUgzemx1NUl0MCtVOVBZeWRCQ2lyU25qQ1owakxWNnQ5aHZPVUNtVmI5NjY2UmtKYVRyMDlKQlI0T3l0Sk5iYkR6MVhCRnYwOTRsUDJvMXNnL3h6UlordWw0aFppODZHT2QyYkloOXZkMUx5MnM0QU9jMTJTdVUycmhaU2tDOWZWbW1rNXQzR1MvdlZ2aEpoVUVIK1JFcVhKQ1RXc1pkUWdWdkFsUGpoM3hBUDVXKzF2M0RvY3JFVWw1V3VuQXN1cFlsVUZOcTZEQWpqVDBTRWJDckF1ZUsvQ2xiUXJ4Z0xURmQyUWF1dXZ1R0FPUVVudk9HWG1JNkpkK0dLdzZidG0xSy8yYlg3b2xuUkx5SlBkUDkrcGZwc3dNNDBDeFpyTDhDQUZodVhHTFZJcUtqcjVtVEhLd0pPYWlUUlpIb0hMNHBWb0wyRnZMUWhWMEREK0x0R0tKOThROUFRZ09sQnJkUDE1VmhFZ0xRaWZQVjlESDlGR3ZyWExCRFFXelBrU1U2cGJOQ2tka2xkd2orS3hLR04ycGp0SUZjTzV3OUUzdGcvMGFlUHkzWlpCckJUdEp5ZUFXaE1IV0ZHdWVNM25QQktmVk1MeUV5YkNyeXRyQktyQUlqWDVDL2dsTjVIV054OUdrOUptIn0%3D&nad_placement=SR_MAIN&from=searchresults",
+    "address": "Manhattan, New York",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=New+York+City%2C+USA&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-11-15T05:35:44.723Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763184944723_4",
+    "name": "Hilton Garden Inn New York Times Square South",
+    "price": 562,
+    "currency": "USD",
+    "rating": 8.2,
+    "stars": 8,
+    "reviewCount": 399,
+    "avgReview": "8.2/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/485847819.webp?k=114a321b4dfa6a3264a27edc76bdea56c0f682efc21b1d460d86cd53e8f09e63&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/485847819.webp?k=114a321b4dfa6a3264a27edc76bdea56c0f682efc21b1d460d86cd53e8f09e63&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/485847819.webp?k=114a321b4dfa6a3264a27edc76bdea56c0f682efc21b1d460d86cd53e8f09e63&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/us/hilton-garden-inn-west-37th-times-square-south.html?aid=304142&label=gen173nr-10CAQoggJCGXNlYXJjaF9uZXcgeW9yayBjaXR5LCB1c2FIM1gEaKEBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKrouDIBsACAdICJGUzYWFjM2NlLTg4YmYtNGI1NS05NTk5LTkyM2VjMTQ4NmJmMtgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=831e2755b9180062&srepoch=1763184943&all_sr_blocks=221010404_98029812_2_2_0_985835&highlighted_blocks=221010404_98029812_2_2_0_985835&matching_block_id=221010404_98029812_2_2_0_985835&sr_pri_blocks=221010404_98029812_2_2_0_985835_56170&from=searchresults",
     "address": "Hell's Kitchen, New York",
     "location": {
       "lat": 0,
@@ -238,23 +140,54 @@
       "Air Conditioning",
       "Free Breakfast"
     ],
-    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=New+York+City%2C+USA&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
-    "scrapedAt": "2025-09-09T08:29:26.318Z",
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=New+York+City%2C+USA&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-11-15T05:35:44.723Z",
     "source": "Booking.com (ScraperAPI)"
   },
   {
-    "id": "hotel_1757406566318_9",
-    "name": "Millennium Hilton New York One UN Plaza",
-    "price": 1,
+    "id": "hotel_1763184944724_5",
+    "name": "Le Meridien New York, Central Park",
+    "price": 1085,
     "currency": "USD",
-    "rating": 7.5,
-    "stars": 8,
-    "reviewCount": 256,
-    "avgReview": "7.5/5",
+    "rating": 7,
+    "stars": 7,
+    "reviewCount": 982,
+    "avgReview": "7.0/5",
     "images": [
-      "https://cf.bstatic.com/xdata/images/hotel/square240/484393842.webp?k=bab576597798def3d48b40a3c24fa085d4158069625e9c380fa5770f55d818ce&o="
+      "https://cf.bstatic.com/xdata/images/hotel/square600/746214018.webp?k=ffc35e788a7e5618013ffd13b3a5f1708d10ecea2025e9a79ed73fa5ded8de5e&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/746214018.webp?k=ffc35e788a7e5618013ffd13b3a5f1708d10ecea2025e9a79ed73fa5ded8de5e&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/746214018.webp?k=ffc35e788a7e5618013ffd13b3a5f1708d10ecea2025e9a79ed73fa5ded8de5e&o="
     ],
-    "bookingUrl": "https://www.booking.com/hotel/us/millenium-un-plaza-new-york.html?aid=304142&label=gen173nr-10CAQoggJCGXNlYXJjaF9uZXcgeW9yayBjaXR5LCB1c2FIM1gEaOQBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuALhyv_FBsACAdICJDEzNThlYmNlLWJiYjEtNGNjYy1iODRhLWExNWNmYjNjYjRjYdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=d3493bb0ee5301c6&srepoch=1757406564&all_sr_blocks=5634350_91458719_2_2_0&highlighted_blocks=5634350_91458719_2_2_0&matching_block_id=5634350_91458719_2_2_0&sr_pri_blocks=5634350_91458719_2_2_0__145163&from_sustainable_property_sr=1&from=searchresults",
+    "bookingUrl": "https://www.booking.com/hotel/us/new-york-central-park-le-meridien.html?aid=304142&label=gen173nr-10CAQoggJCGXNlYXJjaF9uZXcgeW9yayBjaXR5LCB1c2FIM1gEaKEBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKrouDIBsACAdICJGUzYWFjM2NlLTg4YmYtNGI1NS05NTk5LTkyM2VjMTQ4NmJmMtgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=831e2755b9180062&srepoch=1763184943&all_sr_blocks=60689022_100294847_0_42_0&highlighted_blocks=60689022_100294847_0_42_0&matching_block_id=60689022_100294847_0_42_0&sr_pri_blocks=60689022_100294847_0_42_0__108545&nad_id=d8353bce-19ad-4cbe-a33e-8b274e468bcf_2&nad_cpc=2.31&nad_track=eyJhdWN0aW9uRXBvY2giOjE3NjMxODQ5NDA2NjIsInJhbmsiOjMsImtvZGRpVHJhY2tpbmdJbmZvIjoiTHVya293N3FDU3hwUzh6VnZ6N1NHLzlzcDdsQlBUd3cxUnBXQ1lqeUdSZkhKZWdCODE4c2pwVTJEWFRLQ2RESHRqaDBkSGRYQmQreklPakRlRnhWSFEweDYxSFRCSllCWEhvRDc2VFVuanFpSnF2dlhySFJidFNxaEhhdCtmNFUwSHB0eGZYTGZtai9aaEYxTnR5OVFaeCtNd0syMTROL3cweUs5VVlvLzV1YnQ4dHM0WERsRzJuUXIxSTY1UnZ2cVdkbFhNcmdlRkUzb0RieUtvMkRKdS9tYTZ6ZVF4dTdtZXN5T0VUQXptV3h3Zm9wSE56cFNydkIxWHYrY1k4amlTQ1Q3bllVY1YxQkVKbmNZMVdZaGhaemhtZkRSajNWdFhkcUhvdE1qWlF1NXVrOTFVVG40ejk0VzFkM2xsSHowMFdVZWVSQVJFUXhXRjJDSjRpVFptWU84SUo4WEhwWjZMMmVCRHhHN2ZwaS94QVNkWStRR2JJVHpSbTFpMVNIRU9lMzlNcXJkZ2dYUVBJZTdmMjVpN1BBdGh0QUQyRTg0RDV3b2FZZVpwdm5mVXhBbFpEVGRtUm1aY0RtU1RWQkVyTmRTMkJtbVdBWXBjTGovTyt0QW5UaGtDTC8xcnB1ZStlMC9IbndnK3ZVQjVHYlVZY3dPcjJkQVoxV20rbExaWFp2cko1R1llYUNnOGwxc0dLb2ducmFkcFZ0VTI3SDBJTnZnWWpORWpTTmdYS2hkZ2hiVHVsTjlnY1I4cW9FYWJ6d2xoY1FPcTZnREJkWmFmbGRMaE50Z3BVUUEzdURjdkR1bmFINTVtSGg5MFBsTkdKY0htM3dnT0Q1RGEycXFpV0hxUjViNmMwWFU0bkJZV2xvY3VxaG9zb2ExK1BPOUE4RktaaFhKUmZhbEZJaFVZY2JOVVluUXZWUkY5WTdoTkljVHBlVUhaYldDYnVOMkI2M0N6ZER4UXRPVERTUUtGdHZHaXIzbGU1RHBHOXR0RHdVVGkzWVBOT2lhYTY1VDgrMEFWQ054Z0llcjdWcXlkTHNyZVIxU3c1a2NDS1pRb2lpMkFKZ0VOSjJBRWVRR2RKeWo5S0NBdXV5S0VmbEdyMVFJekFZVjRjT1BSMHdjL2FoMXZzVFZHVi9rZWRqUzJYaW5ZdFdQdTFRYlRyYVcxZ0E1YkJIcHlPZTdZbzU1ekNpb0pxekYyL3hORExyTTVPWDhTdVhERXY3WjZNd21xT2RkK1Y4N0tXZjhyRXN0NUwzMGRqTE1iYXpVZ0Q3VG5zVUJYR2lWYXZ5d2EyUHJld3RZS2s2N0txMUllTDl2RGkvaFRIWjZ4eXp1MmQvYnBKL1p5VFF6dGdnblJaTW15S1RvRkhhS3ZGZVozUXVpU0xzbWtSVmUwQ01rZHdRTklWdGVaWXdta3VWRmd2T3VKNFVJcktuMHJEOEV2eS9UZXBuWlJMSDFYNUY0TGxsQ2JrWjEwbjk4T1VjczR2MExhdjVabCtldUtvNEJYQ1Izd3Vha1EyOUlLVUEydmU2dzRDT2R0R21nWG03MjR2SkdnMVJhRDVIbzkwVzhYZTYrWTlwZEM4NTVoaHVHWG1kR1RmU2c3MndxMEtNQ1Q1UmVObUdDSFRSamZRcHAvemxnRm9WSlZrODBBcVp4c1UySzhadDI1bStoeFZYNmI3VjBQOGQxdzdyeTdvQkU2WXlqa09LTGI3NFpHeXdRaXlGc2NPM0VqS0NrYW1qa2lFcStaRURVQUpoMXIxc1diZGFLRHZIZlBYR1FjR0p3R2F1YXB6RGFta1RnOTNid1BFck9hc3ZPUllibStjQ3FjNkc0UkR6NDR0MzByQmg2UXQ1L1NRSG1BWlJqVk5HenU3d0Q3WGhNd1JTcmgwaTMxUWxkMnFnMGIrVDBsOW9IUGJCcHhwSmNrVVlMaUFITHNncGgrRnJLdmFkOHJSdVhnTThZb1d3SHY3OFIvU0N4blpoeDlUejNwaHpoV2pnbFVPd0VOa2hEWUlSUXV2VlZxcXJPNDhkaHBYUUp6ND0ifQ%3D%3D&nad_placement=SR_MAIN&from=searchresults",
+    "address": "Manhattan, New York",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=New+York+City%2C+USA&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-11-15T05:35:44.724Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763184944724_6",
+    "name": "Hotel 57",
+    "price": 537,
+    "currency": "USD",
+    "rating": 7.2,
+    "stars": 7,
+    "reviewCount": 608,
+    "avgReview": "7.2/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/693412806.webp?k=284c13f0e37269c98a7d9b04dbae30ff0c60d40a3477ce1c1d2d14df2f3ef9a7&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/693412806.webp?k=284c13f0e37269c98a7d9b04dbae30ff0c60d40a3477ce1c1d2d14df2f3ef9a7&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/693412806.webp?k=284c13f0e37269c98a7d9b04dbae30ff0c60d40a3477ce1c1d2d14df2f3ef9a7&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/us/57-new-york.html?aid=304142&label=gen173nr-10CAQoggJCGXNlYXJjaF9uZXcgeW9yayBjaXR5LCB1c2FIM1gEaKEBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKrouDIBsACAdICJGUzYWFjM2NlLTg4YmYtNGI1NS05NTk5LTkyM2VjMTQ4NmJmMtgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=831e2755b9180062&srepoch=1763184943&all_sr_blocks=598860713_412800687_2_0_0_704540&highlighted_blocks=598860713_412800687_2_0_0_704540&matching_block_id=598860713_412800687_2_0_0_704540&sr_pri_blocks=598860713_412800687_2_0_0_704540_53661&from=searchresults",
     "address": "Midtown East, New York",
     "location": {
       "lat": 0,
@@ -265,8 +198,95 @@
       "Air Conditioning",
       "Free Breakfast"
     ],
-    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=New+York+City%2C+USA&checkin=2025-09-16&checkout=2025-09-19&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
-    "scrapedAt": "2025-09-09T08:29:26.318Z",
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=New+York+City%2C+USA&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-11-15T05:35:44.724Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763184944725_7",
+    "name": "Park Central",
+    "price": 647,
+    "currency": "USD",
+    "rating": 7.4,
+    "stars": 7,
+    "reviewCount": 601,
+    "avgReview": "7.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/155665833.webp?k=ec59c673775fb103bed3839744cf6888458c0ba60c1680648d00a1988fd78f55&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/155665833.webp?k=ec59c673775fb103bed3839744cf6888458c0ba60c1680648d00a1988fd78f55&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/155665833.webp?k=ec59c673775fb103bed3839744cf6888458c0ba60c1680648d00a1988fd78f55&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/us/park-central.html?aid=304142&label=gen173nr-10CAQoggJCGXNlYXJjaF9uZXcgeW9yayBjaXR5LCB1c2FIM1gEaKEBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKrouDIBsACAdICJGUzYWFjM2NlLTg4YmYtNGI1NS05NTk5LTkyM2VjMTQ4NmJmMtgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=831e2755b9180062&srepoch=1763184943&all_sr_blocks=5698530_118557083_2_0_0_660600&highlighted_blocks=5698530_118557083_2_0_0_660600&matching_block_id=5698530_118557083_2_0_0_660600&sr_pri_blocks=5698530_118557083_2_0_0_660600_64724&from=searchresults",
+    "address": "New York Central Park, New York",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=New+York+City%2C+USA&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-11-15T05:35:44.725Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763184944725_8",
+    "name": "DoubleTree by Hilton New York Downtown",
+    "price": 526,
+    "currency": "USD",
+    "rating": 7.6,
+    "stars": 8,
+    "reviewCount": 604,
+    "avgReview": "7.6/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/484867081.webp?k=2e19dd7b8e6bf6e3593fe9c2a0c8af9a2a564bc6b46f9e5ba5631c5bbd4cd48e&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/484867081.webp?k=2e19dd7b8e6bf6e3593fe9c2a0c8af9a2a564bc6b46f9e5ba5631c5bbd4cd48e&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/484867081.webp?k=2e19dd7b8e6bf6e3593fe9c2a0c8af9a2a564bc6b46f9e5ba5631c5bbd4cd48e&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/us/doubletree-new-york-city-financial-district.html?aid=304142&label=gen173nr-10CAQoggJCGXNlYXJjaF9uZXcgeW9yayBjaXR5LCB1c2FIM1gEaKEBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKrouDIBsACAdICJGUzYWFjM2NlLTg4YmYtNGI1NS05NTk5LTkyM2VjMTQ4NmJmMtgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=831e2755b9180062&srepoch=1763184943&all_sr_blocks=26682201_114385511_2_42_0&highlighted_blocks=26682201_114385511_2_42_0&matching_block_id=26682201_114385511_2_42_0&sr_pri_blocks=26682201_114385511_2_42_0__52595&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Manhattan, New York",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=New+York+City%2C+USA&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-11-15T05:35:44.725Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763184944726_9",
+    "name": "M Social Hotel Times Square New York",
+    "price": 780,
+    "currency": "USD",
+    "rating": 8.4,
+    "stars": 8,
+    "reviewCount": 846,
+    "avgReview": "8.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/321266616.webp?k=8626fd051dd0f69987b2f01adb11ed61d1cae72e4ac12c06acd178b2726f83e7&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/321266616.webp?k=8626fd051dd0f69987b2f01adb11ed61d1cae72e4ac12c06acd178b2726f83e7&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/321266616.webp?k=8626fd051dd0f69987b2f01adb11ed61d1cae72e4ac12c06acd178b2726f83e7&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/us/new-york-times-square.html?aid=304142&label=gen173nr-10CAQoggJCGXNlYXJjaF9uZXcgeW9yayBjaXR5LCB1c2FIM1gEaKEBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKrouDIBsACAdICJGUzYWFjM2NlLTg4YmYtNGI1NS05NTk5LTkyM2VjMTQ4NmJmMtgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=831e2755b9180062&srepoch=1763184943&all_sr_blocks=5747329_403797466_2_2_0_660602&highlighted_blocks=5747329_403797466_2_2_0_660602&matching_block_id=5747329_403797466_2_2_0_660602&sr_pri_blocks=5747329_403797466_2_2_0_660602_78030&from=searchresults",
+    "address": "Manhattan, New York",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=New+York+City%2C+USA&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-11-15T05:35:44.726Z",
     "source": "Booking.com (ScraperAPI)"
   }
 ]

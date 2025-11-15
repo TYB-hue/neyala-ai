@@ -1,1 +1,292 @@
-[]
+[
+  {
+    "id": "hotel_1763180117501_0",
+    "name": "Istanbul Pera Taksim Pera Star Hotel - Istiklal Street",
+    "price": 186,
+    "currency": "USD",
+    "rating": 9.7,
+    "stars": 10,
+    "reviewCount": 183,
+    "avgReview": "9.7/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/753215997.webp?k=7ff70cc0459f5bb3dfdaf807759128b969f3fa510b3c7ef0b3c71a5032d02f5f&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/753215997.webp?k=7ff70cc0459f5bb3dfdaf807759128b969f3fa510b3c7ef0b3c71a5032d02f5f&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/753215997.webp?k=7ff70cc0459f5bb3dfdaf807759128b969f3fa510b3c7ef0b3c71a5032d02f5f&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/tr/pera-star-beyoglu.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9pc3RhbmJ1bCwgdHVya2V5SDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC1PzfyAbAAgHSAiQ5Yjk0NzljNC0xZTJlLTQ1NGEtYWI4Ny04YTFjMDY0ZDgzMjTYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=d5961dea38ff00ab&srepoch=1763180117&all_sr_blocks=1499409801_421615027_2_1_0&highlighted_blocks=1499409801_421615027_2_1_0&matching_block_id=1499409801_421615027_2_1_0&sr_pri_blocks=1499409801_421615027_2_1_0__15997&from=searchresults",
+    "address": "Beyoglu, Istanbul (Taksim)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Istanbul%2C+Turkey&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1763180116023&force_referer=",
+    "scrapedAt": "2025-11-15T04:15:17.501Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763180117502_1",
+    "name": "ISG Sabiha Gökçen Airport Hotel",
+    "price": 343,
+    "currency": "USD",
+    "rating": 8.7,
+    "stars": 9,
+    "reviewCount": 416,
+    "avgReview": "8.7/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/680548241.webp?k=e1e2145506b1b284ac45985a33545eb1e0bda3666923cf2f2cae4537044b428f&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/680548241.webp?k=e1e2145506b1b284ac45985a33545eb1e0bda3666923cf2f2cae4537044b428f&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/680548241.webp?k=e1e2145506b1b284ac45985a33545eb1e0bda3666923cf2f2cae4537044b428f&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/tr/isg-airport.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9pc3RhbmJ1bCwgdHVya2V5SDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC1PzfyAbAAgHSAiQ5Yjk0NzljNC0xZTJlLTQ1NGEtYWI4Ny04YTFjMDY0ZDgzMjTYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=d5961dea38ff00ab&srepoch=1763180117&all_sr_blocks=23763017_0_2_0_0&highlighted_blocks=23763017_0_2_0_0&matching_block_id=23763017_0_2_0_0&sr_pri_blocks=23763017_0_2_0_0__29456&from=searchresults",
+    "address": "Pendik, Istanbul (Asian Side)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Istanbul%2C+Turkey&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1763180116023&force_referer=",
+    "scrapedAt": "2025-11-15T04:15:17.502Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763180117502_2",
+    "name": "al khalej apart",
+    "price": 143,
+    "currency": "USD",
+    "rating": 10,
+    "stars": 10,
+    "reviewCount": 1034,
+    "avgReview": "10.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/713271495.webp?k=8de8a3dcbc21b460aab6bd8dcda5e3cc4420210c3bddf52eb75430d6c6131afe&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/713271495.webp?k=8de8a3dcbc21b460aab6bd8dcda5e3cc4420210c3bddf52eb75430d6c6131afe&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/713271495.webp?k=8de8a3dcbc21b460aab6bd8dcda5e3cc4420210c3bddf52eb75430d6c6131afe&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/tr/al-khalej-apart.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9pc3RhbmJ1bCwgdHVya2V5SDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC1PzfyAbAAgHSAiQ5Yjk0NzljNC0xZTJlLTQ1NGEtYWI4Ny04YTFjMDY0ZDgzMjTYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=d5961dea38ff00ab&srepoch=1763180117&all_sr_blocks=1438021004_424189236_2_0_0&highlighted_blocks=1438021004_424189236_2_0_0&matching_block_id=1438021004_424189236_2_0_0&sr_pri_blocks=1438021004_424189236_2_0_0__12300&from=searchresults",
+    "address": "Beyoglu, Istanbul (Taksim)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Istanbul%2C+Turkey&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1763180116023&force_referer=",
+    "scrapedAt": "2025-11-15T04:15:17.502Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763180117503_3",
+    "name": "Ada Karakoy Hotel - Special Category",
+    "price": 232,
+    "currency": "USD",
+    "rating": 9,
+    "stars": 9,
+    "reviewCount": 980,
+    "avgReview": "9.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/31517988.webp?k=3d00d98342c447c3ce9d5b9cdf5516fcc282ab3dd359b0a32b34773aff624ba8&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/31517988.webp?k=3d00d98342c447c3ce9d5b9cdf5516fcc282ab3dd359b0a32b34773aff624ba8&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/31517988.webp?k=3d00d98342c447c3ce9d5b9cdf5516fcc282ab3dd359b0a32b34773aff624ba8&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/tr/ada-karakoy.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9pc3RhbmJ1bCwgdHVya2V5SDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC1PzfyAbAAgHSAiQ5Yjk0NzljNC0xZTJlLTQ1NGEtYWI4Ny04YTFjMDY0ZDgzMjTYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=d5961dea38ff00ab&srepoch=1763180117&all_sr_blocks=107339807_88798856_2_0_0&highlighted_blocks=107339807_88798856_2_0_0&matching_block_id=107339807_88798856_2_0_0&sr_pri_blocks=107339807_88798856_2_0_0__19901&from=searchresults",
+    "address": "Beyoglu, Istanbul (Karakoy)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Istanbul%2C+Turkey&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1763180116023&force_referer=",
+    "scrapedAt": "2025-11-15T04:15:17.503Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763180117503_4",
+    "name": "Hotel Bristol",
+    "price": 405,
+    "currency": "USD",
+    "rating": 8.6,
+    "stars": 9,
+    "reviewCount": 748,
+    "avgReview": "8.6/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/544786439.webp?k=5597c692ea56844d55772a1eb1521d850f10edaa27848ccd8a891e7e7ab1419f&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/544786439.webp?k=5597c692ea56844d55772a1eb1521d850f10edaa27848ccd8a891e7e7ab1419f&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/544786439.webp?k=5597c692ea56844d55772a1eb1521d850f10edaa27848ccd8a891e7e7ab1419f&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/tr/bristol.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9pc3RhbmJ1bCwgdHVya2V5SDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC1PzfyAbAAgHSAiQ5Yjk0NzljNC0xZTJlLTQ1NGEtYWI4Ny04YTFjMDY0ZDgzMjTYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=d5961dea38ff00ab&srepoch=1763180117&all_sr_blocks=18761407_88796540_3_1_0&highlighted_blocks=18761407_88796540_3_1_0&matching_block_id=18761407_88796540_3_1_0&sr_pri_blocks=18761407_88796540_3_1_0__34776&from=searchresults",
+    "address": "Beyoglu, Istanbul (Taksim)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Istanbul%2C+Turkey&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1763180116023&force_referer=",
+    "scrapedAt": "2025-11-15T04:15:17.503Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763180117504_5",
+    "name": "Okda Hotel",
+    "price": 159,
+    "currency": "USD",
+    "rating": 9.4,
+    "stars": 9,
+    "reviewCount": 934,
+    "avgReview": "9.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/326674676.webp?k=a849047033082bb7c172b87e9b0b562cd73849c9b3606cc79fd339f2e1fef869&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/326674676.webp?k=a849047033082bb7c172b87e9b0b562cd73849c9b3606cc79fd339f2e1fef869&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/326674676.webp?k=a849047033082bb7c172b87e9b0b562cd73849c9b3606cc79fd339f2e1fef869&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/tr/okda.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9pc3RhbmJ1bCwgdHVya2V5SDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC1PzfyAbAAgHSAiQ5Yjk0NzljNC0xZTJlLTQ1NGEtYWI4Ny04YTFjMDY0ZDgzMjTYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=d5961dea38ff00ab&srepoch=1763180117&all_sr_blocks=775445101_335842470_0_0_0&highlighted_blocks=775445101_335842470_0_0_0&matching_block_id=775445101_335842470_0_0_0&sr_pri_blocks=775445101_335842470_0_0_0__13634&from=searchresults",
+    "address": "Fatih, Istanbul (Old City Sultanahmet)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Istanbul%2C+Turkey&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1763180116023&force_referer=",
+    "scrapedAt": "2025-11-15T04:15:17.504Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763180117504_6",
+    "name": "Olive Garden Apart",
+    "price": 186,
+    "currency": "USD",
+    "rating": 8.1,
+    "stars": 8,
+    "reviewCount": 843,
+    "avgReview": "8.1/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/658656602.webp?k=3cd164de084cf940ab753e0e59887abf733e0ea66aeb97cd4bab5801fb99983f&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/658656602.webp?k=3cd164de084cf940ab753e0e59887abf733e0ea66aeb97cd4bab5801fb99983f&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/658656602.webp?k=3cd164de084cf940ab753e0e59887abf733e0ea66aeb97cd4bab5801fb99983f&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/tr/garden-apart-istanbul.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9pc3RhbmJ1bCwgdHVya2V5SDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC1PzfyAbAAgHSAiQ5Yjk0NzljNC0xZTJlLTQ1NGEtYWI4Ny04YTFjMDY0ZDgzMjTYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=d5961dea38ff00ab&srepoch=1763180117&all_sr_blocks=398361102_236340918_2_42_0_841443&highlighted_blocks=398361102_236340918_2_42_0_841443&matching_block_id=398361102_236340918_2_42_0_841443&sr_pri_blocks=398361102_236340918_2_42_0_841443_15971&from=searchresults",
+    "address": "Fatih, Istanbul (Old City Sultanahmet)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Istanbul%2C+Turkey&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1763180116023&force_referer=",
+    "scrapedAt": "2025-11-15T04:15:17.504Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763180117504_7",
+    "name": "3A House - Sultanahmet",
+    "price": 125,
+    "currency": "USD",
+    "rating": 10,
+    "stars": 10,
+    "reviewCount": 1003,
+    "avgReview": "10.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/767436006.webp?k=865988d5fe36d0114ccf4855ee219b4315fc42e7a0ebdfe2575a5beab01a0d60&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/767436006.webp?k=865988d5fe36d0114ccf4855ee219b4315fc42e7a0ebdfe2575a5beab01a0d60&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/767436006.webp?k=865988d5fe36d0114ccf4855ee219b4315fc42e7a0ebdfe2575a5beab01a0d60&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/tr/b-house-sultanahmet.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9pc3RhbmJ1bCwgdHVya2V5SDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC1PzfyAbAAgHSAiQ5Yjk0NzljNC0xZTJlLTQ1NGEtYWI4Ny04YTFjMDY0ZDgzMjTYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=d5961dea38ff00ab&srepoch=1763180117&all_sr_blocks=1407096703_412485118_0_0_0&highlighted_blocks=1407096703_412485118_0_0_0&matching_block_id=1407096703_412485118_0_0_0&sr_pri_blocks=1407096703_412485118_0_0_0__10737&from=searchresults",
+    "address": "Fatih, Istanbul (Old City Sultanahmet)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Istanbul%2C+Turkey&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1763180116023&force_referer=",
+    "scrapedAt": "2025-11-15T04:15:17.504Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763180117505_8",
+    "name": "The Palm Bosphorus Hotel",
+    "price": 305,
+    "currency": "USD",
+    "rating": 8.5,
+    "stars": 9,
+    "reviewCount": 701,
+    "avgReview": "8.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/570533280.webp?k=81f5acc0695bb379cc32a5ca0eb5b373e710b163426e9a0ac860b49245ac140a&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/570533280.webp?k=81f5acc0695bb379cc32a5ca0eb5b373e710b163426e9a0ac860b49245ac140a&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/570533280.webp?k=81f5acc0695bb379cc32a5ca0eb5b373e710b163426e9a0ac860b49245ac140a&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/tr/the-palm-bosphorus.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9pc3RhbmJ1bCwgdHVya2V5SDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC1PzfyAbAAgHSAiQ5Yjk0NzljNC0xZTJlLTQ1NGEtYWI4Ny04YTFjMDY0ZDgzMjTYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=d5961dea38ff00ab&srepoch=1763180117&all_sr_blocks=1221550303_394293057_2_0_0&highlighted_blocks=1221550303_394293057_2_0_0&matching_block_id=1221550303_394293057_2_0_0&sr_pri_blocks=1221550303_394293057_2_0_0__26231&from=searchresults",
+    "address": "Uskudar, Istanbul (Asian Side)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Istanbul%2C+Turkey&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1763180116023&force_referer=",
+    "scrapedAt": "2025-11-15T04:15:17.505Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763180117505_9",
+    "name": "Taksim Metropark Hotel",
+    "price": 279,
+    "currency": "USD",
+    "rating": 8,
+    "stars": 8,
+    "reviewCount": 139,
+    "avgReview": "8.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/279713937.webp?k=e9e4af46de74601e456701d604dbb6f398c41bd7503ecc6a92ef4e6297fcb286&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/279713937.webp?k=e9e4af46de74601e456701d604dbb6f398c41bd7503ecc6a92ef4e6297fcb286&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/279713937.webp?k=e9e4af46de74601e456701d604dbb6f398c41bd7503ecc6a92ef4e6297fcb286&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/tr/taksim-metropark.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9pc3RhbmJ1bCwgdHVya2V5SDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC1PzfyAbAAgHSAiQ5Yjk0NzljNC0xZTJlLTQ1NGEtYWI4Ny04YTFjMDY0ZDgzMjTYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=d5961dea38ff00ab&srepoch=1763180117&all_sr_blocks=8659110_216872413_0_1_0&highlighted_blocks=8659110_216872413_0_1_0&matching_block_id=8659110_216872413_0_1_0&sr_pri_blocks=8659110_216872413_0_1_0__24000&from=searchresults",
+    "address": "Beyoglu, Istanbul (Taksim)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Istanbul%2C+Turkey&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1763180116023&force_referer=",
+    "scrapedAt": "2025-11-15T04:15:17.505Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

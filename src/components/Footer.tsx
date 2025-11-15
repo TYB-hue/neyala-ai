@@ -37,7 +37,7 @@ export function Footer() {
             <ul className="space-y-2">
               <li><Link href="/" className="text-gray-400 hover:text-white">Home</Link></li>
               <li><Link href="/about" className="text-gray-400 hover:text-white">About Us</Link></li>
-              <li><Link href="/attractions" className="text-gray-400 hover:text-white">Attractions</Link></li>
+              <li><Link href="/favorites" className="text-gray-400 hover:text-white">Favorites</Link></li>
               <li><Link href="/plan" className="text-gray-400 hover:text-white">Plan Trip</Link></li>
             </ul>
           </div>
@@ -47,7 +47,7 @@ export function Footer() {
               <li><Link href="/help" className="text-gray-400 hover:text-white">Help Center</Link></li>
               <li><Link href="/privacy" className="text-gray-400 hover:text-white">Privacy Policy</Link></li>
               <li><Link href="/terms" className="text-gray-400 hover:text-white">Terms of Service</Link></li>
-              <li><a href="mailto:nyala.trip@gmail.com" className="text-gray-400 hover:text-white">Contact Us</a></li>
+              <li><Link href="/contact" className="text-gray-400 hover:text-white">Contact Us</Link></li>
             </ul>
           </div>
         </div>

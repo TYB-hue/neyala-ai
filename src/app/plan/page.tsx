@@ -1,6 +1,8 @@
 'use client';
 
-import React, { Suspense } from 'react';
+import React, { Suspense, useEffect } from 'react';
+import { useUser } from '@clerk/nextjs';
+import { useRouter } from 'next/navigation';
 import PlanForm from './PlanForm';
 import ForYouSection from './ForYouSection';
 import { PlanProvider } from './PlanContext';
@@ -38,6 +40,26 @@ function PlanLoading() {
 }
 
 export default function PlanPage() {
+  const { isSignedIn, isLoaded } = useUser();
+  const router = useRouter();
+
+  useEffect(() => {
+    // Only redirect once Clerk has loaded the user state
+    if (isLoaded && !isSignedIn) {
+      router.push('/sign-in');
+    }
+  }, [isLoaded, isSignedIn, router]);
+
+  // Show loading state while checking authentication
+  if (!isLoaded) {
+    return <PlanLoading />;
+  }
+
+  // Don't render the page if user is not signed in (will redirect)
+  if (!isSignedIn) {
+    return <PlanLoading />;
+  }
+
   return (
     <PlanProvider>
       <div className="flex flex-col lg:flex-row min-h-screen bg-gray-50">

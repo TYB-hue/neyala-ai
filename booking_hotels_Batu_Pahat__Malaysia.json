@@ -1,0 +1,292 @@
+[
+  {
+    "id": "hotel_1758878927641_0",
+    "name": "The Katerina Hotel",
+    "price": 118,
+    "currency": "USD",
+    "rating": 7.7,
+    "stars": 8,
+    "reviewCount": 991,
+    "avgReview": "7.7/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/27410155.webp?k=75a88ed111b28fbba3c4e7eca2ff6e6b514df485554bd6125703dbe46fa3c8ac&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/27410155.webp?k=75a88ed111b28fbba3c4e7eca2ff6e6b514df485554bd6125703dbe46fa3c8ac&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/27410155.webp?k=75a88ed111b28fbba3c4e7eca2ff6e6b514df485554bd6125703dbe46fa3c8ac&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/my/the-katerina.html?aid=304142&label=gen173nr-10CAQoggJCG3NlYXJjaF9iYXR1IHBhaGF0LCBtYWxheXNpYUgzWARooQGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Asu52cYGwAIB0gIkN2I0MDc5ZWQtODQ5ZS00MTQ0LWFjMDYtYmFmNGY5MDYyMTY02AIB4AIB&ucfs=1&arphpl=1&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=6c4542a52d4b04d0&srepoch=1758878925&all_sr_blocks=90999001_91999885_2_34_0_212055&highlighted_blocks=90999001_91999885_2_34_0_212055&matching_block_id=90999001_91999885_2_34_0_212055&sr_pri_blocks=90999001_91999885_2_34_0_212055_49500&from=searchresults",
+    "address": "Batu Pahat",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Batu+Pahat%2C+Malaysia&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-26T09:28:47.641Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1758878927642_1",
+    "name": "Pine Tree Hotel",
+    "price": 120,
+    "currency": "USD",
+    "rating": 8.1,
+    "stars": 8,
+    "reviewCount": 1034,
+    "avgReview": "8.1/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/732028837.webp?k=968abe045a79f239728e31c9232b10a486432548dc52cb81b823accbcefbbea5&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/732028837.webp?k=968abe045a79f239728e31c9232b10a486432548dc52cb81b823accbcefbbea5&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/732028837.webp?k=968abe045a79f239728e31c9232b10a486432548dc52cb81b823accbcefbbea5&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/my/pine-tree.html?aid=304142&label=gen173nr-10CAQoggJCG3NlYXJjaF9iYXR1IHBhaGF0LCBtYWxheXNpYUgzWARooQGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Asu52cYGwAIB0gIkN2I0MDc5ZWQtODQ5ZS00MTQ0LWFjMDYtYmFmNGY5MDYyMTY02AIB4AIB&ucfs=1&arphpl=1&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=6c4542a52d4b04d0&srepoch=1758878925&all_sr_blocks=36966606_204528922_0_2_0&highlighted_blocks=36966606_204528922_0_2_0&matching_block_id=36966606_204528922_0_2_0&sr_pri_blocks=36966606_204528922_0_2_0__50400&from=searchresults",
+    "address": "Batu Pahat",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Batu+Pahat%2C+Malaysia&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-26T09:28:47.642Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1758878927643_2",
+    "name": "Room V Jalan Sultanah By SECOM",
+    "price": 64,
+    "currency": "USD",
+    "rating": 6.6,
+    "stars": 7,
+    "reviewCount": 404,
+    "avgReview": "6.6/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/617283243.webp?k=1f2088a8dfe3cd896987a5b93669037b41443fc0af707dce00b569ecaf2bd717&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/617283243.webp?k=1f2088a8dfe3cd896987a5b93669037b41443fc0af707dce00b569ecaf2bd717&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/617283243.webp?k=1f2088a8dfe3cd896987a5b93669037b41443fc0af707dce00b569ecaf2bd717&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/my/room-v-jalan-sultanah-by-secom.html?aid=304142&label=gen173nr-10CAQoggJCG3NlYXJjaF9iYXR1IHBhaGF0LCBtYWxheXNpYUgzWARooQGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Asu52cYGwAIB0gIkN2I0MDc5ZWQtODQ5ZS00MTQ0LWFjMDYtYmFmNGY5MDYyMTY02AIB4AIB&ucfs=1&arphpl=1&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=6c4542a52d4b04d0&srepoch=1758878925&all_sr_blocks=1314247902_407941228_0_0_0&highlighted_blocks=1314247902_407941228_0_0_0&matching_block_id=1314247902_407941228_0_0_0&sr_pri_blocks=1314247902_407941228_0_0_0__27000&from=searchresults",
+    "address": "Batu Pahat",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Batu+Pahat%2C+Malaysia&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-26T09:28:47.643Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1758878927643_3",
+    "name": "Room V Jalan Megat by SECOM",
+    "price": 57,
+    "currency": "USD",
+    "rating": 6.5,
+    "stars": 7,
+    "reviewCount": 358,
+    "avgReview": "6.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/501478645.webp?k=d463657eeb72cb3f489af81e94a0219ff103db7cdd35183172d7b0f26fe3628b&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/501478645.webp?k=d463657eeb72cb3f489af81e94a0219ff103db7cdd35183172d7b0f26fe3628b&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/501478645.webp?k=d463657eeb72cb3f489af81e94a0219ff103db7cdd35183172d7b0f26fe3628b&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/my/room-v-managed-by-secom-jalan-megat.html?aid=304142&label=gen173nr-10CAQoggJCG3NlYXJjaF9iYXR1IHBhaGF0LCBtYWxheXNpYUgzWARooQGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Asu52cYGwAIB0gIkN2I0MDc5ZWQtODQ5ZS00MTQ0LWFjMDYtYmFmNGY5MDYyMTY02AIB4AIB&ucfs=1&arphpl=1&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=6c4542a52d4b04d0&srepoch=1758878925&all_sr_blocks=1096262701_408561234_0_0_0&highlighted_blocks=1096262701_408561234_0_0_0&matching_block_id=1096262701_408561234_0_0_0&sr_pri_blocks=1096262701_408561234_0_0_0__24000&from=searchresults",
+    "address": "Batu Pahat",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Batu+Pahat%2C+Malaysia&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-26T09:28:47.643Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1758878927644_4",
+    "name": "Biz Hotel",
+    "price": 50,
+    "currency": "USD",
+    "rating": 6.1,
+    "stars": 6,
+    "reviewCount": 904,
+    "avgReview": "6.1/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/279461938.webp?k=33a45c0551369af3155a2aca8dd225c09c09821d46e0cb123cfd5078ff7c4fab&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/279461938.webp?k=33a45c0551369af3155a2aca8dd225c09c09821d46e0cb123cfd5078ff7c4fab&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/279461938.webp?k=33a45c0551369af3155a2aca8dd225c09c09821d46e0cb123cfd5078ff7c4fab&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/my/biz-batu-pahat1.html?aid=304142&label=gen173nr-10CAQoggJCG3NlYXJjaF9iYXR1IHBhaGF0LCBtYWxheXNpYUgzWARooQGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Asu52cYGwAIB0gIkN2I0MDc5ZWQtODQ5ZS00MTQ0LWFjMDYtYmFmNGY5MDYyMTY02AIB4AIB&ucfs=1&arphpl=1&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=6c4542a52d4b04d0&srepoch=1758878925&all_sr_blocks=671780603_328672904_2_0_0_390336&highlighted_blocks=671780603_328672904_2_0_0_390336&matching_block_id=671780603_328672904_2_0_0_390336&sr_pri_blocks=671780603_328672904_2_0_0_390336_20874&from=searchresults",
+    "address": "Batu Pahat",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Batu+Pahat%2C+Malaysia&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-26T09:28:47.644Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1758878927645_5",
+    "name": "888 Boutique Hotel",
+    "price": 68,
+    "currency": "USD",
+    "rating": 7.1,
+    "stars": 7,
+    "reviewCount": 423,
+    "avgReview": "7.1/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/478949567.webp?k=d4d823409c8e9057f3cb80fc05176f35062fa0248fc8375269000164e37b5d26&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/478949567.webp?k=d4d823409c8e9057f3cb80fc05176f35062fa0248fc8375269000164e37b5d26&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/478949567.webp?k=d4d823409c8e9057f3cb80fc05176f35062fa0248fc8375269000164e37b5d26&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/my/888-boutique.html?aid=304142&label=gen173nr-10CAQoggJCG3NlYXJjaF9iYXR1IHBhaGF0LCBtYWxheXNpYUgzWARooQGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Asu52cYGwAIB0gIkN2I0MDc5ZWQtODQ5ZS00MTQ0LWFjMDYtYmFmNGY5MDYyMTY02AIB4AIB&ucfs=1&arphpl=1&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=6c4542a52d4b04d0&srepoch=1758878925&all_sr_blocks=167395512_243120720_2_0_0_556706&highlighted_blocks=167395512_243120720_2_0_0_556706&matching_block_id=167395512_243120720_2_0_0_556706&sr_pri_blocks=167395512_243120720_2_0_0_556706_28795&from=searchresults",
+    "address": "Batu Pahat",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Batu+Pahat%2C+Malaysia&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-26T09:28:47.645Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1758878927645_6",
+    "name": "Crystal Inn",
+    "price": 186,
+    "currency": "USD",
+    "rating": 8.9,
+    "stars": 9,
+    "reviewCount": 56,
+    "avgReview": "8.9/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/587667763.webp?k=3a68a19756e91548708ae8d68ee727dc374f44e608b035552774fbae17f28450&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/587667763.webp?k=3a68a19756e91548708ae8d68ee727dc374f44e608b035552774fbae17f28450&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/587667763.webp?k=3a68a19756e91548708ae8d68ee727dc374f44e608b035552774fbae17f28450&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/my/crystal-inn-sdn-bhd-batu-pahat1.html?aid=304142&label=gen173nr-10CAQoggJCG3NlYXJjaF9iYXR1IHBhaGF0LCBtYWxheXNpYUgzWARooQGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Asu52cYGwAIB0gIkN2I0MDc5ZWQtODQ5ZS00MTQ0LWFjMDYtYmFmNGY5MDYyMTY02AIB4AIB&ucfs=1&arphpl=1&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=6c4542a52d4b04d0&srepoch=1758878925&all_sr_blocks=391619701_147260426_2_0_0&highlighted_blocks=391619701_147260426_2_0_0&matching_block_id=391619701_147260426_2_0_0&sr_pri_blocks=391619701_147260426_2_0_0__78506&from=searchresults",
+    "address": "Batu Pahat",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Batu+Pahat%2C+Malaysia&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-26T09:28:47.645Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1758878927646_7",
+    "name": "B&S Boutique Hotel",
+    "price": 79,
+    "currency": "USD",
+    "rating": 7.4,
+    "stars": 7,
+    "reviewCount": 789,
+    "avgReview": "7.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/589597811.webp?k=2d36d3ae55d88952663918f253fdf7ca41f4a1fd519ddfb59897b250cd23c6a8&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/589597811.webp?k=2d36d3ae55d88952663918f253fdf7ca41f4a1fd519ddfb59897b250cd23c6a8&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/589597811.webp?k=2d36d3ae55d88952663918f253fdf7ca41f4a1fd519ddfb59897b250cd23c6a8&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/my/b-amp-s-boutique.html?aid=304142&label=gen173nr-10CAQoggJCG3NlYXJjaF9iYXR1IHBhaGF0LCBtYWxheXNpYUgzWARooQGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Asu52cYGwAIB0gIkN2I0MDc5ZWQtODQ5ZS00MTQ0LWFjMDYtYmFmNGY5MDYyMTY02AIB4AIB&ucfs=1&arphpl=1&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=6c4542a52d4b04d0&srepoch=1758878925&all_sr_blocks=178160101_91032148_0_0_0&highlighted_blocks=178160101_91032148_0_0_0&matching_block_id=178160101_91032148_0_0_0&sr_pri_blocks=178160101_91032148_0_0_0__33277&from=searchresults",
+    "address": "Batu Pahat",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Batu+Pahat%2C+Malaysia&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-26T09:28:47.646Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1758878927646_8",
+    "name": "Just Hotel BP",
+    "price": 80,
+    "currency": "USD",
+    "rating": 8.2,
+    "stars": 8,
+    "reviewCount": 535,
+    "avgReview": "8.2/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/426991925.webp?k=a6fd16a41fe8c71ecee073720d5d6c21e8bb4699a4c45ea46914b5c435f21bb1&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/426991925.webp?k=a6fd16a41fe8c71ecee073720d5d6c21e8bb4699a4c45ea46914b5c435f21bb1&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/426991925.webp?k=a6fd16a41fe8c71ecee073720d5d6c21e8bb4699a4c45ea46914b5c435f21bb1&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/my/just.html?aid=304142&label=gen173nr-10CAQoggJCG3NlYXJjaF9iYXR1IHBhaGF0LCBtYWxheXNpYUgzWARooQGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Asu52cYGwAIB0gIkN2I0MDc5ZWQtODQ5ZS00MTQ0LWFjMDYtYmFmNGY5MDYyMTY02AIB4AIB&ucfs=1&arphpl=1&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=6c4542a52d4b04d0&srepoch=1758878925&all_sr_blocks=946822101_367243289_0_0_0&highlighted_blocks=946822101_367243289_0_0_0&matching_block_id=946822101_367243289_0_0_0&sr_pri_blocks=946822101_367243289_0_0_0__33534&from=searchresults",
+    "address": "Batu Pahat",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Batu+Pahat%2C+Malaysia&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-26T09:28:47.646Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1758878927647_9",
+    "name": "Summit Signature Hotel Batu Pahat",
+    "price": 112,
+    "currency": "USD",
+    "rating": 7.9,
+    "stars": 8,
+    "reviewCount": 945,
+    "avgReview": "7.9/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/280040693.webp?k=91a70a429067119e5c0b9a436d8e70ae32f1643d78e1933aa94d191b99f8c80c&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/280040693.webp?k=91a70a429067119e5c0b9a436d8e70ae32f1643d78e1933aa94d191b99f8c80c&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/280040693.webp?k=91a70a429067119e5c0b9a436d8e70ae32f1643d78e1933aa94d191b99f8c80c&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/my/summit-signature-batu-pahat.html?aid=304142&label=gen173nr-10CAQoggJCG3NlYXJjaF9iYXR1IHBhaGF0LCBtYWxheXNpYUgzWARooQGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Asu52cYGwAIB0gIkN2I0MDc5ZWQtODQ5ZS00MTQ0LWFjMDYtYmFmNGY5MDYyMTY02AIB4AIB&ucfs=1&arphpl=1&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=6c4542a52d4b04d0&srepoch=1758878925&all_sr_blocks=145008204_126978806_0_1_0&highlighted_blocks=145008204_126978806_0_1_0&matching_block_id=145008204_126978806_0_1_0&sr_pri_blocks=145008204_126978806_0_1_0__47031&from=searchresults",
+    "address": "Batu Pahat",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Batu+Pahat%2C+Malaysia&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-26T09:28:47.647Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

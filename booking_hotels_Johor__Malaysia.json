@@ -1,0 +1,292 @@
+[
+  {
+    "id": "hotel_1758866176194_0",
+    "name": "DoubleTree by Hilton Johor Bahru",
+    "price": 339,
+    "currency": "USD",
+    "rating": 8.6,
+    "stars": 9,
+    "reviewCount": 112,
+    "avgReview": "8.6/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/666181345.webp?k=e10ce20ce5ce8368ff7a207607eb73db2eca33dde535351cc4c0b4fcf322eea5&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/666181345.webp?k=e10ce20ce5ce8368ff7a207607eb73db2eca33dde535351cc4c0b4fcf322eea5&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/666181345.webp?k=e10ce20ce5ce8368ff7a207607eb73db2eca33dde535351cc4c0b4fcf322eea5&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/my/doubletree-by-hilton-johor-bahru.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9qb2hvciwgbWFsYXlzaWFIM1gEaKEBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAL91djGBsACAdICJGUwZTMxMGIwLWI2ZmUtNDVkNy05Zjc4LTc0ZTMwYjlkZDRhNNgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=85cd29be554b005a&srepoch=1758866175&all_sr_blocks=106981401_93774261_2_34_0&highlighted_blocks=106981401_93774261_2_34_0&matching_block_id=106981401_93774261_2_34_0&sr_pri_blocks=106981401_93774261_2_34_0__142900&from=searchresults",
+    "address": "Johor Bahru",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Johor%2C+Malaysia&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1758866172849&force_referer=",
+    "scrapedAt": "2025-09-26T05:56:16.194Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1758866176195_1",
+    "name": "Opero Hotel Southkey Johor Bahru",
+    "price": 340,
+    "currency": "USD",
+    "rating": 8,
+    "stars": 8,
+    "reviewCount": 208,
+    "avgReview": "8.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/337719598.webp?k=38ea911c32225a514f109c1e1676b1265da299db4c362babe27dc90a0f84cd23&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/337719598.webp?k=38ea911c32225a514f109c1e1676b1265da299db4c362babe27dc90a0f84cd23&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/337719598.webp?k=38ea911c32225a514f109c1e1676b1265da299db4c362babe27dc90a0f84cd23&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/my/opero-southkey-johor-bahru.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9qb2hvciwgbWFsYXlzaWFIM1gEaKEBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAL91djGBsACAdICJGUwZTMxMGIwLWI2ZmUtNDVkNy05Zjc4LTc0ZTMwYjlkZDRhNNgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=85cd29be554b005a&srepoch=1758866175&all_sr_blocks=709141402_0_2_0_0&highlighted_blocks=709141402_0_2_0_0&matching_block_id=709141402_0_2_0_0&sr_pri_blocks=709141402_0_2_0_0__143279&from=searchresults",
+    "address": "Johor Bahru",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Johor%2C+Malaysia&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1758866172849&force_referer=",
+    "scrapedAt": "2025-09-26T05:56:16.195Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1758866176195_2",
+    "name": "Holiday Inn Johor Bahru City Centre by IHG",
+    "price": 329,
+    "currency": "USD",
+    "rating": 8.3,
+    "stars": 8,
+    "reviewCount": 626,
+    "avgReview": "8.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/276297371.webp?k=efc48868727e20a770dd8e8c17b2f681fd691f7ec184909698df2f07596f1032&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/276297371.webp?k=efc48868727e20a770dd8e8c17b2f681fd691f7ec184909698df2f07596f1032&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/276297371.webp?k=efc48868727e20a770dd8e8c17b2f681fd691f7ec184909698df2f07596f1032&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/my/holiday-inn-johor-bahru-city-centre.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9qb2hvciwgbWFsYXlzaWFIM1gEaKEBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAL91djGBsACAdICJGUwZTMxMGIwLWI2ZmUtNDVkNy05Zjc4LTc0ZTMwYjlkZDRhNNgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=85cd29be554b005a&srepoch=1758866175&all_sr_blocks=630094202_245683104_2_0_0&highlighted_blocks=630094202_245683104_2_0_0&matching_block_id=630094202_245683104_2_0_0&sr_pri_blocks=630094202_245683104_2_0_0__138600&from=searchresults",
+    "address": "Johor Bahru",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Johor%2C+Malaysia&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1758866172849&force_referer=",
+    "scrapedAt": "2025-09-26T05:56:16.195Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1758866176195_3",
+    "name": "R&F Princess Cove Seine Region by FUJU with Seaview at JB City Centre#Adjacent to Singapore#5 mins walk to ClQ#Free Parking#中英文房东",
+    "price": 206,
+    "currency": "USD",
+    "rating": 9.2,
+    "stars": 9,
+    "reviewCount": 140,
+    "avgReview": "9.2/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/652779304.webp?k=db9e19730d75e5b707bbe5410626d531025035b85bd9147211b290a59aeecb5e&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/652779304.webp?k=db9e19730d75e5b707bbe5410626d531025035b85bd9147211b290a59aeecb5e&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/652779304.webp?k=db9e19730d75e5b707bbe5410626d531025035b85bd9147211b290a59aeecb5e&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/my/fuju-homestay.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9qb2hvciwgbWFsYXlzaWFIM1gEaKEBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAL91djGBsACAdICJGUwZTMxMGIwLWI2ZmUtNDVkNy05Zjc4LTc0ZTMwYjlkZDRhNNgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=85cd29be554b005a&srepoch=1758866175&all_sr_blocks=1219229101_399553255_0_42_0&highlighted_blocks=1219229101_399553255_0_42_0&matching_block_id=1219229101_399553255_0_42_0&sr_pri_blocks=1219229101_399553255_0_42_0__86868&from=searchresults",
+    "address": "Johor Bahru",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Johor%2C+Malaysia&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1758866172849&force_referer=",
+    "scrapedAt": "2025-09-26T05:56:16.195Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1758866176195_4",
+    "name": "Midvalley Southkey Mosaic Suite by Nest Home",
+    "price": 257,
+    "currency": "USD",
+    "rating": 8.4,
+    "stars": 8,
+    "reviewCount": 641,
+    "avgReview": "8.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/574604675.webp?k=9434c675d8bcdf9feb3374a135f88e1d749047d4c35b47f67b3a04ac81bd5199&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/574604675.webp?k=9434c675d8bcdf9feb3374a135f88e1d749047d4c35b47f67b3a04ac81bd5199&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/574604675.webp?k=9434c675d8bcdf9feb3374a135f88e1d749047d4c35b47f67b3a04ac81bd5199&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/my/bathtub-nest-home-grand-blue-suite-southkey.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9qb2hvciwgbWFsYXlzaWFIM1gEaKEBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAL91djGBsACAdICJGUwZTMxMGIwLWI2ZmUtNDVkNy05Zjc4LTc0ZTMwYjlkZDRhNNgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=85cd29be554b005a&srepoch=1758866175&all_sr_blocks=833408606_360590828_4_0_0_823992&highlighted_blocks=833408606_360590828_4_0_0_823992&matching_block_id=833408606_360590828_4_0_0_823992&sr_pri_blocks=833408606_360590828_4_0_0_823992_108000&from=searchresults",
+    "address": "Johor Bahru",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Johor%2C+Malaysia&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1758866172849&force_referer=",
+    "scrapedAt": "2025-09-26T05:56:16.195Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1758866176196_5",
+    "name": "Amerin Hotel Johor Bahru",
+    "price": 157,
+    "currency": "USD",
+    "rating": 7.2,
+    "stars": 7,
+    "reviewCount": 878,
+    "avgReview": "7.2/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/512267882.webp?k=fea7d7d77a86723ce5c052ad40583ae82a39678d5e20bec6822bfe042edeba79&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/512267882.webp?k=fea7d7d77a86723ce5c052ad40583ae82a39678d5e20bec6822bfe042edeba79&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/512267882.webp?k=fea7d7d77a86723ce5c052ad40583ae82a39678d5e20bec6822bfe042edeba79&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/my/amerin-johor-bahru.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9qb2hvciwgbWFsYXlzaWFIM1gEaKEBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAL91djGBsACAdICJGUwZTMxMGIwLWI2ZmUtNDVkNy05Zjc4LTc0ZTMwYjlkZDRhNNgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=85cd29be554b005a&srepoch=1758866175&all_sr_blocks=166995901_122177105_2_10_0_732332&highlighted_blocks=166995901_122177105_2_10_0_732332&matching_block_id=166995901_122177105_2_10_0_732332&sr_pri_blocks=166995901_122177105_2_10_0_732332_66300&from=searchresults",
+    "address": "Johor Bahru",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Johor%2C+Malaysia&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1758866172849&force_referer=",
+    "scrapedAt": "2025-09-26T05:56:16.196Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1758866176196_6",
+    "name": "KSL Hotel & Resort",
+    "price": 209,
+    "currency": "USD",
+    "rating": 7.4,
+    "stars": 7,
+    "reviewCount": 428,
+    "avgReview": "7.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/110224496.webp?k=66befc2eef9b295a63d39d9e16da6b39f0bd3bf6b7ffcd0d708b41cbbc054666&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/110224496.webp?k=66befc2eef9b295a63d39d9e16da6b39f0bd3bf6b7ffcd0d708b41cbbc054666&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/110224496.webp?k=66befc2eef9b295a63d39d9e16da6b39f0bd3bf6b7ffcd0d708b41cbbc054666&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/my/ksl-resorts.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9qb2hvciwgbWFsYXlzaWFIM1gEaKEBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAL91djGBsACAdICJGUwZTMxMGIwLWI2ZmUtNDVkNy05Zjc4LTc0ZTMwYjlkZDRhNNgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=85cd29be554b005a&srepoch=1758866175&all_sr_blocks=38908209_0_2_0_0&highlighted_blocks=38908209_0_2_0_0&matching_block_id=38908209_0_2_0_0&sr_pri_blocks=38908209_0_2_0_0__88193&from=searchresults",
+    "address": "Johor Bahru",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Johor%2C+Malaysia&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1758866172849&force_referer=",
+    "scrapedAt": "2025-09-26T05:56:16.196Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1758866176196_7",
+    "name": "Thy Executive Hotel",
+    "price": 63,
+    "currency": "USD",
+    "rating": 7.9,
+    "stars": 8,
+    "reviewCount": 1017,
+    "avgReview": "7.9/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/47568135.webp?k=07c3310739f8da21d657773b42e2619525c62d500ca88f103d61dd6cb56ca51d&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/47568135.webp?k=07c3310739f8da21d657773b42e2619525c62d500ca88f103d61dd6cb56ca51d&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/47568135.webp?k=07c3310739f8da21d657773b42e2619525c62d500ca88f103d61dd6cb56ca51d&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/my/thy-executive-johor-bahru.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9qb2hvciwgbWFsYXlzaWFIM1gEaKEBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAL91djGBsACAdICJGUwZTMxMGIwLWI2ZmUtNDVkNy05Zjc4LTc0ZTMwYjlkZDRhNNgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=85cd29be554b005a&srepoch=1758866175&all_sr_blocks=138177710_103888182_2_0_0_667975&highlighted_blocks=138177710_103888182_2_0_0_667975&matching_block_id=138177710_103888182_2_0_0_667975&sr_pri_blocks=138177710_103888182_2_0_0_667975_26730&from=searchresults",
+    "address": "Johor Bahru",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Johor%2C+Malaysia&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1758866172849&force_referer=",
+    "scrapedAt": "2025-09-26T05:56:16.196Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1758866176197_8",
+    "name": "Scenic Country Garden Danga Bay by Lions Bay",
+    "price": 139,
+    "currency": "USD",
+    "rating": 8,
+    "stars": 8,
+    "reviewCount": 383,
+    "avgReview": "8.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/470711794.webp?k=11ff553b61ff49a3ecd38f4879faef88c74cb279df224e395a8e81e85411bcc0&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/470711794.webp?k=11ff553b61ff49a3ecd38f4879faef88c74cb279df224e395a8e81e85411bcc0&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/470711794.webp?k=11ff553b61ff49a3ecd38f4879faef88c74cb279df224e395a8e81e85411bcc0&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/my/sea-view-country-garden-danga-bay-by-lionsbay.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9qb2hvciwgbWFsYXlzaWFIM1gEaKEBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAL91djGBsACAdICJGUwZTMxMGIwLWI2ZmUtNDVkNy05Zjc4LTc0ZTMwYjlkZDRhNNgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=85cd29be554b005a&srepoch=1758866175&all_sr_blocks=1029422406_384060358_2_0_0_88634&highlighted_blocks=1029422406_384060358_2_0_0_88634&matching_block_id=1029422406_384060358_2_0_0_88634&sr_pri_blocks=1029422406_384060358_2_0_0_88634_58608&from=searchresults",
+    "address": "Johor Bahru",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Johor%2C+Malaysia&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1758866172849&force_referer=",
+    "scrapedAt": "2025-09-26T05:56:16.197Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1758866176197_9",
+    "name": "Rusa 2pax 1min KSL JCHome By MWM",
+    "price": 116,
+    "currency": "USD",
+    "rating": 7.6,
+    "stars": 8,
+    "reviewCount": 50,
+    "avgReview": "7.6/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/546744783.webp?k=4df848e889353ca5782e625e1320db9c35796e2173f20d0bf1e4cb9d9d0838b3&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/546744783.webp?k=4df848e889353ca5782e625e1320db9c35796e2173f20d0bf1e4cb9d9d0838b3&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/546744783.webp?k=4df848e889353ca5782e625e1320db9c35796e2173f20d0bf1e4cb9d9d0838b3&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/my/r6-2pax-with-private-toilet-1min-ksl-shuttle-to-ciq.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9qb2hvciwgbWFsYXlzaWFIM1gEaKEBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAL91djGBsACAdICJGUwZTMxMGIwLWI2ZmUtNDVkNy05Zjc4LTc0ZTMwYjlkZDRhNNgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=85cd29be554b005a&srepoch=1758866175&all_sr_blocks=1169079301_389475031_2_0_0&highlighted_blocks=1169079301_389475031_2_0_0&matching_block_id=1169079301_389475031_2_0_0&sr_pri_blocks=1169079301_389475031_2_0_0__48681&from=searchresults",
+    "address": "Johor Bahru",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Johor%2C+Malaysia&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1758866172849&force_referer=",
+    "scrapedAt": "2025-09-26T05:56:16.197Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

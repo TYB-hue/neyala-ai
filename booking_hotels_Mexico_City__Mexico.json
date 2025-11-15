@@ -1,18 +1,20 @@
 [
   {
-    "id": "hotel_1756489437755_0",
-    "name": "OYO Casa Anzures Mexico City",
-    "price": 165,
+    "id": "hotel_1763179434473_0",
+    "name": "izZzleep WTC Mexico (world trade center Mexico)",
+    "price": 261,
     "currency": "USD",
-    "rating": 8,
-    "stars": 8,
-    "reviewCount": 322,
-    "avgReview": "8.0/5",
+    "rating": 9.2,
+    "stars": 9,
+    "reviewCount": 660,
+    "avgReview": "9.2/5",
     "images": [
-      "https://cf.bstatic.com/xdata/images/hotel/square240/685658900.webp?k=4f9c460c4732358c350ad305dd0864a1170de803446122262beaf3a83a2155e7&o="
+      "https://cf.bstatic.com/xdata/images/hotel/square600/252456553.webp?k=c3dbac0c5e74c890d1b35929c0724e2e1562f31fadd4f4deff0aab0b497ca777&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/252456553.webp?k=c3dbac0c5e74c890d1b35929c0724e2e1562f31fadd4f4deff0aab0b497ca777&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/252456553.webp?k=c3dbac0c5e74c890d1b35929c0724e2e1562f31fadd4f4deff0aab0b497ca777&o="
     ],
-    "bookingUrl": "https://www.booking.com/hotel/mx/casa-anzures.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9tZXhpY28gY2l0eSwgbWV4aWNvSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC2M3HxQbAAgHSAiQyNjdlNTcxNS0zZmJjLTRiZTMtYjIyMS05YjQzZTM5MGMwNjnYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=3ce37cac0f6601aa&srepoch=1756489436&all_sr_blocks=0_0_2_0_0&highlighted_blocks=0_0_2_0_0&matching_block_id=0_0_2_0_0&sr_pri_blocks=0_0_2_0_0__307770&from=searchresults",
-    "address": "Anzures, Mexico City",
+    "bookingUrl": "https://www.booking.com/hotel/mx/izzzleep-wtc-mexico-world-trade-center-mexico.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9tZXhpY28gY2l0eSwgbWV4aWNvSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCqPffyAbAAgHSAiQzZjRhYmYxYi01Mzg5LTQzNmItYjM5OC04YjFmZDg5NjMxMWXYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=5af31c940640082b&srepoch=1763179433&soh=1&from=searchresults#no_availability_msg",
+    "address": "Napoles, Mexico City",
     "location": {
       "lat": 0,
       "lng": 0
@@ -22,185 +24,25 @@
       "Air Conditioning",
       "Free Breakfast"
     ],
-    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Mexico+City%2C+Mexico&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
-    "scrapedAt": "2025-08-29T17:43:57.755Z",
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Mexico+City%2C+Mexico&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-11-15T04:03:54.473Z",
     "source": "Booking.com (ScraperAPI)"
   },
   {
-    "id": "hotel_1756489437755_1",
-    "name": "MD Chapultepec Roma Norte",
-    "price": 330,
-    "currency": "USD",
-    "rating": 3.3495914303650784,
-    "stars": 3,
-    "reviewCount": 1029,
-    "avgReview": "3.3/5",
-    "images": [
-      "https://cf.bstatic.com/xdata/images/hotel/square240/737036938.webp?k=591a6823bfad4d35cd89b822550c5636bb89500e8e91bc0c9805f5aa77cac983&o="
-    ],
-    "bookingUrl": "https://www.booking.com/hotel/mx/md-chapultepec-roma-norte.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9tZXhpY28gY2l0eSwgbWV4aWNvSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC2M3HxQbAAgHSAiQyNjdlNTcxNS0zZmJjLTRiZTMtYjIyMS05YjQzZTM5MGMwNjnYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=3ce37cac0f6601aa&srepoch=1756489436&all_sr_blocks=1482480501_419736359_4_0_0&highlighted_blocks=1482480501_419736359_4_0_0&matching_block_id=1482480501_419736359_4_0_0&sr_pri_blocks=1482480501_419736359_4_0_0__33000&from=searchresults",
-    "address": "Roma, Mexico City (Reforma)",
-    "location": {
-      "lat": 0,
-      "lng": 0
-    },
-    "amenities": [
-      "WiFi",
-      "Air Conditioning",
-      "Free Breakfast"
-    ],
-    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Mexico+City%2C+Mexico&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
-    "scrapedAt": "2025-08-29T17:43:57.755Z",
-    "source": "Booking.com (ScraperAPI)"
-  },
-  {
-    "id": "hotel_1756489437755_2",
-    "name": "La Cabaña Del Tata",
-    "price": 234,
-    "currency": "USD",
-    "rating": 8,
-    "stars": 8,
-    "reviewCount": 1027,
-    "avgReview": "8.0/5",
-    "images": [
-      "https://cf.bstatic.com/xdata/images/hotel/square240/265765332.webp?k=7bd76286cd2db9543339b2573e42440dcc480e34910569ff01835c3e0d5b2f36&o="
-    ],
-    "bookingUrl": "https://www.booking.com/hotel/mx/la-cabana-del-tata.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9tZXhpY28gY2l0eSwgbWV4aWNvSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC2M3HxQbAAgHSAiQyNjdlNTcxNS0zZmJjLTRiZTMtYjIyMS05YjQzZTM5MGMwNjnYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=3ce37cac0f6601aa&srepoch=1756489436&all_sr_blocks=446432409_368769457_0_0_0&highlighted_blocks=446432409_368769457_0_0_0&matching_block_id=446432409_368769457_0_0_0&sr_pri_blocks=446432409_368769457_0_0_0__435000&from=searchresults",
-    "address": "La Marquesa",
-    "location": {
-      "lat": 0,
-      "lng": 0
-    },
-    "amenities": [
-      "WiFi",
-      "Air Conditioning",
-      "Free Breakfast"
-    ],
-    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Mexico+City%2C+Mexico&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
-    "scrapedAt": "2025-08-29T17:43:57.755Z",
-    "source": "Booking.com (ScraperAPI)"
-  },
-  {
-    "id": "hotel_1756489437755_3",
-    "name": "HOTEL MARIA RICO",
-    "price": 115,
+    "id": "hotel_1763179434474_1",
+    "name": "Barrio Downtown Mexico City Hostel",
+    "price": 172,
     "currency": "USD",
     "rating": 8.9,
     "stars": 9,
-    "reviewCount": 322,
+    "reviewCount": 860,
     "avgReview": "8.9/5",
     "images": [
-      "https://cf.bstatic.com/xdata/images/hotel/square240/286864887.webp?k=4e0aba5baa29939aecaf50e72785bb3e74db1df6c0d7fdfc1702045c9c877280&o="
+      "https://cf.bstatic.com/xdata/images/hotel/square600/386173933.webp?k=042a8c538173fa0340fab3ce733dbe960d4c92fb3b5971984a4b8f6ffa45eaa8&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/386173933.webp?k=042a8c538173fa0340fab3ce733dbe960d4c92fb3b5971984a4b8f6ffa45eaa8&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/386173933.webp?k=042a8c538173fa0340fab3ce733dbe960d4c92fb3b5971984a4b8f6ffa45eaa8&o="
     ],
-    "bookingUrl": "https://www.booking.com/hotel/mx/maria-rico.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9tZXhpY28gY2l0eSwgbWV4aWNvSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC2M3HxQbAAgHSAiQyNjdlNTcxNS0zZmJjLTRiZTMtYjIyMS05YjQzZTM5MGMwNjnYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=3ce37cac0f6601aa&srepoch=1756489436&all_sr_blocks=710049803_295815324_2_42_0&highlighted_blocks=710049803_295815324_2_42_0&matching_block_id=710049803_295815324_2_42_0&sr_pri_blocks=710049803_295815324_2_42_0__213390&from=searchresults",
-    "address": "Del Valle, Mexico City (Del Valle)",
-    "location": {
-      "lat": 0,
-      "lng": 0
-    },
-    "amenities": [
-      "WiFi",
-      "Air Conditioning",
-      "Free Breakfast"
-    ],
-    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Mexico+City%2C+Mexico&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
-    "scrapedAt": "2025-08-29T17:43:57.755Z",
-    "source": "Booking.com (ScraperAPI)"
-  },
-  {
-    "id": "hotel_1756489437755_4",
-    "name": "Izzzleep Aeropuerto Terminal 1",
-    "price": 349,
-    "currency": "USD",
-    "rating": 8.7,
-    "stars": 9,
-    "reviewCount": 809,
-    "avgReview": "8.7/5",
-    "images": [
-      "https://cf.bstatic.com/xdata/images/hotel/square240/103620371.webp?k=820e02e4c3c879c8ff2aaa6afdae5c071d14b77eef4024416306dfe980e660dc&o="
-    ],
-    "bookingUrl": "https://www.booking.com/hotel/mx/siesta-express.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9tZXhpY28gY2l0eSwgbWV4aWNvSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC2M3HxQbAAgHSAiQyNjdlNTcxNS0zZmJjLTRiZTMtYjIyMS05YjQzZTM5MGMwNjnYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=3ce37cac0f6601aa&srepoch=1756489436&all_sr_blocks=191528001_390410627_1_0_0_763752%2C191528001_390410627_1_0_0_763752&highlighted_blocks=191528001_390410627_1_0_0_763752%2C191528001_390410627_1_0_0_763752&matching_block_id=191528001_390410627_1_0_0_763752&sr_pri_blocks=191528001_390410627_1_0_0_763752_325359%2C191528001_390410627_1_0_0_763752_325359&from=searchresults",
-    "address": "Venustiano Carranza, Mexico City",
-    "location": {
-      "lat": 0,
-      "lng": 0
-    },
-    "amenities": [
-      "WiFi",
-      "Air Conditioning",
-      "Free Breakfast"
-    ],
-    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Mexico+City%2C+Mexico&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
-    "scrapedAt": "2025-08-29T17:43:57.755Z",
-    "source": "Booking.com (ScraperAPI)"
-  },
-  {
-    "id": "hotel_1756489437755_5",
-    "name": "Hotel Marti",
-    "price": 140,
-    "currency": "USD",
-    "rating": 8.5,
-    "stars": 9,
-    "reviewCount": 388,
-    "avgReview": "8.5/5",
-    "images": [
-      "https://cf.bstatic.com/xdata/images/hotel/square240/650926141.webp?k=2b241f492c2cb857fc211d7b4f81af3d88680b8a4838007a8b3a3f6a720b90dc&o="
-    ],
-    "bookingUrl": "https://www.booking.com/hotel/mx/capital-o-marti.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9tZXhpY28gY2l0eSwgbWV4aWNvSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC2M3HxQbAAgHSAiQyNjdlNTcxNS0zZmJjLTRiZTMtYjIyMS05YjQzZTM5MGMwNjnYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=3ce37cac0f6601aa&srepoch=1756489436&all_sr_blocks=482540511_246392510_2_0_0&highlighted_blocks=482540511_246392510_2_0_0&matching_block_id=482540511_246392510_2_0_0&sr_pri_blocks=482540511_246392510_2_0_0__260640&from=searchresults",
-    "address": "Escandon, Mexico City",
-    "location": {
-      "lat": 0,
-      "lng": 0
-    },
-    "amenities": [
-      "WiFi",
-      "Air Conditioning",
-      "Free Breakfast"
-    ],
-    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Mexico+City%2C+Mexico&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
-    "scrapedAt": "2025-08-29T17:43:57.755Z",
-    "source": "Booking.com (ScraperAPI)"
-  },
-  {
-    "id": "hotel_1756489437755_6",
-    "name": "Barceló Mexico Reforma",
-    "price": 411,
-    "currency": "USD",
-    "rating": 9,
-    "stars": 9,
-    "reviewCount": 180,
-    "avgReview": "9.0/5",
-    "images": [
-      "https://cf.bstatic.com/xdata/images/hotel/square240/204783839.webp?k=3bba51509b83169b74c5816141adae901db8aacc5454385b083915faab40e548&o="
-    ],
-    "bookingUrl": "https://www.booking.com/hotel/mx/barcelo-mexico-reforma.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9tZXhpY28gY2l0eSwgbWV4aWNvSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC2M3HxQbAAgHSAiQyNjdlNTcxNS0zZmJjLTRiZTMtYjIyMS05YjQzZTM5MGMwNjnYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=3ce37cac0f6601aa&srepoch=1756489436&all_sr_blocks=248585613_103237265_2_2_0&highlighted_blocks=248585613_103237265_2_2_0&matching_block_id=248585613_103237265_2_2_0&sr_pri_blocks=248585613_103237265_2_2_0__41130&from=searchresults",
-    "address": "Juarez, Mexico City (Reforma)",
-    "location": {
-      "lat": 0,
-      "lng": 0
-    },
-    "amenities": [
-      "WiFi",
-      "Air Conditioning",
-      "Free Breakfast"
-    ],
-    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Mexico+City%2C+Mexico&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
-    "scrapedAt": "2025-08-29T17:43:57.755Z",
-    "source": "Booking.com (ScraperAPI)"
-  },
-  {
-    "id": "hotel_1756489437755_7",
-    "name": "Hotel El Salvador",
-    "price": 148,
-    "currency": "USD",
-    "rating": 8.7,
-    "stars": 9,
-    "reviewCount": 921,
-    "avgReview": "8.7/5",
-    "images": [
-      "https://cf.bstatic.com/xdata/images/hotel/square240/227441606.webp?k=7df8da5aeed18adcc6655dd87dc9b3deaa8e9e80b33955238aaf15e1d558c8ff&o="
-    ],
-    "bookingUrl": "https://www.booking.com/hotel/mx/el-salvador.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9tZXhpY28gY2l0eSwgbWV4aWNvSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC2M3HxQbAAgHSAiQyNjdlNTcxNS0zZmJjLTRiZTMtYjIyMS05YjQzZTM5MGMwNjnYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=3ce37cac0f6601aa&srepoch=1756489436&all_sr_blocks=17696802_382465764_2_0_0&highlighted_blocks=17696802_382465764_2_0_0&matching_block_id=17696802_382465764_2_0_0&sr_pri_blocks=17696802_382465764_2_0_0__276150&from=searchresults",
+    "bookingUrl": "https://www.booking.com/hotel/mx/barrio-hostel-downtown-mexico-city.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9tZXhpY28gY2l0eSwgbWV4aWNvSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCqPffyAbAAgHSAiQzZjRhYmYxYi01Mzg5LTQzNmItYjM5OC04YjFmZDg5NjMxMWXYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=5af31c940640082b&srepoch=1763179433&all_sr_blocks=873912604_375126140_0_1_0_360599&highlighted_blocks=873912604_375126140_0_1_0_360599&matching_block_id=873912604_375126140_0_1_0_360599&sr_pri_blocks=873912604_375126140_0_1_0_360599_314037&from=searchresults",
     "address": "Mexico City Historic Center, Mexico City",
     "location": {
       "lat": 0,
@@ -211,50 +53,83 @@
       "Air Conditioning",
       "Free Breakfast"
     ],
-    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Mexico+City%2C+Mexico&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
-    "scrapedAt": "2025-08-29T17:43:57.755Z",
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Mexico+City%2C+Mexico&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-11-15T04:03:54.474Z",
     "source": "Booking.com (ScraperAPI)"
   },
   {
-    "id": "hotel_1756489437755_8",
-    "name": "Suites Arquimedes 33",
-    "price": 345,
-    "currency": "USD",
-    "rating": 8.9,
-    "stars": 9,
-    "reviewCount": 701,
-    "avgReview": "8.9/5",
-    "images": [
-      "https://cf.bstatic.com/xdata/images/hotel/square240/277644999.webp?k=5d64fde7fc653e3f6e3732e6b6d6bcf89e0f26024f8eca42e67087a920a7e5ac&o="
-    ],
-    "bookingUrl": "https://www.booking.com/hotel/mx/suites-arquimedes-33.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9tZXhpY28gY2l0eSwgbWV4aWNvSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC2M3HxQbAAgHSAiQyNjdlNTcxNS0zZmJjLTRiZTMtYjIyMS05YjQzZTM5MGMwNjnYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=3ce37cac0f6601aa&srepoch=1756489436&all_sr_blocks=664941702_378400477_4_0_0&highlighted_blocks=664941702_378400477_4_0_0&matching_block_id=664941702_378400477_4_0_0&sr_pri_blocks=664941702_378400477_4_0_0__642000&from=searchresults",
-    "address": "Polanco, Mexico City",
-    "location": {
-      "lat": 0,
-      "lng": 0
-    },
-    "amenities": [
-      "WiFi",
-      "Air Conditioning",
-      "Free Breakfast"
-    ],
-    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Mexico+City%2C+Mexico&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
-    "scrapedAt": "2025-08-29T17:43:57.755Z",
-    "source": "Booking.com (ScraperAPI)"
-  },
-  {
-    "id": "hotel_1756489437755_9",
-    "name": "Eugenio SUEtes",
-    "price": 222,
+    "id": "hotel_1763179434474_2",
+    "name": "Motel Caban",
+    "price": 91,
     "currency": "USD",
     "rating": 8.4,
     "stars": 8,
-    "reviewCount": 931,
+    "reviewCount": 70,
     "avgReview": "8.4/5",
     "images": [
-      "https://cf.bstatic.com/xdata/images/hotel/square240/517435540.webp?k=cb2b864eeb1975d5cc07deae6e5f4dc7ed0b0b601d6f57cbd74cc6a6a30f75f4&o="
+      "https://cf.bstatic.com/xdata/images/hotel/square600/264098531.webp?k=ac453151401c8365d809ed50456d8554caf5d2b73aa95f2193d80a4ccb1db2a3&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/264098531.webp?k=ac453151401c8365d809ed50456d8554caf5d2b73aa95f2193d80a4ccb1db2a3&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/264098531.webp?k=ac453151401c8365d809ed50456d8554caf5d2b73aa95f2193d80a4ccb1db2a3&o="
     ],
-    "bookingUrl": "https://www.booking.com/hotel/mx/eugenio-suetes.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9tZXhpY28gY2l0eSwgbWV4aWNvSDNYBGjkAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC2M3HxQbAAgHSAiQyNjdlNTcxNS0zZmJjLTRiZTMtYjIyMS05YjQzZTM5MGMwNjnYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=3ce37cac0f6601aa&srepoch=1756489436&all_sr_blocks=1131693002_385814712_0_0_0&highlighted_blocks=1131693002_385814712_0_0_0&matching_block_id=1131693002_385814712_0_0_0&sr_pri_blocks=1131693002_385814712_0_0_0__414000&from=searchresults",
+    "bookingUrl": "https://www.booking.com/hotel/mx/motel-caban.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9tZXhpY28gY2l0eSwgbWV4aWNvSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCqPffyAbAAgHSAiQzZjRhYmYxYi01Mzg5LTQzNmItYjM5OC04YjFmZDg5NjMxMWXYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=5af31c940640082b&srepoch=1763179433&all_sr_blocks=277748901_335393636_2_0_0&highlighted_blocks=277748901_335393636_2_0_0&matching_block_id=277748901_335393636_2_0_0&sr_pri_blocks=277748901_335393636_2_0_0__166101&from=searchresults",
+    "address": "Xochimilco, Xochimilco",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Mexico+City%2C+Mexico&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-11-15T04:03:54.474Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763179434475_3",
+    "name": "Hotel El Salvador",
+    "price": 258,
+    "currency": "USD",
+    "rating": 8.8,
+    "stars": 9,
+    "reviewCount": 483,
+    "avgReview": "8.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/227441606.webp?k=7df8da5aeed18adcc6655dd87dc9b3deaa8e9e80b33955238aaf15e1d558c8ff&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/227441606.webp?k=7df8da5aeed18adcc6655dd87dc9b3deaa8e9e80b33955238aaf15e1d558c8ff&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/227441606.webp?k=7df8da5aeed18adcc6655dd87dc9b3deaa8e9e80b33955238aaf15e1d558c8ff&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/mx/el-salvador.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9tZXhpY28gY2l0eSwgbWV4aWNvSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCqPffyAbAAgHSAiQzZjRhYmYxYi01Mzg5LTQzNmItYjM5OC04YjFmZDg5NjMxMWXYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=5af31c940640082b&srepoch=1763179433&all_sr_blocks=17696806_382465764_2_0_0&highlighted_blocks=17696806_382465764_2_0_0&matching_block_id=17696806_382465764_2_0_0&sr_pri_blocks=17696806_382465764_2_0_0__471500&from=searchresults",
+    "address": "Mexico City Historic Center, Mexico City",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Mexico+City%2C+Mexico&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-11-15T04:03:54.475Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763179434476_4",
+    "name": "Eugenio SUEtes",
+    "price": 231,
+    "currency": "USD",
+    "rating": 8.5,
+    "stars": 9,
+    "reviewCount": 1008,
+    "avgReview": "8.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/517435540.webp?k=cb2b864eeb1975d5cc07deae6e5f4dc7ed0b0b601d6f57cbd74cc6a6a30f75f4&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/517435540.webp?k=cb2b864eeb1975d5cc07deae6e5f4dc7ed0b0b601d6f57cbd74cc6a6a30f75f4&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/517435540.webp?k=cb2b864eeb1975d5cc07deae6e5f4dc7ed0b0b601d6f57cbd74cc6a6a30f75f4&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/mx/eugenio-suetes.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9tZXhpY28gY2l0eSwgbWV4aWNvSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCqPffyAbAAgHSAiQzZjRhYmYxYi01Mzg5LTQzNmItYjM5OC04YjFmZDg5NjMxMWXYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=5af31c940640082b&srepoch=1763179433&all_sr_blocks=1131693009_385814712_2_0_0&highlighted_blocks=1131693009_385814712_2_0_0&matching_block_id=1131693009_385814712_2_0_0&sr_pri_blocks=1131693009_385814712_2_0_0__421875&from=searchresults",
     "address": "Polanco, Mexico City",
     "location": {
       "lat": 0,
@@ -265,8 +140,153 @@
       "Air Conditioning",
       "Free Breakfast"
     ],
-    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Mexico+City%2C+Mexico&checkin=2025-09-05&checkout=2025-09-08&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
-    "scrapedAt": "2025-08-29T17:43:57.755Z",
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Mexico+City%2C+Mexico&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-11-15T04:03:54.476Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763179434476_5",
+    "name": "Capital O Andrade, Mexico City",
+    "price": 83,
+    "currency": "USD",
+    "rating": 6.5,
+    "stars": 7,
+    "reviewCount": 548,
+    "avgReview": "6.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/668132959.webp?k=1585f012ea2ec3039de92c8ceb06b496560d811040a3d8c50a74667020a10fa8&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/668132959.webp?k=1585f012ea2ec3039de92c8ceb06b496560d811040a3d8c50a74667020a10fa8&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/668132959.webp?k=1585f012ea2ec3039de92c8ceb06b496560d811040a3d8c50a74667020a10fa8&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/mx/andrade.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9tZXhpY28gY2l0eSwgbWV4aWNvSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCqPffyAbAAgHSAiQzZjRhYmYxYi01Mzg5LTQzNmItYjM5OC04YjFmZDg5NjMxMWXYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=5af31c940640082b&srepoch=1763179433&all_sr_blocks=54256305_0_2_0_0&highlighted_blocks=54256305_0_2_0_0&matching_block_id=54256305_0_2_0_0&sr_pri_blocks=54256305_0_2_0_0__151674&from=searchresults",
+    "address": "Doctores, Mexico City",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Mexico+City%2C+Mexico&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-11-15T04:03:54.476Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763179434477_6",
+    "name": "Izzzleep Aeropuerto Terminal 1",
+    "price": 328,
+    "currency": "USD",
+    "rating": 8.7,
+    "stars": 9,
+    "reviewCount": 862,
+    "avgReview": "8.7/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/103620371.webp?k=820e02e4c3c879c8ff2aaa6afdae5c071d14b77eef4024416306dfe980e660dc&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/103620371.webp?k=820e02e4c3c879c8ff2aaa6afdae5c071d14b77eef4024416306dfe980e660dc&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/103620371.webp?k=820e02e4c3c879c8ff2aaa6afdae5c071d14b77eef4024416306dfe980e660dc&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/mx/siesta-express.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9tZXhpY28gY2l0eSwgbWV4aWNvSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCqPffyAbAAgHSAiQzZjRhYmYxYi01Mzg5LTQzNmItYjM5OC04YjFmZDg5NjMxMWXYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=5af31c940640082b&srepoch=1763179433&all_sr_blocks=191528002_390410627_1_0_0_763752%2C191528002_390410627_1_0_0_763752&highlighted_blocks=191528002_390410627_1_0_0_763752%2C191528002_390410627_1_0_0_763752&matching_block_id=191528002_390410627_1_0_0_763752&sr_pri_blocks=191528002_390410627_1_0_0_763752_299330%2C191528002_390410627_1_0_0_763752_299330&from=searchresults",
+    "address": "Venustiano Carranza, Mexico City",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Mexico+City%2C+Mexico&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-11-15T04:03:54.477Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763179434478_7",
+    "name": "Hotel Marti",
+    "price": 155,
+    "currency": "USD",
+    "rating": 8.7,
+    "stars": 9,
+    "reviewCount": 955,
+    "avgReview": "8.7/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/650926141.webp?k=2b241f492c2cb857fc211d7b4f81af3d88680b8a4838007a8b3a3f6a720b90dc&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/650926141.webp?k=2b241f492c2cb857fc211d7b4f81af3d88680b8a4838007a8b3a3f6a720b90dc&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/650926141.webp?k=2b241f492c2cb857fc211d7b4f81af3d88680b8a4838007a8b3a3f6a720b90dc&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/mx/capital-o-marti.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9tZXhpY28gY2l0eSwgbWV4aWNvSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCqPffyAbAAgHSAiQzZjRhYmYxYi01Mzg5LTQzNmItYjM5OC04YjFmZDg5NjMxMWXYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=5af31c940640082b&srepoch=1763179433&all_sr_blocks=482540511_246392510_2_0_0&highlighted_blocks=482540511_246392510_2_0_0&matching_block_id=482540511_246392510_2_0_0&sr_pri_blocks=482540511_246392510_2_0_0__283176&from=searchresults",
+    "address": "Escandon, Mexico City",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Mexico+City%2C+Mexico&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-11-15T04:03:54.478Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763179434478_8",
+    "name": "Hotel Seoul",
+    "price": 86,
+    "currency": "USD",
+    "rating": 7.6,
+    "stars": 8,
+    "reviewCount": 894,
+    "avgReview": "7.6/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/108193840.webp?k=badfa57a62f9ea8f8a303189bc168ef5af03768341cb8fd95aef3655bd850033&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/108193840.webp?k=badfa57a62f9ea8f8a303189bc168ef5af03768341cb8fd95aef3655bd850033&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/108193840.webp?k=badfa57a62f9ea8f8a303189bc168ef5af03768341cb8fd95aef3655bd850033&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/mx/seoul.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9tZXhpY28gY2l0eSwgbWV4aWNvSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCqPffyAbAAgHSAiQzZjRhYmYxYi01Mzg5LTQzNmItYjM5OC04YjFmZDg5NjMxMWXYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=5af31c940640082b&srepoch=1763179433&all_sr_blocks=186313001_414219067_2_1_0&highlighted_blocks=186313001_414219067_2_1_0&matching_block_id=186313001_414219067_2_1_0&sr_pri_blocks=186313001_414219067_2_1_0__156484&from=searchresults",
+    "address": "Venustiano Carranza, Mexico City",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Mexico+City%2C+Mexico&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-11-15T04:03:54.478Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763179434479_9",
+    "name": "Hotel Principe",
+    "price": 110,
+    "currency": "USD",
+    "rating": 8.3,
+    "stars": 8,
+    "reviewCount": 341,
+    "avgReview": "8.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/296255756.webp?k=4903f866e3f88d1aeb54421170cd06f649b7d77a0e466c5246c79ddf07bbd4cb&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/296255756.webp?k=4903f866e3f88d1aeb54421170cd06f649b7d77a0e466c5246c79ddf07bbd4cb&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/296255756.webp?k=4903f866e3f88d1aeb54421170cd06f649b7d77a0e466c5246c79ddf07bbd4cb&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/mx/principe-miguel-higalgo.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9tZXhpY28gY2l0eSwgbWV4aWNvSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCqPffyAbAAgHSAiQzZjRhYmYxYi01Mzg5LTQzNmItYjM5OC04YjFmZDg5NjMxMWXYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=5af31c940640082b&srepoch=1763179433&all_sr_blocks=682736001_278283143_2_0_0&highlighted_blocks=682736001_278283143_2_0_0&matching_block_id=682736001_278283143_2_0_0&sr_pri_blocks=682736001_278283143_2_0_0__201675&from=searchresults",
+    "address": "Escandon, Mexico City",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Mexico+City%2C+Mexico&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-11-15T04:03:54.479Z",
     "source": "Booking.com (ScraperAPI)"
   }
 ]

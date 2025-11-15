@@ -8,6 +8,11 @@ export const countryHeaderImages: Record<string, string> = {
   // Japan - Mount Fuji and traditional Japanese landscape
   'japan': 'https://images.unsplash.com/photo-1542052125323-e69ad37a47c2?ixlib=rb-4.1.0&auto=format&fit=crop&w=1200&h=600&q=80',
   
+  // Kyoto - Traditional Japanese temples and architecture
+  'kyoto': 'https://images.unsplash.com/photo-1526481280693-3bfa7568e0f3?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+  'kyoto, japan': 'https://images.unsplash.com/photo-1526481280693-3bfa7568e0f3?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+  'kyoto japan': 'https://images.unsplash.com/photo-1526481280693-3bfa7568e0f3?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+  
   // Singapore - Modern cityscape with Marina Bay Sands
   'singapore': 'https://images.unsplash.com/photo-1525625293386-3f8f99389edd?ixlib=rb-4.1.0&auto=format&fit=crop&w=1200&h=600&q=80',
   
@@ -20,8 +25,20 @@ export const countryHeaderImages: Record<string, string> = {
   'usa': 'https://plus.unsplash.com/premium_photo-1721671634670-b1f3fcaf71a0?q=80&w=1674&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
   'us': 'https://plus.unsplash.com/premium_photo-1721671634670-b1f3fcaf71a0?q=80&w=1674&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
   
+  // New York City - NYC skyline and landmarks
+  'new york': 'https://images.unsplash.com/photo-1499092346589-b9b6be3e94b2?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+  'new york city': 'https://images.unsplash.com/photo-1499092346589-b9b6be3e94b2?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+  'nyc': 'https://images.unsplash.com/photo-1499092346589-b9b6be3e94b2?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+  'new york, usa': 'https://images.unsplash.com/photo-1499092346589-b9b6be3e94b2?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+  'new york, united states': 'https://images.unsplash.com/photo-1499092346589-b9b6be3e94b2?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+  'New York City, USA': 'https://images.unsplash.com/photo-1499092346589-b9b6be3e94b2?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+  
   // Canada - Rocky Mountains and natural landscape
   'canada': 'https://plus.unsplash.com/premium_photo-1694475481348-7cbe417be129?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+  
+  // Mexico - Mexico City and Mexican landmarks
+  'mexico': 'https://images.unsplash.com/photo-1547995886-6dc09384c6e6?q=80&w=1452&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+  'mexico city': 'https://images.unsplash.com/photo-1547995886-6dc09384c6e6?q=80&w=1452&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
   
   // UAE - Modern Dubai skyline
   'uae': 'https://images.unsplash.com/photo-1546412414-8035e1776c9a?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fFVBRXxlbnwwfHwwfHx8MA%3D%3D',
@@ -88,15 +105,71 @@ export function getHeaderImageForDestination(destination: string): string | null
   if (!destination) return null;
   
   const normalizedDestination = destination.toLowerCase().trim();
+  console.log('[getHeaderImageForDestination] Checking destination:', normalizedDestination);
   
   // First, check if the exact destination has a specific image
   if (countryHeaderImages[normalizedDestination]) {
+    console.log('[getHeaderImageForDestination] Found exact match:', normalizedDestination);
     return countryHeaderImages[normalizedDestination];
   }
   
-  // Extract country from destination (e.g., "Beijing, China" -> "china")
-  const parts = normalizedDestination.split(/[,\s]+/);
+  // Also check with normalized spacing (remove extra spaces)
+  const normalizedSpacing = normalizedDestination.replace(/\s+/g, ' ');
+  if (countryHeaderImages[normalizedSpacing] && normalizedSpacing !== normalizedDestination) {
+    console.log('[getHeaderImageForDestination] Found match with normalized spacing:', normalizedSpacing);
+    return countryHeaderImages[normalizedSpacing];
+  }
   
+  // Extract parts from destination (e.g., "Beijing, China" -> ["beijing", "china"])
+  const parts = normalizedDestination.split(/[,\s]+/).map(p => p.trim()).filter(p => p);
+  console.log('[getHeaderImageForDestination] Extracted parts:', parts);
+  
+  // List of country-only keys (not cities) - cities should take priority
+  const countryOnlyKeys = new Set(['japan', 'china', 'singapore', 'united kingdom', 'uk', 'united states', 'usa', 'us', 'canada', 'mexico', 'uae', 'united arab emirates', 'italy', 'turkey', 'türkiye', 'spain', 'thailand', 'morocco', 'netherlands', 'holland', 'greece', 'portugal', 'malaysia', 'australia', 'costa rica', 'france', 'saudi arabia', 'saudi']);
+  
+  // First, check for multi-word city matches (e.g., "new york city", "kyoto japan")
+  // Build combinations of consecutive words to check for city names (check longer combinations first)
+  for (let wordCount = 3; wordCount >= 2; wordCount--) {
+    for (let i = 0; i <= parts.length - wordCount; i++) {
+      const combination = parts.slice(i, i + wordCount).join(' ');
+      console.log(`[getHeaderImageForDestination] Checking combination (${wordCount} words):`, combination);
+      if (countryHeaderImages[combination] && !countryOnlyKeys.has(combination)) {
+        // This is a city-specific image, return it
+        console.log('[getHeaderImageForDestination] Found city-specific match:', combination);
+        return countryHeaderImages[combination];
+      }
+      // Also check with comma between first and second word
+      if (wordCount === 2) {
+        const combinationComma = parts.slice(i, i + wordCount).join(', ');
+        console.log(`[getHeaderImageForDestination] Checking combination with comma:`, combinationComma);
+        if (countryHeaderImages[combinationComma] && !countryOnlyKeys.has(combinationComma)) {
+          console.log('[getHeaderImageForDestination] Found city-specific match with comma:', combinationComma);
+          return countryHeaderImages[combinationComma];
+        }
+      }
+    }
+  }
+  
+  // Check 2-word combinations with comma in different positions
+  for (let i = 0; i < parts.length - 1; i++) {
+    for (let j = i + 1; j < parts.length && j <= i + 2; j++) {
+      const combinationComma = parts.slice(i, j + 1).join(', ');
+      if (countryHeaderImages[combinationComma] && !countryOnlyKeys.has(combinationComma)) {
+        return countryHeaderImages[combinationComma];
+      }
+    }
+  }
+  
+  // Then check for single-word city matches (non-country keys)
+  for (const part of parts) {
+    const cleanPart = part.toLowerCase().trim();
+    if (countryHeaderImages[cleanPart] && !countryOnlyKeys.has(cleanPart)) {
+      // This is a city-specific image, return it
+      return countryHeaderImages[cleanPart];
+    }
+  }
+  
+  // Finally check for country matches
   for (const part of parts) {
     const cleanPart = part.toLowerCase().trim();
     if (countryHeaderImages[cleanPart]) {

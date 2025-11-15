@@ -1,1 +1,292 @@
-[]
+[
+  {
+    "id": "hotel_1763183791935_0",
+    "name": "Premium Apart MONday KYOTO GOJO",
+    "price": 1587,
+    "currency": "USD",
+    "rating": 9.5,
+    "stars": 10,
+    "reviewCount": 741,
+    "avgReview": "9.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/686929540.webp?k=27534ecb6a762173b9251ee7bfe1678928b2987b3d4cd9282a66a7ec8b2263fd&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/686929540.webp?k=27534ecb6a762173b9251ee7bfe1678928b2987b3d4cd9282a66a7ec8b2263fd&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/686929540.webp?k=27534ecb6a762173b9251ee7bfe1678928b2987b3d4cd9282a66a7ec8b2263fd&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/jp/monday-apart-premium-kyoto-gojo.html?aid=304142&label=gen173nr-10CAQoggJCE3NlYXJjaF9reW90bywgamFwYW5IM1gEaKEBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKsmeDIBsACAdICJGE1YjIyMmRmLWVjNzItNDQyNC04YmY2LTQ2MjEzYzMyZTYyYdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=8a2525162a1f00c2&srepoch=1763183792&all_sr_blocks=1357830002_411391540_2_0_0&highlighted_blocks=1357830002_411391540_2_0_0&matching_block_id=1357830002_411391540_2_0_0&sr_pri_blocks=1357830002_411391540_2_0_0__24475000&from=searchresults",
+    "address": "Shimogyo Ward, Kyoto (Gion)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Kyoto%2C+Japan&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1763183787747&force_referer=",
+    "scrapedAt": "2025-11-15T05:16:31.935Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763183791936_1",
+    "name": "Hyatt Regency Kyoto",
+    "price": 2189,
+    "currency": "USD",
+    "rating": 8.8,
+    "stars": 9,
+    "reviewCount": 392,
+    "avgReview": "8.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/775618065.webp?k=16acafd4f97c0891498d14a0e3cd44af15fff5c3ce0cb719ee5997f61bdc5321&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/775618065.webp?k=16acafd4f97c0891498d14a0e3cd44af15fff5c3ce0cb719ee5997f61bdc5321&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/775618065.webp?k=16acafd4f97c0891498d14a0e3cd44af15fff5c3ce0cb719ee5997f61bdc5321&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/jp/hyatt-regency-kyoto.html?aid=304142&label=gen173nr-10CAQoggJCE3NlYXJjaF9reW90bywgamFwYW5IM1gEaKEBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKsmeDIBsACAdICJGE1YjIyMmRmLWVjNzItNDQyNC04YmY2LTQ2MjEzYzMyZTYyYdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=8a2525162a1f00c2&srepoch=1763183792&all_sr_blocks=24548302_93717995_2_42_0&highlighted_blocks=24548302_93717995_2_42_0&matching_block_id=24548302_93717995_2_42_0&sr_pri_blocks=24548302_93717995_2_42_0__33745000&nad_id=324c5343-9c3d-4ff3-b74b-7b3a0f827075_2&nad_cpc=0.66&nad_track=eyJhdWN0aW9uRXBvY2giOjE3NjMxODM3ODkyMzUsInJhbmsiOjEsImtvZGRpVHJhY2tpbmdJbmZvIjoiWFFnTW1PQzQzV3NQTDJscFJIak1QMytZRXVpK1BUVTV1Y244UUI1THJqY1NEU3dhWk40Z2RtUTk1Qy9JbURHUm9semVSOTVCK0tUZDFxUjY2NTVjLzYzMWxrc3F4bGhraTZhN3IzOSszRzdTZ21FT21RbkhhN1l0b3RhT1hMVHU0NHoySEdNUzhOWWJVWG9KYzY0T1VHRzlwRHdnSXR3VDAyWWErNTdrUmhTbGRlMWxDV2lqZ2trREtnT3hrSm9vdXZKSUExQ0VtUkh1aW5Xd3BzUHp0U1JUSzhpZ2l6UFAvNGRGcXk5TEJJMzk1WEx3dzRIajhrRFFVT0dDdnRvcEpEUi9WTGE3VDVEN3VtR2QzNHhKZnN3VEVsMzZNVWFsYTI3N2trSjNRVWVkZ2g2akQrakJDYmVzeUppWXRFQ2ZaVDFhQngzYytERjdYc3NUWXBsZUlzSTZFWkJsNTl3amw2K3d1NjZHMUxmOGVRM3NJZXJGQ0NTWmFJS1M3YU1wRzVPMXFWdFBKV3MweXVPZVBoNVQwQzRTUUV3ZzRnZHFxb1dlQ0FGNEJJanEvRWxrSU9Lck95T1JBTHhpcjM3ckRtNE4wVW9wU2VESDRMaDNFaFY2RFhDUW1RMjBpS255d05zRnVBVEdZSXF5VHY3MGNRT2hJNWtLd25wNnkxczEwbm5zOVpqRmNnWGM1YngzTkVWMzFsYWlJUTUxYWZ2bms0cmUyelpNdzd6eFFZSXl3UTN3MXQ2bzhWOENEdzlIM21IbTc5Q1pMSFFaaHFSRHZ0TWJzR1g2SHlaQ0llNDNHUlVRZ0tQbHpaM2o0OFVVVTRaQ3dRendYTG1zcWRxMWZLRnNBWjNIRks4MHNOM2ZObGNyeWVxamRhblhLamFjK2t5WnlqK0hWZXJLMG11bVJJY3lMbk1tQWNPaEdReGhXQzlYcCtBSkFsS0MyMXBJQVlJN2QrcjdNclh1OVJsM01xcklOL2JVVmpFTE4yZFhzVzNhdjZBUExzdTBQS1I0RkVDRTNRbVFXSmVzanZ1cTk5Y1RJSUpZM0s4TGVFb0I1VWwrTjRlQ2lFaGc0ZURaM1JMRmRzcHF2Uk9CdzBhbVNQV0VJMTkwQU1FdWcxZWthbHFGbzBRZmRSSmMvUW51OTlNckFEV3NNK1l4c25aOWhhMUcvSXp3Z3RvMnZhUWN2UmIzUVVUKzBKRXRKYXRzUHJUM2NVdUNJdUlSc3BhK0ZNRzdqbG1IelRKWkptNzd4QnJlWnV0elprQ1cyY0FsRDRLUWlFdWFMYUhZSnJJbFJScFIvZ2lJZkhUbElOY05KaUN4UU5LSncxM2N2VFBaamswdHlWVzZtdU5Yc1N6K0lpR0UyVnYvaWpmTFc1aWt6NFM5UG1VZ3Q0bGcvM2trZkI4RnFuMldyQnM0WHMxUVNCTWFrdExKcjJIUlZEMkxSZDZNSEExRWFWODRTYUlXT3VoeU5DR1pWby9ueUpjRWh3Q3Z2ZzBJN2N5cllLOUozenI3U3Focnc0RW1rRXAwSllQTEQ2aWxrVytKdzFsTVZnbnhPNWlyems3NEtXUTZHTmVYT2tLK0xTTmpYSHZVbkdRV0hMVHJ6WUUyMHUrU1ZjeitQT0lSWXUrK2NOeDhRM0lOVitqeHNiTzM3NXBIdTMrTis1T1N0VGVaZkhDOEhJR3VyL3BEbVYrL1ROUEY2cW1sclRIeThPTmtIa2l1LzhGMlkvQjhNYzhKSzBnQUl6S0sreEpDRVlxZjNlLzRseXFnQjlKSi81Mm82L0dySElRcStwRjhyelNIREhzbDA4bFpyTkc5QUdSUkFvOEhKNWlSTThQY0NHL3lzTVRDMUJuQ3VQY2VPbytBWTA1VUFoaFJNNXNvck5nazVZY3VxanpmTTU5Z0ZEVDlBYVdZbDc1MmtmQ0gwUHNRWFloWWFVY1VnMFNmS0RlQkI5RGR6eW5GZTZMOHk4b2pyUXBZQzB3Y05KRk9pYXFxOHc9PSJ9&nad_placement=SR_MAIN&from=searchresults",
+    "address": "Higashiyama Ward, Kyoto (Gion, Higashiyama)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Kyoto%2C+Japan&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1763183787747&force_referer=",
+    "scrapedAt": "2025-11-15T05:16:31.936Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763183791936_2",
+    "name": "Hotel Keihan Kyoto Ekiminami",
+    "price": 593,
+    "currency": "USD",
+    "rating": 8.7,
+    "stars": 9,
+    "reviewCount": 774,
+    "avgReview": "8.7/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/693618749.webp?k=12b942d11227d0fb53d3f42adefd80839200de0e4ac7639f68d0e16d0298f63b&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/693618749.webp?k=12b942d11227d0fb53d3f42adefd80839200de0e4ac7639f68d0e16d0298f63b&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/693618749.webp?k=12b942d11227d0fb53d3f42adefd80839200de0e4ac7639f68d0e16d0298f63b&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/jp/hotel-keihan-kyotoeki-minami.html?aid=304142&label=gen173nr-10CAQoggJCE3NlYXJjaF9reW90bywgamFwYW5IM1gEaKEBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKsmeDIBsACAdICJGE1YjIyMmRmLWVjNzItNDQyNC04YmY2LTQ2MjEzYzMyZTYyYdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=8a2525162a1f00c2&srepoch=1763183792&all_sr_blocks=559253202_209229774_2_1_0&highlighted_blocks=559253202_209229774_2_1_0&matching_block_id=559253202_209229774_2_1_0&sr_pri_blocks=559253202_209229774_2_1_0__9140669&from=searchresults",
+    "address": "Minami Ward, Kyoto (Kyoto Station Area)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Kyoto%2C+Japan&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1763183787747&force_referer=",
+    "scrapedAt": "2025-11-15T05:16:31.936Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763183791937_3",
+    "name": "HOTEL THE MITSUI KYOTO, a Luxury Collection Hotel & Spa",
+    "price": 4506,
+    "currency": "USD",
+    "rating": 9.4,
+    "stars": 9,
+    "reviewCount": 913,
+    "avgReview": "9.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/546393048.webp?k=5c218b398ccd1124093088f769c9abd7913aca891565ab46a03def9506454a24&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/546393048.webp?k=5c218b398ccd1124093088f769c9abd7913aca891565ab46a03def9506454a24&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/546393048.webp?k=5c218b398ccd1124093088f769c9abd7913aca891565ab46a03def9506454a24&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/jp/the-mitsui-kyoto-a-luxury-collection-spa.html?aid=304142&label=gen173nr-10CAQoggJCE3NlYXJjaF9reW90bywgamFwYW5IM1gEaKEBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKsmeDIBsACAdICJGE1YjIyMmRmLWVjNzItNDQyNC04YmY2LTQ2MjEzYzMyZTYyYdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=8a2525162a1f00c2&srepoch=1763183792&all_sr_blocks=675517404_369727206_2_2_0&highlighted_blocks=675517404_369727206_2_2_0&matching_block_id=675517404_369727206_2_2_0&sr_pri_blocks=675517404_369727206_2_2_0__69480000&nad_id=324c5343-9c3d-4ff3-b74b-7b3a0f827075_4&nad_cpc=1.01&nad_track=eyJhdWN0aW9uRXBvY2giOjE3NjMxODM3ODkyMzYsInJhbmsiOjIsImtvZGRpVHJhY2tpbmdJbmZvIjoiWFFnTW1PQzQzV3NQTDJscFJIak1QMzluRXVpK1BYVTV1Y244Y0J4THJWZkJYWndFMHlabGM5ZThhVURWeE9rYkdycjNjbFl4MnB1SDdTY3l6YTVPSFV4NnF5eE9qbGxraXFhNnI0eERyaUx4NkhQcHU5RFZuRTN4NE9IUkJBK0h4SXJZbHdIZDU1RVRQSE4yNzR0YldEWTNaYStPUENjYjAzVG5rUVVhRnl0Skx1TmRRbElmaENDZVdWeGNhMXNJc0JhdXFUUnc5ZDRBcVEzYzhGUnMxcnNZbU8wZzNrTmNoSzhLQVNNMWl0Sk9tc3pTSUJWWEhiSzdyNit6bmFFVmhHWlIwczdMQ2RuTEU0blM0MmVQZllodlNqWDQyQldacWMwV2lMeTYvMWZhSGlpc2ZTMk9JSVdJSklUUjdXMEpmdWtURzVISDVPQ3FqS1dUdzFCL2RDdm1JUktVcFJCNUxJOStieXpzcFY4VFoxYm0wUHJLR0RTVzNMb0YrVlR2Sk9xUGlucllieDFobnJPVkFtV2tUNWk2cUllV2VBVFk1RFRyKy9pdkdoMzlSeUdJRVFxUXRQVVVQOThlWjV2c2pZY25qMXRMVG1OTEd3eTRsaVQxN1dNblRhRVlrdGZjTlpsdVBsTmsrZ3ZxU3h5TFNMMTJJTjdKNEdtdnFCNDh2cG4zRlAvV2Z4cGMzcExqOGNIYll1OUwwTXYxVWthRUlGUHRKVVI4Umt2Z3dWQUNRcGF3UE5HbGFWTWptOGxWTDU1QzhFNERKYUlRTWdiMVlxdGMxN3NnZEdRZWZWejQ2c1NaUU05dFh5OUtjcStZOE4wd1BTdTV3dU8xdHo3a0MxQmRxYkRXUU01Z09mcWo3TVF1eXRNK1RsWGV4eFJhUFBHYWxWdktZU01NdHpZTlljN2czbStIcmdsVTQ5TWJzNU15czJiWVp1bkFPSFVpTDg2U1RlYlNiVDMyY0M5RmllM25LT2h0NXhFTHJmTWdWNUZxanBSc2p6eUY4WnRqL2lDWXoxVzB3STl1TGlPTi9HQ1RGeXNEZk16YmxHcEZNaXpDdGJyUFhUNmd6dHNjZTVETXB5VkE1QjQrNmJoUlRlOXBoOVd0ZGVEdmFUNllPd2owK2l0T3NSaCt1eVBMN0swSmQ2d3pDVmJvQ0c4enJjV3Rtc1hqU2JVUnl0TjQ2ZlBJa2RjMVBtazFkUGt1R1pBWTJpSi9SV1JiVTRQNUJOdlhmdEdTc0lnSW1UeXlES0JmcXdwa2tyYXNLMCt0K0d3OVZSL3RFOVY1VlBRdEpPcTZQOGFIZFBVc0daYkxMcUdOdVRBZDNVNEVXVGtzaVhkbzV0UUV6enpCRkhqNVpZZzV0U0xSMlMvdGlhTEU2WlVQb2puaDV6UFdmWHdTRUQwaTRqeFFQeXg2TUtOVm5nN0xTdis1cC9YR0JENnNpN3h5dHhEZXVMMUtJZjE2Y0VxUFpua0d5VmRWRmZUb0xxemR5M2tLY2hhYlRiaEozenI3U3FobDQ0RW1ZRTUwSlZQY0RLaGRrbWpXNGNtUVZBcFJCWG1Yb25ZUk9hMFFpTXBwcGZyOE9WQzdjWnNQTy9kaUdWQWlHTEJHRTNBQVpRWVYyRisxbyt5ZTZWRHplUi9pLzVvcG1wSXBYOHJCSGJoclRTNDcvQXFycEIzOW1OejlNL04xNFFpNFNMREQ5U0NkeVFFU1VsdFJKbTd3MTVaTXFpQ2hMNlJCUUdzckoxb3Q3bU1Ja3d0YW5qQkJWVHpmUUNqaTU2VEFHeEV4YjVWUWRadUI4ZmUzdjV4aXh5V2pOc3lBSURqYlFYdjVNV2FSTSt1K2ZtL1NEMkhZSTFSelZQUWVNSStFWXk1VUFoRVJNcGdwck1Ba3luTWQ0c0k1R00ydThnaGt0M2FLVm9lN1JVU0pSa1A1MXlRaGt0YjhRaVFYcElmdVZySjJEallMREFWZzhsYVYycnhta2pOaW9IMTd5SWZLWkE9PSJ9&nad_placement=SR_MAIN&from=searchresults",
+    "address": "Nakagyo Ward, Kyoto (Kawaramachi, Karasuma, Omiya)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Kyoto%2C+Japan&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1763183787747&force_referer=",
+    "scrapedAt": "2025-11-15T05:16:31.937Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763183791938_4",
+    "name": "Tokyu Stay Kyoto Sakaiza Shijo Kawaramachi",
+    "price": 1192,
+    "currency": "USD",
+    "rating": 9.3,
+    "stars": 9,
+    "reviewCount": 75,
+    "avgReview": "9.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/672242606.webp?k=3a04c7bad2714c48a678f1ff7a4642c7b2d8b9c521fddd720e3072e687ff9659&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/672242606.webp?k=3a04c7bad2714c48a678f1ff7a4642c7b2d8b9c521fddd720e3072e687ff9659&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/672242606.webp?k=3a04c7bad2714c48a678f1ff7a4642c7b2d8b9c521fddd720e3072e687ff9659&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/jp/dong-ji-suteijing-du-xin-jing-ji-tong.html?aid=304142&label=gen173nr-10CAQoggJCE3NlYXJjaF9reW90bywgamFwYW5IM1gEaKEBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKsmeDIBsACAdICJGE1YjIyMmRmLWVjNzItNDQyNC04YmY2LTQ2MjEzYzMyZTYyYdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=8a2525162a1f00c2&srepoch=1763183792&all_sr_blocks=352229601_0_2_0_0&highlighted_blocks=352229601_0_2_0_0&matching_block_id=352229601_0_2_0_0&sr_pri_blocks=352229601_0_2_0_0__18372552&from=searchresults",
+    "address": "Nakagyo Ward, Kyoto (Gion)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Kyoto%2C+Japan&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1763183787747&force_referer=",
+    "scrapedAt": "2025-11-15T05:16:31.938Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763183791938_5",
+    "name": "Four Points Flex by Sheraton Kyoto Oike",
+    "price": 1596,
+    "currency": "USD",
+    "rating": 8.2,
+    "stars": 8,
+    "reviewCount": 323,
+    "avgReview": "8.2/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/774190411.webp?k=fe2c64f542955c9e3953973bb96a3b680140cda70411f5fe190df49ed88f4ff9&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/774190411.webp?k=fe2c64f542955c9e3953973bb96a3b680140cda70411f5fe190df49ed88f4ff9&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/774190411.webp?k=fe2c64f542955c9e3953973bb96a3b680140cda70411f5fe190df49ed88f4ff9&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/jp/four-points-flex-by-sheraton-kyoto-oike.html?aid=304142&label=gen173nr-10CAQoggJCE3NlYXJjaF9reW90bywgamFwYW5IM1gEaKEBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKsmeDIBsACAdICJGE1YjIyMmRmLWVjNzItNDQyNC04YmY2LTQ2MjEzYzMyZTYyYdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=8a2525162a1f00c2&srepoch=1763183792&all_sr_blocks=646361110_403085086_0_2_0%2C646361110_403085086_0_2_0&highlighted_blocks=646361110_403085086_0_2_0%2C646361110_403085086_0_2_0&matching_block_id=646361110_403085086_0_2_0&sr_pri_blocks=646361110_403085086_0_2_0__12300000%2C646361110_403085086_0_2_0__12300000&nad_id=324c5343-9c3d-4ff3-b74b-7b3a0f827075_7&nad_cpc=0.9&nad_track=eyJhdWN0aW9uRXBvY2giOjE3NjMxODM3ODkyMzcsInJhbmsiOjMsImtvZGRpVHJhY2tpbmdJbmZvIjoiWFFnTW1PQzQzV3NQTDJscFJIak1QMzltRXRpK1BjVTVrY244UUI1THJqY1NEU3dhWk42eGRtUTk1Qy9JbURHUm9semVSOTVCT05UUjFxUjY2NTVjLzYzMWxrc3F4bHBraXFhNXI1b0RZd1MrZkRKWEptWVdRNXNHYnFOTGhxRnU3YlZoNUZ5NXpwOFIzejRxcFdhc2tKaytEQ3ZnNHgvYkd0bnRvb0YwVEpMeGJZVTVNVGxMV3lRNHZIbi9KMHZZejJWeldIMjlib1ZuK0N5SzgyWEVmQjkzQ29mTWJOS2hoNUdMQlNNeGl0TE9zaTgyUjVOdTNMSVpsOC9qM2hqRmJnemRQTDhuQ0J4TGhQU3I0M2VNcDhLSVNoWmIrWGVaakdmZGgwTDl1YjdrUmxCRFJBVVZHV2RaYUtHcFdFMTVLcjh1bzEzV0dqR3ZPTjIvMmgxV0drcklNQkZnSXhybE5OajlMMGxOcVJIZFRpMSszR2pIQjRTejk4c2l1TWpwTVJWemxrVThoMkgzVE5NbU9hN1dLN1ZVdXRMZjA0bW5LZHVrM09PZkdZVzRvbE9GWkJYZUp2bmk1Y2Z6T0VDb2dMRmJ5WmdveU9MSHlad0loaTZrUXBUS0hJUk45WTEzTUdUTmpBQ2t2QkpmV2dkVXdENkVzU0I0UlZMbkxrNjQ3bmtySFpoeDNyN1Q4NUZxaXg4MURxZnltT1FWM0ZySGZzelIrM01qL203SGZaRGdTNWEzN0UyZFM2aFBmVFdJWDBTdm1LdEtLUUhQWDBDMVBMdHo1eTZWN3ljdC8vU3R4UlBLUTdXejh1WHplYTM0SEpDcUdpZWdjTmU0OHROSHpHS2tKaE1LVnYrdTB6VkNNbmV0UUZIQTRnbEh4NHQwTnZGdVoyb1BNMWN5ZHNnM3BJVmhISEVtQWNPaEdReGhXQzlYcCtBSkFsS0MyMWxJQVlJN1YrcjdNclh1OVJsM01tb29SdjFzWm5UQ3BMRFFGWmtzVXp4WFJrNm9SbFdoWld6eFZBdTNwSWVDZkdGTU0zTzRFNlRDeklRN0NKNXE2bXk1dmk0V2hBeENJbGgxWWFsc2lpeU5DR2ExT1Q4d2JsUXNwMVNwK1hGWENVczRQaHpOZlJhRU4zWTF2Tk5rQmdNRGNtbHQ0eEY2VjFjZHN2clc4UmdoVWg4bm5RdXZnRTJ2d1V0NG10dFFYOXFTemVTcWN6bnZmK1dOVEN6T1U1eGdmV1JocFI3ZC83ZE9TTmMvUGtpcTJHdDVCNHBBbjJWYy83blpaV3ZCaDNvbExDWFdIYmlHTkJGZlJ1UDJ4NGsrMFRDM2hQZm9uQlZMV0kwNllWd0txY25XSUtPd0s2bXdwK1A3SHVYakNGRWowQlVncXZnRGhCMk9wU0ttZTBoR08xcEJCTzU4NU1yc01DN3g0QmY1Q21sT3JnQ2d2N2pZYXNieGVvaTVDMUxZWDRuTmVQb2x1Mys1YUVvbHVUUVllMUc0OVQwSkhmaE4vWEhvYXF5dlVPK1RZbWRGZGhYTG5sN1FEM2E4aU1qWVc1WFZ3RXJuT0hhMkFHOTRLZDJuM0dIVVRySjlzYVBZOW1lSVZ6eWdrSDdiOTV2YXlrcGlraGJtWDZHczNpUmhwY29WTEgwVFJUcHpRNjU2dnFWSzBNU0QyWmR1bFdJaGZKUmxmdEdZaGJ5V01kb2RmYlovbVJZVkFjU1pFeEdwTjFvYUVIY3BRSlBLaERpUnlKci93Q0xueFc2dERrQVBpSkgyd0xTeDRkWmZFc3BRUXUrbkhreHlsMmFNWjkvS0tVS1dYd2VpY3o0dWlQaTh4ditTZHNtSlBDdWZvWVQ5clJtbjkvZXZTOTZtWmhXN3VWZHRKeHhJUmZRTlNMVjNRbHMvRExseUxKY2lqTFN6c0RHNSt5elVCamxwQ0VHNjRpM2tWTk5KY1V0SDRtVE43TllQMWI1NW83Wjg3cWIrNi93dEJuT0JTVUU9In0%3D&nad_placement=SR_MAIN&from=searchresults",
+    "address": "Nakagyo Ward, Kyoto (Kawaramachi)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Kyoto%2C+Japan&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1763183787747&force_referer=",
+    "scrapedAt": "2025-11-15T05:16:31.938Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763183791939_6",
+    "name": "Dusit Thani Kyoto",
+    "price": 4351,
+    "currency": "USD",
+    "rating": 9.3,
+    "stars": 9,
+    "reviewCount": 760,
+    "avgReview": "9.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/757406158.webp?k=03326b52c5df8281e897aba80b0c7ef8b9f27f38ad1896962a4909a503e1effb&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/757406158.webp?k=03326b52c5df8281e897aba80b0c7ef8b9f27f38ad1896962a4909a503e1effb&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/757406158.webp?k=03326b52c5df8281e897aba80b0c7ef8b9f27f38ad1896962a4909a503e1effb&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/jp/dusit-thani-kyoto.html?aid=304142&label=gen173nr-10CAQoggJCE3NlYXJjaF9reW90bywgamFwYW5IM1gEaKEBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKsmeDIBsACAdICJGE1YjIyMmRmLWVjNzItNDQyNC04YmY2LTQ2MjEzYzMyZTYyYdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=8a2525162a1f00c2&srepoch=1763183792&all_sr_blocks=973052103_369707792_2_41_0&highlighted_blocks=973052103_369707792_2_41_0&matching_block_id=973052103_369707792_2_41_0&sr_pri_blocks=973052103_369707792_2_41_0__67080000&from=searchresults",
+    "address": "Shimogyo Ward, Kyoto (Kyoto Station Area)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Kyoto%2C+Japan&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1763183787747&force_referer=",
+    "scrapedAt": "2025-11-15T05:16:31.939Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763183791939_7",
+    "name": "Daiwa Roynet Hotel Kyoto Terrace Hachijo PREMIER",
+    "price": 834,
+    "currency": "USD",
+    "rating": 8.8,
+    "stars": 9,
+    "reviewCount": 298,
+    "avgReview": "8.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/214369207.webp?k=f957de4a75b5b580c043022ec0c99e10d6b16a3f1648190c1858b6aaf7ab522f&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/214369207.webp?k=f957de4a75b5b580c043022ec0c99e10d6b16a3f1648190c1858b6aaf7ab522f&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/214369207.webp?k=f957de4a75b5b580c043022ec0c99e10d6b16a3f1648190c1858b6aaf7ab522f&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/jp/daiwa-roynet-kyoto-station.html?aid=304142&label=gen173nr-10CAQoggJCE3NlYXJjaF9reW90bywgamFwYW5IM1gEaKEBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKsmeDIBsACAdICJGE1YjIyMmRmLWVjNzItNDQyNC04YmY2LTQ2MjEzYzMyZTYyYdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=8a2525162a1f00c2&srepoch=1763183792&all_sr_blocks=432230001_388586583_2_2_0&highlighted_blocks=432230001_388586583_2_2_0&matching_block_id=432230001_388586583_2_2_0&sr_pri_blocks=432230001_388586583_2_2_0__12853504&from=searchresults",
+    "address": "Shimogyo Ward, Kyoto (Kyoto Station Area)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Kyoto%2C+Japan&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1763183787747&force_referer=",
+    "scrapedAt": "2025-11-15T05:16:31.939Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763183791940_8",
+    "name": "The Gate Hotel Kyoto Takasegawa by Hulic",
+    "price": 5219,
+    "currency": "USD",
+    "rating": 9.2,
+    "stars": 9,
+    "reviewCount": 163,
+    "avgReview": "9.2/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/536056790.webp?k=6d31e85f3a5828e43bef55e20c6eb52e7bafee6123992cc65225624826c81b9f&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/536056790.webp?k=6d31e85f3a5828e43bef55e20c6eb52e7bafee6123992cc65225624826c81b9f&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/536056790.webp?k=6d31e85f3a5828e43bef55e20c6eb52e7bafee6123992cc65225624826c81b9f&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/jp/the-gate-hoteljing-du-gao-lai-chuan-by-hulic.html?aid=304142&label=gen173nr-10CAQoggJCE3NlYXJjaF9reW90bywgamFwYW5IM1gEaKEBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKsmeDIBsACAdICJGE1YjIyMmRmLWVjNzItNDQyNC04YmY2LTQ2MjEzYzMyZTYyYdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=8a2525162a1f00c2&srepoch=1763183792&all_sr_blocks=619092323_241579841_0_2_0&highlighted_blocks=619092323_241579841_0_2_0&matching_block_id=619092323_241579841_0_2_0&sr_pri_blocks=619092323_241579841_0_2_0__80465276&from=searchresults",
+    "address": "Nakagyo Ward, Kyoto (Gion)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Kyoto%2C+Japan&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1763183787747&force_referer=",
+    "scrapedAt": "2025-11-15T05:16:31.940Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763183791940_9",
+    "name": "Hotel M's Plus Shijo Omiya",
+    "price": 1502,
+    "currency": "USD",
+    "rating": 8.5,
+    "stars": 9,
+    "reviewCount": 790,
+    "avgReview": "8.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/91527361.webp?k=d52a6d589170edc4c00e3564f39f08a394fb9066a536a8cdcbffd046c0aa70f9&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/91527361.webp?k=d52a6d589170edc4c00e3564f39f08a394fb9066a536a8cdcbffd046c0aa70f9&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/91527361.webp?k=d52a6d589170edc4c00e3564f39f08a394fb9066a536a8cdcbffd046c0aa70f9&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/jp/ms-plus-shijo-omiya.html?aid=304142&label=gen173nr-10CAQoggJCE3NlYXJjaF9reW90bywgamFwYW5IM1gEaKEBiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKsmeDIBsACAdICJGE1YjIyMmRmLWVjNzItNDQyNC04YmY2LTQ2MjEzYzMyZTYyYdgCAeACAQ&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=8a2525162a1f00c2&srepoch=1763183792&all_sr_blocks=0_0_2_0_0&highlighted_blocks=0_0_2_0_0&matching_block_id=0_0_2_0_0&sr_pri_blocks=0_0_2_0_0__23160468&from=searchresults",
+    "address": "Nakagyo Ward, Kyoto (Shijo)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Kyoto%2C+Japan&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1763183787747&force_referer=",
+    "scrapedAt": "2025-11-15T05:16:31.940Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

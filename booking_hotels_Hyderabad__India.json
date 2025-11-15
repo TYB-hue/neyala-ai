@@ -1,0 +1,292 @@
+[
+  {
+    "id": "hotel_1758972367581_0",
+    "name": "SPOT ON BSR RoyalStay Super Luxury Hotel Rooms",
+    "price": 45,
+    "currency": "USD",
+    "rating": 9.7,
+    "stars": 10,
+    "reviewCount": 468,
+    "avgReview": "9.7/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/741155752.webp?k=6948693f60b9254feaacbb1f0af575a75a26e60253f066d9f8e7beaf44aba009&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/741155752.webp?k=6948693f60b9254feaacbb1f0af575a75a26e60253f066d9f8e7beaf44aba009&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/741155752.webp?k=6948693f60b9254feaacbb1f0af575a75a26e60253f066d9f8e7beaf44aba009&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/in/bsr-group-of-hotels.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9oeWRlcmFiYWQsIGluZGlhSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCypPfxgbAAgHSAiQwZDQzZjdhMi05OGUwLTQ1YTItYjhiNC1iZTM2MDUyOGNhMGLYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-10-04&checkout=2025-10-07&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=ec8150652ef3043e&srepoch=1758972365&all_sr_blocks=1450540502_420242306_2_0_0&highlighted_blocks=1450540502_420242306_2_0_0&matching_block_id=1450540502_420242306_2_0_0&sr_pri_blocks=1450540502_420242306_2_0_0__401165&from=searchresults",
+    "address": "HITEC City, Hyderabad",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Hyderabad%2C+India&checkin=2025-10-04&checkout=2025-10-07&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-27T11:26:07.581Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1758972367581_1",
+    "name": "Hotel Kyzen HiTech City- Your Zenly Stay",
+    "price": 146,
+    "currency": "USD",
+    "rating": 8.5,
+    "stars": 9,
+    "reviewCount": 815,
+    "avgReview": "8.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/535426198.webp?k=1df8bff90c15ac1dc48451012abc69fe90b06c32fed7e6a3e7a989af01181bde&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/535426198.webp?k=1df8bff90c15ac1dc48451012abc69fe90b06c32fed7e6a3e7a989af01181bde&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/535426198.webp?k=1df8bff90c15ac1dc48451012abc69fe90b06c32fed7e6a3e7a989af01181bde&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/in/kyzen.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9oeWRlcmFiYWQsIGluZGlhSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCypPfxgbAAgHSAiQwZDQzZjdhMi05OGUwLTQ1YTItYjhiNC1iZTM2MDUyOGNhMGLYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-10-04&checkout=2025-10-07&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=ec8150652ef3043e&srepoch=1758972365&all_sr_blocks=1163454802_413217350_2_2_0&highlighted_blocks=1163454802_413217350_2_2_0&matching_block_id=1163454802_413217350_2_2_0&sr_pri_blocks=1163454802_413217350_2_2_0__1298952&from=searchresults",
+    "address": "HITEC City, Hyderabad",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Hyderabad%2C+India&checkin=2025-10-04&checkout=2025-10-07&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-27T11:26:07.581Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1758972367581_2",
+    "name": "Super Townhouse RCC Elite",
+    "price": 79,
+    "currency": "USD",
+    "rating": 9.5,
+    "stars": 10,
+    "reviewCount": 465,
+    "avgReview": "9.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/740135589.webp?k=d244a291a418fe9776b52a516e019401299444ca997385f8cd3bff8ef5352583&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/740135589.webp?k=d244a291a418fe9776b52a516e019401299444ca997385f8cd3bff8ef5352583&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/740135589.webp?k=d244a291a418fe9776b52a516e019401299444ca997385f8cd3bff8ef5352583&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/in/oyo-townhouse-265-begumpet.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9oeWRlcmFiYWQsIGluZGlhSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCypPfxgbAAgHSAiQwZDQzZjdhMi05OGUwLTQ1YTItYjhiNC1iZTM2MDUyOGNhMGLYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-10-04&checkout=2025-10-07&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=ec8150652ef3043e&srepoch=1758972365&all_sr_blocks=587282302_378815220_2_42_0&highlighted_blocks=587282302_378815220_2_42_0&matching_block_id=587282302_378815220_2_42_0&sr_pri_blocks=587282302_378815220_2_42_0__700546&from=searchresults",
+    "address": "Begumpet, Hyderabad",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Hyderabad%2C+India&checkin=2025-10-04&checkout=2025-10-07&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-27T11:26:07.581Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1758972367582_3",
+    "name": "Taj Krishna",
+    "price": 431,
+    "currency": "USD",
+    "rating": 8.2,
+    "stars": 8,
+    "reviewCount": 523,
+    "avgReview": "8.2/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/571060617.webp?k=bdaf7477bcfad798ddcfbb6f2ba8255a15396fa7480a66918dce22d051c34cd4&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/571060617.webp?k=bdaf7477bcfad798ddcfbb6f2ba8255a15396fa7480a66918dce22d051c34cd4&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/571060617.webp?k=bdaf7477bcfad798ddcfbb6f2ba8255a15396fa7480a66918dce22d051c34cd4&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/in/taj-krishna.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9oeWRlcmFiYWQsIGluZGlhSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCypPfxgbAAgHSAiQwZDQzZjdhMi05OGUwLTQ1YTItYjhiNC1iZTM2MDUyOGNhMGLYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-10-04&checkout=2025-10-07&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=ec8150652ef3043e&srepoch=1758972365&all_sr_blocks=7473706_412150986_2_41_0&highlighted_blocks=7473706_412150986_2_41_0&matching_block_id=7473706_412150986_2_41_0&sr_pri_blocks=7473706_412150986_2_41_0__3823750&from=searchresults",
+    "address": "Hyderabad",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Hyderabad%2C+India&checkin=2025-10-04&checkout=2025-10-07&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-27T11:26:07.582Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1758972367582_4",
+    "name": "The Park Hyderabad, Banjara Hills near Hussain Sagar Lake",
+    "price": 294,
+    "currency": "USD",
+    "rating": 9.5,
+    "stars": 10,
+    "reviewCount": 928,
+    "avgReview": "9.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/557752031.webp?k=d982e1bf97f56b8fcc46560e2db958ee3936b3656ce84bb394e3f008a3663841&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/557752031.webp?k=d982e1bf97f56b8fcc46560e2db958ee3936b3656ce84bb394e3f008a3663841&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/557752031.webp?k=d982e1bf97f56b8fcc46560e2db958ee3936b3656ce84bb394e3f008a3663841&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/in/the-park-hyderabad.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9oeWRlcmFiYWQsIGluZGlhSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCypPfxgbAAgHSAiQwZDQzZjdhMi05OGUwLTQ1YTItYjhiNC1iZTM2MDUyOGNhMGLYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-10-04&checkout=2025-10-07&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=ec8150652ef3043e&srepoch=1758972365&all_sr_blocks=25613902_354393166_2_42_0&highlighted_blocks=25613902_354393166_2_42_0&matching_block_id=25613902_354393166_2_42_0&sr_pri_blocks=25613902_354393166_2_42_0__2610000&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Hyderabad",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Hyderabad%2C+India&checkin=2025-10-04&checkout=2025-10-07&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-27T11:26:07.582Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1758972367582_5",
+    "name": "Greenpark Hyderabad",
+    "price": 199,
+    "currency": "USD",
+    "rating": 8.3,
+    "stars": 8,
+    "reviewCount": 633,
+    "avgReview": "8.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/492884045.webp?k=542ce2ab37456f4cbd56d15b307a0215fb067ec78814d24f1ba7e6f04b1b4773&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/492884045.webp?k=542ce2ab37456f4cbd56d15b307a0215fb067ec78814d24f1ba7e6f04b1b4773&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/492884045.webp?k=542ce2ab37456f4cbd56d15b307a0215fb067ec78814d24f1ba7e6f04b1b4773&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/in/green-park.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9oeWRlcmFiYWQsIGluZGlhSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCypPfxgbAAgHSAiQwZDQzZjdhMi05OGUwLTQ1YTItYjhiNC1iZTM2MDUyOGNhMGLYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-10-04&checkout=2025-10-07&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=ec8150652ef3043e&srepoch=1758972365&all_sr_blocks=28845101_373860684_2_42_0&highlighted_blocks=28845101_373860684_2_42_0&matching_block_id=28845101_373860684_2_42_0&sr_pri_blocks=28845101_373860684_2_42_0__1764000&from=searchresults",
+    "address": "Hyderabad",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Hyderabad%2C+India&checkin=2025-10-04&checkout=2025-10-07&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-27T11:26:07.582Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1758972367583_6",
+    "name": "Holiday Inn Express Hyderabad Banjara Hills by IHG",
+    "price": 119,
+    "currency": "USD",
+    "rating": 5.1,
+    "stars": 5,
+    "reviewCount": 232,
+    "avgReview": "5.1/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/402551656.webp?k=c673a54c17ddc8541964cf155abefbdc5a30650e03582790ed3846a21af56020&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/402551656.webp?k=c673a54c17ddc8541964cf155abefbdc5a30650e03582790ed3846a21af56020&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/402551656.webp?k=c673a54c17ddc8541964cf155abefbdc5a30650e03582790ed3846a21af56020&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/in/formule1-hyderabad-banjara-hills.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9oeWRlcmFiYWQsIGluZGlhSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCypPfxgbAAgHSAiQwZDQzZjdhMi05OGUwLTQ1YTItYjhiNC1iZTM2MDUyOGNhMGLYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-10-04&checkout=2025-10-07&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=ec8150652ef3043e&srepoch=1758972365&all_sr_blocks=248098406_111294251_2_41_0&highlighted_blocks=248098406_111294251_2_41_0&matching_block_id=248098406_111294251_2_41_0&sr_pri_blocks=248098406_111294251_2_41_0__1059480&from=searchresults",
+    "address": "Hyderabad",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Hyderabad%2C+India&checkin=2025-10-04&checkout=2025-10-07&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-27T11:26:07.583Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1758972367583_7",
+    "name": "Hotel B plus L",
+    "price": 140,
+    "currency": "USD",
+    "rating": 8.3,
+    "stars": 8,
+    "reviewCount": 222,
+    "avgReview": "8.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/168589051.webp?k=9115911da5da0f9b69ff800b2217bbf4cd7facc79f193f7d2e174d27c4269fd6&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/168589051.webp?k=9115911da5da0f9b69ff800b2217bbf4cd7facc79f193f7d2e174d27c4269fd6&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/168589051.webp?k=9115911da5da0f9b69ff800b2217bbf4cd7facc79f193f7d2e174d27c4269fd6&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/in/bl.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9oeWRlcmFiYWQsIGluZGlhSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCypPfxgbAAgHSAiQwZDQzZjdhMi05OGUwLTQ1YTItYjhiNC1iZTM2MDUyOGNhMGLYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-10-04&checkout=2025-10-07&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=ec8150652ef3043e&srepoch=1758972365&all_sr_blocks=418377003_179386021_2_2_0_255577&highlighted_blocks=418377003_179386021_2_2_0_255577&matching_block_id=418377003_179386021_2_2_0_255577&sr_pri_blocks=418377003_179386021_2_2_0_255577_1239760&from=searchresults",
+    "address": "HITEC City, Hyderabad",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Hyderabad%2C+India&checkin=2025-10-04&checkout=2025-10-07&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-27T11:26:07.583Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1758972367583_8",
+    "name": "Vivanta Hyderabad, Begumpet",
+    "price": 249,
+    "currency": "USD",
+    "rating": 8.1,
+    "stars": 8,
+    "reviewCount": 1010,
+    "avgReview": "8.1/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/43310573.webp?k=f6d4385105d402982874a0173ac3a3564b891647a85ade66947eeb9812272a2f&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/43310573.webp?k=f6d4385105d402982874a0173ac3a3564b891647a85ade66947eeb9812272a2f&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/43310573.webp?k=f6d4385105d402982874a0173ac3a3564b891647a85ade66947eeb9812272a2f&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/in/vivanta-by-taj-begumpet.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9oeWRlcmFiYWQsIGluZGlhSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCypPfxgbAAgHSAiQwZDQzZjdhMi05OGUwLTQ1YTItYjhiNC1iZTM2MDUyOGNhMGLYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-10-04&checkout=2025-10-07&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=ec8150652ef3043e&srepoch=1758972365&all_sr_blocks=35591901_124270420_2_41_0&highlighted_blocks=35591901_124270420_2_41_0&matching_block_id=35591901_124270420_2_41_0&sr_pri_blocks=35591901_124270420_2_41_0__2209745&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Begumpet, Hyderabad",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Hyderabad%2C+India&checkin=2025-10-04&checkout=2025-10-07&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-27T11:26:07.583Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1758972367584_9",
+    "name": "Hotel O SV Grand",
+    "price": 38,
+    "currency": "USD",
+    "rating": 7.2,
+    "stars": 7,
+    "reviewCount": 704,
+    "avgReview": "7.2/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/709571597.webp?k=c11d553fdb815cb8f171b9122305911e4fcacead6ecffdea75c7a0d50ea594b5&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/709571597.webp?k=c11d553fdb815cb8f171b9122305911e4fcacead6ecffdea75c7a0d50ea594b5&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/709571597.webp?k=c11d553fdb815cb8f171b9122305911e4fcacead6ecffdea75c7a0d50ea594b5&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/in/oyo-flagship-81077-sv-grand.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9oeWRlcmFiYWQsIGluZGlhSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCypPfxgbAAgHSAiQwZDQzZjdhMi05OGUwLTQ1YTItYjhiNC1iZTM2MDUyOGNhMGLYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-10-04&checkout=2025-10-07&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=ec8150652ef3043e&srepoch=1758972365&all_sr_blocks=981283702_375719534_2_0_0&highlighted_blocks=981283702_375719534_2_0_0&matching_block_id=981283702_375719534_2_0_0&sr_pri_blocks=981283702_375719534_2_0_0__337240&from=searchresults",
+    "address": "Hyderabad",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Hyderabad%2C+India&checkin=2025-10-04&checkout=2025-10-07&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-09-27T11:26:07.584Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

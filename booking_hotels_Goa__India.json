@@ -1,0 +1,292 @@
+[
+  {
+    "id": "hotel_1758883414587_0",
+    "name": "Hotel O fenni and ferns stays",
+    "price": 85,
+    "currency": "USD",
+    "rating": 9.8,
+    "stars": 10,
+    "reviewCount": 281,
+    "avgReview": "9.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/744783518.webp?k=5876eec127e79da4a6d05d884f72ea8c6f84ac424eb4a08d119c63c244291a14&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/744783518.webp?k=5876eec127e79da4a6d05d884f72ea8c6f84ac424eb4a08d119c63c244291a14&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/744783518.webp?k=5876eec127e79da4a6d05d884f72ea8c6f84ac424eb4a08d119c63c244291a14&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/in/fenni-n-ferns.html?aid=304142&label=gen173nr-10CAQoggJCEXNlYXJjaF9nb2EsIGluZGlhSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC09zZxgbAAgHSAiQ1MDk0Y2RmYy1kY2U4LTQ2YTctODUzYi1hNjFhNzU5OGQzMWLYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=1a214b69293703d5&srepoch=1758883414&all_sr_blocks=1430033002_420242305_2_0_0&highlighted_blocks=1430033002_420242305_2_0_0&matching_block_id=1430033002_420242305_2_0_0&sr_pri_blocks=1430033002_420242305_2_0_0__756318&from=searchresults",
+    "address": "Anjuna",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Goa%2C+India&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1758883411196&force_referer=",
+    "scrapedAt": "2025-09-26T10:43:34.587Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1758883414588_1",
+    "name": "Zulu Land cottages - near Curlies beach shack and shiva valley - Anjuna beach",
+    "price": 141,
+    "currency": "USD",
+    "rating": 7,
+    "stars": 7,
+    "reviewCount": 843,
+    "avgReview": "7.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/227222651.webp?k=8bfb6658c0dc4e0e1de2065d3982296f8ff3483b351672d059a5a9dc9e4b5a38&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/227222651.webp?k=8bfb6658c0dc4e0e1de2065d3982296f8ff3483b351672d059a5a9dc9e4b5a38&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/227222651.webp?k=8bfb6658c0dc4e0e1de2065d3982296f8ff3483b351672d059a5a9dc9e4b5a38&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/in/oyo-14197-curlies-zulu-land-cottages-goa12.html?aid=304142&label=gen173nr-10CAQoggJCEXNlYXJjaF9nb2EsIGluZGlhSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC09zZxgbAAgHSAiQ1MDk0Y2RmYy1kY2U4LTQ2YTctODUzYi1hNjFhNzU5OGQzMWLYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=1a214b69293703d5&srepoch=1758883414&all_sr_blocks=432809403_230684487_2_41_0_559195&highlighted_blocks=432809403_230684487_2_41_0_559195&matching_block_id=432809403_230684487_2_41_0_559195&sr_pri_blocks=432809403_230684487_2_41_0_559195_1247976&from=searchresults",
+    "address": "Anjuna",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Goa%2C+India&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1758883411196&force_referer=",
+    "scrapedAt": "2025-09-26T10:43:34.588Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1758883414588_2",
+    "name": "La Vera Boutique Hotel, Mandrem",
+    "price": 108,
+    "currency": "USD",
+    "rating": 8.1,
+    "stars": 8,
+    "reviewCount": 215,
+    "avgReview": "8.1/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/410902923.webp?k=a91431790fc3aa3bfbea801da648598a78789667869325b924be6e0829865708&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/410902923.webp?k=a91431790fc3aa3bfbea801da648598a78789667869325b924be6e0829865708&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/410902923.webp?k=a91431790fc3aa3bfbea801da648598a78789667869325b924be6e0829865708&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/in/la-vera-boutique.html?aid=304142&label=gen173nr-10CAQoggJCEXNlYXJjaF9nb2EsIGluZGlhSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC09zZxgbAAgHSAiQ1MDk0Y2RmYy1kY2U4LTQ2YTctODUzYi1hNjFhNzU5OGQzMWLYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=1a214b69293703d5&srepoch=1758883414&all_sr_blocks=793267704_417941044_2_2_0_406144&highlighted_blocks=793267704_417941044_2_2_0_406144&matching_block_id=793267704_417941044_2_2_0_406144&sr_pri_blocks=793267704_417941044_2_2_0_406144_960260&from=searchresults",
+    "address": "Mandrem",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Goa%2C+India&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1758883411196&force_referer=",
+    "scrapedAt": "2025-09-26T10:43:34.588Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1758883414588_3",
+    "name": "Mandrem Beach Resort, a member of Radisson Individuals Retreat",
+    "price": 489,
+    "currency": "USD",
+    "rating": 9.1,
+    "stars": 9,
+    "reviewCount": 761,
+    "avgReview": "9.1/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/529995434.webp?k=c4bd8cad5fc544e93eddf7aec42dc9d19012ef698d2524eb4a8e51326d2154df&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/529995434.webp?k=c4bd8cad5fc544e93eddf7aec42dc9d19012ef698d2524eb4a8e51326d2154df&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/529995434.webp?k=c4bd8cad5fc544e93eddf7aec42dc9d19012ef698d2524eb4a8e51326d2154df&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/in/regenta-place-mandrem-beach-resort.html?aid=304142&label=gen173nr-10CAQoggJCEXNlYXJjaF9nb2EsIGluZGlhSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC09zZxgbAAgHSAiQ1MDk0Y2RmYy1kY2U4LTQ2YTctODUzYi1hNjFhNzU5OGQzMWLYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=1a214b69293703d5&srepoch=1758883414&all_sr_blocks=570839014_337857239_2_1_0&highlighted_blocks=570839014_337857239_2_1_0&matching_block_id=570839014_337857239_2_1_0&sr_pri_blocks=570839014_337857239_2_1_0__4335000&from=searchresults",
+    "address": "Mandrem",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Goa%2C+India&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1758883411196&force_referer=",
+    "scrapedAt": "2025-09-26T10:43:34.588Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1758883414589_4",
+    "name": "Circle",
+    "price": 289,
+    "currency": "USD",
+    "rating": 9.1,
+    "stars": 9,
+    "reviewCount": 709,
+    "avgReview": "9.1/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/405617251.webp?k=7c9ab0baea2a078fc2881fd21214b6e128eefabf15c0c5709dc99b9d970eb033&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/405617251.webp?k=7c9ab0baea2a078fc2881fd21214b6e128eefabf15c0c5709dc99b9d970eb033&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/405617251.webp?k=7c9ab0baea2a078fc2881fd21214b6e128eefabf15c0c5709dc99b9d970eb033&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/in/circle.html?aid=304142&label=gen173nr-10CAQoggJCEXNlYXJjaF9nb2EsIGluZGlhSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC09zZxgbAAgHSAiQ1MDk0Y2RmYy1kY2U4LTQ2YTctODUzYi1hNjFhNzU5OGQzMWLYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=1a214b69293703d5&srepoch=1758883414&all_sr_blocks=912371803_362578328_2_2_0_649198&highlighted_blocks=912371803_362578328_2_2_0_649198&matching_block_id=912371803_362578328_2_2_0_649198&sr_pri_blocks=912371803_362578328_2_2_0_649198_2561300&from=searchresults",
+    "address": "North goa",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Goa%2C+India&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1758883411196&force_referer=",
+    "scrapedAt": "2025-09-26T10:43:34.589Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1758883414589_5",
+    "name": "Mojigao - Eco Resort",
+    "price": 468,
+    "currency": "USD",
+    "rating": 9.4,
+    "stars": 9,
+    "reviewCount": 524,
+    "avgReview": "9.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/466414773.webp?k=0598314a66ae8df94949123fc283d11702c98b28ef038ab5df1d6e2394570813&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/466414773.webp?k=0598314a66ae8df94949123fc283d11702c98b28ef038ab5df1d6e2394570813&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/466414773.webp?k=0598314a66ae8df94949123fc283d11702c98b28ef038ab5df1d6e2394570813&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/in/mojigao.html?aid=304142&label=gen173nr-10CAQoggJCEXNlYXJjaF9nb2EsIGluZGlhSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC09zZxgbAAgHSAiQ1MDk0Y2RmYy1kY2U4LTQ2YTctODUzYi1hNjFhNzU5OGQzMWLYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=1a214b69293703d5&srepoch=1758883414&all_sr_blocks=639139202_412259403_2_1_0_705661&highlighted_blocks=639139202_412259403_2_1_0_705661&matching_block_id=639139202_412259403_2_1_0_705661&sr_pri_blocks=639139202_412259403_2_1_0_705661_4150125&from=searchresults",
+    "address": "Assagao",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Goa%2C+India&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1758883411196&force_referer=",
+    "scrapedAt": "2025-09-26T10:43:34.589Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1758883414589_6",
+    "name": "Storii By ITC Hotels Moira Riviera",
+    "price": 570,
+    "currency": "USD",
+    "rating": 8.6,
+    "stars": 9,
+    "reviewCount": 423,
+    "avgReview": "8.6/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/442796608.webp?k=bd9788f6decdcf70060e4f3acb0d561df8eb378e96ea55f76c0b692398abbd77&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/442796608.webp?k=bd9788f6decdcf70060e4f3acb0d561df8eb378e96ea55f76c0b692398abbd77&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/442796608.webp?k=bd9788f6decdcf70060e4f3acb0d561df8eb378e96ea55f76c0b692398abbd77&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/in/storii-by-itc-hotels-moira-riviera.html?aid=304142&label=gen173nr-10CAQoggJCEXNlYXJjaF9nb2EsIGluZGlhSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC09zZxgbAAgHSAiQ1MDk0Y2RmYy1kY2U4LTQ2YTctODUzYi1hNjFhNzU5OGQzMWLYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=1a214b69293703d5&srepoch=1758883414&all_sr_blocks=981876102_411613264_2_1_0_133769&highlighted_blocks=981876102_411613264_2_1_0_133769&matching_block_id=981876102_411613264_2_1_0_133769&sr_pri_blocks=981876102_411613264_2_1_0_133769_5050000&from=searchresults",
+    "address": "Moira",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Goa%2C+India&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1758883411196&force_referer=",
+    "scrapedAt": "2025-09-26T10:43:34.589Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1758883414590_7",
+    "name": "El Reino Elegant 2&3BHK Apartments 10 Minutes to Candolim with Pool & Kitchen, Wifi, Security",
+    "price": 313,
+    "currency": "USD",
+    "rating": 9.3,
+    "stars": 9,
+    "reviewCount": 890,
+    "avgReview": "9.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/462052167.webp?k=bc49650211e3c3341bc780bc732fab26045221af3f8a6f1e611d1a2d181e8345&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/462052167.webp?k=bc49650211e3c3341bc780bc732fab26045221af3f8a6f1e611d1a2d181e8345&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/462052167.webp?k=bc49650211e3c3341bc780bc732fab26045221af3f8a6f1e611d1a2d181e8345&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/in/elreino-2bhk-duplex-apartment.html?aid=304142&label=gen173nr-10CAQoggJCEXNlYXJjaF9nb2EsIGluZGlhSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC09zZxgbAAgHSAiQ1MDk0Y2RmYy1kY2U4LTQ2YTctODUzYi1hNjFhNzU5OGQzMWLYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=1a214b69293703d5&srepoch=1758883414&all_sr_blocks=852704205_411461329_4_0_0&highlighted_blocks=852704205_411461329_4_0_0&matching_block_id=852704205_411461329_4_0_0&sr_pri_blocks=852704205_411461329_4_0_0__2772400&from=searchresults",
+    "address": "Verem",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Goa%2C+India&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1758883411196&force_referer=",
+    "scrapedAt": "2025-09-26T10:43:34.590Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1758883414590_8",
+    "name": "Caravela Beach Resort",
+    "price": 462,
+    "currency": "USD",
+    "rating": 8.6,
+    "stars": 9,
+    "reviewCount": 217,
+    "avgReview": "8.6/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/27712238.webp?k=3092def44d773da27677d180b2d6a6f29be55be648402efcd96a78eb52f732f5&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/27712238.webp?k=3092def44d773da27677d180b2d6a6f29be55be648402efcd96a78eb52f732f5&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/27712238.webp?k=3092def44d773da27677d180b2d6a6f29be55be648402efcd96a78eb52f732f5&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/in/ramada-caravela-beach-resort.html?aid=304142&label=gen173nr-10CAQoggJCEXNlYXJjaF9nb2EsIGluZGlhSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC09zZxgbAAgHSAiQ1MDk0Y2RmYy1kY2U4LTQ2YTctODUzYi1hNjFhNzU5OGQzMWLYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=1a214b69293703d5&srepoch=1758883414&all_sr_blocks=26371824_295351580_2_41_0_242691&highlighted_blocks=26371824_295351580_2_41_0_242691&matching_block_id=26371824_295351580_2_41_0_242691&sr_pri_blocks=26371824_295351580_2_41_0_242691_4095000&from=searchresults",
+    "address": "Varca",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Goa%2C+India&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1758883411196&force_referer=",
+    "scrapedAt": "2025-09-26T10:43:34.590Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1758883414590_9",
+    "name": "360 Bliss Dia Hotels",
+    "price": 203,
+    "currency": "USD",
+    "rating": 8.7,
+    "stars": 9,
+    "reviewCount": 940,
+    "avgReview": "8.7/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/529344794.webp?k=5ce3daf6c470d93a63f3fdfce0f43264c78f924ba2d42c4645093e16d181e157&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/529344794.webp?k=5ce3daf6c470d93a63f3fdfce0f43264c78f924ba2d42c4645093e16d181e157&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/529344794.webp?k=5ce3daf6c470d93a63f3fdfce0f43264c78f924ba2d42c4645093e16d181e157&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/in/360-bliss-dia-hotels.html?aid=304142&label=gen173nr-10CAQoggJCEXNlYXJjaF9nb2EsIGluZGlhSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgC09zZxgbAAgHSAiQ1MDk0Y2RmYy1kY2U4LTQ2YTctODUzYi1hNjFhNzU5OGQzMWLYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=1a214b69293703d5&srepoch=1758883414&all_sr_blocks=1141017201_401393347_2_2_0_266252&highlighted_blocks=1141017201_401393347_2_2_0_266252&matching_block_id=1141017201_401393347_2_2_0_266252&sr_pri_blocks=1141017201_401393347_2_2_0_266252_1800000&from=searchresults",
+    "address": "Nerul",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Goa%2C+India&checkin=2025-10-03&checkout=2025-10-06&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1758883411196&force_referer=",
+    "scrapedAt": "2025-09-26T10:43:34.590Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

@@ -24,7 +24,7 @@ export function Header() {
 
   const navLinks = [
     { href: '/', label: 'Home' },
-    { href: '/attractions', label: 'Attractions' },
+    { href: '/favorites', label: 'Favorites' },
     { href: '/plan', label: 'Plan Trip' },
     { href: '/about', label: 'About' }
   ]

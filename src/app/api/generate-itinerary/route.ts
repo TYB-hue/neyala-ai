@@ -134,9 +134,16 @@ export async function POST(req: Request) {
 
     // Verify user authentication
     const { userId } = auth();
-    // Allow unauthenticated users for testing, but log it
+    
+    // Require authentication to generate itinerary
     if (!userId) {
-      console.log('Warning: Unauthenticated user attempting to generate itinerary');
+      return NextResponse.json(
+        { 
+          success: false,
+          error: 'Unauthorized: You must be signed in to generate an itinerary' 
+        },
+        { status: 401 }
+      );
     }
 
     // Parse and validate request data

@@ -13,15 +13,25 @@ export function HeroSection() {
   const [destination, setDestination] = useState('')
   const [travelDates, setTravelDates] = useState('')
 
+  const handleStartPlanning = (e: React.MouseEvent) => {
+    e.preventDefault()
+    
+    if (!isSignedIn) {
+      toast.error('Please sign in to start planning your trip!')
+      router.push('/sign-in')
+      return
+    }
+    
+    // If user is signed in, navigate to plan page
+    router.push('/plan')
+  }
+
   const handleSearch = (e: React.FormEvent) => {
     e.preventDefault()
     
     if (!isSignedIn) {
-      toast.error('You have to sign up to start planning your trip!')
-      // Redirect to sign-up page after a short delay
-      setTimeout(() => {
-        router.push('/sign-up')
-      }, 1500)
+      toast.error('Please sign in to start planning your trip!')
+      router.push('/sign-in')
       return
     }
     
@@ -31,9 +41,15 @@ export function HeroSection() {
   }
 
   return (
-    <section className="relative bg-gradient-to-br from-blue-500 to-blue-700 text-white">
+    <section className="relative bg-gradient-to-br from-blue-500 via-blue-600 to-blue-700 text-white overflow-hidden">
       {/* Background Pattern */}
       <div className="absolute inset-0 opacity-10 bg-[url('/images/hero-bg.jpg')] bg-cover bg-center"></div>
+      {/* Decorative elements */}
+      <div className="absolute top-0 left-0 w-full h-full">
+        <div className="absolute top-20 left-10 w-32 h-32 bg-white/10 rounded-full blur-xl"></div>
+        <div className="absolute bottom-20 right-10 w-40 h-40 bg-white/5 rounded-full blur-2xl"></div>
+        <div className="absolute top-1/2 left-1/4 w-24 h-24 bg-white/10 rounded-full blur-lg"></div>
+      </div>
       <div className="container mx-auto px-4 py-20 relative z-10">
         <div className="max-w-3xl mx-auto text-center">
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6">
@@ -44,13 +60,13 @@ export function HeroSection() {
             Discover new destinations, plan your perfect trip, and travel smarter.
           </p>
           <div className="flex flex-col sm:flex-row justify-center gap-4 mb-16">
-            <Link 
-              href="/plan"
+            <button 
+              onClick={handleStartPlanning}
               className="bg-white text-blue-700 hover:bg-blue-50 font-bold py-3 px-8 rounded-full shadow-lg flex items-center justify-center"
             >
               <PlaneTakeoffIcon className="mr-2 h-5 w-5" />
               Start Planning
-            </Link>
+            </button>
             <Link
               href="/about" 
               className="bg-transparent border-2 border-white hover:bg-white/10 font-bold py-3 px-8 rounded-full flex items-center justify-center"

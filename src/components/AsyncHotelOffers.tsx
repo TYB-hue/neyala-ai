@@ -310,7 +310,7 @@ export default function AsyncHotelOffers({
               {/* Price */}
               <div className="flex items-center justify-between mb-4">
                 <div className="text-xl font-bold text-gray-900">
-                  {hotel.currency} {Math.round(hotel.price)}
+                  {new Intl.NumberFormat('en-US', { style: 'currency', currency: (hotel.currency || 'USD').toUpperCase(), maximumFractionDigits: 0 }).format(Math.round(hotel.price))}
                 </div>
                 <span className="text-sm text-gray-500">/night</span>
               </div>

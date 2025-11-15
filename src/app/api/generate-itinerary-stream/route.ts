@@ -18,9 +18,16 @@ interface ItineraryRequest {
 export async function POST(req: Request) {
   try {
     const { userId } = await auth();
-    // Allow unauthenticated users for testing, but log it
+    
+    // Require authentication to generate itinerary
     if (!userId) {
-      console.log('Warning: Unauthenticated user attempting to generate itinerary');
+      return NextResponse.json(
+        { 
+          success: false,
+          error: 'Unauthorized: You must be signed in to generate an itinerary' 
+        },
+        { status: 401 }
+      );
     }
 
     const requestData: ItineraryRequest = await req.json();
@@ -35,7 +42,7 @@ export async function POST(req: Request) {
           // Generate itinerary with Groq AI
           controller.enqueue(new TextEncoder().encode('data: {"status": "generating", "message": "Creating your personalized itinerary..."}\n\n'));
 
-          const maxRetries = 3;
+          const maxRetries = 5; // Increased from 3 to 5 for better rate limit handling
           let attempt = 0;
           let itineraryData = null;
           
@@ -279,22 +286,42 @@ If you include any actual image URLs, the response will be rejected and you will
               if (groqError && typeof groqError === 'object' && 'status' in groqError && groqError.status === 429) {
                 console.log(`Rate limit hit on attempt ${attempt}. The Groq API is currently rate-limited.`);
                 if (attempt < maxRetries) {
-                  const delay = 2000 * Math.pow(2, attempt - 1); // Exponential backoff
-                  console.log(`Waiting ${delay}ms before retry...`);
+                  // Longer delays for rate limits: 5s, 10s, 20s, 40s, 80s
+                  const delay = 5000 * Math.pow(2, attempt - 1); // Exponential backoff starting at 5 seconds
+                  console.log(`Waiting ${delay/1000}s before retry...`);
+                  controller.enqueue(new TextEncoder().encode(`data: {"status": "retrying", "message": "Rate limit reached. Waiting ${delay/1000} seconds before retry ${attempt}/${maxRetries}..."}\n\n`));
                   await new Promise(resolve => setTimeout(resolve, delay));
                   continue;
                 } else {
-                  throw new Error('Rate limit exceeded. Please wait a moment and try again.');
+                  throw new Error('Rate limit exceeded. The API is currently busy. Please wait 1-2 minutes and try again.');
                 }
-              } else if (groqError && typeof groqError === 'object' && 'message' in groqError && typeof groqError.message === 'string' && groqError.message.includes('Rate limit reached')) {
-                console.log(`Rate limit message detected on attempt ${attempt}`);
-                if (attempt < maxRetries) {
-                  const delay = 2000 * Math.pow(2, attempt - 1);
-                  console.log(`Waiting ${delay}ms before retry...`);
-                  await new Promise(resolve => setTimeout(resolve, delay));
-                  continue;
-                } else {
-                  throw new Error('Rate limit exceeded. Please wait a moment and try again.');
+              } else if (groqError && typeof groqError === 'object' && 'message' in groqError && typeof groqError.message === 'string') {
+                const errorMessage = groqError.message;
+                
+                // Check for daily token limit (TPD - Tokens Per Day)
+                if (errorMessage.includes('tokens per day') || errorMessage.includes('TPD') || errorMessage.includes('Please try again in')) {
+                  // Extract wait time if available
+                  const waitTimeMatch = errorMessage.match(/try again in ([\d]+)m([\d.]+)s/);
+                  let waitMessage = 'Daily token limit reached. Please try again later or upgrade your Groq plan.';
+                  if (waitTimeMatch) {
+                    const minutes = waitTimeMatch[1];
+                    waitMessage = `Daily token limit reached. Please try again in ${minutes} minutes, or upgrade your Groq plan for higher limits.`;
+                  }
+                  throw new Error(waitMessage);
+                }
+                
+                // Check for general rate limit
+                if (errorMessage.includes('Rate limit') || errorMessage.includes('rate limit')) {
+                  console.log(`Rate limit message detected on attempt ${attempt}`);
+                  if (attempt < maxRetries) {
+                    const delay = 5000 * Math.pow(2, attempt - 1);
+                    console.log(`Waiting ${delay/1000}s before retry...`);
+                    controller.enqueue(new TextEncoder().encode(`data: {"status": "retrying", "message": "Rate limit reached. Waiting ${delay/1000} seconds before retry ${attempt}/${maxRetries}..."}\n\n`));
+                    await new Promise(resolve => setTimeout(resolve, delay));
+                    continue;
+                  } else {
+                    throw new Error('Rate limit exceeded. The API is currently busy. Please wait 1-2 minutes and try again.');
+                  }
                 }
               }
               

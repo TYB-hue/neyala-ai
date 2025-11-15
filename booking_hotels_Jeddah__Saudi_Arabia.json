@@ -1,0 +1,292 @@
+[
+  {
+    "id": "hotel_1763182929314_0",
+    "name": "ibis Jeddah City Center",
+    "price": 199,
+    "currency": "USD",
+    "rating": 8.3,
+    "stars": 8,
+    "reviewCount": 1001,
+    "avgReview": "8.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/764159382.webp?k=f65e2c2a6e76995bef7cbb53fe70a6afdf2a2af9519db2e0356c4d62a20fbaf8&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/764159382.webp?k=f65e2c2a6e76995bef7cbb53fe70a6afdf2a2af9519db2e0356c4d62a20fbaf8&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/764159382.webp?k=f65e2c2a6e76995bef7cbb53fe70a6afdf2a2af9519db2e0356c4d62a20fbaf8&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/sa/ibis-jeddah-city-center.html?aid=304142&label=gen173nr-10CAQoggJCG3NlYXJjaF9qZWRkYWgsIHNhdWRpIGFyYWJpYUgzWARooQGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AsyS4MgGwAIB0gIkNmFkMjBlZGQtZWIzYS00OTQzLThiNWEtMzA0ZDczMTAzOGYx2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=27a3236682e801ef&srepoch=1763182927&all_sr_blocks=604484802_387585275_2_42_0_714279&highlighted_blocks=604484802_387585275_2_42_0_714279&matching_block_id=604484802_387585275_2_42_0_714279&sr_pri_blocks=604484802_387585275_2_42_0_714279_74700&from=searchresults",
+    "address": "Al Andalus, Jeddah",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Jeddah%2C+Saudi+Arabia&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-11-15T05:02:09.314Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763182929314_1",
+    "name": "Casa Diora Hotel Al Rawdah",
+    "price": 280,
+    "currency": "USD",
+    "rating": 9,
+    "stars": 9,
+    "reviewCount": 303,
+    "avgReview": "9.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/760589439.webp?k=36592f95f4e2dde084662b12f2dddc690311744f714d69cea4d2e565f2a5ab0c&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/760589439.webp?k=36592f95f4e2dde084662b12f2dddc690311744f714d69cea4d2e565f2a5ab0c&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/760589439.webp?k=36592f95f4e2dde084662b12f2dddc690311744f714d69cea4d2e565f2a5ab0c&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/sa/casa-di-ora-al-rawda.html?aid=304142&label=gen173nr-10CAQoggJCG3NlYXJjaF9qZWRkYWgsIHNhdWRpIGFyYWJpYUgzWARooQGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AsyS4MgGwAIB0gIkNmFkMjBlZGQtZWIzYS00OTQzLThiNWEtMzA0ZDczMTAzOGYx2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=27a3236682e801ef&srepoch=1763182927&all_sr_blocks=1414225004_414315922_2_2_0&highlighted_blocks=1414225004_414315922_2_2_0&matching_block_id=1414225004_414315922_2_2_0&sr_pri_blocks=1414225004_414315922_2_2_0__105000&from=searchresults",
+    "address": "Al Rawda, Jeddah (Sari Street)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Jeddah%2C+Saudi+Arabia&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-11-15T05:02:09.314Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763182929315_2",
+    "name": "Eden Residence",
+    "price": 539,
+    "currency": "USD",
+    "rating": 8.9,
+    "stars": 9,
+    "reviewCount": 359,
+    "avgReview": "8.9/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/198878286.webp?k=823e3997f33b2fb873a4be2f302f16b2295a58321236aeafb73dd99318fc3a40&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/198878286.webp?k=823e3997f33b2fb873a4be2f302f16b2295a58321236aeafb73dd99318fc3a40&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/198878286.webp?k=823e3997f33b2fb873a4be2f302f16b2295a58321236aeafb73dd99318fc3a40&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/sa/eden.html?aid=304142&label=gen173nr-10CAQoggJCG3NlYXJjaF9qZWRkYWgsIHNhdWRpIGFyYWJpYUgzWARooQGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AsyS4MgGwAIB0gIkNmFkMjBlZGQtZWIzYS00OTQzLThiNWEtMzA0ZDczMTAzOGYx2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=27a3236682e801ef&srepoch=1763182927&all_sr_blocks=486677801_160048702_0_0_0&highlighted_blocks=486677801_160048702_0_0_0&matching_block_id=486677801_160048702_0_0_0&sr_pri_blocks=486677801_160048702_0_0_0__201960&from=searchresults",
+    "address": "Al Andalus, Jeddah",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Jeddah%2C+Saudi+Arabia&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-11-15T05:02:09.315Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763182929315_3",
+    "name": "Four Points by Sheraton Jeddah Corniche",
+    "price": 396,
+    "currency": "USD",
+    "rating": 8.1,
+    "stars": 8,
+    "reviewCount": 909,
+    "avgReview": "8.1/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/456072618.webp?k=931b7b7d34a4579a003d9413ff533c4afdaa12482414efbe28421d9a37d5e3e4&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/456072618.webp?k=931b7b7d34a4579a003d9413ff533c4afdaa12482414efbe28421d9a37d5e3e4&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/456072618.webp?k=931b7b7d34a4579a003d9413ff533c4afdaa12482414efbe28421d9a37d5e3e4&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/sa/four-points-by-sheraton-jeddah-corniche.html?aid=304142&label=gen173nr-10CAQoggJCG3NlYXJjaF9qZWRkYWgsIHNhdWRpIGFyYWJpYUgzWARooQGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AsyS4MgGwAIB0gIkNmFkMjBlZGQtZWIzYS00OTQzLThiNWEtMzA0ZDczMTAzOGYx2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=27a3236682e801ef&srepoch=1763182927&all_sr_blocks=796666901_359113296_0_42_0&highlighted_blocks=796666901_359113296_0_42_0&matching_block_id=796666901_359113296_0_42_0&sr_pri_blocks=796666901_359113296_0_42_0__148500&from=searchresults",
+    "address": "South Obhr, Jeddah",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Jeddah%2C+Saudi+Arabia&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-11-15T05:02:09.315Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763182929316_4",
+    "name": "Sunday Jeddah Hotel",
+    "price": 175,
+    "currency": "USD",
+    "rating": 7.7,
+    "stars": 8,
+    "reviewCount": 253,
+    "avgReview": "7.7/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/728820562.webp?k=61287a398af5e41a13f51adaa197227493022bc9a535e162274d47e55c3b2ad4&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/728820562.webp?k=61287a398af5e41a13f51adaa197227493022bc9a535e162274d47e55c3b2ad4&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/728820562.webp?k=61287a398af5e41a13f51adaa197227493022bc9a535e162274d47e55c3b2ad4&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/sa/sunday-jeddah-jd.html?aid=304142&label=gen173nr-10CAQoggJCG3NlYXJjaF9qZWRkYWgsIHNhdWRpIGFyYWJpYUgzWARooQGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AsyS4MgGwAIB0gIkNmFkMjBlZGQtZWIzYS00OTQzLThiNWEtMzA0ZDczMTAzOGYx2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=27a3236682e801ef&srepoch=1763182927&all_sr_blocks=1473522603_422725128_2_0_0&highlighted_blocks=1473522603_422725128_2_0_0&matching_block_id=1473522603_422725128_2_0_0&sr_pri_blocks=1473522603_422725128_2_0_0__65558&from=searchresults",
+    "address": "Jeddah",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Jeddah%2C+Saudi+Arabia&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-11-15T05:02:09.316Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763182929316_5",
+    "name": "Holiday Inn Jeddah Corniche by IHG",
+    "price": 366,
+    "currency": "USD",
+    "rating": 8.6,
+    "stars": 9,
+    "reviewCount": 573,
+    "avgReview": "8.6/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/518080280.webp?k=0e98cbbeda1388207093ae2fca78b173177dcc20f204f3fac10e2c99b434d9c6&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/518080280.webp?k=0e98cbbeda1388207093ae2fca78b173177dcc20f204f3fac10e2c99b434d9c6&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/518080280.webp?k=0e98cbbeda1388207093ae2fca78b173177dcc20f204f3fac10e2c99b434d9c6&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/sa/holiday-inn-jeddah-corniche-an-ihg.html?aid=304142&label=gen173nr-10CAQoggJCG3NlYXJjaF9qZWRkYWgsIHNhdWRpIGFyYWJpYUgzWARooQGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AsyS4MgGwAIB0gIkNmFkMjBlZGQtZWIzYS00OTQzLThiNWEtMzA0ZDczMTAzOGYx2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=27a3236682e801ef&srepoch=1763182927&all_sr_blocks=1117539902_384616695_2_2_0&highlighted_blocks=1117539902_384616695_2_2_0&matching_block_id=1117539902_384616695_2_2_0&sr_pri_blocks=1117539902_384616695_2_2_0__137200&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Jeddah",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Jeddah%2C+Saudi+Arabia&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-11-15T05:02:09.316Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763182929316_6",
+    "name": "Four Points by Sheraton Jeddah King Fahd Road",
+    "price": 312,
+    "currency": "USD",
+    "rating": 8.2,
+    "stars": 8,
+    "reviewCount": 719,
+    "avgReview": "8.2/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/652540381.webp?k=ca368b6e5f36ca5607c0f49e70ab61e1fe64cc8c15123f53193771302ef2065c&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/652540381.webp?k=ca368b6e5f36ca5607c0f49e70ab61e1fe64cc8c15123f53193771302ef2065c&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/652540381.webp?k=ca368b6e5f36ca5607c0f49e70ab61e1fe64cc8c15123f53193771302ef2065c&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/sa/four-points-by-sheraton-jeddah-king-fahd-road.html?aid=304142&label=gen173nr-10CAQoggJCG3NlYXJjaF9qZWRkYWgsIHNhdWRpIGFyYWJpYUgzWARooQGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AsyS4MgGwAIB0gIkNmFkMjBlZGQtZWIzYS00OTQzLThiNWEtMzA0ZDczMTAzOGYx2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=27a3236682e801ef&srepoch=1763182927&all_sr_blocks=1367989605_409046844_0_2_0&highlighted_blocks=1367989605_409046844_0_2_0&matching_block_id=1367989605_409046844_0_2_0&sr_pri_blocks=1367989605_409046844_0_2_0__117000&from=searchresults",
+    "address": "Jeddah",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Jeddah%2C+Saudi+Arabia&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-11-15T05:02:09.316Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763182929317_7",
+    "name": "Crowne Plaza Jeddah by IHG",
+    "price": 405,
+    "currency": "USD",
+    "rating": 8.5,
+    "stars": 9,
+    "reviewCount": 671,
+    "avgReview": "8.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/403986435.webp?k=1b9f0e449dda0a6c4b76a0263f2d46956cbb41ca8d3c21436209ae96f01915c4&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/403986435.webp?k=1b9f0e449dda0a6c4b76a0263f2d46956cbb41ca8d3c21436209ae96f01915c4&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/403986435.webp?k=1b9f0e449dda0a6c4b76a0263f2d46956cbb41ca8d3c21436209ae96f01915c4&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/sa/crowne-plaza-jeddah.html?aid=304142&label=gen173nr-10CAQoggJCG3NlYXJjaF9qZWRkYWgsIHNhdWRpIGFyYWJpYUgzWARooQGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AsyS4MgGwAIB0gIkNmFkMjBlZGQtZWIzYS00OTQzLThiNWEtMzA0ZDczMTAzOGYx2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=27a3236682e801ef&srepoch=1763182927&all_sr_blocks=2530908_246104676_2_42_0&highlighted_blocks=2530908_246104676_2_42_0&matching_block_id=2530908_246104676_2_42_0&sr_pri_blocks=2530908_246104676_2_42_0__151800&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Al Hamra, Jeddah",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Jeddah%2C+Saudi+Arabia&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-11-15T05:02:09.317Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763182929317_8",
+    "name": "MOVE INN Jeddah Hotel",
+    "price": 177,
+    "currency": "USD",
+    "rating": 7.9,
+    "stars": 8,
+    "reviewCount": 512,
+    "avgReview": "7.9/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/672519277.webp?k=10c03b70c61a1e2b30aa2fd610afd1a4061e321100dcf17634fbb84d156a9e29&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/672519277.webp?k=10c03b70c61a1e2b30aa2fd610afd1a4061e321100dcf17634fbb84d156a9e29&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/672519277.webp?k=10c03b70c61a1e2b30aa2fd610afd1a4061e321100dcf17634fbb84d156a9e29&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/sa/moevenpick-jeddah.html?aid=304142&label=gen173nr-10CAQoggJCG3NlYXJjaF9qZWRkYWgsIHNhdWRpIGFyYWJpYUgzWARooQGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AsyS4MgGwAIB0gIkNmFkMjBlZGQtZWIzYS00OTQzLThiNWEtMzA0ZDczMTAzOGYx2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=27a3236682e801ef&srepoch=1763182927&all_sr_blocks=18972626_0_2_0_0&highlighted_blocks=18972626_0_2_0_0&matching_block_id=18972626_0_2_0_0&sr_pri_blocks=18972626_0_2_0_0__66277&from=searchresults",
+    "address": "Jeddah",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Jeddah%2C+Saudi+Arabia&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-11-15T05:02:09.317Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763182929318_9",
+    "name": "Shaty Alhayat serviced Apartments",
+    "price": 214,
+    "currency": "USD",
+    "rating": 8.6,
+    "stars": 9,
+    "reviewCount": 278,
+    "avgReview": "8.6/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/447729414.webp?k=32ac7287139397075c0aa499bdabbf0b0dd34fa5062f1167d2991a5629fa0afd&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/447729414.webp?k=32ac7287139397075c0aa499bdabbf0b0dd34fa5062f1167d2991a5629fa0afd&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/447729414.webp?k=32ac7287139397075c0aa499bdabbf0b0dd34fa5062f1167d2991a5629fa0afd&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/sa/lhy-llshqq-lfndqy.html?aid=304142&label=gen173nr-10CAQoggJCG3NlYXJjaF9qZWRkYWgsIHNhdWRpIGFyYWJpYUgzWARooQGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4AsyS4MgGwAIB0gIkNmFkMjBlZGQtZWIzYS00OTQzLThiNWEtMzA0ZDczMTAzOGYx2AIB4AIB&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=27a3236682e801ef&srepoch=1763182927&all_sr_blocks=787118801_368377405_2_0_0_215320&highlighted_blocks=787118801_368377405_2_0_0_215320&matching_block_id=787118801_368377405_2_0_0_215320&sr_pri_blocks=787118801_368377405_2_0_0_215320_80100&from=searchresults",
+    "address": "Hera Street, Jeddah (Hera Street)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Jeddah%2C+Saudi+Arabia&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-11-15T05:02:09.318Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

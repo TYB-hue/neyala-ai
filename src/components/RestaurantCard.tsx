@@ -3,6 +3,7 @@
 import React, { useState, useEffect } from 'react';
 import { ExternalLinkIcon, MessageCircle } from 'lucide-react';
 import { getViatorLink } from '@/lib/viator-links';
+import { useUser } from '@clerk/nextjs';
 
 interface RestaurantCardProps {
   name: string;
@@ -26,11 +27,13 @@ export default function RestaurantCard({
   const viatorLink = getViatorLink(destination, name);
   const [isSaved, setIsSaved] = useState(false);
   const [isLoading, setIsLoading] = useState(false);
+  const [showCopyMessage, setShowCopyMessage] = useState(false);
+  const { isSignedIn } = useUser();
 
   // Check if this restaurant is already saved
   useEffect(() => {
-    const savedAttractions = JSON.parse(localStorage.getItem('savedAttractions') || '[]');
-    const isAlreadySaved = savedAttractions.some((item: any) => 
+    const savedFavorites = JSON.parse(localStorage.getItem('savedFavorites') || '[]');
+    const isAlreadySaved = savedFavorites.some((item: any) => 
       item.attractionData.name === name && item.attractionData.destination === destination
     );
     setIsSaved(isAlreadySaved);
@@ -47,7 +50,7 @@ export default function RestaurantCard({
     setIsLoading(true);
     
     try {
-      const savedAttractions = JSON.parse(localStorage.getItem('savedAttractions') || '[]');
+      const savedFavorites = JSON.parse(localStorage.getItem('savedFavorites') || '[]');
       const restaurantData = {
         id: `${destination}-${name}-${Date.now()}`,
         name,
@@ -58,24 +61,50 @@ export default function RestaurantCard({
         emoji: '🍽️'
       };
       
-      const existingIndex = savedAttractions.findIndex((item: any) => 
+      const existingIndex = savedFavorites.findIndex((item: any) => 
         item.attractionData.name === name && item.attractionData.destination === destination
       );
       
       if (existingIndex >= 0) {
         // Remove from collections
-        savedAttractions.splice(existingIndex, 1);
-        localStorage.setItem('savedAttractions', JSON.stringify(savedAttractions));
+        if (isSignedIn) {
+          try {
+            await fetch(`/api/user/collections?attractionId=${encodeURIComponent(savedFavorites[existingIndex].attractionId)}`, {
+              method: 'DELETE'
+            });
+          } catch {}
+        }
+        savedFavorites.splice(existingIndex, 1);
+        localStorage.setItem('savedFavorites', JSON.stringify(savedFavorites));
         setIsSaved(false);
+        window.dispatchEvent(new Event('favoritesUpdated')); // Dispatch custom event
       } else {
         // Add to collections
-        savedAttractions.push({
+        const item = {
           attractionId: restaurantData.id,
           attractionData: restaurantData,
           savedAt: new Date().toISOString()
-        });
-        localStorage.setItem('savedAttractions', JSON.stringify(savedAttractions));
+        };
+        if (isSignedIn) {
+          try {
+            await fetch('/api/user/collections', {
+              method: 'POST',
+              headers: { 'Content-Type': 'application/json' },
+              body: JSON.stringify({ attractionId: restaurantData.id, attractionData: {
+                id: restaurantData.id,
+                name: restaurantData.name,
+                type: restaurantData.type,
+                location: restaurantData.destination,
+                description: restaurantData.description,
+                image: ''
+              } })
+            });
+          } catch {}
+        }
+        savedFavorites.push(item);
+        localStorage.setItem('savedFavorites', JSON.stringify(savedFavorites));
         setIsSaved(true);
+        window.dispatchEvent(new Event('favoritesUpdated')); // Dispatch custom event
       }
     } catch (error) {
       console.error('Error saving restaurant:', error);
@@ -88,6 +117,17 @@ export default function RestaurantCard({
     e.stopPropagation(); // Prevent triggering the restaurant click
     onReviewClick?.();
   }, [onReviewClick]);
+
+  const handleCopyClick = async (e: React.MouseEvent) => {
+    e.stopPropagation(); // Prevent triggering the restaurant click
+    try {
+      await navigator.clipboard.writeText(name);
+      setShowCopyMessage(true);
+      setTimeout(() => setShowCopyMessage(false), 2000); // Hide after 2 seconds
+    } catch (err) {
+      console.error('Failed to copy text: ', err);
+    }
+  };
 
   return (
     <div 
@@ -132,15 +172,21 @@ export default function RestaurantCard({
       <h5 className="text-lg font-semibold mb-3 flex items-center">
         <span className="mr-2">🍽️</span>
         Restaurant
+        <button
+          onClick={handleCopyClick}
+          className="ml-2 p-1 rounded-full hover:bg-gray-100 transition-colors focus:outline-none focus:ring-2 focus:ring-blue-500"
+          title="Copy title to clipboard"
+        >
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-copy"><rect width="14" height="14" x="8" y="8" rx="2" ry="2"/><path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2"/></svg>
+        </button>
+        {showCopyMessage && (
+          <span className="ml-2 text-sm text-green-600">Copied!</span>
+        )}
       </h5>
       <div className="space-y-3">
         <div>
           <p className="font-medium text-gray-900">{name}</p>
           <p className="text-sm text-gray-600">{cuisine} - {description}</p>
-        </div>
-        <div className="flex items-center text-blue-600 text-sm font-medium hover:text-blue-700 transition-colors">
-          <ExternalLinkIcon className="w-4 h-4 mr-1" />
-          Explore on Viator
         </div>
       </div>
     </div>

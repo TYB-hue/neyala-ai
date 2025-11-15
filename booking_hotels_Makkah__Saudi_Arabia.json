@@ -1,0 +1,292 @@
+[
+  {
+    "id": "hotel_1759404057652_0",
+    "name": "Al Hashmeih Tower Hotel Makkah by Moro",
+    "price": 46,
+    "currency": "USD",
+    "rating": 8.3,
+    "stars": 8,
+    "reviewCount": 623,
+    "avgReview": "8.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/756436944.webp?k=0a780f0280ab97a86f4e767e5cbff38ce80f81251004fb411d4974e30c1aa850&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/756436944.webp?k=0a780f0280ab97a86f4e767e5cbff38ce80f81251004fb411d4974e30c1aa850&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/756436944.webp?k=0a780f0280ab97a86f4e767e5cbff38ce80f81251004fb411d4974e30c1aa850&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/sa/brj-lhshmy.html?aid=304142&label=gen173nr-10CAQoggJCG3NlYXJjaF9tYWtrYWgsIHNhdWRpIGFyYWJpYUgzWARooQGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4ApbA-cYGwAIB0gIkZjIwNjJlZTEtMGMzOC00NDhmLWE2ZTktMjUxZDNhYjRhMmI12AIB4AIB&ucfs=1&arphpl=1&checkin=2025-10-09&checkout=2025-10-12&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=80624fcb2bb7058d&srepoch=1759404058&all_sr_blocks=935575203_420134439_2_0_0_1194194&highlighted_blocks=935575203_420134439_2_0_0_1194194&matching_block_id=935575203_420134439_2_0_0_1194194&sr_pri_blocks=935575203_420134439_2_0_0_1194194_17354&from=searchresults",
+    "address": "Mecca",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Makkah%2C+Saudi+Arabia&checkin=2025-10-09&checkout=2025-10-12&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1759404054135&force_referer=",
+    "scrapedAt": "2025-10-02T11:20:57.652Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1759404057653_1",
+    "name": "Raffles Makkah Palace",
+    "price": 1896,
+    "currency": "USD",
+    "rating": 9.3,
+    "stars": 9,
+    "reviewCount": 466,
+    "avgReview": "9.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/752332958.webp?k=afbe598e9b3a8a635c5361c7e99c3a9a691127a2886e1ed4c34ab9751fff725c&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/752332958.webp?k=afbe598e9b3a8a635c5361c7e99c3a9a691127a2886e1ed4c34ab9751fff725c&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/752332958.webp?k=afbe598e9b3a8a635c5361c7e99c3a9a691127a2886e1ed4c34ab9751fff725c&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/sa/raffles-makkah-palace.html?aid=304142&label=gen173nr-10CAQoggJCG3NlYXJjaF9tYWtrYWgsIHNhdWRpIGFyYWJpYUgzWARooQGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4ApbA-cYGwAIB0gIkZjIwNjJlZTEtMGMzOC00NDhmLWE2ZTktMjUxZDNhYjRhMmI12AIB4AIB&ucfs=1&arphpl=1&checkin=2025-10-09&checkout=2025-10-12&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=80624fcb2bb7058d&srepoch=1759404058&all_sr_blocks=26901815_91470430_2_41_0_1173190&highlighted_blocks=26901815_91470430_2_41_0_1173190&matching_block_id=26901815_91470430_2_41_0_1173190&sr_pri_blocks=26901815_91470430_2_41_0_1173190_711000&nad_id=3c1ca9ba-1c38-4d5d-a445-88646d6a068f_0&nad_cpc=0.5&nad_track=eyJhdWN0aW9uRXBvY2giOjE3NTk0MDQwNTU1NDUsInJhbmsiOjEsImtvZGRpVHJhY2tpbmdJbmZvIjoiK0R3bFBNaXVxeEdpSGNscDdIUlFiYlBTRWluV0tERFZaODNoODNEVGtvZWczQjZ5ZEdiR0U0b0x5WnZ2MW9YdUwyMTY3QzUwYS94YkEvcUkyRE9oNkRGY3ZGOXpqaStLdjUyTnZQcW1QdWVhUWlrV0wza1EyRHdvOCs5VkZhWFpWL0VEaTA1N2Rwc1lyWnBuelIwZ1I4QTFmVkNkT0RkSXJvZk54YnU5K3FaYzd4anNZUTRka20zM0lXcnFQT3E0NFJ6eEY3aGtjazVRZVkzbnUweVFQS0QxSkdzOXRCWmNHMU9CWkRubzA3Vk0zVVl5R0dCQkt4MkJKM1ZHZGgvcTdKQTBpNUc3TnlYNjZCSCtmK20yQkJIVnpKQ0FtemFsMncrb0VlY1lFdXlhQ2x1ZjZCZndVOFUreWo3bXFHbVlFdkRyUEhid1MvbVFveHRYVU13VmZBUjFQM2wrM0tLMmFyMWEwZnBCVXM4cjlnUFZnOFRERlcyaHlLeDdNbjJ5QkxPR2NCNnpvWWE2Ryt3anYzM1ZGSEpraUY5UVZxYzFhbHJUVjdRSlUyTTNaRTE3SHpCYnZwT2NUaEZoL2dqZWVKMlZyb2h2YlNUdWp5bWcrS0hIdVllWW5PbytUc01ET2dYOEEyaDhQdlMvenNJMWpQYkgwb09VV3hmV01lWitrb2lQU1Z2blM2dFJSMTkydm5nOWlUdVlXZ0xldC94NHJRRjUwbmRGSWNHekdCQldzYlYwaHdxMk9kR2VFazZFYjRaY2M0WU5LaVVPcGlxSGh0NEZMcnVMZDZaY1MrQ2FjSTZyMFovcE92cnBjVGJzKzk3ZUdGVGtMalQrNHdMb1RoMTBjeDlibm1Hck12eG80QXBHeHZoa1dXM0VJeU1lMjhkcE1GdCs2R2lvcWpqbHJSa1I0aGVkWFhyQ2ZEeGhkb2JPZXV3QlhOMDNUZ2lBcXBoU1labmdxUnRXYXpkaEpHeVBDWGdVL2JvVkxaSFNQZkV5ZE5CbGl2YlJwa2lmSVVTSEtKM0xXQ3pXc2gvUVUzTXVybk4vME9kcThwd2RQaWdIRDVpUW5ZZG5heW52WjNNNGlsOE5Yd0Jqbkh6b3pYU0NCNzdzaEtDdlN4cWpvYUVJNTFWbndRRVZiVUhoM3ZvSlhuOG1iUTB5dGhIb0d5YnU5UE50c0pRcWFGTGpPczZDNUYyNWdVMjdBRlhkNEJHTmRObDIwSTY3NGpJSWZUOUJwQ2J4TlQxQmlnLy9idGNaS21PRlRuWER2U2ZrajgzS1R5NHZmK0RnR1I4bnB0YW94WDJDYnl3M0NqTHdLMzVmVVYyWkZsVDNiZWZ6aENMaXQvU3hMQUx3RlpHQTBsU001RlJpcWJnYTBYVHJqTFZKYlJYbHVSTE5rM0RWUzhsZ2JaWnhTSnNtUUFLKzdibVRnNzkyNzZEYXNDRkoxeXhST0x1L0U0YUJ3UFdSU2RqOFBVR0V2VGhpcS9iYUtWRi84bUt5V1JpZHlpMjN6Q09vSUhkVndGSDZ1Ujc3MDJxanhYMDlWdXVFaTcvTWhrTTJmS1RFSm9wQXhTakpNZlh6S2tGR3lGTm8wVVVjcXN4dE5kV0hQa2JrTTJKV0pJNk96WnVaeFNIUFBZZThvUjNPaVZUY0xUc2FIKy8yK0NGdUZ5V05XOFpqZmFGTnhvaFNWV1NiZzU2OS93Qkh2OFRXTEJBQm5Hd1UzcG1LbXZXeXErbVNQYnVFZ1A1OXMwd3h1T05vdS9jRExUeStTbnJaT09EY1hHUk1ZRDYwemJBVFBHMWt2RUtURFVWNTN0Sm5YWWg4ZjNmWVdOUENsNFJxRWRPZVZZRXV0OWxwYTVLa3pYd0w4cm5NU2xFYmZaQm5PcGdKM1F4RFVSbitRNjEvUlc4dUU0N1NXbDdVQXdobUlCaEJoUWxhcmgweldUMGEycFErb0xZbkxZMDZ2aEszdGt1SmNBVE9naEdHQ1RKTzc1NVlUU0FkZG1tMnNicC85ZzMwZmlpLzVZa2JFVTVwMEtjcXhuMXRNd2ZSL2lFUzJyaU1WOC93bDdTT1ZUQ2FWZ1BNWjFtMkRIeUVBT0J3dWVNaWJKNVNmdnd2NDJPb0dKcXFDYzJBSFZJNnd3K0hpRnFBUkZ5L3hCdm13cndFMTdWVy9jSjRocHlKWVRsU1JuTFZSZDkySTJzUU4veXlKOVhzVlFGUDVFRGFCc0VXb3RUSzFRditFNldHSVdXcm9rQnJuMlFwUkxwMVdkcjBQMVVZdUdwdkY5ZjNXWjM0REV2eXhxcCtPaVpIYjNMSmhjVzdqWVdMVUwvOHRPcW5uMWN4ajJrOFdQcHlpWGtxU09OQjYrQnpqU1VFSVYyTmZ3dktuTmF1dDIwSUFnQ1JqVmE4U2JHcVRYd29vaWMyK05LZ3RhOHN1RE4vdEFuUkhXUXU0OHhRekJTL3dkeUxPV3A1dFQwcStxVW55eVY5dXZLK0plTDVFWnlUUzdUOC9sci9vUUY4bWtHOW9WRzZmYkVPMlNmbyszd1psNTU4eUVKZU40UE5WV2J6ZUxwZmpmRXE2bm5iYXBNMW81dGhNOExLL3l6dmZBZWc3UHFEbUttV0NpVmNXYzB2Z0FsaHA2U3ZqS1JuRTJMRCtnWkFLWS95RGNVMlJWZTlCZXpuMjNCSjN6R241aUUzbGhoOGsyeDZ5T0VBYy9oWHpobVkzZ1Z0MnEzM25pUFZlMFAxd1JkdzNiMCtuQS81ZXhvdHh4cEZVZFlubUwzdVBtRzdRM0h6QTM3WGVjcTJkcE9SZERDcWFJRXBQaHQzUUk4Rkp4ZCtQQ3R6NTk5bDNUU01XZlVyc2ErV1ZxcjVKR09YcGkrS0g1SGtqRjNBemRZaFljRmQ4QjJIa0U1dm1Rek0zTkFwUVczWXBWby9NYkp5c3VlWVhzTkFuWlR1YTZNT3doeG1vQWFpcEdCUzBaOFFsM2ZUcUtFYUtXcE9TVk4wR0dVZnpvYmVwVzBJSVplQW1XTTJ5T3ZoQnB2SGlaRVA1b0VmVzBhVnRtVkhUUUl0djE1UGVmbEJrd1o3SDlYUmFyVmJKdmRCOEFDMWVmT2RYdVpJZWNLck95dXBtZHY4cExiWFpwQXBBVHFta0lXai94a3F1bEhENTRKNS96dkZUWmE0MGVSbCtkN0toODdydjN2Vko4MlBWTDE5eEc5bDRIQ2wvRE80MDZwWExFQ29GbzNWTkt3NnNxOEhOeGtENEdmR2Z3dW12VnJiajVvaEhObzIwaEwrYU1GTENQRk5jSGFCdmE5RlYxczRIR2tXa0RrMlBBTmEvN2lwcnVDL1hvdjBmc1NjVWNtZHF2RkNZdm96QXRTM2tEWmR6OTY1cnlVdUNRK2kvbGRhRkMzdHhRSmxRRno3N1crV1dmV0NmdW04dU1NTVRvZEhKanJvN1Z1SmdveDBqR2E1bzFIVitmVzFkTzJPOGxBNWZhZVlINFN4TEhhanZSSGc1TVBvU2NCQzFyOGEifQ%3D%3D&from=searchresults",
+    "address": "Ajyad, Mecca",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Makkah%2C+Saudi+Arabia&checkin=2025-10-09&checkout=2025-10-12&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1759404054135&force_referer=",
+    "scrapedAt": "2025-10-02T11:20:57.653Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1759404057653_2",
+    "name": "Novotel Makkah Thakher City",
+    "price": 109,
+    "currency": "USD",
+    "rating": 8.4,
+    "stars": 8,
+    "reviewCount": 396,
+    "avgReview": "8.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/499965375.webp?k=a5b670f0d86d75022ee1afc5488db275e51eacdd6a8b51664efc0f8e6809e209&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/499965375.webp?k=a5b670f0d86d75022ee1afc5488db275e51eacdd6a8b51664efc0f8e6809e209&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/499965375.webp?k=a5b670f0d86d75022ee1afc5488db275e51eacdd6a8b51664efc0f8e6809e209&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/sa/novotel-makkah-thaker-city.html?aid=304142&label=gen173nr-10CAQoggJCG3NlYXJjaF9tYWtrYWgsIHNhdWRpIGFyYWJpYUgzWARooQGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4ApbA-cYGwAIB0gIkZjIwNjJlZTEtMGMzOC00NDhmLWE2ZTktMjUxZDNhYjRhMmI12AIB4AIB&ucfs=1&arphpl=1&checkin=2025-10-09&checkout=2025-10-12&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=80624fcb2bb7058d&srepoch=1759404058&all_sr_blocks=891215704_359269736_2_42_0_611157&highlighted_blocks=891215704_359269736_2_42_0_611157&matching_block_id=891215704_359269736_2_42_0_611157&sr_pri_blocks=891215704_359269736_2_42_0_611157_40950&from=searchresults",
+    "address": "Mecca",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Makkah%2C+Saudi+Arabia&checkin=2025-10-09&checkout=2025-10-12&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1759404054135&force_referer=",
+    "scrapedAt": "2025-10-02T11:20:57.653Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1759404057654_3",
+    "name": "Makarem Ajyad Makkah Hotel",
+    "price": 605,
+    "currency": "USD",
+    "rating": 8.4,
+    "stars": 8,
+    "reviewCount": 715,
+    "avgReview": "8.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/92884414.webp?k=8c2b675e9847bb45cda8c687c3088064bed688044cce4b6e2f5a1bcbd4f3be5d&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/92884414.webp?k=8c2b675e9847bb45cda8c687c3088064bed688044cce4b6e2f5a1bcbd4f3be5d&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/92884414.webp?k=8c2b675e9847bb45cda8c687c3088064bed688044cce4b6e2f5a1bcbd4f3be5d&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/sa/ajyad-makkah-makarim.html?aid=304142&label=gen173nr-10CAQoggJCG3NlYXJjaF9tYWtrYWgsIHNhdWRpIGFyYWJpYUgzWARooQGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4ApbA-cYGwAIB0gIkZjIwNjJlZTEtMGMzOC00NDhmLWE2ZTktMjUxZDNhYjRhMmI12AIB4AIB&ucfs=1&arphpl=1&checkin=2025-10-09&checkout=2025-10-12&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=80624fcb2bb7058d&srepoch=1759404058&all_sr_blocks=24734604_93459810_4_34_0&highlighted_blocks=24734604_93459810_4_34_0&matching_block_id=24734604_93459810_4_34_0&sr_pri_blocks=24734604_93459810_4_34_0__227000&from=searchresults",
+    "address": "Ajyad, Mecca",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Makkah%2C+Saudi+Arabia&checkin=2025-10-09&checkout=2025-10-12&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1759404054135&force_referer=",
+    "scrapedAt": "2025-10-02T11:20:57.654Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1759404057654_4",
+    "name": "voco Makkah an IHG Hotel",
+    "price": 160,
+    "currency": "USD",
+    "rating": 8.8,
+    "stars": 9,
+    "reviewCount": 188,
+    "avgReview": "8.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/463246228.webp?k=6c00f99f6d56e0acd7b94a1976673370cf3e3f0ccf58cc03c28cc3e0c0632c46&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/463246228.webp?k=6c00f99f6d56e0acd7b94a1976673370cf3e3f0ccf58cc03c28cc3e0c0632c46&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/463246228.webp?k=6c00f99f6d56e0acd7b94a1976673370cf3e3f0ccf58cc03c28cc3e0c0632c46&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/sa/voco-makkah.html?aid=304142&label=gen173nr-10CAQoggJCG3NlYXJjaF9tYWtrYWgsIHNhdWRpIGFyYWJpYUgzWARooQGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4ApbA-cYGwAIB0gIkZjIwNjJlZTEtMGMzOC00NDhmLWE2ZTktMjUxZDNhYjRhMmI12AIB4AIB&ucfs=1&arphpl=1&checkin=2025-10-09&checkout=2025-10-12&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=80624fcb2bb7058d&srepoch=1759404058&all_sr_blocks=577976418_223746177_2_2_0&highlighted_blocks=577976418_223746177_2_2_0&matching_block_id=577976418_223746177_2_2_0&sr_pri_blocks=577976418_223746177_2_2_0__60000&from=searchresults",
+    "address": "Mecca",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Makkah%2C+Saudi+Arabia&checkin=2025-10-09&checkout=2025-10-12&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1759404054135&force_referer=",
+    "scrapedAt": "2025-10-02T11:20:57.654Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1759404057655_5",
+    "name": "فندق ضيوف المقام 4 توصيل مجاني للحرم - Diouf Al-Maqam Hotel Free shuttle service to the Haram",
+    "price": 47,
+    "currency": "USD",
+    "rating": 8.2,
+    "stars": 8,
+    "reviewCount": 201,
+    "avgReview": "8.2/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/613091087.webp?k=920d7dac7eac2d950e23f288f96da7f793ae92c8159ed79ca3340d98136bfab3&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/613091087.webp?k=920d7dac7eac2d950e23f288f96da7f793ae92c8159ed79ca3340d98136bfab3&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/613091087.webp?k=920d7dac7eac2d950e23f288f96da7f793ae92c8159ed79ca3340d98136bfab3&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/sa/fndq-dywf-lmqm-4.html?aid=304142&label=gen173nr-10CAQoggJCG3NlYXJjaF9tYWtrYWgsIHNhdWRpIGFyYWJpYUgzWARooQGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4ApbA-cYGwAIB0gIkZjIwNjJlZTEtMGMzOC00NDhmLWE2ZTktMjUxZDNhYjRhMmI12AIB4AIB&ucfs=1&arphpl=1&checkin=2025-10-09&checkout=2025-10-12&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=80624fcb2bb7058d&srepoch=1759404058&all_sr_blocks=1261609201_420563263_3_0_0_1192833&highlighted_blocks=1261609201_420563263_3_0_0_1192833&matching_block_id=1261609201_420563263_3_0_0_1192833&sr_pri_blocks=1261609201_420563263_3_0_0_1192833_17504&from=searchresults",
+    "address": "Mecca",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Makkah%2C+Saudi+Arabia&checkin=2025-10-09&checkout=2025-10-12&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1759404054135&force_referer=",
+    "scrapedAt": "2025-10-02T11:20:57.655Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1759404057655_6",
+    "name": "Marriott Hotel Jabal Omar Makkah",
+    "price": 560,
+    "currency": "USD",
+    "rating": 8.8,
+    "stars": 9,
+    "reviewCount": 836,
+    "avgReview": "8.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/628238675.webp?k=920be83f6a8e22ddcfd1f3370d96572ee2cf734dc9bc3586870b90a9d6f1f5e6&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/628238675.webp?k=920be83f6a8e22ddcfd1f3370d96572ee2cf734dc9bc3586870b90a9d6f1f5e6&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/628238675.webp?k=920be83f6a8e22ddcfd1f3370d96572ee2cf734dc9bc3586870b90a9d6f1f5e6&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/sa/makkah-marriott.html?aid=304142&label=gen173nr-10CAQoggJCG3NlYXJjaF9tYWtrYWgsIHNhdWRpIGFyYWJpYUgzWARooQGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4ApbA-cYGwAIB0gIkZjIwNjJlZTEtMGMzOC00NDhmLWE2ZTktMjUxZDNhYjRhMmI12AIB4AIB&ucfs=1&arphpl=1&checkin=2025-10-09&checkout=2025-10-12&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=80624fcb2bb7058d&srepoch=1759404058&all_sr_blocks=142684402_246433197_0_42_0_1173127&highlighted_blocks=142684402_246433197_0_42_0_1173127&matching_block_id=142684402_246433197_0_42_0_1173127&sr_pri_blocks=142684402_246433197_0_42_0_1173127_210000&from=searchresults",
+    "address": "Ajyad, Mecca",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Makkah%2C+Saudi+Arabia&checkin=2025-10-09&checkout=2025-10-12&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1759404054135&force_referer=",
+    "scrapedAt": "2025-10-02T11:20:57.655Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1759404057656_7",
+    "name": "Doubletree By Hilton Jabal Omar Makkah",
+    "price": 496,
+    "currency": "USD",
+    "rating": 8.5,
+    "stars": 9,
+    "reviewCount": 820,
+    "avgReview": "8.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/483742076.webp?k=5a39fcf0033115dd3a6f6750403fee0e744c9ade0fa968c27b698cb343f49658&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/483742076.webp?k=5a39fcf0033115dd3a6f6750403fee0e744c9ade0fa968c27b698cb343f49658&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/483742076.webp?k=5a39fcf0033115dd3a6f6750403fee0e744c9ade0fa968c27b698cb343f49658&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/sa/doubletree-by-hilton-makkah-jabal-omar.html?aid=304142&label=gen173nr-10CAQoggJCG3NlYXJjaF9tYWtrYWgsIHNhdWRpIGFyYWJpYUgzWARooQGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4ApbA-cYGwAIB0gIkZjIwNjJlZTEtMGMzOC00NDhmLWE2ZTktMjUxZDNhYjRhMmI12AIB4AIB&ucfs=1&arphpl=1&checkin=2025-10-09&checkout=2025-10-12&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=80624fcb2bb7058d&srepoch=1759404058&all_sr_blocks=514824305_178762477_2_42_0_301280&highlighted_blocks=514824305_178762477_2_42_0_301280&matching_block_id=514824305_178762477_2_42_0_301280&sr_pri_blocks=514824305_178762477_2_42_0_301280_186162&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Ajyad, Mecca",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Makkah%2C+Saudi+Arabia&checkin=2025-10-09&checkout=2025-10-12&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1759404054135&force_referer=",
+    "scrapedAt": "2025-10-02T11:20:57.656Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1759404057656_8",
+    "name": "Taj Park Hotel",
+    "price": 184,
+    "currency": "USD",
+    "rating": 8.3,
+    "stars": 8,
+    "reviewCount": 163,
+    "avgReview": "8.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/741824838.webp?k=f07f8ed1ae5aab1264ba1c3fb187c271d0ec577bcb8a24128452d5e27b8e8acd&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/741824838.webp?k=f07f8ed1ae5aab1264ba1c3fb187c271d0ec577bcb8a24128452d5e27b8e8acd&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/741824838.webp?k=f07f8ed1ae5aab1264ba1c3fb187c271d0ec577bcb8a24128452d5e27b8e8acd&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/sa/fndq-tj-brk.html?aid=304142&label=gen173nr-10CAQoggJCG3NlYXJjaF9tYWtrYWgsIHNhdWRpIGFyYWJpYUgzWARooQGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4ApbA-cYGwAIB0gIkZjIwNjJlZTEtMGMzOC00NDhmLWE2ZTktMjUxZDNhYjRhMmI12AIB4AIB&ucfs=1&arphpl=1&checkin=2025-10-09&checkout=2025-10-12&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=80624fcb2bb7058d&srepoch=1759404058&all_sr_blocks=1286031101_420027006_2_1_0_693246&highlighted_blocks=1286031101_420027006_2_1_0_693246&matching_block_id=1286031101_420027006_2_1_0_693246&sr_pri_blocks=1286031101_420027006_2_1_0_693246_68850&from=searchresults",
+    "address": "Mecca",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Makkah%2C+Saudi+Arabia&checkin=2025-10-09&checkout=2025-10-12&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1759404054135&force_referer=",
+    "scrapedAt": "2025-10-02T11:20:57.656Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1759404057656_9",
+    "name": "Jumeirah Jabal Omar Makkah",
+    "price": 585,
+    "currency": "USD",
+    "rating": 9,
+    "stars": 9,
+    "reviewCount": 1023,
+    "avgReview": "9.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/511152045.webp?k=c9a5c94d0d7feae42e51b09d09dc6d71535f8c4f58caa462cbf1ea08060eb9d6&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/511152045.webp?k=c9a5c94d0d7feae42e51b09d09dc6d71535f8c4f58caa462cbf1ea08060eb9d6&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/511152045.webp?k=c9a5c94d0d7feae42e51b09d09dc6d71535f8c4f58caa462cbf1ea08060eb9d6&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/sa/jabal-omar-jumeirah-makkah.html?aid=304142&label=gen173nr-10CAQoggJCG3NlYXJjaF9tYWtrYWgsIHNhdWRpIGFyYWJpYUgzWARooQGIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4ApbA-cYGwAIB0gIkZjIwNjJlZTEtMGMzOC00NDhmLWE2ZTktMjUxZDNhYjRhMmI12AIB4AIB&ucfs=1&arphpl=1&checkin=2025-10-09&checkout=2025-10-12&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=80624fcb2bb7058d&srepoch=1759404058&all_sr_blocks=946796710_367241772_2_42_0&highlighted_blocks=946796710_367241772_2_42_0&matching_block_id=946796710_367241772_2_42_0&sr_pri_blocks=946796710_367241772_2_42_0__219500&from=searchresults",
+    "address": "Ajyad, Mecca",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Makkah%2C+Saudi+Arabia&checkin=2025-10-09&checkout=2025-10-12&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD&chal_t=1759404054135&force_referer=",
+    "scrapedAt": "2025-10-02T11:20:57.656Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

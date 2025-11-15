@@ -1,0 +1,292 @@
+[
+  {
+    "id": "hotel_1763184039853_0",
+    "name": "Marina Sunny 1BR Haven - Quick Trip to Venice Beach",
+    "price": 1021,
+    "currency": "USD",
+    "rating": 8.2,
+    "stars": 8,
+    "reviewCount": 653,
+    "avgReview": "8.2/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/748032319.webp?k=a5f579fb3e90666d715c4b351e57f09eb7718fc5b387e834db0953dd10cf077f&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/748032319.webp?k=a5f579fb3e90666d715c4b351e57f09eb7718fc5b387e834db0953dd10cf077f&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/748032319.webp?k=a5f579fb3e90666d715c4b351e57f09eb7718fc5b387e834db0953dd10cf077f&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/us/sunny-2br-haven-7-min-walk-to-venice-beach.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9sb3MgYW5nZWxlcywgdXNhSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCopvgyAbAAgHSAiRhZDVmZTViOS0wZmJkLTQxYjAtOTg5Ny00OTEzYTk0MTZkNTjYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=440f2591cfe00160&srepoch=1763184038&all_sr_blocks=1494692301_421137704_0_0_0&highlighted_blocks=1494692301_421137704_0_0_0&matching_block_id=1494692301_421137704_0_0_0&sr_pri_blocks=1494692301_421137704_0_0_0__102065&from=searchresults",
+    "address": "Venice Beach, Los Angeles",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Los+Angeles%2C+USA&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-11-15T05:20:39.853Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763184039854_1",
+    "name": "Stylish Urban Escape in Downtown Los Angeles",
+    "price": 631,
+    "currency": "USD",
+    "rating": 7.5,
+    "stars": 8,
+    "reviewCount": 362,
+    "avgReview": "7.5/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/692940391.webp?k=541cea5bf2c5c7e134e5cdb5dac0b0a0bae722b343e979589bbe9c3a25405588&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/692940391.webp?k=541cea5bf2c5c7e134e5cdb5dac0b0a0bae722b343e979589bbe9c3a25405588&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/692940391.webp?k=541cea5bf2c5c7e134e5cdb5dac0b0a0bae722b343e979589bbe9c3a25405588&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/us/stylish-downtown-escape-with-rooftop-views.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9sb3MgYW5nZWxlcywgdXNhSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCopvgyAbAAgHSAiRhZDVmZTViOS0wZmJkLTQxYjAtOTg5Ny00OTEzYTk0MTZkNTjYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=440f2591cfe00160&srepoch=1763184038&all_sr_blocks=1342781205_411434761_0_0_0&highlighted_blocks=1342781205_411434761_0_0_0&matching_block_id=1342781205_411434761_0_0_0&sr_pri_blocks=1342781205_411434761_0_0_0__63067&nad_id=b3e3aeb5-a4b9-474b-9345-f4c975c836f5_4&nad_cpc=2.07&nad_track=eyJhdWN0aW9uRXBvY2giOjE3NjMxODQwMzU3MjAsInJhbmsiOjEsImtvZGRpVHJhY2tpbmdJbmZvIjoiVXlQVHZPQWNMZUdRSk4ya0Q0S2FLWWlsaSs5N2M1cHZUMUtkWkZIR05qVXNUUkZXS3FnNzVla3ZFMnlqZVNtWk1GVDBCQ25JWmFJb0FqTzdOUEpaM1JTUFQ1MWduVzRqMVV2MU15U3NCeDFmc0hRZ0tTemlRNHZIajdqVFdTQWxpYVprTFljM3dWNVRCWGNxYmcycXZmS1Q2NnRneURLdDBKOEs4SHBEQUNla2dON2U2a3UrdXNLRWN1WFA5UTFDY1ByRVJxNUt1UVdNT0hQQXI4dEhOaWpxbkRwUVdHc3lPbFJzWnJZS0lBaXpmbEhhNko2SlJkSzBHZ2piYSs1RGMyaHdwclNDK2VYbERNSnF4aldzTmVTdFhxTjZPbnBnY1RwZFE4dFYzemhrNWk3ZFV4aEZzcHQySHhqdkUvOHE1dFJRQjhid2JYNHgrWjlpVS9Jc1luKy95TUQ4SmwxZVJYTzk3Rzk0M1hjRjY2TVU1NG5LZUhrOW5UeEh2Y0N0MnJqQ3E4YVhSVXVFRUtULzVXUlJ2Y09VTCt0Z0NRNUhJR0E1TFRBNjZlbmFaT1BmZHVrL09LYi9yeWFVeHVyamlkL2ZRL0dyUEZscGdER1Y2ak9GTWZsQzYvNlpkUnVEa09wczZQRTBjazZPdm0zRDFBcGdNRWxQYXMwUTFqNzJ4VVhJZ1RhaGkxSTUrZE9VaHpESnVMdG1mU05aSFVkOGlhY2ZpNmZ6WmZLb2wzOVBFWkFsTmtTUks1MFM4TVlvS0dOSk45S2xLNTZjS29pRTV6dzdjMVlSdjJkbGtCY2U0czlxZUh0RjBWRy91TEg1ZnRTOWQ0b3NGQnltVmdESWpvUjhYcmYrb2pWdlEyRVBhWlRnWnpFWFJQcUpRVG01SFpkaklmR3RzcGhzUm91MXZSYk9WOERMdHkyT3F5a241a0hjNFlreFAvdUpLeVdyallKcE1qc25peWY3Z0ppSGdQS0lCSnRFczRPNGU5QmNrU0tQa0xsdXd4WXhBYlM5VzZ6d2dpQ2JINUIrVWNtRTN3QXBwSVQ0S1lQYlEyR1kwMTZhbTFxYU9RV1o0TmFZeUtJUFlkeFZYMFpneUVVL2FCRnIrV0tCTWhqdHF1d2lkUjJCc2ZaWWpBTWxFeXY3elA0WlczRmtEOHc5djIzZkhaSjM4Sk84S2ttZjVGeXpLMDgzSUNvWHNBK0EvQXlQc3dEQlQ5VVY5cUpteUtzYTRIYTdVcUNHNGFkSGtGY3crRUJsMlJEWS90Z3B3bzVJenZObFdvaXFad2RsWlMyeGFJL2dHcW4vb0Yzc0tHWm1Kc0F3RnE5QUJxTmFzY0FOQ3FkKzFkaW5aeFFBaE9ZM3FMWWtZZmpEMmFkcTlqK3dNRHAwdDE2bStGVzgxaS9xSVZNSVp6bzJLdDFoOXlmc3doMm1zeGptWWhTNlQxdktDMUNMTTIrOU14cStrOWpVVjBZNjZUMll2dkFNN2R6b3pYOG94emlyckRzYWUwMzhubnFMRFJxeVczdFdaTUZENDF0emtaTkFpeUJkcTFwMVo1WGRxZDY1S2hjZko3eVljUE5qQk9yeU45TnZhSlpBVFEwMi9Id1FNMW9yU1NhdmxHTlRLalUrL2JUakNWMnJQNi9pdTlzUmZFZTRraTJBc0pKVmVad3ROY25vUHJpL0VaTVVrUVgxdk45cGNJeVJwSWo2Wkx0QnIwdm9aSVhPMjh6R24wMHJxblhJdzJDbGtjWDRKbnNsRlVoMElYRDl0TW9kdG55dENKOXF6N3Q5QURVbjgrRXhRVFBtaXl1eFdtajlCNDlUaXdldkNUWHZzeHUydnhncHQ1TGlrdU96b1l3bVFzV0h3OE0veE12b0w2UmNpTUNWL2MvVm5JZlNEKzF0WlN5SE1EZ2dTT2hSbHNlaUord2hJdTVFR0FIY2RTMWVuTDk4MHdpK0dpSzdLcGdOelI2UEk4eW02OFJBb0ZnVEFINCtCdWp5bERPUFlkRWNFZkFyWDV5eGZZSGFNTW9LSDh0RWFUUzNtMjZsV0k4Q25JencrR2s9In0%3D&nad_placement=SR_MAIN&from=searchresults",
+    "address": "Downtown LA, Los Angeles",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Los+Angeles%2C+USA&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-11-15T05:20:39.854Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763184039855_2",
+    "name": "The Delphi Downtown LA",
+    "price": 517,
+    "currency": "USD",
+    "rating": 8.1,
+    "stars": 8,
+    "reviewCount": 242,
+    "avgReview": "8.1/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/734483591.webp?k=e52d5de7c1e349a79472ab8cabf8ddaa6eab28604946f48750baf694f9e471bf&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/734483591.webp?k=e52d5de7c1e349a79472ab8cabf8ddaa6eab28604946f48750baf694f9e471bf&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/734483591.webp?k=e52d5de7c1e349a79472ab8cabf8ddaa6eab28604946f48750baf694f9e471bf&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/us/the-delphi-downtown-la.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9sb3MgYW5nZWxlcywgdXNhSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCopvgyAbAAgHSAiRhZDVmZTViOS0wZmJkLTQxYjAtOTg5Ny00OTEzYTk0MTZkNTjYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=440f2591cfe00160&srepoch=1763184038&all_sr_blocks=7684823_372855331_2_42_0_699793&highlighted_blocks=7684823_372855331_2_42_0_699793&matching_block_id=7684823_372855331_2_42_0_699793&sr_pri_blocks=7684823_372855331_2_42_0_699793_51711&from=searchresults",
+    "address": "Downtown LA, Los Angeles",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Los+Angeles%2C+USA&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-11-15T05:20:39.855Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763184039855_3",
+    "name": "Hyatt Centric Delfina Santa Monica",
+    "price": 682,
+    "currency": "USD",
+    "rating": 7.9,
+    "stars": 8,
+    "reviewCount": 659,
+    "avgReview": "7.9/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/764710616.webp?k=cc742ecf3c029744ddf8524ade27f750df4878e676588e046325a820f7108958&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/764710616.webp?k=cc742ecf3c029744ddf8524ade27f750df4878e676588e046325a820f7108958&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/764710616.webp?k=cc742ecf3c029744ddf8524ade27f750df4878e676588e046325a820f7108958&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/us/hyatt-centric-delfina-santa-monica.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9sb3MgYW5nZWxlcywgdXNhSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCopvgyAbAAgHSAiRhZDVmZTViOS0wZmJkLTQxYjAtOTg5Ny00OTEzYTk0MTZkNTjYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=440f2591cfe00160&srepoch=1763184038&all_sr_blocks=5647847_401321582_3_2_0&highlighted_blocks=5647847_401321582_3_2_0&matching_block_id=5647847_401321582_3_2_0&sr_pri_blocks=5647847_401321582_3_2_0__68215&nad_id=b3e3aeb5-a4b9-474b-9345-f4c975c836f5_2&nad_cpc=2.13&nad_track=eyJhdWN0aW9uRXBvY2giOjE3NjMxODQwMzU3MjEsInJhbmsiOjIsImtvZGRpVHJhY2tpbmdJbmZvIjoiVXlQVHZPQWNMZUdRSk4ya0Q0S2FLWWloaTdkN2M0cHVlMUtjVkZFbUxUVXNYVWZSdUE4YmZISkNGNE45ekJlWmEwMFY3a1N0dEZtQ3RRK2ZVU1N1ZnBtcFhha1pUYnJoRnBvZ3ZZWjZ1Si91Y3Q4cXFYOEkvR2xzcnhzOEYvdGNJcFpOSmZGODdKaTErWEppVFNiZjZUSXNWZEhWaVRhUXk1bm5ucU8yc1l6RDBBNGpYTVFHbjRJOEdzc0lFMW1QRFpzc2NCb2VIQlJUSkRPNDM1dGJrU2h5bS9BSnZSeEJUU2M3TUhmLzRBRTh1VFFCdXNiRGt2MithRm5QdDZrSlg4VCtYTzRXVmlaeFNiRTRIbGNOSmVpc2lqV21wYVQwcUVUTWY1a3g4OUFFbk1QeTZPYjdlc04yVi9MWW9NemY1V2VLOHFLeDVmd1hBK1ZnRkVoUjJaY3BaT3FZeml6QmdFaGl6Vm82YW0rMVRWbkNCMldCMVdOMkZ5VUwyRXVyeGJ6ZVJNYUN3Ky9PYlkyRXhkVnlUZFBtUFkrRHpHc3NQUG43QXBWVFYybWdaRGRPYVo3em1CWWhpVm11SjBqYmsrbGMyNVY2Ynl2WmZzL24xb2hhKzVCYXY1S1l6Ui9Ybm1MQUJWZFhQWlFMZWdQU0MwY296SGhBdXQ5TWlrKzRDb3NEK25sVmRwNGd4Uk9PbjYxN2U5TG1MWjBScXRxZVBqRjZjc25mVXFhb05Zb2g1enR1Wk1qdG9tbkJOQVRCYkk4elp0eEJPNmFSZG9lbUR6QkJqODdjV3NQTUdqNFlPOE9lb1R4enFOeHNyUmF2RVlCUUJYd1FDU2lEQytvY09qRTkxWGJKeURRSXVGMW5ZSlZhRUVKZkZ4VHFweGk2QnZFc2RVbGw4QVFobDF4bjhadWk5WFNId3hRZEdYTTBPSFh2Skg2OTZvOGZ6THRNUytSZ0dxVmIzcXpRd1B3SGxxMnpGYkFscHFnMlR1bGtUck9FYXE4TityM1pRUFNnbDlETjBKVjBwYklyRXI2cDhnSXU3Y0o5NGZFM25IVC92MUJuS2lkdGt3YUhLUmVnZzArQ3BxTDBSNEYyVy9iVmlzUkxQK2pJUFl5YXZiZG90K2JkeFQrU3dqeWRNU1dBa2J4Szk2YlFvN0h1R3dmalZIMDlJSk9rT1VHTXdGd1pwOXoyaXdiVEFpd2RmRWZIRnJFbmM3YloxL28xUzVTeDFwVVZtVGxXdkRhbjJSZmw5cVlLQUFyaTFWQ3VaTXdFQ2Y1T3Njd25SeFUvR2FmdDlndEtlUmkwbVRFTWtvcHY0dVN1aVF4L1RDMlYzc1d5Z0VwN25nbUNCMy9Wd3kyZUxkSnBVWlUzRXM0N0pYTG9JV0JoMWpxRHlzdnpWWllSYjYrTStvZVNkNGZVYzF4cC90VmdUQWZoWStNQ21SWGd2Q25Mdk1qbXc5alpCT0pZZEhuV205THFKOU1rM0JlcEQ5MHJwRXZkcXR2VGh6V1ZaTmd6Z3M4NVAwdFZsZThCN1RLVHVjQjF5WDArWlJPa2g2MHU2K1ExNStTSWZhMWFGYzhMT2VuRkc5MXNqSEFqYWFDNnFwak0zMjBxSkJaOGRkS0pBSVh0RStyeFJ5WlAySEpBV29sekhNRmVBbHJHMFN6MjFUNEs3M24xN0x2bTlOTTl3V2hPRjF3OTRRdGYzbGlzTGVGbXd4RVN2OExDMDdnYmpJcHE4RG1nSVk2eFA2RURjdWlhOVlNUTc5L0gwcXJFWGJKK3ZiVXBydENhZkg5enMzQ05abkdabHpIWEpDNVJramFlb1VPWFlMUUc5TGQ1RlgwRzBFNXVqZmtyZTdtRndtL1dmT0NaczZsRHVUOFRORkV2Y3gvWC9jNHZRUTlLV2FkRENZNzRINDgxL2thRHg2Rm4vandPZk5TNlRXbTNwZEpTcVVBVjBqays4MGN0RHpiR1h6ZGZlT1NER20zYTk0R2dpV1VveHl0UHpTaC91UWxvODZ3Q0VjUDlteTdOd2pUSnlhZWtIY0U9In0%3D&nad_placement=SR_MAIN&from=searchresults",
+    "address": "Santa Monica, Los Angeles",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Los+Angeles%2C+USA&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-11-15T05:20:39.855Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763184039856_4",
+    "name": "Loews Hollywood Hotel",
+    "price": 688,
+    "currency": "USD",
+    "rating": 8.8,
+    "stars": 9,
+    "reviewCount": 107,
+    "avgReview": "8.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/433893685.webp?k=eac1a4358bc822a9e7126f728da94de688215451e1f416cecc2e77b3d447d759&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/433893685.webp?k=eac1a4358bc822a9e7126f728da94de688215451e1f416cecc2e77b3d447d759&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/433893685.webp?k=eac1a4358bc822a9e7126f728da94de688215451e1f416cecc2e77b3d447d759&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/us/loews-hollywood-los-angeles.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9sb3MgYW5nZWxlcywgdXNhSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCopvgyAbAAgHSAiRhZDVmZTViOS0wZmJkLTQxYjAtOTg5Ny00OTEzYTk0MTZkNTjYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=440f2591cfe00160&srepoch=1763184038&all_sr_blocks=44865601_407913463_2_42_0_148091&highlighted_blocks=44865601_407913463_2_42_0_148091&matching_block_id=44865601_407913463_2_42_0_148091&sr_pri_blocks=44865601_407913463_2_42_0_148091_68811&from=searchresults",
+    "address": "Hollywood, Los Angeles",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Los+Angeles%2C+USA&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-11-15T05:20:39.856Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763184039856_5",
+    "name": "H Hotel Los Angeles, Curio Collection By Hilton",
+    "price": 419,
+    "currency": "USD",
+    "rating": 7.9,
+    "stars": 8,
+    "reviewCount": 950,
+    "avgReview": "7.9/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/727899803.webp?k=a899d035e5ce3b97fa4ff837ed96c0e9aaad506a0a4f7cba53d3a068afee67bc&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/727899803.webp?k=a899d035e5ce3b97fa4ff837ed96c0e9aaad506a0a4f7cba53d3a068afee67bc&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/727899803.webp?k=a899d035e5ce3b97fa4ff837ed96c0e9aaad506a0a4f7cba53d3a068afee67bc&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/us/h-los-angeles-curio-collection-by-hilton.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9sb3MgYW5nZWxlcywgdXNhSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCopvgyAbAAgHSAiRhZDVmZTViOS0wZmJkLTQxYjAtOTg5Ny00OTEzYTk0MTZkNTjYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=440f2591cfe00160&srepoch=1763184038&all_sr_blocks=255699901_104169551_2_34_0&highlighted_blocks=255699901_104169551_2_34_0&matching_block_id=255699901_104169551_2_34_0&sr_pri_blocks=255699901_104169551_2_34_0__41943&nad_id=b3e3aeb5-a4b9-474b-9345-f4c975c836f5_13&nad_cpc=1.68&nad_track=eyJhdWN0aW9uRXBvY2giOjE3NjMxODQwMzU3MjIsInJhbmsiOjMsImtvZGRpVHJhY2tpbmdJbmZvIjoiVXlQVHZPQWNMZUdRSk4ya0Q0S2FLWWlWaTNkN2MxcHRDMUtkZExFbU5qV1BGTTBWUjB3THR1WFpKSDE1N1I2eHFXT1lsZjhuVUF4dmxMS25wY2plVk9GL1FmTUxuV3NqMWt2dk13WjRlSmJOL3VhMnFSL0s1QXBpem9UV0V6bkVtUW5PWUFVMS9WaFcrTXFZbUZOV3ZIMzM0ekE4UHR1V05temtMUnBxVUtqTzRZT01QVjRVSFJFTlJSUGFFMWlQKzc2UDJoeWw4aW5kRURNMGtyRmNpMXMwUTVmaUFaYjk1YU5Lc0diLzhIN0RpU01Sc3NiVGt2dWVhQ0VQVjVvRkk0YldUc21qYStzUEd1ZEF5bDh0SU1oWDVEQU9GVDEvN010azBvOFcrVkJvd2N4WEk0dnRuOU96MmxwdlRXenVKZWVkZHovYmo1UjNKNDIrMVNCNWVaVEpaSXFJek9JNTZpNmlhUUVVNDkyRDU3SHhOZU5QMVZKUUYxNDYzUUZwdzZEZVR5Y2lRRVZSQS8rWk5ScG9qaDRYM3I1TXhKaldyY3plNjZsSXVoZ2lNRWwxemkySlI1M0I4NFgvMFVhRFZwWndGZ3pTaWUvTlNYOThKd1BwQnd2Qjd4eTg5cDlrMytHV0hYOUJpVlF4VzJrbURUOFNreXlZSDdQNVJFbFdtTUN3NHhCeVpCU2JyVzhtRGtCbmcrZGJ1emkxS2g4enprdk1QYU96NjV4eW1vK1N4UW9JS2xsNm13aXVjaEZyRURBQUVtUXVRcmJLL1B0R3FCVlZyTTJDWHRPQkdMYnNsV2JsS3BWZE0yYnczOVowSXBhb3Z4TUxiVHN3RkFCRE9qMDl6Y281VFVlbnk3STFOd1ppdVF5Mmg1ZXoyZFNQZHVkUzRrQXdZYXZVZVFQOXpwV3hBMXNqMmJkb2F4QTRkbVA5ZGxJV1lQbkRtd0prK3I5akdxUmIzcXpRUUN4czB1MXorSFhEdHYrbUsvMG9tQ2xmUXNUV1lNaU5mdjlTa2xCcC95RHJOc1lUcG5odXQvaWppWU5rRFYrT2ZTSzNHRnZzNmdwaFdtamVlK0hCWktVT0FlVy9JU2oxL1VoL1djbDgyT3Jvb0ZONk1vU1RrWFBsNVA0V0xNTnlUT0ZMcGJFMzR5NlpVRXRPdVZtakY5VStyUE96TUk5R1ZDeGJxVWoxQzdPTFpwUW9TR25EeU82MEdVU2paOUpMZDJGM3ljSlo1TlplaFh5b05RejRRQnlLclc3L0h3QWxKUHE2U1REUXF1eXpSV0lYRnJvUXFWL09LbjNTUjBNNXpOb0svOUFzcGtlcTJwbjNwb1JONVNLakJvQk44OGU5WXBDbk90UVF4WVFNeGxFRmd6a0YxU2N3bTVkdnRjNlU1TlcrN0hZRVI0YkFlbDRzdzNxdG44MDArQndwYzBFR2dDNnFZcXoyVTROa2wwZjRVK2JRYnpVa0pnYU1OSXN6Q2VVUSsyS2JTdjlwZWsxeXRGY0t6dnMrQUxPZEx4cWo1OGFZSFV4K3VvTXMrS2gxbHV5bnk5VjI0NzkwQ3lNV09ybHRjWTdINHVOeml1d3NoUnBKWGRWWEpJTGpNVjNackNFTGgyb1pWb3RERkhacUFZNjBkdU9BZ01oSndFeTd1WW44MkZ5aDV3Q3RVZVlNTUhSUTlGS0dMQ1NVYXQyQTdFNmxRUGNzc3JiaEtrL05oM0V5bzU1YlhwNU5sR05WVFpKRm81OERzdWFseUpta0hyM2JkQTFaVW1BUkZEenJjcUg1S29ZRE1Zczl1ZjFjU2Q0S3BETHRRMmFkUSt4bWhlUUZCcEFpR3NUcUhGSjRPM1N5RmpXZjRGWXpLMW8vY2RpV3ljanV5ZVJnS2trdndUTWR4Z3JQcS8xblptbFhvSVdzSWh1dERJbkJrNzFsNXZyc3JhbThMNjdFSXFHcHB2U3kxQnpWWFV0YjJVUG1RMndES1dsSndraWNjL2FTR3U2djVVSFQ3akd4dE5GZFBoNXBlS09XIn0%3D&nad_placement=SR_MAIN&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Los Angeles",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Los+Angeles%2C+USA&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-11-15T05:20:39.856Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763184039857_6",
+    "name": "Freehand Los Angeles",
+    "price": 444,
+    "currency": "USD",
+    "rating": 8,
+    "stars": 8,
+    "reviewCount": 95,
+    "avgReview": "8.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/112819619.webp?k=19b00eaff174821edcf5df104d5c70003b222ffc3c7be2409de086efd5a7019d&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/112819619.webp?k=19b00eaff174821edcf5df104d5c70003b222ffc3c7be2409de086efd5a7019d&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/112819619.webp?k=19b00eaff174821edcf5df104d5c70003b222ffc3c7be2409de086efd5a7019d&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/us/freehand-los-angeles.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9sb3MgYW5nZWxlcywgdXNhSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCopvgyAbAAgHSAiRhZDVmZTViOS0wZmJkLTQxYjAtOTg5Ny00OTEzYTk0MTZkNTjYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=440f2591cfe00160&srepoch=1763184038&all_sr_blocks=208673610_347117586_0_0_0_566874&highlighted_blocks=208673610_347117586_0_0_0_566874&matching_block_id=208673610_347117586_0_0_0_566874&sr_pri_blocks=208673610_347117586_0_0_0_566874_44400&from=searchresults",
+    "address": "Downtown LA, Los Angeles",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Los+Angeles%2C+USA&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-11-15T05:20:39.857Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763184039858_7",
+    "name": "The Westin Los Angeles Airport",
+    "price": 474,
+    "currency": "USD",
+    "rating": 8.3,
+    "stars": 8,
+    "reviewCount": 498,
+    "avgReview": "8.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/591417821.webp?k=bd13884af514ad7ba6eb5891af68acd87c196a929558e043ff89a5aeca24e411&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/591417821.webp?k=bd13884af514ad7ba6eb5891af68acd87c196a929558e043ff89a5aeca24e411&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/591417821.webp?k=bd13884af514ad7ba6eb5891af68acd87c196a929558e043ff89a5aeca24e411&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/us/the-westin-los-angeles-airport.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9sb3MgYW5nZWxlcywgdXNhSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCopvgyAbAAgHSAiRhZDVmZTViOS0wZmJkLTQxYjAtOTg5Ny00OTEzYTk0MTZkNTjYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=440f2591cfe00160&srepoch=1763184038&all_sr_blocks=5886727_91289719_0_0_0&highlighted_blocks=5886727_91289719_0_0_0&matching_block_id=5886727_91289719_0_0_0&sr_pri_blocks=5886727_91289719_0_0_0__47400&from_sustainable_property_sr=1&from=searchresults",
+    "address": "Los Angeles",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Los+Angeles%2C+USA&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-11-15T05:20:39.858Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763184039858_8",
+    "name": "Hollywood Homes Free parking close to all things LA",
+    "price": 518,
+    "currency": "USD",
+    "rating": 7.7,
+    "stars": 8,
+    "reviewCount": 413,
+    "avgReview": "7.7/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/679998224.webp?k=e5d4070f0d08da3f1c83bfc81898f5da3dafe9352440e9b81418c78f18c449e0&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/679998224.webp?k=e5d4070f0d08da3f1c83bfc81898f5da3dafe9352440e9b81418c78f18c449e0&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/679998224.webp?k=e5d4070f0d08da3f1c83bfc81898f5da3dafe9352440e9b81418c78f18c449e0&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/us/executive-santa-monica-suites.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9sb3MgYW5nZWxlcywgdXNhSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCopvgyAbAAgHSAiRhZDVmZTViOS0wZmJkLTQxYjAtOTg5Ny00OTEzYTk0MTZkNTjYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=440f2591cfe00160&srepoch=1763184038&all_sr_blocks=770152407_334803753_4_0_0&highlighted_blocks=770152407_334803753_4_0_0&matching_block_id=770152407_334803753_4_0_0&sr_pri_blocks=770152407_334803753_4_0_0__51828&from=searchresults",
+    "address": "Hollywood, Los Angeles",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Los+Angeles%2C+USA&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-11-15T05:20:39.858Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763184039858_9",
+    "name": "The O Hotel, Trademark Collection by Wyndham",
+    "price": 565,
+    "currency": "USD",
+    "rating": 7.9,
+    "stars": 8,
+    "reviewCount": 806,
+    "avgReview": "7.9/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/641876137.webp?k=d9faa447bb555ea902f862536b1437cd2a83d16b9fff1f8389c56a8fbd848688&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/641876137.webp?k=d9faa447bb555ea902f862536b1437cd2a83d16b9fff1f8389c56a8fbd848688&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/641876137.webp?k=d9faa447bb555ea902f862536b1437cd2a83d16b9fff1f8389c56a8fbd848688&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/us/o.html?aid=304142&label=gen173nr-10CAQoggJCF3NlYXJjaF9sb3MgYW5nZWxlcywgdXNhSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCopvgyAbAAgHSAiRhZDVmZTViOS0wZmJkLTQxYjAtOTg5Ny00OTEzYTk0MTZkNTjYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=440f2591cfe00160&srepoch=1763184038&all_sr_blocks=5988923_0_2_1_0&highlighted_blocks=5988923_0_2_1_0&matching_block_id=5988923_0_2_1_0&sr_pri_blocks=5988923_0_2_1_0__56541&from=searchresults",
+    "address": "Downtown LA, Los Angeles",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Los+Angeles%2C+USA&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-11-15T05:20:39.858Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

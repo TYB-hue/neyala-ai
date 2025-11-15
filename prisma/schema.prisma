@@ -25,7 +25,7 @@ model User {
   hotelBookings    HotelBooking[]
   reviews          Review[]
   favoriteDestinations FavoriteDestination[]
-  savedAttractions SavedAttraction[]
+  savedFavorites    SavedAttraction[] // Renamed from savedAttractions
 }
 
 model Trip {

@@ -360,9 +360,9 @@ export default function PlanForm() {
         throw new Error('Please fill in all required fields');
       }
 
-      // Allow unauthenticated users for testing
-      if (!user) {
-        console.log('Warning: Unauthenticated user attempting to generate itinerary');
+      // Require authentication to generate itinerary
+      if (!user || !user.id) {
+        throw new Error('You must be signed in to generate an itinerary. Please sign in and try again.');
       }
 
       // Use streaming API for real-time updates
@@ -373,7 +373,7 @@ export default function PlanForm() {
         },
         body: JSON.stringify({
           ...formData,
-          userId: user?.id || 'anonymous'
+          userId: user.id
         }),
       });
 
@@ -442,7 +442,7 @@ export default function PlanForm() {
               // Check if it's a rate limit error
               if (line.includes('429') || line.includes('Rate limit') || line.includes('Too Many Requests')) {
                 console.log('Rate limit error detected in stream');
-                throw new Error('Rate limit exceeded. Please wait a moment and try again.');
+                throw new Error('Rate limit exceeded. The API is currently busy. Please wait 1-2 minutes and try again.');
               }
               
               // If it's a completed status but parsing failed, try to extract partial data
@@ -519,7 +519,7 @@ export default function PlanForm() {
             
             // Handle specific error statuses
             if (fallbackResponse.status === 429) {
-              throw new Error('Rate limit exceeded. Please wait a moment and try again.');
+              throw new Error('Rate limit exceeded. The API is currently busy. Please wait 1-2 minutes and try again.');
             } else if (fallbackResponse.status === 401) {
               throw new Error('Unauthorized: Invalid API key. Please configure a valid key in your .env.local and restart.');
             } else if (fallbackResponse.status >= 500) {
@@ -535,8 +535,10 @@ export default function PlanForm() {
       let errorMessage = 'An unexpected error occurred. Please try again.';
       
       if (err instanceof Error) {
-        if (err.message.includes('Rate limit exceeded')) {
-          errorMessage = 'Rate limit exceeded. Please wait a moment and try again.';
+        if (err.message.includes('Daily token limit') || err.message.includes('tokens per day') || err.message.includes('TPD')) {
+          errorMessage = err.message; // Use the specific message from the API
+        } else if (err.message.includes('Rate limit exceeded') || err.message.includes('rate limit')) {
+          errorMessage = 'Rate limit exceeded. The API is currently busy. Please wait 1-2 minutes and try again.';
         } else if (err.message.toLowerCase().includes('invalid api key') || err.message.toLowerCase().includes('unauthorized')) {
           errorMessage = 'Authentication failed: Invalid API key. Please set your API key in .env.local and restart the server.';
         } else if (err.message.includes('No itinerary was generated')) {

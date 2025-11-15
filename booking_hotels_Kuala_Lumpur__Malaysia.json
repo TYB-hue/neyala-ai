@@ -1,0 +1,292 @@
+[
+  {
+    "id": "hotel_1763183949325_0",
+    "name": "platinum suites klcc By Palmas",
+    "price": 189,
+    "currency": "USD",
+    "rating": 10,
+    "stars": 10,
+    "reviewCount": 132,
+    "avgReview": "10.0/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/772369542.webp?k=8937b51a68f9be037424389348eb577abf20532de12607208579fadec2850a88&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/772369542.webp?k=8937b51a68f9be037424389348eb577abf20532de12607208579fadec2850a88&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/772369542.webp?k=8937b51a68f9be037424389348eb577abf20532de12607208579fadec2850a88&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/my/hotle-platinum-suites-by-klcc.html?aid=304142&label=gen173nr-10CAQoggJCHXNlYXJjaF9rdWFsYSBsdW1wdXIsIG1hbGF5c2lhSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCyJrgyAbAAgHSAiQzZDUxNDA4ZC04Mzk1LTQxYTYtYWI1Mi0yZjQ3YTUxM2JmNTDYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=b6e9256490a00403&srepoch=1763183947&all_sr_blocks=1521587902_423819539_2_0_0&highlighted_blocks=1521587902_423819539_2_0_0&matching_block_id=1521587902_423819539_2_0_0&sr_pri_blocks=1521587902_423819539_2_0_0__77910&from=searchresults",
+    "address": "Downtown Kuala Lumpur, Kuala Lumpur",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Kuala+Lumpur%2C+Malaysia&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-11-15T05:19:09.325Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763183949325_1",
+    "name": "Crowne Plaza Kuala Lumpur City Centre by IHG",
+    "price": 376,
+    "currency": "USD",
+    "rating": 8.9,
+    "stars": 9,
+    "reviewCount": 514,
+    "avgReview": "8.9/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/511643406.webp?k=8a43fdd17c2cc572b7b3249229d3317bdad6b1b4a7d8c1365e053f58c113558f&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/511643406.webp?k=8a43fdd17c2cc572b7b3249229d3317bdad6b1b4a7d8c1365e053f58c113558f&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/511643406.webp?k=8a43fdd17c2cc572b7b3249229d3317bdad6b1b4a7d8c1365e053f58c113558f&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/my/crowne-plaza-kuala-lumpur-city-centre-an-ihg.html?aid=304142&label=gen173nr-10CAQoggJCHXNlYXJjaF9rdWFsYSBsdW1wdXIsIG1hbGF5c2lhSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCyJrgyAbAAgHSAiQzZDUxNDA4ZC04Mzk1LTQxYTYtYWI1Mi0yZjQ3YTUxM2JmNTDYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=b6e9256490a00403&srepoch=1763183947&all_sr_blocks=1079356102_380538604_2_42_0&highlighted_blocks=1079356102_380538604_2_42_0&matching_block_id=1079356102_380538604_2_42_0&sr_pri_blocks=1079356102_380538604_2_42_0__155400&nad_id=42cca0ba-3656-44dc-9ca2-6961126f0f91_0&nad_cpc=2.46&nad_track=eyJhdWN0aW9uRXBvY2giOjE3NjMxODM5NDUxNjMsInJhbmsiOjEsImtvZGRpVHJhY2tpbmdJbmZvIjoiUDl3T0JLdG5SdXIrWEpkVDBFVEYzV1JLTzQ4M0ZQQlZsbTBmMEk0Yy9tYzVQNjc1M3Jab3dUSkdKY0pPRVB4L1NhT0RWaVllblJKZ2dTZFd5M0dSQ1FRejBIT3RaVXNFVTErVmYzbk5VQldSMUFMOG9nM1JycWJ1VXBOMDNYQUVDVmpjVDE4NXlKWnpHMThoMTJLb0s3Rmx3NTZyZ0U1cHcyeWg1LzF5dGQ2dnFkbWpnSkxRTWRyY011ZUJKVUM1aEx6QkxxRjA0VWlNbnpBeUpBUG8zUnF0ZmQ3TEdodC9pYUgzUWtpcGJDRjdqK2pxc2xjZGpPS3ZKSzlTR21IYW81WnNCRndxU3gzTTBCMWx0UzlnRjBnb0c1Qkh2M2FVWXcxVmQ4ZjluVEQ3YVp0eUMrbmcyamxZTHlvRUZxaWYrLzFsVVpUZXZPckU1c1liVkRibzE2VUNDcmhTMmFtM1NBV3VtUTB5VjloekFyQ0IvZldaU2E5dEdyQkxMelVqb0w0aVRmd3dBMytlZHk3b0RTbEhWSFBvNytoLzFBbGlKNlBHU3JCWlh3SzFYYlZqUWsyMndUUlJPbi92alVrUkh4dWlqVU9LWnJuTUhTVXJROWFJKzUza1d3dkVEcEhIWjloR2RIY3VaT09jZmlXUFFkaFZpNERPSTdNNzI0SjNmVktYbXlSbEt5U2RNZ0h2aTF6RzZDWmd6M1RZalB1cTN3Z3VubTgyQmJhbkl4QllKUk95azRHSDFHWEJTZXVuQ1VpekxBeitTMFB3MmhiMG04TTZtSkJSazBsWUVONE0xa09GWXZxaDdIanBaK3E4WmdXWjUxdHFoK3JwVXpiZE1vOVhCZ2VHbnBnc0FOd3BhUlQ5QmNaWVZoYmh3NkhRSkI2b2ZTU2N6ODltQ0trY2VKc2JqZ0RvVURuM0pVVEpQdzZEYWtGNFJuQS9SMGdvd0JINVMxcGlFUUdqaXduc0s3V0F1S0V6VzlIYXNEd1cwSTY0SUxkNFhPdC90MGw4V09JZmlUc0hlMndWbVNXNnd0aXhIOFVOQXZkbzc2cDBCVEpVcXpEREc1Mm8vU2YvdFgzTllhaTJLV1RnUGtxS1ByeElvMjZBTWZ4bUJ1ZHdHLy9wK2xrWmtzZzhoMzBLdWJCMy9QRC85OTJsbXhRdkxLVXpKc3YzVjF2eG1tcUIyVWE3bE02WUs2L0Q1MlF0VlNSYnlhU25PZTk5RWJYOTZsUDBkUDJoMVRTcHFBdFR0a0t6YUNkcFdza1g1QzFFUkM5a3VIZVcxWVhKbjB1a1RMRDdKeEFNVWU3ZW4vdjREb1cvSWJQeHIxeERTMk9mdkNTN0VLSHFLdE9kWkN2SlEvbVBMbmd0TlFiOXNGU0JadDlBVWdMaUtoSFpad0Rvc0xTbVhMRHlVQXJRZ3Q3ME5OdVNVY1NBN3d2MEhlalV3ZGhuVHZseG5Sd2FoaWI3K0xLczJUaXROZUR5S3R2Q3BnNVVrRk9hbFFCVGF3ZVgvMThIRUxqd0tTV09jTmZDOURodmJxOXprUEVYYnNBTHFnWXh0QThCUmtVYTVDZ3JGY0lYTzgySU5CV0kvVEE1eEFJWU84U0U5TmRTT0hRanhSdGp0cHlIZXpKdTNZYUd0V0l3dCtRNUlweHhhZzdxeHNjOFFibUFRd0p5MlpjVnc4R2djaEFBYnhVdFBnMkpkZk9WSW1qVlhnWkFHN3RXNXIySitLcTBwQ1d3TGQ4bStOWHZ1U1VGd0JMdEFIei9TQjltSTl5NzdRdndFYjY2ZzRsWWJsazdWOVErUVY5WlgvZWZxd2hYTi9uU2pTWWh0emQxOW8xaDg0THNYMGhHZkQrWlVUbkg4YkpTL1gzeWpNWTMxdy9HQ1FSWkhmWHZGbDYrSnNxNlZweWNuR3ZSMHBzUU02eWI3VktXcmRRODcraE5RVUlxQVQ5b2ozcW1JL3NEQmFINGFOUXZlZFdrSGxrYm1VVWpRUEV6RjA4PSJ9&nad_placement=SR_MAIN&from=searchresults",
+    "address": "Downtown Kuala Lumpur, Kuala Lumpur",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Kuala+Lumpur%2C+Malaysia&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-11-15T05:19:09.326Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763183949326_2",
+    "name": "The Luxe Infinitum by Comfort Homestay",
+    "price": 78,
+    "currency": "USD",
+    "rating": 9.4,
+    "stars": 9,
+    "reviewCount": 409,
+    "avgReview": "9.4/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/758987114.webp?k=aed9f70399c5c4f0937c77024d236c530bfbe841202f9cad4ed95c45d8fae9e3&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/758987114.webp?k=aed9f70399c5c4f0937c77024d236c530bfbe841202f9cad4ed95c45d8fae9e3&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/758987114.webp?k=aed9f70399c5c4f0937c77024d236c530bfbe841202f9cad4ed95c45d8fae9e3&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/my/the-luxe-infinitum-by-comfort-homestay.html?aid=304142&label=gen173nr-10CAQoggJCHXNlYXJjaF9rdWFsYSBsdW1wdXIsIG1hbGF5c2lhSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCyJrgyAbAAgHSAiQzZDUxNDA4ZC04Mzk1LTQxYTYtYWI1Mi0yZjQ3YTUxM2JmNTDYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=b6e9256490a00403&srepoch=1763183947&all_sr_blocks=1504139901_424050657_0_0_0&highlighted_blocks=1504139901_424050657_0_0_0&matching_block_id=1504139901_424050657_0_0_0&sr_pri_blocks=1504139901_424050657_0_0_0__32084&from=searchresults",
+    "address": "Chow Kit, Kuala Lumpur",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Kuala+Lumpur%2C+Malaysia&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-11-15T05:19:09.326Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763183949327_3",
+    "name": "Sheraton Imperial Kuala Lumpur Hotel",
+    "price": 303,
+    "currency": "USD",
+    "rating": 8.3,
+    "stars": 8,
+    "reviewCount": 766,
+    "avgReview": "8.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/573744748.webp?k=d31d526de1074a9234a91e19364441c871cb317bf5268c0fb434e3c159d8a08e&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/573744748.webp?k=d31d526de1074a9234a91e19364441c871cb317bf5268c0fb434e3c159d8a08e&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/573744748.webp?k=d31d526de1074a9234a91e19364441c871cb317bf5268c0fb434e3c159d8a08e&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/my/sheraton-imperial-kuala-lumpur.html?aid=304142&label=gen173nr-10CAQoggJCHXNlYXJjaF9rdWFsYSBsdW1wdXIsIG1hbGF5c2lhSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCyJrgyAbAAgHSAiQzZDUxNDA4ZC04Mzk1LTQxYTYtYWI1Mi0yZjQ3YTUxM2JmNTDYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=b6e9256490a00403&srepoch=1763183947&all_sr_blocks=25024330_274564755_2_42_0&highlighted_blocks=25024330_274564755_2_42_0&matching_block_id=25024330_274564755_2_42_0&sr_pri_blocks=25024330_274564755_2_42_0__125000&nad_id=42cca0ba-3656-44dc-9ca2-6961126f0f91_3&nad_cpc=1.73&nad_track=eyJhdWN0aW9uRXBvY2giOjE3NjMxODM5NDUxNjQsInJhbmsiOjIsImtvZGRpVHJhY2tpbmdJbmZvIjoiUDl3T0JLdG5SdXIrWEpkVDBFVEYzV1MyTzQ4M0ZHQmFobTBlMEk0Yy9tYzVQcTc1M3Jab3dUSkdKY0pPRVB4L1NhT0RWaVllbkZMUzZSMW1Jcllndi9FUEh3QXZyb0MrNnBKYXlkeSs2Zy8zV3FaTVlYREZ3Q3JBYVlPeXB0eExGaUtpMXMzMGtVSXcyOFFEaGxhQTdzRjhBRHB2NDhYMFlOUndVdGVQOWZoZ2pBRTMvSFhDbE1QM3M0WnFUdGxBMC9QcU1TUXU5a2VQbnY5NnNXUTE0cnRuZlVRSzNTcVROVjFDaUkyUVcrV0pjajNNcS9NQWo2LzFYb0cyNjhRVTRlYmpnd1lHWHgvOXFNVDNmbjNxSlpLSENWWk1NSE9KNzZlNEVoM1daMmRqbkJvOVJOV1JXSUZhb2FvdVZ6Z2RGUWUvcjhOa2haQzFjbXBKdmQ1a2JmdktCWm96emFGWXJJbkgzK1IyUVdRVWdnU3NXL21Nd1I2M2xXZENIYWFUR0Y3K0xJWE5PRndCNnJHNWg3c0E3Y2d3MGpZeDJJMHYxQVJtZkE2YVhWUzJDbnhWcjNkTnIxcDl0M2R1Y1Y5Sk9CQ0M0M3FUWTVTSjJVdXpWM1IrM3hpT09ORzlqYnR4Z0NwWW9tdktjdy96ZitBaDUzdGJQTnBCQlNEZWxoU3dNWVNLVFNyejMwa0c5NndlTnRNMjRYSXUvdlhyUzVaa01PU0sxR3RlL0d5aFlRL3pNbVM1eC93ZHBGNmF6dUNxRERiSWhaR1RSdGF3Mk1OSThxdTZFQkVaSW1NNEtrK0k3RlJ2TnZOZWVmTXk0Uks3NlJEN2JCbis4SENucHRNMTZpd2FDTzYzdG1jd1JLRUtVazZwKy91RDM2b1dON1A2WDdhcUdjdlczaXBrQ0trY2VKa2JqZ0RvVURuM0pVVEpQdzZEYWtFNDVzNUNURzVyN2Rkb3hPcjA4ZGVEZ3c5dFkrVSt2Wmk4M3kwaGo2bmRvMWpLZ1J6OEsyc3MydXllOXFzZXFmVndYcGFxNmdXRlpYS0hXWjU5bXk4dGkvNy9mdE9TSmlCZDVsN1JPdERnUmdrTHlIV2hYd29MOVV6QkUyL1NrakhiZW9RSUJNN0w2RE1EQkNhV1BzUW9jTEg0NmxkRytud0tOVlIxZ1NBeEZLLzY4bWpHMmRaa3VCTkhOMzl5UXpmS2Z0T1RYdjNpejlNaUhzZStWOWpKM1M5d04rY2E4UGNKZHI4elR2RExEMzFnTnY5cy9LR3ZOd3BzNFVHS2dITkt0MWlnWm5DOEdQMTNNbDNPekFNWk1yZmJYUDRXN3VibVB1TjhYL3p5dElzcW5wbC84a0U0dXdlZC94c3JxbFptRzZXa0UwWHpwYm4vRFB6Vi9GOWhLU3c2YkNXZ1V6ak44QnhTSURtZ0FIMGhRdjRDMmwxcmZ1Z3BaalZ5enlJYmU3bkVyRE95cEI2c0pUeDQrRm1waHZkbjZTUndMZ29lcTlNMjBJUFF5ZHhnRWZLSWtTL1ZNY1ZGNlg5NzNjdTl0V3dDQW40RzJpRlh1RU5HbFBLZXNlUFROZ2hBVjI5eGRTbE95cUVMaXdxNWhVMEV0ZnpIdmFTOW9lQVlZZDZZOVZVeUEzUmJlbW1YODRqNTJPQTJPNnpkZ3BPeVZtUE10N2Nxd2svNThKbDRqK0ZRQ1VUVGZxd2loK2hWbGljWEtHZ2tSZU8wMWZrSHdqcXVadGRvc1hmcEtxTFRkWElRbUlBa2pKOXgrRXE2M2ovYU85eWJsSzkzK2gvODZPRVA4NVN4TlVKT2IwQmdqNVkrcUsvcDFFSTVZdlB5M1ZNTjg1TDVZdGNYQjA0c3Q4eVNXdk9HSGxDWk1jZDVxRnIrRFZWdytpYmtMK1ErS3huS051ZWdhcG9SekZCNU1uSlBCK2ZvQnNJL3VOYzJlSXU4dUJnWUxqKzJLbjlYeVhib3pRSTNXUlFHdUhYSE1DQWd6YUJJb2ZRPSJ9&nad_placement=SR_MAIN&from=searchresults",
+    "address": "Kuala Lumpur",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Kuala+Lumpur%2C+Malaysia&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-11-15T05:19:09.327Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763183949328_4",
+    "name": "THE LUXE INFINITUM At KL CITY",
+    "price": 70,
+    "currency": "USD",
+    "rating": 8.8,
+    "stars": 9,
+    "reviewCount": 1010,
+    "avgReview": "8.8/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/642533068.webp?k=d65f171524492a303aa2c4c7c24b3089c7079530402a69796981f09761ee7dc9&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/642533068.webp?k=d65f171524492a303aa2c4c7c24b3089c7079530402a69796981f09761ee7dc9&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/642533068.webp?k=d65f171524492a303aa2c4c7c24b3089c7079530402a69796981f09761ee7dc9&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/my/the-luxe-infinitum-at-malaysia.html?aid=304142&label=gen173nr-10CAQoggJCHXNlYXJjaF9rdWFsYSBsdW1wdXIsIG1hbGF5c2lhSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCyJrgyAbAAgHSAiQzZDUxNDA4ZC04Mzk1LTQxYTYtYWI1Mi0yZjQ3YTUxM2JmNTDYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=b6e9256490a00403&srepoch=1763183947&all_sr_blocks=1348468102_424050606_0_0_0&highlighted_blocks=1348468102_424050606_0_0_0&matching_block_id=1348468102_424050606_0_0_0&sr_pri_blocks=1348468102_424050606_0_0_0__28874&from=searchresults",
+    "address": "Chow Kit, Kuala Lumpur",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Kuala+Lumpur%2C+Malaysia&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-11-15T05:19:09.328Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763183949328_5",
+    "name": "The St. Regis Kuala Lumpur",
+    "price": 876,
+    "currency": "USD",
+    "rating": 9.2,
+    "stars": 9,
+    "reviewCount": 428,
+    "avgReview": "9.2/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/468135313.webp?k=db66e7bd48a1f1b6b919e8cc9c5c8dc328658111dcf0d7251213b400cabdce3a&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/468135313.webp?k=db66e7bd48a1f1b6b919e8cc9c5c8dc328658111dcf0d7251213b400cabdce3a&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/468135313.webp?k=db66e7bd48a1f1b6b919e8cc9c5c8dc328658111dcf0d7251213b400cabdce3a&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/my/the-st-regis-kuala-lumpur.html?aid=304142&label=gen173nr-10CAQoggJCHXNlYXJjaF9rdWFsYSBsdW1wdXIsIG1hbGF5c2lhSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCyJrgyAbAAgHSAiQzZDUxNDA4ZC04Mzk1LTQxYTYtYWI1Mi0yZjQ3YTUxM2JmNTDYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=b6e9256490a00403&srepoch=1763183947&all_sr_blocks=173026222_246943207_2_2_0&highlighted_blocks=173026222_246943207_2_2_0&matching_block_id=173026222_246943207_2_2_0&sr_pri_blocks=173026222_246943207_2_2_0__361700&nad_id=42cca0ba-3656-44dc-9ca2-6961126f0f91_1&nad_cpc=2.54&nad_track=eyJhdWN0aW9uRXBvY2giOjE3NjMxODM5NDUxNjQsInJhbmsiOjMsImtvZGRpVHJhY2tpbmdJbmZvIjoiUDl3T0JLdG5SdXIrWEpkVDBFVEYzV1MwTzU4M0ZLQmFlbXdmOEN5RTYwY3hDRFhGUDR6RG5JMTlsSSs5QVRMdWl5UkgxbUJrM0c4eFdCOFk4bXJJYUdUcnBiMGlZMHNDVTEyVldnYWordXZHeXUzSVFrSU9FWlNiZElySXdLYmh0SlhRUjFab3dsNDhQWlJlQXA3MjRCUVBLQ0pLZ3hiMVVGUnpLNStNTTBVYVN3U3dlYnQxU2c1bSt5aGNUTnRidyt5a2VkYW04bzVkckMwcWFLSDlGY1NzVmpzVllIV1RkYUd6TThrSHFlU0pOaEZiRVpZNUthODdtN3h6b1dOWGtOallxbEhBYXQyMHFRVkZXd3c0eVFoc1JmV0VPemZEYmM0bjN1TnRTZVRDSWFzWVBySHAxbGNhZlVZMXdrbkNNZ0I1N2dmcS9kRUR2OVJOTmYzaitPMzJyNzhkK1Vxbm1YMVJQYW44MDZoeU13ekFqMDBLUU8zbC95RDNZYVdLeDZ6N0RTZ3UzeGwzek9XbDdNSUhRQU5kOTlQbE0rc3dMZTRIRm9hdkNrWjlvZVhaL2dJUWNOUDBDb1hyRm1HaExSZDFNL09hNFcxODJYbVczVlluUXE5aFVBdkVQZ3J3VnZCNnpLRlFWY3ZCRU5nTGhEZWZ0WGNoTGQzeVpxY0FIbXpUNi8wVWtGMUt6VW1sTnBJMjRhU2xOVjRCQzZ3WWIyVEwyTkx6Znh5dGZVZDdTUEF2N3g5cHdLR0RLZEE0aUVQTUJUYlh4bXVMWFJlVXJLRVIwNTJHY21BMFJ2c3hmbGZWS1lnem4vRWlrYmNQUEZ2MHZJUlc0Q3poblliY0l1RmpocS93clpWcXd4d3BjKzlIVDdhQVBjVzhGSCs1cVlZSC9kZ1RFTFprclVKdE9xc0FBUnpuNzJTb0tISkt2RElvOGkrQ04xUWVwWWxJVkpyYlhVSU1wNzVCdkN2WVZKdUJpdzhVOFNMb1hzeFZpSGlGdUFBZWZudWRPREx5VktkUUJENDVGZkovN0I1N05adko0Q3VyYjNYTG1laE5CTUJXMzNiNFplMW9UL2tTZGdHUk5tcU9sOEpIbUJyaUMzeTBRR3FCb1hWZVhNbEhCdnRydEdYZGkzS1VyZjAzdWttM3U2TmFLZGU0dzR3RUFhQ1k2bXBtZ2lCcVlWZnlKd3UyUzJTUnRoQ3JVdXNKUlN2Zmd6RDVnTm5RczVqRisyWFhyUll5WDlRQzBvbVBrMndLeWhSTjh6bUFpc3JodVZRdVBhenNDSEVXSmtsN2hCSDVLZXVRZHNaUkVsZFdodWJYd2s1ZDdEYVR0emJyMzIrbVNsL1RnMmdVaUYrMlpxQjRTQ2Z4RlpWcUNhVUVoemZxN2hjOW9WMW1wRTRreTF1ZFMzK0k0YjJ0UUp5eXUzckZTVTJsRFVWSDhJVWdOSEZJVlJJZFo4L3UrTVc5S001Z2RjWnBBT2hTWlpRNU5tNk9sd1hpeFFWZ1ROWWR0VldIOFpJOHYwZmRVYUZQd2dqVkQ3eHZqQkJXUkJHREZBQ2JLcHd1RWtXNHZ1VldwTnJpbzIrd2NCWWtIWW11YnFzNEZOTXdZNS9lRUV3WVJ1QmJsUjJ5MytNc0R4WWJWWWNGdzBYQnpyL2lTVExYZ0tPbWpJYmdzWENYN0g5TE4zcFY1MndWOXViUXlxcm5ONDNGVlZOV3dpc1gzZDBHUVRSbmNKVXZ1SURaWjc5bkNDNFEvNUFiZk1Rb3BvRFRxUGlMM0Y0OWh5aUJ5dlZmT0I5cHVJRnI5SzVSbnJIN043b0FpYU9nc2puT0hPaEw3MFJTWitEejlmQm5GazNaUFBZN1ZsRW5wRjJSanRQNkhVU2l4aTJNcFRURXRaRmdHRmdmVG96Nys5MUgrTFdkdTB4aERoQUwvcGt0NWlOSkV5TDd3Smp0bzRlVDJpRnRBcEVlM3dJSVhaR3RMdVhmMlJnRitNbzBOQlhnZVNvd0lBPT0ifQ%3D%3D&nad_placement=SR_MAIN&from=searchresults",
+    "address": "Kuala Lumpur",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Kuala+Lumpur%2C+Malaysia&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-11-15T05:19:09.328Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763183949329_6",
+    "name": "Axon Residence suites Bukit Bintang",
+    "price": 113,
+    "currency": "USD",
+    "rating": 9.6,
+    "stars": 10,
+    "reviewCount": 153,
+    "avgReview": "9.6/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/768633492.webp?k=9ed439d2a16a3f9de514d30abbe200d3ff07b4e7b76e0c5fd3c64bc550a52b3d&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/768633492.webp?k=9ed439d2a16a3f9de514d30abbe200d3ff07b4e7b76e0c5fd3c64bc550a52b3d&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/768633492.webp?k=9ed439d2a16a3f9de514d30abbe200d3ff07b4e7b76e0c5fd3c64bc550a52b3d&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/my/residence-suites-bukit-bintang.html?aid=304142&label=gen173nr-10CAQoggJCHXNlYXJjaF9rdWFsYSBsdW1wdXIsIG1hbGF5c2lhSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCyJrgyAbAAgHSAiQzZDUxNDA4ZC04Mzk1LTQxYTYtYWI1Mi0yZjQ3YTUxM2JmNTDYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=b6e9256490a00403&srepoch=1763183947&all_sr_blocks=1516976502_423450912_2_0_0&highlighted_blocks=1516976502_423450912_2_0_0&matching_block_id=1516976502_423450912_2_0_0&sr_pri_blocks=1516976502_423450912_2_0_0__46748&from=searchresults",
+    "address": "Bukit Bintang, Kuala Lumpur (Bukit Bintang)",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Kuala+Lumpur%2C+Malaysia&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-11-15T05:19:09.329Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763183949329_7",
+    "name": "The Luxe Infinitum KLCC By Skyscrapers",
+    "price": 58,
+    "currency": "USD",
+    "rating": 8.1,
+    "stars": 8,
+    "reviewCount": 822,
+    "avgReview": "8.1/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/744724271.webp?k=119fb5a81c9bb625771d85d3cbda488d90849b613f87742fff5ab19fb118eb77&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/744724271.webp?k=119fb5a81c9bb625771d85d3cbda488d90849b613f87742fff5ab19fb118eb77&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/744724271.webp?k=119fb5a81c9bb625771d85d3cbda488d90849b613f87742fff5ab19fb118eb77&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/my/the-luxe-infinitum-klcc-skypool-by-joy-suites.html?aid=304142&label=gen173nr-10CAQoggJCHXNlYXJjaF9rdWFsYSBsdW1wdXIsIG1hbGF5c2lhSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCyJrgyAbAAgHSAiQzZDUxNDA4ZC04Mzk1LTQxYTYtYWI1Mi0yZjQ3YTUxM2JmNTDYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=b6e9256490a00403&srepoch=1763183947&all_sr_blocks=1491415604_422307878_2_0_0&highlighted_blocks=1491415604_422307878_2_0_0&matching_block_id=1491415604_422307878_2_0_0&sr_pri_blocks=1491415604_422307878_2_0_0__23920&from=searchresults",
+    "address": "Chow Kit, Kuala Lumpur",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Kuala+Lumpur%2C+Malaysia&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-11-15T05:19:09.329Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763183949330_8",
+    "name": "The Luxe Colony KLCC by Sky Pool",
+    "price": 94,
+    "currency": "USD",
+    "rating": 8.3,
+    "stars": 8,
+    "reviewCount": 926,
+    "avgReview": "8.3/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/613997234.webp?k=3aafe729603ca8b7ace9f6d4b44dca4fcb7f6054213a48887ec4289aa2370815&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/613997234.webp?k=3aafe729603ca8b7ace9f6d4b44dca4fcb7f6054213a48887ec4289aa2370815&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/613997234.webp?k=3aafe729603ca8b7ace9f6d4b44dca4fcb7f6054213a48887ec4289aa2370815&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/my/the-luxe-colony-klcc-by-sky-pool.html?aid=304142&label=gen173nr-10CAQoggJCHXNlYXJjaF9rdWFsYSBsdW1wdXIsIG1hbGF5c2lhSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCyJrgyAbAAgHSAiQzZDUxNDA4ZC04Mzk1LTQxYTYtYWI1Mi0yZjQ3YTUxM2JmNTDYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=b6e9256490a00403&srepoch=1763183947&all_sr_blocks=1309814403_416511092_0_0_0&highlighted_blocks=1309814403_416511092_0_0_0&matching_block_id=1309814403_416511092_0_0_0&sr_pri_blocks=1309814403_416511092_0_0_0__38654&from=searchresults",
+    "address": "Chow Kit, Kuala Lumpur",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Kuala+Lumpur%2C+Malaysia&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-11-15T05:19:09.330Z",
+    "source": "Booking.com (ScraperAPI)"
+  },
+  {
+    "id": "hotel_1763183949331_9",
+    "name": "Quill Residence Suites KLCC Sunlight",
+    "price": 84,
+    "currency": "USD",
+    "rating": 6.6,
+    "stars": 7,
+    "reviewCount": 99,
+    "avgReview": "6.6/5",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/square600/683479357.webp?k=0b7d4acb5d1a48d5efe816e5b71def02416e1ad4ec006813e3ac2ca3d69eeec8&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/683479357.webp?k=0b7d4acb5d1a48d5efe816e5b71def02416e1ad4ec006813e3ac2ca3d69eeec8&o=",
+      "https://cf.bstatic.com/xdata/images/hotel/square600/683479357.webp?k=0b7d4acb5d1a48d5efe816e5b71def02416e1ad4ec006813e3ac2ca3d69eeec8&o="
+    ],
+    "bookingUrl": "https://www.booking.com/hotel/my/quill-residence-suits-kl-by-alam.html?aid=304142&label=gen173nr-10CAQoggJCHXNlYXJjaF9rdWFsYSBsdW1wdXIsIG1hbGF5c2lhSDNYBGihAYgBAZgBM7gBB8gBDNgBA-gBAfgBAYgCAagCAbgCyJrgyAbAAgHSAiQzZDUxNDA4ZC04Mzk1LTQxYTYtYWI1Mi0yZjQ3YTUxM2JmNTDYAgHgAgE&ucfs=1&arphpl=1&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=b6e9256490a00403&srepoch=1763183947&all_sr_blocks=1364619601_410053417_0_0_0&highlighted_blocks=1364619601_410053417_0_0_0&matching_block_id=1364619601_410053417_0_0_0&sr_pri_blocks=1364619601_410053417_0_0_0__34501&from=searchresults",
+    "address": "Kuala Lumpur",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Free Breakfast"
+    ],
+    "description": "Comfortable accommodation in https://www.booking.com/searchresults.html?ss=Kuala+Lumpur%2C+Malaysia&checkin=2025-11-22&checkout=2025-11-25&group_adults=2&group_children=0&no_rooms=1&selected_currency=USD",
+    "scrapedAt": "2025-11-15T05:19:09.331Z",
+    "source": "Booking.com (ScraperAPI)"
+  }
+]

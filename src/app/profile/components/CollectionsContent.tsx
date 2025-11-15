@@ -48,8 +48,8 @@ export default function CollectionsContent({ userId }: CollectionsContentProps) 
         }
         
         // Fallback to localStorage for testing
-        const savedAttractions = JSON.parse(localStorage.getItem('savedAttractions') || '[]');
-        const collectionsData = savedAttractions.map((item: any) => ({
+        const savedFavorites = JSON.parse(localStorage.getItem('savedFavorites') || '[]');
+        const collectionsData = savedFavorites.map((item: any) => ({
           id: item.attractionId,
           createdAt: item.savedAt,
           attraction: {
@@ -89,9 +89,9 @@ export default function CollectionsContent({ userId }: CollectionsContentProps) 
       }
       
       // Fallback to localStorage
-      const savedAttractions = JSON.parse(localStorage.getItem('savedAttractions') || '[]');
-      const updated = savedAttractions.filter((item: any) => item.attractionId !== attractionId);
-      localStorage.setItem('savedAttractions', JSON.stringify(updated));
+      const savedFavorites = JSON.parse(localStorage.getItem('savedFavorites') || '[]');
+      const updated = savedFavorites.filter((item: any) => item.attractionId !== attractionId);
+      localStorage.setItem('savedFavorites', JSON.stringify(updated));
       
       setCollections(collections.filter(item => item.id !== attractionId));
     } catch (error) {
@@ -125,13 +125,13 @@ export default function CollectionsContent({ userId }: CollectionsContentProps) 
     return (
       <div className="text-center p-8">
         <div className="text-6xl mb-4">💚</div>
-        <h3 className="text-xl font-semibold mb-2">Your collections are empty</h3>
+        <h3 className="text-xl font-semibold mb-2">Your favorites are empty</h3>
         <p className="text-gray-600 mb-4">Start building your collection by hearting attractions, hotels, and places!</p>
         <a 
-          href="/attractions" 
+          href="/favorites" 
           className="inline-block px-6 py-3 bg-green-600 text-white rounded-lg hover:bg-green-700 transition-colors"
         >
-          Explore Attractions
+          Explore Favorites
         </a>
       </div>
     );
@@ -140,9 +140,9 @@ export default function CollectionsContent({ userId }: CollectionsContentProps) 
   return (
     <div className="space-y-6">
       <div className="flex justify-between items-center">
-        <h2 className="text-2xl font-bold">Your Collections</h2>
+        <h2 className="text-2xl font-bold">Your Favorites</h2>
         <a 
-          href="/attractions" 
+          href="/favorites" 
           className="px-4 py-2 bg-green-600 text-white rounded-lg hover:bg-green-700 transition-colors"
         >
           Explore More
