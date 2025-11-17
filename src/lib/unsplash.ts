@@ -481,7 +481,7 @@ export async function getActivityImage(activityName: string, destination?: strin
   return 'https://images.unsplash.com/photo-1502602898536-47ad22581b52?w=800&h=600&fit=crop&q=80';
 }
 
-// Helper function to fetch from Unsplash API directly
+// Helper function to fetch beautiful, high-quality showcase images from Unsplash
 async function fetchUnsplashImage(query: string): Promise<string | null> {
   const UNSPLASH_KEY = process.env.UNSPLASH_ACCESS_KEY;
   if (!UNSPLASH_KEY) {
@@ -489,8 +489,11 @@ async function fetchUnsplashImage(query: string): Promise<string | null> {
   }
 
   try {
+    // Use order_by=popular for trending, beautiful photos
+    // content_filter=high for safer, higher-curation images
+    // orientation=landscape for perfect banner/header images
     const res = await fetch(
-      `https://api.unsplash.com/search/photos?query=${encodeURIComponent(query)}&per_page=1&content_filter=high&orientation=landscape`,
+      `https://api.unsplash.com/search/photos?query=${encodeURIComponent(query)}&page=1&per_page=1&orientation=landscape&order_by=popular&content_filter=high`,
       {
         headers: { Authorization: `Client-ID ${UNSPLASH_KEY}` },
         cache: "no-store",
@@ -504,7 +507,8 @@ async function fetchUnsplashImage(query: string): Promise<string | null> {
     
     const data = await res.json();
     const photo = data?.results?.[0];
-    return photo?.urls?.regular || photo?.urls?.full || null;
+    // Prioritize high-resolution images: full > regular > small
+    return photo?.urls?.full || photo?.urls?.regular || photo?.urls?.small || null;
   } catch (error) {
     console.error('Unsplash API error:', error);
     return null;
@@ -526,36 +530,47 @@ export async function getDestinationHeaderImage(destination: string): Promise<st
   const city = parts[0] || '';
   const country = parts.length > 1 ? parts[parts.length - 1] : destination;
   
-  // Create search queries prioritizing city-specific images, then country
+  // Create beautiful, tourism-focused search queries with aesthetic keywords
+  // Prioritizing city-specific showcase images, then country
   const searchQueries = [
-    // City-specific queries (highest priority)
+    // City-specific queries with aesthetic keywords (highest priority)
+    city ? `${city} ${country} landscape travel` : null,
+    city ? `${city} ${country} beautiful landscape` : null,
+    city ? `${city} ${country} scenic view` : null,
+    city ? `${city} ${country} famous places` : null,
+    city ? `${city} ${country} tourism` : null,
     city ? `${city} city skyline landscape` : null,
-    city ? `${city} landmarks travel` : null,
-    city ? `${city} tourism destination` : null,
-    city ? `${city} architecture cityscape` : null,
-    city ? `${city} travel photography` : null,
+    city ? `${city} landmarks travel aesthetic` : null,
+    city ? `${city} tourism destination scenic` : null,
+    city ? `${city} beautiful travel` : null,
+    city ? `${city} landscape` : null,
+    city ? `${city} travel` : null,
     city ? `${city}` : null,
     
-    // Country-specific queries (fallback)
+    // Country-specific queries with aesthetic keywords (fallback)
+    `${country} beautiful landscape`,
+    `${country} scenic view`,
+    `${country} famous places`,
+    `${country} tourism`,
+    `${country} travel landscape`,
     `${country} iconic landmarks landscape`,
     `${country} scenic nature photography`,
     `${country} beautiful travel destination`,
     `${country} tourism attractions`,
-    `${country} aerial cityscape view`,
-    `${country} cityscape`,
+    `${country} aesthetic landscape`,
     `${country} landscape`,
-    `${country} travel photography`,
+    `${country} travel`,
     `${country}`,
   ].filter(Boolean) as string[];
   
-  // Try Unsplash API first (more reliable)
+  // Try Unsplash API first (more reliable, beautiful showcase images)
   const UNSPLASH_KEY = process.env.UNSPLASH_ACCESS_KEY;
   if (UNSPLASH_KEY) {
     for (const query of searchQueries) {
       try {
         const image = await fetchUnsplashImage(query);
         if (image && image.startsWith('http')) {
-          console.log(`Found Unsplash image for query: ${query}`);
+          console.log(`✅ Found beautiful Unsplash image for query: ${query}`);
           return image;
         }
       } catch (error) {
