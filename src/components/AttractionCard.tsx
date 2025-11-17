@@ -172,13 +172,50 @@ export default function AttractionCard({
   }, [onReviewClick]);
 
   const handleCopyClick = (e: React.MouseEvent) => {
-    e.stopPropagation(); // Prevent triggering the attraction click
-    navigator.clipboard.writeText(activity).then(() => {
-      setShowCopyMessage(true);
-      setTimeout(() => setShowCopyMessage(false), 2000); // Hide after 2 seconds
-    }).catch(err => {
-      console.error('Failed to copy text: ', err);
-    });
+    e.stopPropagation(); // Prevent triggering the attraction click and affecting the map
+    e.preventDefault(); // Prevent any default behavior
+    
+    const textToCopy = activity; // Only copy the activity title
+    
+    // Try modern clipboard API first (works on HTTPS)
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(textToCopy).then(() => {
+        setShowCopyMessage(true);
+        setTimeout(() => setShowCopyMessage(false), 2000);
+      }).catch(() => {
+        // Fallback to older method if clipboard API fails
+        fallbackCopyText(textToCopy);
+      });
+    } else {
+      // Fallback for HTTP sites (VPS)
+      fallbackCopyText(textToCopy);
+    }
+  };
+
+  // Fallback copy method for HTTP sites
+  const fallbackCopyText = (text: string) => {
+    const textArea = document.createElement('textarea');
+    textArea.value = text;
+    textArea.style.position = 'fixed';
+    textArea.style.left = '-999999px';
+    textArea.style.top = '-999999px';
+    document.body.appendChild(textArea);
+    textArea.focus();
+    textArea.select();
+    
+    try {
+      const successful = document.execCommand('copy');
+      if (successful) {
+        setShowCopyMessage(true);
+        setTimeout(() => setShowCopyMessage(false), 2000);
+      } else {
+        console.error('Fallback copy failed');
+      }
+    } catch (err) {
+      console.error('Fallback copy error:', err);
+    } finally {
+      document.body.removeChild(textArea);
+    }
   };
 
   return (
