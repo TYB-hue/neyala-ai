@@ -131,6 +131,7 @@ export default function ItineraryPage({ params }: { params: { id: string } }) {
   const [itineraryData, setItineraryData] = useState<ItineraryData | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
+  const [headerImageError, setHeaderImageError] = useState(false);
   
   // Review panel state
   const [isReviewPanelOpen, setIsReviewPanelOpen] = useState(false);
@@ -247,10 +248,11 @@ export default function ItineraryPage({ params }: { params: { id: string } }) {
     setIsReviewPanelOpen(true);
   };
 
-  // Debug logging for header image
+  // Debug logging for header image and reset error state
   useEffect(() => {
     if (itineraryData?.headerImage) {
       console.log('Header image URL in component:', itineraryData.headerImage);
+      setHeaderImageError(false); // Reset error state when new image is loaded
     }
   }, [itineraryData?.headerImage]);
 
@@ -486,11 +488,22 @@ export default function ItineraryPage({ params }: { params: { id: string } }) {
           {/* Header Image with Destination */}
           <div className="relative h-96 -mx-6 -mt-4 overflow-hidden mb-8 md:-mx-6 md:-mt-4">
             <img
-              src={itineraryData.headerImage}
+              src={headerImageError 
+                ? 'https://images.unsplash.com/photo-1488646953014-85cb44e25828?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+                : itineraryData.headerImage
+              }
               alt={itineraryData.destination}
               className="w-full h-full object-cover"
-              onLoad={() => console.log('Header image loaded successfully')}
-              onError={(e) => console.error('Header image failed to load:', e)}
+              onLoad={() => {
+                console.log('Header image loaded successfully');
+                setHeaderImageError(false);
+              }}
+              onError={(e) => {
+                console.error('Header image failed to load:', itineraryData.headerImage);
+                if (!headerImageError) {
+                  setHeaderImageError(true);
+                }
+              }}
             />
             <div className="absolute inset-0 bg-black/40 flex items-center justify-center">
               <div className="text-center text-white">

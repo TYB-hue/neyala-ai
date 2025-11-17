@@ -481,47 +481,110 @@ export async function getActivityImage(activityName: string, destination?: strin
   return 'https://images.unsplash.com/photo-1502602898536-47ad22581b52?w=800&h=600&fit=crop&q=80';
 }
 
+// Helper function to fetch from Unsplash API directly
+async function fetchUnsplashImage(query: string): Promise<string | null> {
+  const UNSPLASH_KEY = process.env.UNSPLASH_ACCESS_KEY;
+  if (!UNSPLASH_KEY) {
+    return null;
+  }
+
+  try {
+    const res = await fetch(
+      `https://api.unsplash.com/search/photos?query=${encodeURIComponent(query)}&per_page=1&content_filter=high&orientation=landscape`,
+      {
+        headers: { Authorization: `Client-ID ${UNSPLASH_KEY}` },
+        cache: "no-store",
+        signal: AbortSignal.timeout(5000) // 5 second timeout
+      }
+    );
+    
+    if (!res.ok) {
+      return null;
+    }
+    
+    const data = await res.json();
+    const photo = data?.results?.[0];
+    return photo?.urls?.regular || photo?.urls?.full || null;
+  } catch (error) {
+    console.error('Unsplash API error:', error);
+    return null;
+  }
+}
+
 export async function getDestinationHeaderImage(destination: string): Promise<string> {
   console.log('getDestinationHeaderImage called for:', destination);
-  // First, check if we have a specific country image
+  
+  // First, check if we have a manually set country/city image (DO NOT TOUCH THESE)
   const countryImage = getHeaderImageForDestination(destination);
   if (countryImage) {
-    console.log('Found country image:', countryImage);
+    console.log('Found manually set country/city image:', countryImage);
     return countryImage;
   }
   
-  // Extract country from destination (e.g., "Riyadh, Saudi Arabia" -> "Saudi Arabia")
-  const country = destination.split(',').pop()?.trim() || destination;
+  // Extract city and country from destination (e.g., "Berlin, Germany" -> city: "Berlin", country: "Germany")
+  const parts = destination.split(',').map(p => p.trim()).filter(p => p);
+  const city = parts[0] || '';
+  const country = parts.length > 1 ? parts[parts.length - 1] : destination;
   
-  // Create multiple high-quality search queries for premium travel images
+  // Create search queries prioritizing city-specific images, then country
   const searchQueries = [
-    `${country} iconic landmarks landscape`,    // "Saudi Arabia iconic landmarks landscape"
-    `${country} scenic nature photography`,     // "Saudi Arabia scenic nature photography"
-    `${country} famous skyline night`,          // "Saudi Arabia famous skyline night"
-    `${country} beautiful travel destination`,  // "Saudi Arabia beautiful travel destination"
-    `${country} tourism attractions`,           // "Saudi Arabia tourism attractions"
-    `${country} aerial cityscape view`,         // "Saudi Arabia aerial cityscape view"
-    `${country} sunset landscape`,              // "Saudi Arabia sunset landscape"
-    `${country} cultural heritage site`,        // "Saudi Arabia cultural heritage site"
-    `${country} top tourist spots`,             // "Saudi Arabia top tourist spots"
-    `${country} 4k travel photography`,         // "Saudi Arabia 4k travel photography"
-    `${country} travel photography`,            // "Saudi Arabia travel photography"
-    `${country} cityscape`,                     // "Saudi Arabia cityscape"
-    `${country} architecture`,                  // "Saudi Arabia architecture"
-    `${country} landscape`,                     // "Saudi Arabia landscape"
-    `${country}`,                              // "Saudi Arabia" (final fallback)
-  ];
+    // City-specific queries (highest priority)
+    city ? `${city} city skyline landscape` : null,
+    city ? `${city} landmarks travel` : null,
+    city ? `${city} tourism destination` : null,
+    city ? `${city} architecture cityscape` : null,
+    city ? `${city} travel photography` : null,
+    city ? `${city}` : null,
+    
+    // Country-specific queries (fallback)
+    `${country} iconic landmarks landscape`,
+    `${country} scenic nature photography`,
+    `${country} beautiful travel destination`,
+    `${country} tourism attractions`,
+    `${country} aerial cityscape view`,
+    `${country} cityscape`,
+    `${country} landscape`,
+    `${country} travel photography`,
+    `${country}`,
+  ].filter(Boolean) as string[];
   
-  // Try each premium query until we get a high-quality travel image
-  for (const query of searchQueries) {
-    const image = await fetchPexelsImageOptimized(query, 'landscape');
-    // Check if we got a real premium image (not the fallback)
-    if (image !== 'https://images.unsplash.com/photo-1502602898536-47ad22581b52?w=1200&h=600&fit=crop&q=80') {
-      return image;
+  // Try Unsplash API first (more reliable)
+  const UNSPLASH_KEY = process.env.UNSPLASH_ACCESS_KEY;
+  if (UNSPLASH_KEY) {
+    for (const query of searchQueries) {
+      try {
+        const image = await fetchUnsplashImage(query);
+        if (image && image.startsWith('http')) {
+          console.log(`Found Unsplash image for query: ${query}`);
+          return image;
+        }
+      } catch (error) {
+        console.error(`Error fetching Unsplash image for "${query}":`, error);
+        continue;
+      }
+    }
+  }
+  
+  // Fallback to Pexels API if Unsplash fails
+  if (PEXELS_API_KEY) {
+    for (const query of searchQueries.slice(0, 5)) { // Try top 5 queries only
+      try {
+        const image = await fetchPexelsImageOptimized(query, 'landscape');
+        // Check if we got a real image (not the generic fallback)
+        const fallbackUrl = 'https://images.unsplash.com/photo-1502602898536-47ad22581b52?w=1200&h=600&fit=crop&q=80';
+        if (image && image !== fallbackUrl && image.startsWith('http')) {
+          console.log(`Found Pexels image for query: ${query}`);
+          return image;
+        }
+      } catch (error) {
+        console.error(`Error fetching Pexels image for "${query}":`, error);
+        continue;
+      }
     }
   }
   
   // Final fallback to our generic beautiful travel image
+  console.log('Using fallback header image');
   return getFallbackHeaderImage();
 }
 
