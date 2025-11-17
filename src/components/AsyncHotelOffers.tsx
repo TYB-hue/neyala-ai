@@ -312,7 +312,7 @@ export default function AsyncHotelOffers({
                 <div className="text-xl font-bold text-gray-900">
                   {new Intl.NumberFormat('en-US', { style: 'currency', currency: (hotel.currency || 'USD').toUpperCase(), maximumFractionDigits: 0 }).format(Math.round(hotel.price))}
                 </div>
-                <span className="text-sm text-gray-500">/night</span>
+                <span className="text-sm text-gray-500">/4 nights</span>
               </div>
               
               {/* Book Now Button */}

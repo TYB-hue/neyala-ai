@@ -187,7 +187,7 @@ export default function HotelOffers({ hotels, destination }: HotelOffersProps) {
                 <div className="text-xl font-bold text-gray-900">
                   {hotel.currency} {Math.round(hotel.price)}
                 </div>
-                <span className="text-sm text-gray-500">/night</span>
+                <span className="text-sm text-gray-500">/4 nights</span>
               </div>
               
               {/* Book Now Button */}

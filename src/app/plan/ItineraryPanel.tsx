@@ -143,7 +143,7 @@ export default function ItineraryPanel({ isOpen, onClose, itinerary }: Itinerary
                       <span>{hotel.rating}</span>
                     </div>
                   </div>
-                  <p className="text-gray-600">{`$${new Intl.NumberFormat('en-US', { maximumFractionDigits: 0 }).format(Math.round(hotel.price))}`}/night</p>
+                  <p className="text-gray-600">{`$${new Intl.NumberFormat('en-US', { maximumFractionDigits: 0 }).format(Math.round(hotel.price))}`}/4 nights</p>
                 </div>
               ))}
             </div>

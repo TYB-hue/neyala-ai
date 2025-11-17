@@ -748,7 +748,7 @@ export default function ItineraryPage({ params }: { params: { id: string } }) {
             <ul>
               {itineraryData.hotels.map((hotel, index) => (
                 <li key={index}>
-                  <strong>{hotel.name}</strong> - Rating: {hotel.rating}/5 - ${hotel.price}/night
+                  <strong>{hotel.name}</strong> - Rating: {hotel.rating}/5 - ${hotel.price}/4 nights
                 </li>
               ))}
             </ul>
