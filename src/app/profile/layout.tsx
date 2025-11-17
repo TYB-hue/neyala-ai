@@ -39,10 +39,10 @@ export default function ProfileLayout({
 
   return (
     <div className="min-h-screen bg-gray-50">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 sm:py-8">
         <div className="flex gap-8">
-          {/* Sidebar */}
-          <div className="w-64 flex-shrink-0">
+          {/* Sidebar - Hidden on mobile, visible on md and above */}
+          <div className="hidden md:block w-64 flex-shrink-0">
             <nav className="space-y-1">
               {menuItems.map((item) => {
                 const isActive = pathname === item.href;
@@ -78,11 +78,9 @@ export default function ProfileLayout({
             </nav>
           </div>
 
-          {/* Main Content */}
-          <div className="flex-1 min-w-0">
-            <div className="bg-white shadow rounded-lg">
-              {children}
-            </div>
+          {/* Main Content - Full width on mobile */}
+          <div className="flex-1 min-w-0 w-full md:w-auto">
+            {children}
           </div>
         </div>
       </div>
