@@ -26,6 +26,7 @@ model User {
   reviews          Review[]
   favoriteDestinations FavoriteDestination[]
   savedFavorites    SavedAttraction[] // Renamed from savedAttractions
+  savedItineraries  Itinerary[]
 }
 
 model Trip {
@@ -151,4 +152,17 @@ enum BookingStatus {
   CONFIRMED
   COMPLETED
   CANCELLED
+}
+
+model Itinerary {
+  id              String    @id @default(cuid())
+  userId          String
+  title           String
+  itineraryData   String    // Stored as JSON string - contains entire itinerary object
+  user            User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  createdAt       DateTime  @default(now())
+  updatedAt       DateTime  @updatedAt
+
+  @@index([userId]) // For efficient queries by user
+  @@index([createdAt]) // For sorting by date
 }

@@ -1,19 +1,19 @@
 import { auth } from "@clerk/nextjs";
-import { redirect } from "next/navigation";
+import { NextResponse } from "next/server";
 import { prisma } from "@/lib/prisma";
-import HistoryContent from "../components/HistoryContent";
 
-export default async function HistoryPage() {
-  const { userId } = await auth();
-  
-  if (!userId) {
-    redirect("/sign-in");
-  }
-
-  // Fetch saved itineraries directly from database
-  let itineraries = [];
+export async function GET(req: Request) {
   try {
-    const savedItineraries = await prisma.itinerary.findMany({
+    const { userId } = await auth();
+    if (!userId) {
+      return NextResponse.json(
+        { success: false, error: "Unauthorized: You must be signed in to view your itinerary history" },
+        { status: 401 }
+      );
+    }
+
+    // Fetch all itineraries for this user, sorted by newest first
+    const itineraries = await prisma.itinerary.findMany({
       where: {
         userId,
       },
@@ -25,19 +25,19 @@ export default async function HistoryPage() {
         title: true,
         createdAt: true,
         updatedAt: true,
-        itineraryData: true,
+        itineraryData: true, // We'll parse this to get preview info
       },
     });
 
     // Parse itinerary data to extract preview information
-    itineraries = savedItineraries.map((itinerary) => {
+    const itinerariesWithPreview = itineraries.map((itinerary) => {
       try {
         const data = JSON.parse(itinerary.itineraryData);
         return {
           id: itinerary.id,
           title: itinerary.title,
-          createdAt: itinerary.createdAt.toISOString(),
-          updatedAt: itinerary.updatedAt.toISOString(),
+          createdAt: itinerary.createdAt,
+          updatedAt: itinerary.updatedAt,
           preview: {
             destination: data.destination || 'Unknown Destination',
             startDate: data.dates?.start || null,
@@ -52,8 +52,8 @@ export default async function HistoryPage() {
         return {
           id: itinerary.id,
           title: itinerary.title,
-          createdAt: itinerary.createdAt.toISOString(),
-          updatedAt: itinerary.updatedAt.toISOString(),
+          createdAt: itinerary.createdAt,
+          updatedAt: itinerary.updatedAt,
           preview: {
             destination: 'Unknown Destination',
             startDate: null,
@@ -65,9 +65,17 @@ export default async function HistoryPage() {
         };
       }
     });
-  } catch (error) {
-    console.error('Error fetching itinerary history:', error);
-  }
 
-  return <HistoryContent itineraries={itineraries} />;
-} 
+    return NextResponse.json({
+      success: true,
+      itineraries: itinerariesWithPreview,
+    });
+  } catch (error) {
+    console.error("[ITINERARY_HISTORY]", error);
+    return NextResponse.json(
+      { success: false, error: "Failed to fetch itinerary history" },
+      { status: 500 }
+    );
+  }
+}
+

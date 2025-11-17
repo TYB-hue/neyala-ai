@@ -132,6 +132,8 @@ export default function ItineraryPage({ params }: { params: { id: string } }) {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [headerImageError, setHeaderImageError] = useState(false);
+  const [saving, setSaving] = useState(false);
+  const [saved, setSaved] = useState(false);
   
   // Review panel state
   const [isReviewPanelOpen, setIsReviewPanelOpen] = useState(false);
@@ -303,7 +305,30 @@ export default function ItineraryPage({ params }: { params: { id: string } }) {
           }
         }
         
-        // If not in localStorage, try to fetch from API
+        // If not in localStorage, check if it's a saved itinerary (not starting with "temp_")
+        // or try to fetch from the saved itineraries API
+        if (!params.id.startsWith('temp_')) {
+          try {
+            const savedResponse = await fetch(`/api/itinerary/${params.id}`);
+            if (savedResponse.ok) {
+              const savedData = await savedResponse.json();
+              if (savedData.success && savedData.itinerary?.data) {
+                // This is a saved itinerary from the database
+                const savedItinerary = savedData.itinerary.data;
+                setItineraryData(savedItinerary);
+                if (savedItinerary.airport?.name && savedItinerary.destination) {
+                  fetchAirportPhotos(savedItinerary.airport.name, savedItinerary.destination);
+                }
+                setLoading(false);
+                return;
+              }
+            }
+          } catch (savedError) {
+            console.log('Not a saved itinerary, trying other sources...', savedError);
+          }
+        }
+
+        // Try to fetch from the old API endpoint (for backward compatibility)
         const response = await fetch(`/api/itineraries/${params.id}`);
         if (!response.ok) {
           const errorData = await response.json();
@@ -815,6 +840,11 @@ export default function ItineraryPage({ params }: { params: { id: string } }) {
               {/* Save Button */}
               <button
                 onClick={async () => {
+                  if (saving || saved) return;
+                  
+                  setSaving(true);
+                  setSaved(false);
+                  
                   try {
                     const itineraryToSave = {
                       id: params.id,
@@ -831,38 +861,73 @@ export default function ItineraryPage({ params }: { params: { id: string } }) {
                       savedAt: new Date().toISOString()
                     };
 
-                    // 1) Save to server history
-                    try {
-                      const res = await fetch('/api/user/trips', {
-                        method: 'POST',
-                        headers: { 'Content-Type': 'application/json' },
-                        body: JSON.stringify({ itinerary: itineraryToSave })
-                      });
-                      if (!res.ok) {
-                        console.warn('Server save failed, status:', res.status);
-                      }
-                    } catch (e) {
-                      console.warn('Server save error:', e);
+                    // Save to database via API
+                    const res = await fetch('/api/itinerary/save', {
+                      method: 'POST',
+                      headers: { 'Content-Type': 'application/json' },
+                      body: JSON.stringify({
+                        itineraryData: itineraryToSave,
+                        title: `${itineraryData.destination} - ${itineraryData.dates.start} to ${itineraryData.dates.end}`
+                      })
+                    });
+
+                    const result = await res.json();
+
+                    if (!res.ok || !result.success) {
+                      throw new Error(result.error || 'Failed to save itinerary');
                     }
 
-                    // 2) Also save locally as fallback
+                    // Also save locally as fallback
                     const savedItineraries = JSON.parse(localStorage.getItem('savedItineraries') || '[]');
                     const existingIndex = savedItineraries.findIndex((item: any) => item.id === params.id);
-                    if (existingIndex >= 0) savedItineraries[existingIndex] = itineraryToSave; else savedItineraries.push(itineraryToSave);
+                    if (existingIndex >= 0) {
+                      savedItineraries[existingIndex] = itineraryToSave;
+                    } else {
+                      savedItineraries.push(itineraryToSave);
+                    }
                     localStorage.setItem('savedItineraries', JSON.stringify(savedItineraries));
 
-                    alert('✅ Itinerary saved! View it in your profile history.');
+                    setSaved(true);
+                    setTimeout(() => setSaved(false), 3000); // Reset after 3 seconds
                   } catch (error) {
                     console.error('Error saving itinerary:', error);
                     alert('❌ Failed to save itinerary. Please try again.');
+                  } finally {
+                    setSaving(false);
                   }
                 }}
-                className="flex items-center justify-center gap-2 bg-green-600 text-white px-6 py-3 rounded-lg hover:bg-green-700 transition-colors font-medium"
+                disabled={saving || saved}
+                className={`flex items-center justify-center gap-2 px-6 py-3 rounded-lg transition-colors font-medium ${
+                  saved
+                    ? 'bg-green-500 text-white cursor-default'
+                    : saving
+                    ? 'bg-green-400 text-white cursor-wait'
+                    : 'bg-green-600 text-white hover:bg-green-700 cursor-pointer'
+                }`}
               >
-                <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
-                </svg>
-                Save Itinerary
+                {saving ? (
+                  <>
+                    <svg className="animate-spin h-5 w-5" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                      <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
+                      <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+                    </svg>
+                    Saving...
+                  </>
+                ) : saved ? (
+                  <>
+                    <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                    </svg>
+                    Saved!
+                  </>
+                ) : (
+                  <>
+                    <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                    </svg>
+                    Save Itinerary
+                  </>
+                )}
               </button>
 
               {/* Share Button */}
