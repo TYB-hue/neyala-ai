@@ -38,12 +38,41 @@ export default function AttractionCard({
 
   // Check if this attraction is already saved
   useEffect(() => {
-    const savedFavorites = JSON.parse(localStorage.getItem('savedFavorites') || '[]');
-    const isAlreadySaved = savedFavorites.some((item: any) => 
-      item.attractionData.activity === activity && item.attractionData.destination === destination
-    );
-    setIsSaved(isAlreadySaved);
-  }, [activity, destination]);
+    const checkIfSaved = async () => {
+      const itemId = `${destination}-${activity}`.toLowerCase().replace(/[^a-z0-9-]/g, '-');
+      
+      // Check API first if signed in
+      if (isSignedIn) {
+        try {
+          const response = await fetch('/api/favorites');
+          if (response.ok) {
+            const data = await response.json();
+            if (data.success) {
+              const existing = data.favorites.find((f: any) => 
+                f.itemId === itemId || 
+                (f.name === activity && f.location === destination)
+              );
+              if (existing) {
+                setIsSaved(true);
+                return;
+              }
+            }
+          }
+        } catch (apiError) {
+          console.log('Error checking favorites from API:', apiError);
+        }
+      }
+      
+      // Fallback to localStorage
+      const savedFavorites = JSON.parse(localStorage.getItem('savedFavorites') || '[]');
+      const isAlreadySaved = savedFavorites.some((item: any) => 
+        item.attractionData.activity === activity && item.attractionData.destination === destination
+      );
+      setIsSaved(isAlreadySaved);
+    };
+    
+    checkIfSaved();
+  }, [activity, destination, isSignedIn]);
 
   // Resolve precise Viator URL with country matching
   useEffect(() => {
@@ -102,62 +131,122 @@ export default function AttractionCard({
     setIsLoading(true);
     
     try {
-      const savedFavorites = JSON.parse(localStorage.getItem('savedFavorites') || '[]');
-      const attractionData = {
-        id: `${destination}-${activity}-${Date.now()}`,
-        activity,
-        description,
-        image,
-        destination,
-        type: 'attraction',
-        time,
-        emoji
-      };
+      // Generate a unique itemId for this attraction
+      const itemId = `${destination}-${activity}`.toLowerCase().replace(/[^a-z0-9-]/g, '-');
       
-      const existingIndex = savedFavorites.findIndex((item: any) => 
+      // Check if already saved (check both API and localStorage)
+      let alreadySaved = false;
+      let existingFavoriteId: string | null = null;
+
+      if (isSignedIn) {
+        try {
+          const checkResponse = await fetch('/api/favorites');
+          if (checkResponse.ok) {
+            const checkData = await checkResponse.json();
+            if (checkData.success) {
+              const existing = checkData.favorites.find((f: any) => 
+                f.itemId === itemId || 
+                (f.name === activity && f.location === destination)
+              );
+              if (existing) {
+                alreadySaved = true;
+                existingFavoriteId = existing.id;
+              }
+            }
+          }
+        } catch (checkError) {
+          console.log('Error checking existing favorites:', checkError);
+        }
+      }
+
+      // Also check localStorage as fallback
+      const savedFavorites = JSON.parse(localStorage.getItem('savedFavorites') || '[]');
+      const localExisting = savedFavorites.findIndex((item: any) => 
         item.attractionData.activity === activity && item.attractionData.destination === destination
       );
       
-      if (existingIndex >= 0) {
-        // Remove from collections
-        if (isSignedIn) {
+      if (alreadySaved || localExisting >= 0) {
+        // Remove from favorites
+        if (isSignedIn && existingFavoriteId) {
           try {
-            await fetch(`/api/user/collections?attractionId=${encodeURIComponent(savedFavorites[existingIndex].attractionId)}`, {
+            await fetch(`/api/favorites/${existingFavoriteId}`, {
               method: 'DELETE'
             });
-          } catch {}
+          } catch (deleteError) {
+            console.error('Error deleting favorite:', deleteError);
+          }
         }
-        savedFavorites.splice(existingIndex, 1);
-        localStorage.setItem('savedFavorites', JSON.stringify(savedFavorites));
+        
+        // Remove from localStorage
+        if (localExisting >= 0) {
+          savedFavorites.splice(localExisting, 1);
+          localStorage.setItem('savedFavorites', JSON.stringify(savedFavorites));
+        }
+        
         setIsSaved(false);
-        window.dispatchEvent(new Event('favoritesUpdated')); // Dispatch custom event
+        window.dispatchEvent(new Event('favoritesUpdated'));
       } else {
-        // Add to collections
-        const item = {
-          attractionId: attractionData.id,
-          attractionData,
-          savedAt: new Date().toISOString()
+        // Add to favorites - capture EXACT image URL currently displayed
+        const exactImageUrl = photoUrl; // Use photoUrl (current displayed image), not image prop
+        
+        const payload = {
+          itemId,
+          name: activity,
+          location: destination,
+          description: description || '',
+          imageUrl: exactImageUrl, // Exact URL captured at like time
+          meta: {
+            type: 'attraction',
+            time,
+            emoji,
+            source: 'itinerary',
+          }
         };
+
+        console.log('[AttractionCard] Saving favorite with exact imageUrl:', exactImageUrl.substring(0, 50) + '...');
+
+        // Save to API if signed in
         if (isSignedIn) {
           try {
-            await fetch('/api/user/collections', {
+            const response = await fetch('/api/favorites/add', {
               method: 'POST',
               headers: { 'Content-Type': 'application/json' },
-              body: JSON.stringify({ attractionId: attractionData.id, attractionData: {
-                id: attractionData.id,
-                name: attractionData.activity,
-                type: attractionData.type,
-                location: attractionData.destination,
-                description: attractionData.description,
-                image: attractionData.image
-              } })
+              body: JSON.stringify(payload)
             });
-          } catch {}
+
+            const result = await response.json();
+
+            if (!response.ok || !result.success) {
+              throw new Error(result.error || 'Failed to save favorite');
+            }
+
+            console.log('[AttractionCard] Successfully saved favorite to API');
+          } catch (apiError) {
+            console.error('[AttractionCard] API save failed:', apiError);
+            // Continue to localStorage fallback
+          }
         }
+
+        // Also save to localStorage as fallback
+        const item = {
+          attractionId: itemId,
+          attractionData: {
+            id: itemId,
+            activity,
+            description,
+            image: exactImageUrl, // Save exact image URL
+            destination,
+            type: 'attraction',
+            time,
+            emoji
+          },
+          savedAt: new Date().toISOString()
+        };
         savedFavorites.push(item);
         localStorage.setItem('savedFavorites', JSON.stringify(savedFavorites));
+        
         setIsSaved(true);
-        window.dispatchEvent(new Event('favoritesUpdated')); // Dispatch custom event
+        window.dispatchEvent(new Event('favoritesUpdated'));
       }
     } catch (error) {
       console.error('Error saving attraction:', error);

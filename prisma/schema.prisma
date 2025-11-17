@@ -27,6 +27,7 @@ model User {
   favoriteDestinations FavoriteDestination[]
   savedFavorites    SavedAttraction[] // Renamed from savedAttractions
   savedItineraries  Itinerary[]
+  favorites         Favorite[] // New favorites with exact image URLs
 }
 
 model Trip {
@@ -165,4 +166,21 @@ model Itinerary {
 
   @@index([userId]) // For efficient queries by user
   @@index([createdAt]) // For sorting by date
+}
+
+model Favorite {
+  id              String    @id @default(cuid())
+  userId          String
+  itemId          String?   // Original attraction/item ID if available
+  name            String
+  location        String
+  description     String?
+  imageUrl        String    // Exact URL captured at like time - never changes
+  meta            String?   // JSON string for additional metadata (rating, price, etc.)
+  user            User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  createdAt       DateTime  @default(now())
+
+  @@index([userId]) // For efficient queries by user
+  @@index([createdAt]) // For sorting by date
+  @@unique([userId, itemId]) // Prevent duplicates for same user+itemId (if itemId provided)
 }

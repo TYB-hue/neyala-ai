@@ -4,104 +4,107 @@ import React, { useState, useEffect } from 'react';
 import { format } from 'date-fns';
 import { MapPinIcon, StarIcon, HeartIcon, Trash2Icon } from 'lucide-react';
 
-interface SavedAttraction {
+interface SavedFavorite {
   id: string;
+  itemId: string | null;
+  name: string;
+  location: string;
+  description: string | null;
+  imageUrl: string; // Exact URL saved at like time - never changes
+  meta: any | null;
   createdAt: string;
-  attraction: {
-    id: string;
-    name: string;
-    type: string;
-    location: string;
-    description?: string;
-    image?: string;
-    rating?: number;
-    priceRange?: string;
-    category?: string;
-  };
 }
 
 export default function FavoritesPage() {
-  const [collections, setCollections] = useState<SavedAttraction[]>([]);
+  const [favorites, setFavorites] = useState<SavedFavorite[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
-    const fetchCollections = async () => {
+    const fetchFavorites = async () => {
       try {
         setLoading(true);
         
-        // Try to fetch from API first
+        // Try to fetch from new favorites API first
         try {
-          const response = await fetch('/api/user/collections');
+          const response = await fetch('/api/favorites');
           if (response.ok) {
             const data = await response.json();
-            if (Array.isArray(data) && data.length > 0) {
-              setCollections(data);
+            if (data.success && Array.isArray(data.favorites) && data.favorites.length > 0) {
+              console.log('[FavoritesPage] Loaded', data.favorites.length, 'favorites from API');
+              setFavorites(data.favorites);
               setLoading(false);
               return;
             }
           }
         } catch (apiError) {
-          console.log('API fetch failed, using localStorage:', apiError);
+          console.log('[FavoritesPage] API fetch failed, using localStorage:', apiError);
         }
         
-        // Fallback or merge with localStorage for testing/guests
+        // Fallback to localStorage for guests/backward compatibility
         const savedFavorites = JSON.parse(localStorage.getItem('savedFavorites') || '[]');
-        const collectionsData = savedFavorites.map((item: any) => ({
-          id: item.attractionId,
-          createdAt: item.savedAt,
-          attraction: {
-            ...item.attractionData,
-            // Handle both attractions and restaurants
-            name: item.attractionData.activity || item.attractionData.name,
-            location: item.attractionData.destination || item.attractionData.location,
-            type: item.attractionData.type || 'attraction'
-          }
-        }));
+        const favoritesData: SavedFavorite[] = savedFavorites.map((item: any) => {
+          const attractionData = item.attractionData || {};
+          return {
+            id: item.attractionId || `local-${Date.now()}-${Math.random()}`,
+            itemId: item.attractionId || null,
+            name: attractionData.activity || attractionData.name || 'Unknown',
+            location: attractionData.destination || attractionData.location || 'Unknown',
+            description: attractionData.description || null,
+            imageUrl: attractionData.image || '', // Use saved image URL
+            meta: {
+              type: attractionData.type || 'attraction',
+              ...attractionData
+            },
+            createdAt: item.savedAt || new Date().toISOString(),
+          };
+        });
         
-        setCollections(collectionsData);
+        console.log('[FavoritesPage] Loaded', favoritesData.length, 'favorites from localStorage');
+        setFavorites(favoritesData);
       } catch (err) {
-        setError(err instanceof Error ? err.message : 'Failed to fetch collections');
+        setError(err instanceof Error ? err.message : 'Failed to fetch favorites');
       } finally {
         setLoading(false);
       }
     };
 
-    fetchCollections();
+    fetchFavorites();
 
     // Add event listener for real-time updates from other components
-    window.addEventListener('favoritesUpdated', fetchCollections);
+    window.addEventListener('favoritesUpdated', fetchFavorites);
 
     // Cleanup the event listener on component unmount
     return () => {
-      window.removeEventListener('favoritesUpdated', fetchCollections);
+      window.removeEventListener('favoritesUpdated', fetchFavorites);
     };
   }, []);
 
-  const removeFromCollections = async (attractionId: string) => {
+  const removeFromFavorites = async (favoriteId: string) => {
     try {
-      // Try API first
+      // Try new favorites API first
       try {
-        const response = await fetch(`/api/user/collections?attractionId=${attractionId}`, {
+        const response = await fetch(`/api/favorites/${favoriteId}`, {
           method: 'DELETE'
         });
         
         if (response.ok) {
-          setCollections(collections.filter(item => item.attraction.id !== attractionId));
+          setFavorites(favorites.filter(item => item.id !== favoriteId));
           return;
         }
       } catch (apiError) {
-        console.log('API remove failed, using localStorage:', apiError);
+        console.log('[FavoritesPage] API remove failed, using localStorage:', apiError);
       }
       
       // Fallback to localStorage
       const savedFavorites = JSON.parse(localStorage.getItem('savedFavorites') || '[]');
-      const updated = savedFavorites.filter((item: any) => item.attractionId !== attractionId);
+      const updated = savedFavorites.filter((item: any) => item.attractionId !== favoriteId);
       localStorage.setItem('savedFavorites', JSON.stringify(updated));
       
-      setCollections(collections.filter(item => item.id !== attractionId));
+      setFavorites(favorites.filter(item => item.id !== favoriteId));
+      window.dispatchEvent(new Event('favoritesUpdated'));
     } catch (error) {
-      console.error('Failed to remove from collections:', error);
+      console.error('[FavoritesPage] Failed to remove favorite:', error);
     }
   };
 
@@ -127,7 +130,7 @@ export default function FavoritesPage() {
     );
   }
 
-  if (collections.length === 0) {
+  if (favorites.length === 0) {
     return (
       <div className="text-center p-8">
         <div className="text-6xl mb-4">💚</div>
@@ -156,65 +159,79 @@ export default function FavoritesPage() {
       </div>
       
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-        {collections.map((item) => (
-          <div key={item.id} className="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow">
-            {item.attraction.image && (
+        {favorites.map((favorite) => (
+          <div key={favorite.id} className="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow">
+            {/* Display exact saved imageUrl - no re-fetching */}
+            {favorite.imageUrl ? (
               <div className="h-48 relative">
                 <img 
-                  src={item.attraction.image} 
-                  alt={item.attraction.name}
+                  src={favorite.imageUrl} 
+                  alt={favorite.name}
                   className="w-full h-full object-cover"
+                  loading="lazy"
+                  onError={(e) => {
+                    // Fallback placeholder if saved image fails to load (CDN change, etc.)
+                    const target = e.target as HTMLImageElement;
+                    target.src = 'https://images.unsplash.com/photo-1488646953014-85cb44e25828?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D';
+                  }}
                 />
                 <div className="absolute top-3 right-3">
                   <span className="px-2 py-1 bg-green-100 text-green-800 rounded-full text-xs font-medium">
-                    {item.attraction.type}
+                    {favorite.meta?.type || 'attraction'}
                   </span>
                 </div>
                 <button
-                  onClick={() => removeFromCollections(item.attraction.id)}
+                  onClick={() => removeFromFavorites(favorite.id)}
                   className="absolute top-3 left-3 p-2 bg-white bg-opacity-90 rounded-full hover:bg-red-100 transition-colors"
-                  title="Remove from collections"
+                  title="Remove from favorites"
                 >
                   <Trash2Icon className="w-4 h-4 text-red-600" />
                 </button>
               </div>
+            ) : (
+              // Placeholder if no imageUrl saved
+              <div className="h-48 bg-gradient-to-br from-blue-400 to-blue-600 flex items-center justify-center">
+                <svg className="w-16 h-16 text-white opacity-50" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z" />
+                </svg>
+              </div>
             )}
             
             <div className="p-6">
-              <h3 className="text-xl font-semibold mb-3">{item.attraction.name}</h3>
+              <h3 className="text-xl font-semibold mb-3">{favorite.name}</h3>
               
               <div className="space-y-3 mb-4">
                 <div className="flex items-center text-gray-600">
                   <MapPinIcon className="w-4 h-4 mr-2" />
-                  <span>{item.attraction.location}</span>
+                  <span>{favorite.location}</span>
                 </div>
                 
-                {item.attraction.rating && (
+                {favorite.meta?.rating && (
                   <div className="flex items-center text-gray-600">
                     <StarIcon className="w-4 h-4 mr-2 text-yellow-500" />
-                    <span>{item.attraction.rating}/5</span>
+                    <span>{favorite.meta.rating}/5</span>
                   </div>
                 )}
                 
-                {item.attraction.priceRange && (
+                {favorite.meta?.priceRange && (
                   <div className="flex items-center text-gray-600">
                     <span className="text-sm bg-gray-100 px-2 py-1 rounded">
-                      {item.attraction.priceRange}
+                      {favorite.meta.priceRange}
                     </span>
                   </div>
                 )}
               </div>
               
-              {item.attraction.description && (
+              {favorite.description && (
                 <div className="border-t pt-3">
                   <p className="text-gray-700 text-sm leading-relaxed">
-                    {item.attraction.description}
+                    {favorite.description}
                   </p>
                 </div>
               )}
               
               <div className="mt-4 text-xs text-gray-500">
-                Added {format(new Date(item.createdAt), 'MMM dd, yyyy')}
+                Added {format(new Date(favorite.createdAt), 'MMM dd, yyyy')}
               </div>
             </div>
           </div>

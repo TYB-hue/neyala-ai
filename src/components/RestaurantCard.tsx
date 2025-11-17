@@ -32,12 +32,41 @@ export default function RestaurantCard({
 
   // Check if this restaurant is already saved
   useEffect(() => {
-    const savedFavorites = JSON.parse(localStorage.getItem('savedFavorites') || '[]');
-    const isAlreadySaved = savedFavorites.some((item: any) => 
-      item.attractionData.name === name && item.attractionData.destination === destination
-    );
-    setIsSaved(isAlreadySaved);
-  }, [name, destination]);
+    const checkIfSaved = async () => {
+      const itemId = `${destination}-${name}`.toLowerCase().replace(/[^a-z0-9-]/g, '-');
+      
+      // Check API first if signed in
+      if (isSignedIn) {
+        try {
+          const response = await fetch('/api/favorites');
+          if (response.ok) {
+            const data = await response.json();
+            if (data.success) {
+              const existing = data.favorites.find((f: any) => 
+                f.itemId === itemId || 
+                (f.name === name && f.location === destination)
+              );
+              if (existing) {
+                setIsSaved(true);
+                return;
+              }
+            }
+          }
+        } catch (apiError) {
+          console.log('Error checking favorites from API:', apiError);
+        }
+      }
+      
+      // Fallback to localStorage
+      const savedFavorites = JSON.parse(localStorage.getItem('savedFavorites') || '[]');
+      const isAlreadySaved = savedFavorites.some((item: any) => 
+        item.attractionData.name === name && item.attractionData.destination === destination
+      );
+      setIsSaved(isAlreadySaved);
+    };
+    
+    checkIfSaved();
+  }, [name, destination, isSignedIn]);
 
   const handleRestaurantClick = () => {
     // Open Viator link in new tab
@@ -50,61 +79,121 @@ export default function RestaurantCard({
     setIsLoading(true);
     
     try {
-      const savedFavorites = JSON.parse(localStorage.getItem('savedFavorites') || '[]');
-      const restaurantData = {
-        id: `${destination}-${name}-${Date.now()}`,
-        name,
-        cuisine,
-        description,
-        destination,
-        type: 'restaurant',
-        emoji: '🍽️'
-      };
+      // Generate a unique itemId for this restaurant
+      const itemId = `${destination}-${name}`.toLowerCase().replace(/[^a-z0-9-]/g, '-');
       
-      const existingIndex = savedFavorites.findIndex((item: any) => 
+      // Check if already saved (check both API and localStorage)
+      let alreadySaved = false;
+      let existingFavoriteId: string | null = null;
+
+      if (isSignedIn) {
+        try {
+          const checkResponse = await fetch('/api/favorites');
+          if (checkResponse.ok) {
+            const checkData = await checkResponse.json();
+            if (checkData.success) {
+              const existing = checkData.favorites.find((f: any) => 
+                f.itemId === itemId || 
+                (f.name === name && f.location === destination)
+              );
+              if (existing) {
+                alreadySaved = true;
+                existingFavoriteId = existing.id;
+              }
+            }
+          }
+        } catch (checkError) {
+          console.log('Error checking existing favorites:', checkError);
+        }
+      }
+
+      // Also check localStorage as fallback
+      const savedFavorites = JSON.parse(localStorage.getItem('savedFavorites') || '[]');
+      const localExisting = savedFavorites.findIndex((item: any) => 
         item.attractionData.name === name && item.attractionData.destination === destination
       );
       
-      if (existingIndex >= 0) {
-        // Remove from collections
-        if (isSignedIn) {
+      if (alreadySaved || localExisting >= 0) {
+        // Remove from favorites
+        if (isSignedIn && existingFavoriteId) {
           try {
-            await fetch(`/api/user/collections?attractionId=${encodeURIComponent(savedFavorites[existingIndex].attractionId)}`, {
+            await fetch(`/api/favorites/${existingFavoriteId}`, {
               method: 'DELETE'
             });
-          } catch {}
+          } catch (deleteError) {
+            console.error('Error deleting favorite:', deleteError);
+          }
         }
-        savedFavorites.splice(existingIndex, 1);
-        localStorage.setItem('savedFavorites', JSON.stringify(savedFavorites));
+        
+        // Remove from localStorage
+        if (localExisting >= 0) {
+          savedFavorites.splice(localExisting, 1);
+          localStorage.setItem('savedFavorites', JSON.stringify(savedFavorites));
+        }
+        
         setIsSaved(false);
-        window.dispatchEvent(new Event('favoritesUpdated')); // Dispatch custom event
+        window.dispatchEvent(new Event('favoritesUpdated'));
       } else {
-        // Add to collections
-        const item = {
-          attractionId: restaurantData.id,
-          attractionData: restaurantData,
-          savedAt: new Date().toISOString()
+        // Add to favorites - restaurants don't have images, use placeholder
+        const placeholderImageUrl = 'https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&h=600&fit=crop&q=80';
+        
+        const payload = {
+          itemId,
+          name,
+          location: destination,
+          description: `${cuisine} - ${description}`,
+          imageUrl: placeholderImageUrl, // Placeholder for restaurants without images
+          meta: {
+            type: 'restaurant',
+            cuisine,
+            source: 'itinerary',
+          }
         };
+
+        console.log('[RestaurantCard] Saving favorite:', payload.name);
+
+        // Save to API if signed in
         if (isSignedIn) {
           try {
-            await fetch('/api/user/collections', {
+            const response = await fetch('/api/favorites/add', {
               method: 'POST',
               headers: { 'Content-Type': 'application/json' },
-              body: JSON.stringify({ attractionId: restaurantData.id, attractionData: {
-                id: restaurantData.id,
-                name: restaurantData.name,
-                type: restaurantData.type,
-                location: restaurantData.destination,
-                description: restaurantData.description,
-                image: ''
-              } })
+              body: JSON.stringify(payload)
             });
-          } catch {}
+
+            const result = await response.json();
+
+            if (!response.ok || !result.success) {
+              throw new Error(result.error || 'Failed to save favorite');
+            }
+
+            console.log('[RestaurantCard] Successfully saved favorite to API');
+          } catch (apiError) {
+            console.error('[RestaurantCard] API save failed:', apiError);
+            // Continue to localStorage fallback
+          }
         }
+
+        // Also save to localStorage as fallback
+        const item = {
+          attractionId: itemId,
+          attractionData: {
+            id: itemId,
+            name,
+            cuisine,
+            description,
+            image: placeholderImageUrl,
+            destination,
+            type: 'restaurant',
+            emoji: '🍽️'
+          },
+          savedAt: new Date().toISOString()
+        };
         savedFavorites.push(item);
         localStorage.setItem('savedFavorites', JSON.stringify(savedFavorites));
+        
         setIsSaved(true);
-        window.dispatchEvent(new Event('favoritesUpdated')); // Dispatch custom event
+        window.dispatchEvent(new Event('favoritesUpdated'));
       }
     } catch (error) {
       console.error('Error saving restaurant:', error);
