@@ -11,7 +11,24 @@ export default async function HistoryPage() {
   }
 
   // Fetch saved itineraries directly from database
-  let itineraries = [];
+  interface ItineraryPreview {
+    destination: string;
+    startDate: string | null;
+    endDate: string | null;
+    headerImage: string | null;
+    estimatedCost: number | null;
+    daysCount: number;
+  }
+
+  interface SavedItinerary {
+    id: string;
+    title: string;
+    createdAt: string;
+    updatedAt: string;
+    preview: ItineraryPreview;
+  }
+
+  let itineraries: SavedItinerary[] = [];
   try {
     const savedItineraries = await prisma.itinerary.findMany({
       where: {
