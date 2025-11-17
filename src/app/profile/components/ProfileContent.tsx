@@ -96,8 +96,9 @@ export default function ProfileContent({ user, stats }: ProfileContentProps) {
     <div className="p-6 max-w-6xl mx-auto">
       {/* Profile Header */}
       <div className="bg-white rounded-lg shadow-md p-6 mb-8">
-        <div className="flex items-center gap-6">
-          <div className="w-32 h-32 rounded-full overflow-hidden">
+        <div className="flex flex-col md:flex-row items-center md:items-start gap-6">
+          {/* Profile Picture - Smaller on mobile, centered */}
+          <div className="w-20 h-20 md:w-32 md:h-32 rounded-full overflow-hidden flex-shrink-0">
             {user.imageUrl ? (
               <img 
                 src={user.imageUrl} 
@@ -105,16 +106,17 @@ export default function ProfileContent({ user, stats }: ProfileContentProps) {
                 className="w-full h-full object-cover"
               />
             ) : (
-              <div className="w-full h-full bg-blue-600 flex items-center justify-center text-4xl text-white">
+              <div className="w-full h-full bg-blue-600 flex items-center justify-center text-2xl md:text-4xl text-white font-semibold">
                 {user.firstName?.[0] || user.emailAddress?.[0]?.toUpperCase()}
               </div>
             )}
           </div>
-          <div>
-            <h1 className="text-2xl font-bold mb-2">{fullName || "User"}</h1>
-            <p className="text-gray-600 mb-1">{user.emailAddress}</p>
-            <p className="text-gray-600 mb-1">{user.phoneNumber || "No phone number"}</p>
-            <p className="text-gray-600">Member since {format(user.createdAt, "MMMM yyyy")}</p>
+          {/* User Details - Centered on mobile, left-aligned on desktop */}
+          <div className="flex flex-col items-center md:items-start text-center md:text-left w-full">
+            <h1 className="text-xl md:text-2xl font-bold mb-2">{fullName || "User"}</h1>
+            <p className="text-sm md:text-base text-gray-600 mb-1">{user.emailAddress}</p>
+            <p className="text-sm md:text-base text-gray-600 mb-1">{user.phoneNumber || "No phone number"}</p>
+            <p className="text-sm md:text-base text-gray-600">Member since {format(user.createdAt, "MMMM yyyy")}</p>
           </div>
         </div>
       </div>
