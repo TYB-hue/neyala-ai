@@ -7,7 +7,8 @@ import {
   User, 
   Settings, 
   History, 
-  LogOut
+  LogOut,
+  Heart
 } from 'lucide-react';
 import { useLogout } from '@/hooks/useLogout';
 
@@ -24,6 +25,11 @@ export default function ProfileLayout({
       title: 'Your Profile',
       href: '/profile',
       icon: User,
+    },
+    {
+      title: 'Collections',
+      href: '/favorites',
+      icon: Heart,
     },
     {
       title: 'Settings',

@@ -46,9 +46,9 @@ export default function ProfileContent({ user, stats }: ProfileContentProps) {
                 <p className="text-sm text-gray-500 mt-2">Click to view details</p>
               </Link>
 
-              <div 
-                className="bg-white rounded-lg shadow-md p-6 cursor-pointer hover:shadow-lg transition-all duration-200 hover:scale-[1.02]"
-                onClick={() => setActiveTab('collections')}
+              <Link 
+                href="/favorites"
+                className="bg-white rounded-lg shadow-md p-6 cursor-pointer hover:shadow-lg transition-all duration-200 hover:scale-[1.02] block"
               >
                 <div className="flex items-center justify-between mb-2">
                   <div className="flex items-center gap-4">
@@ -59,17 +59,8 @@ export default function ProfileContent({ user, stats }: ProfileContentProps) {
                   </div>
                   <ChevronRightIcon className="w-5 h-5 text-gray-400" />
                 </div>
-                <p className="text-sm text-gray-500 mt-2">Click to view details</p>
-                <div className="mt-3">
-                  <a 
-                    href="/favorites" 
-                    className="text-sm text-green-600 hover:text-green-800 font-medium"
-                    onClick={(e) => e.stopPropagation()}
-                  >
-                    Explore Favorites →
-                  </a>
-                </div>
-              </div>
+                <p className="text-sm text-gray-500 mt-2">Click to view your favorites</p>
+              </Link>
 
               <div 
                 className="bg-white rounded-lg shadow-md p-6 cursor-pointer hover:shadow-lg transition-all duration-200 hover:scale-[1.02]"
