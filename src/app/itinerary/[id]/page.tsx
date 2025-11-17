@@ -871,10 +871,22 @@ export default function ItineraryPage({ params }: { params: { id: string } }) {
                       })
                     });
 
-                    const result = await res.json();
+                    let result;
+                    try {
+                      result = await res.json();
+                    } catch (jsonError) {
+                      console.error('Error parsing response JSON:', jsonError);
+                      throw new Error(`Server error (${res.status}): Failed to parse response`);
+                    }
 
                     if (!res.ok || !result.success) {
-                      throw new Error(result.error || 'Failed to save itinerary');
+                      const errorMessage = result.error || result.message || `Failed to save itinerary (${res.status})`;
+                      console.error('Save failed:', {
+                        status: res.status,
+                        error: errorMessage,
+                        details: result.details
+                      });
+                      throw new Error(errorMessage);
                     }
 
                     // Also save locally as fallback
