@@ -5,7 +5,6 @@ import { format } from "date-fns";
 import { ChevronRightIcon } from "lucide-react";
 import Link from "next/link";
 import type { UserProfile, UserStats } from "@/types";
-import CollectionsContent from "./CollectionsContent";
 import ReviewsContent from "./ReviewsContent";
 
 interface ProfileContentProps {
@@ -13,7 +12,7 @@ interface ProfileContentProps {
   stats: UserStats;
 }
 
-type ActiveTab = 'overview' | 'collections' | 'reviews';
+type ActiveTab = 'overview' | 'reviews';
 
 export default function ProfileContent({ user, stats }: ProfileContentProps) {
   const [activeTab, setActiveTab] = useState<ActiveTab>('overview');
@@ -21,8 +20,6 @@ export default function ProfileContent({ user, stats }: ProfileContentProps) {
 
   const renderTabContent = () => {
     switch (activeTab) {
-      case 'collections':
-        return <CollectionsContent userId={user.id} />;
       case 'reviews':
         return <ReviewsContent userId={user.id} />;
       default:
