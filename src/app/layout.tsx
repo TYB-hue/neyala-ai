@@ -6,6 +6,7 @@ import { Footer } from '@/components/Footer';
 import './globals.css';
 import { Toaster } from 'react-hot-toast';
 import { AuthProvider } from '@/contexts/AuthContext';
+import { GoogleAnalytics } from '@/components/Analytics';
 import type { Metadata } from 'next';
 
 const inter = Inter({ subsets: ['latin'] });
@@ -63,6 +64,7 @@ export default function RootLayout({
     <ClerkProvider>
       <html lang="en">
         <body className={inter.className}>
+          <GoogleAnalytics />
           <AuthProvider>
             <Suspense fallback={<Loading />}>
               <div className="flex flex-col min-h-screen">

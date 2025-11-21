@@ -8,7 +8,8 @@ import {
   Settings, 
   History, 
   LogOut,
-  Heart
+  Heart,
+  BarChart3
 } from 'lucide-react';
 import { useLogout } from '@/hooks/useLogout';
 
@@ -40,6 +41,11 @@ export default function ProfileLayout({
       title: 'History',
       href: '/profile/history',
       icon: History,
+    },
+    {
+      title: 'Analytics',
+      href: '/profile/analytics',
+      icon: BarChart3,
     },
   ];
 
