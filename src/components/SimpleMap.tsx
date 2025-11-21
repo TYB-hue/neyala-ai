@@ -19,7 +19,18 @@ interface SimpleMapProps {
 
 const SimpleMap: React.FC<SimpleMapProps> = ({ center, markers }) => {
   // Create a simple map using Google Maps embed as fallback
-  const googleMapsApiKey = process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY || 'AIzaSyDo4ODAVsPRAFmzS7BjX4-NAeqFUpaA1YQ';
+  const googleMapsApiKey = process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY;
+  
+  if (!googleMapsApiKey) {
+    return (
+      <div className="w-full h-64 bg-gray-100 rounded-lg flex items-center justify-center">
+        <div className="text-center">
+          <p className="text-gray-600">Google Maps API key not configured</p>
+        </div>
+      </div>
+    );
+  }
+  
   const googleMapsUrl = `https://www.google.com/maps/embed/v1/view?key=${googleMapsApiKey}&center=${center.lat},${center.lng}&zoom=12`;
 
   return (
