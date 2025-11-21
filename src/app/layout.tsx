@@ -64,6 +64,7 @@ export default function RootLayout({
     <ClerkProvider>
       <html lang="en">
         <body className={inter.className}>
+          {/* Google Analytics - Uses Next.js Script component which loads in <head> automatically */}
           <GoogleAnalytics />
           <AuthProvider>
             <Suspense fallback={<Loading />}>
