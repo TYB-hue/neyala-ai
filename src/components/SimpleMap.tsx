@@ -19,7 +19,8 @@ interface SimpleMapProps {
 
 const SimpleMap: React.FC<SimpleMapProps> = ({ center, markers }) => {
   // Create a simple map using Google Maps embed as fallback
-  const googleMapsUrl = `https://www.google.com/maps/embed/v1/view?key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8&center=${center.lat},${center.lng}&zoom=12`;
+  const googleMapsApiKey = process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY || 'AIzaSyDo4ODAVsPRAFmzS7BjX4-NAeqFUpaA1YQ';
+  const googleMapsUrl = `https://www.google.com/maps/embed/v1/view?key=${googleMapsApiKey}&center=${center.lat},${center.lng}&zoom=12`;
 
   return (
     <div className="w-full h-64 bg-gray-100 rounded-lg overflow-hidden">

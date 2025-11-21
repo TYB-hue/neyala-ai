@@ -1,21 +1,6 @@
 'use client';
 
-import React, { useEffect, useState } from 'react';
-import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet';
-import 'leaflet/dist/leaflet.css';
-import L from 'leaflet';
-
-// Fix default marker icon issue in Leaflet with Webpack
-const DefaultIcon = L.icon({
-  iconUrl: 'https://unpkg.com/leaflet@1.7.1/dist/images/marker-icon.png',
-  iconRetinaUrl: 'https://unpkg.com/leaflet@1.7.1/dist/images/marker-icon-2x.png',
-  shadowUrl: 'https://unpkg.com/leaflet@1.7.1/dist/images/marker-shadow.png',
-  iconSize: [25, 41],
-  iconAnchor: [12, 41],
-  popupAnchor: [1, -34],
-  shadowSize: [41, 41],
-});
-L.Marker.prototype.options.icon = DefaultIcon;
+import React, { useEffect, useRef, useState } from 'react';
 
 interface MapProps {
   center: {
@@ -32,54 +17,173 @@ interface MapProps {
   }>;
 }
 
+declare global {
+  interface Window {
+    initMap: () => void;
+    google: any;
+  }
+}
+
 const MapComponent: React.FC<MapProps> = ({ center, markers }) => {
+  const mapRef = useRef<HTMLDivElement>(null);
   const [isLoaded, setIsLoaded] = useState(false);
+  const [map, setMap] = useState<any>(null);
+  const googleMapsApiKey = process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY;
 
   useEffect(() => {
-    // Ensure Leaflet is properly loaded
-    if (typeof window !== 'undefined' && window.L) {
-      setIsLoaded(true);
-    } else {
-      // Fallback: set loaded after a short delay
-      const timer = setTimeout(() => setIsLoaded(true), 100);
-      return () => clearTimeout(timer);
+    if (!googleMapsApiKey) {
+      console.error('Google Maps API key is not configured');
+      return;
     }
+
+    // Check if Google Maps is already loaded
+    if (window.google && window.google.maps) {
+      initializeMap();
+      return;
+    }
+
+    // Load Google Maps JavaScript API
+    const script = document.createElement('script');
+    script.src = `https://maps.googleapis.com/maps/api/js?key=${googleMapsApiKey}&loading=async&callback=initMap`;
+    script.async = true;
+    script.defer = true;
+    script.id = 'google-maps-script';
+
+    // Set up the callback
+    window.initMap = () => {
+      initializeMap();
+    };
+
+    // Check if script already exists
+    if (document.getElementById('google-maps-script')) {
+      if (window.google && window.google.maps) {
+        initializeMap();
+      }
+      return;
+    }
+
+    document.head.appendChild(script);
+
+    return () => {
+      // Cleanup: remove the callback
+      if (window.initMap) {
+        delete window.initMap;
+      }
+    };
   }, []);
+
+  useEffect(() => {
+    if (map && markers.length > 0) {
+      updateMarkers();
+    }
+  }, [map, markers]);
+
+  const initializeMap = () => {
+    if (!mapRef.current || !window.google || !window.google.maps) {
+      return;
+    }
+
+    const mapInstance = new window.google.maps.Map(mapRef.current, {
+      center: { lat: center.lat, lng: center.lng },
+      zoom: 12,
+      mapTypeControl: true,
+      streetViewControl: true,
+      fullscreenControl: true,
+    });
+
+    setMap(mapInstance);
+    setIsLoaded(true);
+
+    // Add markers after map is initialized
+    updateMarkers(mapInstance);
+  };
+
+  const updateMarkers = (mapInstance?: any) => {
+    const mapToUse = mapInstance || map;
+    if (!mapToUse || !window.google) return;
+
+    // Clear existing markers (you might want to store marker references)
+    // For now, we'll just add new ones
+
+    markers.forEach((marker) => {
+      const markerInstance = new window.google.maps.Marker({
+        position: { lat: marker.position.lat, lng: marker.position.lng },
+        map: mapToUse,
+        title: marker.title,
+        icon: marker.type === 'hotel' 
+          ? {
+              path: window.google.maps.SymbolPath.CIRCLE,
+              scale: 8,
+              fillColor: '#3B82F6', // Blue for hotels
+              fillOpacity: 1,
+              strokeColor: '#FFFFFF',
+              strokeWeight: 2,
+            }
+          : {
+              path: window.google.maps.SymbolPath.CIRCLE,
+              scale: 8,
+              fillColor: '#10B981', // Green for activities
+              fillOpacity: 1,
+              strokeColor: '#FFFFFF',
+              strokeWeight: 2,
+            },
+      });
+
+      // Add info window
+      const infoWindow = new window.google.maps.InfoWindow({
+        content: `
+          <div style="padding: 8px;">
+            <h3 style="margin: 0 0 4px 0; font-weight: 600; font-size: 14px;">${marker.title}</h3>
+            <p style="margin: 0; color: #6B7280; font-size: 12px;">${marker.type === 'hotel' ? 'Hotel' : 'Activity'}</p>
+          </div>
+        `,
+      });
+
+      markerInstance.addListener('click', () => {
+        infoWindow.open(mapToUse, markerInstance);
+      });
+    });
+
+    // Fit bounds to show all markers
+    if (markers.length > 0) {
+      const bounds = new window.google.maps.LatLngBounds();
+      markers.forEach((marker) => {
+        bounds.extend({ lat: marker.position.lat, lng: marker.position.lng });
+      });
+      // Also include center point
+      bounds.extend({ lat: center.lat, lng: center.lng });
+      mapToUse.fitBounds(bounds);
+    }
+  };
+
+  if (!googleMapsApiKey) {
+    return (
+      <div className="flex items-center justify-center h-64 bg-gray-100 rounded-lg">
+        <div className="text-center">
+          <p className="text-gray-600">Google Maps API key not configured</p>
+        </div>
+      </div>
+    );
+  }
 
   if (!isLoaded) {
     return (
       <div className="flex items-center justify-center h-64 bg-gray-100 rounded-lg">
         <div className="text-center">
           <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-blue-600 mx-auto mb-2"></div>
-          <p className="text-gray-600">Initializing map...</p>
+          <p className="text-gray-600">Loading Google Maps...</p>
         </div>
       </div>
     );
   }
 
   return (
-    <MapContainer
-      center={[center.lat, center.lng]}
-      zoom={12}
-      style={{ width: '100%', height: '100%' }}
-      scrollWheelZoom={true}
-    >
-      <TileLayer
-        attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-        url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-      />
-      {markers.map((marker, index) => (
-        <Marker key={index} position={[marker.position.lat, marker.position.lng]} icon={DefaultIcon}>
-          <Popup>
-            <div>
-              <h3 className="font-semibold">{marker.title}</h3>
-              <p className="text-sm text-gray-600">{marker.type}</p>
-            </div>
-          </Popup>
-        </Marker>
-      ))}
-    </MapContainer>
+    <div 
+      ref={mapRef} 
+      className="w-full h-full rounded-lg overflow-hidden"
+      style={{ minHeight: '400px' }}
+    />
   );
 };
 
-export default MapComponent; 
+export default MapComponent;
