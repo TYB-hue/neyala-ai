@@ -10,7 +10,7 @@ Your Google Maps API key was exposed in a public GitHub repository. **Immediate 
 
 1. Go to [Google Cloud Console](https://console.cloud.google.com/)
 2. Navigate to **APIs & Services** → **Credentials**
-3. Find your API key: `AIzaSyDo4ODAVsPRAFmzS7BjX4-NAeqFUpaA1YQ`
+3. Find the API key that was exposed (check your email notification from Google for the key ID)
 4. Click on the key to edit it
 5. Click **"Regenerate key"** button
 6. Copy the new API key
