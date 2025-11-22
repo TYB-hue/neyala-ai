@@ -388,8 +388,20 @@ async function getGomapsAirportPhotos(airportName: string, destination?: string)
   return [];
 }
 
-export async function getHotelImage(hotelName: string, destination?: string): Promise<string> {
-  // Try GOMAPS.PRO API for real hotel photos first
+export async function getHotelImage(hotelName: string, destination?: string, lat?: number, lng?: number): Promise<string> {
+  // First try Google Places Photos API for real hotel photos
+  try {
+    const { getGooglePlacePhoto } = await import('@/lib/google-places-photos');
+    const googlePhoto = await getGooglePlacePhoto(hotelName, lat, lng);
+    if (googlePhoto) {
+      console.log(`Using Google Places photo for ${hotelName}`);
+      return googlePhoto;
+    }
+  } catch (error) {
+    console.error(`Error fetching Google Places image for ${hotelName}:`, error);
+  }
+
+  // Fallback to GOMAPS.PRO API if Google Places returns no photos
   if (process.env.GOMAPS_API_KEY && destination) {
     try {
       const gomapsImage = await getGomapsHotelImage(hotelName, destination);
@@ -402,7 +414,7 @@ export async function getHotelImage(hotelName: string, destination?: string): Pr
     }
   }
 
-  // Try Foursquare API for real hotel photos
+  // Fallback to Foursquare API if Google Places and GOMAPS.PRO return no photos
   if (FOURSQUARE_API_KEY && destination) {
     try {
       const foursquareImage = await getFoursquareHotelImage(hotelName, destination);
@@ -433,8 +445,20 @@ export async function getHotelImage(hotelName: string, destination?: string): Pr
   return 'https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop&q=80';
 }
 
-export async function getActivityImage(activityName: string, destination?: string): Promise<string> {
-  // First try Foursquare API for real attraction photos
+export async function getActivityImage(activityName: string, destination?: string, lat?: number, lng?: number): Promise<string> {
+  // First try Google Places Photos API for real attraction photos
+  try {
+    const { getGooglePlacePhoto } = await import('@/lib/google-places-photos');
+    const googlePhoto = await getGooglePlacePhoto(activityName, lat, lng);
+    if (googlePhoto) {
+      console.log(`Using Google Places photo for ${activityName}`);
+      return googlePhoto;
+    }
+  } catch (error) {
+    console.error(`Error fetching Google Places image for ${activityName}:`, error);
+  }
+
+  // Fallback to Foursquare API if Google Places returns no photos
   if (FOURSQUARE_API_KEY && destination) {
     try {
       const foursquareImage = await getFoursquareAttractionImage(activityName, destination);

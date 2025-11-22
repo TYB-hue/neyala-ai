@@ -94,12 +94,18 @@ export default function AttractionCard({
     return () => { isCancelled = true; };
   }, [activity, destination]);
 
-  // Fetch real place photo (Foursquare first)
+  // Fetch real place photo (Google Places first, then Foursquare fallback)
   useEffect(() => {
     let cancelled = false;
     (async () => {
       try {
-        const res = await fetch(`/api/place-photos?name=${encodeURIComponent(activity)}&destination=${encodeURIComponent(destination)}`, { cache: 'no-store' });
+        // Build URL with optional lat/lng for better accuracy
+        let url = `/api/place-photos?name=${encodeURIComponent(activity)}&destination=${encodeURIComponent(destination)}`;
+        if (location?.lat && location?.lng) {
+          url += `&lat=${location.lat}&lng=${location.lng}`;
+        }
+        
+        const res = await fetch(url, { cache: 'no-store' });
         if (res.ok) {
           const data = await res.json();
           if (!cancelled && data?.photos?.length > 0) {
@@ -118,7 +124,7 @@ export default function AttractionCard({
       } catch {}
     })();
     return () => { cancelled = true; };
-  }, [activity, destination]);
+  }, [activity, destination, location]);
 
   const handleAttractionClick = () => {
     // Open Viator link in new tab

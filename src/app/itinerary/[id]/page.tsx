@@ -1038,35 +1038,48 @@ Plan your own trip at: ${window.location.origin}/plan`;
         {/* Right Panel - Map */}
         <div className={`w-full md:w-1/2 h-[calc(100vh-64px-48px)] md:h-[calc(100vh-64px)] sticky top-16 ${
           mobileView === 'map' ? 'block' : 'hidden md:block'
-        }`}>
+        }`} style={{ minHeight: '600px' }}>
           <div className="h-full w-full">
             {itineraryData.itineraries && itineraryData.itineraries.length > 0 ? (
               <React.Suspense fallback={<MapFallback />}>
                 <Map
                   center={itineraryData.itineraries[0]?.morning?.location || { lat: 48.8566, lng: 2.3522 }}
-                  markers={[
+                  places={[
                     ...itineraryData.itineraries.flatMap(day => [
                       {
-                        position: day.morning.location,
-                        title: day.morning.activity,
-                        type: 'activity' as const
+                        name: day.morning.activity,
+                        lat: day.morning.location.lat,
+                        lng: day.morning.location.lng,
+                        type: 'activity',
+                        photoUrl: day.morning.image || undefined
                       },
                       {
-                        position: day.afternoon.location,
-                        title: day.afternoon.activity,
-                        type: 'activity' as const
+                        name: day.afternoon.activity,
+                        lat: day.afternoon.location.lat,
+                        lng: day.afternoon.location.lng,
+                        type: 'activity',
+                        photoUrl: day.afternoon.image || undefined
+                      },
+                      {
+                        name: day.restaurant.name,
+                        lat: day.restaurant.location.lat,
+                        lng: day.restaurant.location.lng,
+                        type: 'restaurant',
+                        photoUrl: undefined // Restaurants typically don't have images in itinerary data
                       }
                     ]),
                     ...itineraryData.hotels.map(hotel => ({
-                      position: hotel.location,
-                      title: hotel.name,
-                      type: 'hotel' as const
+                      name: hotel.name,
+                      lat: hotel.location.lat,
+                      lng: hotel.location.lng,
+                      type: 'hotel',
+                      photoUrl: hotel.image || undefined
                     }))
                   ]}
                 />
               </React.Suspense>
             ) : (
-              <div className="h-full w-full bg-gray-100 flex items-center justify-center">
+              <div className="h-full w-full bg-gray-100 flex items-center justify-center" style={{ minHeight: '600px' }}>
                 <div className="text-center">
                   <div className="text-4xl mb-4">🗺️</div>
                   <p className="text-gray-600">Interactive Map</p>
