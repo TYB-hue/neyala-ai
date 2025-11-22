@@ -250,13 +250,14 @@ export default function ItineraryPage({ params }: { params: { id: string } }) {
     setIsReviewPanelOpen(true);
   };
 
-  // Debug logging for header image and reset error state
+  // Debug logging for header image and reset error state when destination changes
   useEffect(() => {
-    if (itineraryData?.headerImage) {
+    if (itineraryData?.headerImage && itineraryData?.destination) {
       console.log('Header image URL in component:', itineraryData.headerImage);
-      setHeaderImageError(false); // Reset error state when new image is loaded
+      // Only reset error state when destination changes (new itinerary loaded)
+      setHeaderImageError(false);
     }
-  }, [itineraryData?.headerImage]);
+  }, [itineraryData?.destination]); // Changed dependency to destination instead of headerImage
 
   // Add keyboard shortcut for printing (Ctrl+P / Cmd+P)
   useEffect(() => {
@@ -520,15 +521,22 @@ export default function ItineraryPage({ params }: { params: { id: string } }) {
               alt={itineraryData.destination}
               className="w-full h-full object-cover"
               onLoad={() => {
-                console.log('Header image loaded successfully');
-                setHeaderImageError(false);
+                // Only log success, don't reset error state here (causes infinite loop)
+                if (!headerImageError) {
+                  console.log('Header image loaded successfully');
+                }
               }}
               onError={(e) => {
-                console.error('Header image failed to load:', itineraryData.headerImage);
-                if (!headerImageError) {
+                // Only set error state once to prevent infinite loop
+                const target = e.target as HTMLImageElement;
+                const isFallbackImage = target.src.includes('photo-1488646953014-85cb44e25828');
+                
+                if (!isFallbackImage && !headerImageError) {
+                  console.error('Header image failed to load:', itineraryData.headerImage);
                   setHeaderImageError(true);
                 }
               }}
+              key={`${itineraryData.destination}-${itineraryData.headerImage}`}
             />
             <div className="absolute inset-0 bg-black/40 flex items-center justify-center">
               <div className="text-center text-white">
