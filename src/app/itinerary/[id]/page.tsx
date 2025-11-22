@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useState, useRef } from 'react';
 import Image from 'next/image';
 import dynamic from 'next/dynamic';
 import Link from 'next/link';
@@ -132,6 +132,7 @@ export default function ItineraryPage({ params }: { params: { id: string } }) {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [headerImageError, setHeaderImageError] = useState(false);
+  const headerImageLoadAttempted = useRef<string | null>(null);
   const [saving, setSaving] = useState(false);
   const [saved, setSaved] = useState(false);
   
@@ -250,14 +251,14 @@ export default function ItineraryPage({ params }: { params: { id: string } }) {
     setIsReviewPanelOpen(true);
   };
 
-  // Debug logging for header image and reset error state when destination changes
+  // Reset error state and tracking when destination changes (new itinerary loaded)
   useEffect(() => {
     if (itineraryData?.headerImage && itineraryData?.destination) {
-      console.log('Header image URL in component:', itineraryData.headerImage);
-      // Only reset error state when destination changes (new itinerary loaded)
+      // Reset error state and tracking ref when destination changes
       setHeaderImageError(false);
+      headerImageLoadAttempted.current = null;
     }
-  }, [itineraryData?.destination]); // Changed dependency to destination instead of headerImage
+  }, [itineraryData?.destination]); // Only reset when destination changes
 
   // Add keyboard shortcut for printing (Ctrl+P / Cmd+P)
   useEffect(() => {
@@ -520,19 +521,24 @@ export default function ItineraryPage({ params }: { params: { id: string } }) {
               }
               alt={itineraryData.destination}
               className="w-full h-full object-cover"
-              onLoad={() => {
-                // Only log success, don't reset error state here (causes infinite loop)
-                if (!headerImageError) {
-                  console.log('Header image loaded successfully');
-                }
+              onLoad={(e) => {
+                // Silently mark as loaded - no console logs to prevent spam
+                const target = e.target as HTMLImageElement;
+                headerImageLoadAttempted.current = target.src;
               }}
               onError={(e) => {
-                // Only set error state once to prevent infinite loop
+                // Only set error state once per image URL to prevent infinite loop
                 const target = e.target as HTMLImageElement;
-                const isFallbackImage = target.src.includes('photo-1488646953014-85cb44e25828');
+                const currentSrc = target.src;
+                const isFallbackImage = currentSrc.includes('photo-1488646953014-85cb44e25828');
+                const alreadyAttempted = headerImageLoadAttempted.current === currentSrc;
                 
-                if (!isFallbackImage && !headerImageError) {
-                  console.error('Header image failed to load:', itineraryData.headerImage);
+                // Only process error if:
+                // 1. Not already using fallback
+                // 2. Haven't attempted this exact URL before  
+                // 3. Error state not already set
+                if (!isFallbackImage && !alreadyAttempted && !headerImageError) {
+                  headerImageLoadAttempted.current = currentSrc;
                   setHeaderImageError(true);
                 }
               }}
