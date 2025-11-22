@@ -1051,14 +1051,14 @@ Plan your own trip at: ${window.location.origin}/plan`;
                         lat: day.morning.location.lat,
                         lng: day.morning.location.lng,
                         type: 'activity',
-                        photoUrl: day.morning.image || undefined
+                        photoUrl: day.morning.image && day.morning.image.trim() !== '' ? day.morning.image : undefined
                       },
                       {
                         name: day.afternoon.activity,
                         lat: day.afternoon.location.lat,
                         lng: day.afternoon.location.lng,
                         type: 'activity',
-                        photoUrl: day.afternoon.image || undefined
+                        photoUrl: day.afternoon.image && day.afternoon.image.trim() !== '' ? day.afternoon.image : undefined
                       },
                       {
                         name: day.restaurant.name,
@@ -1073,7 +1073,7 @@ Plan your own trip at: ${window.location.origin}/plan`;
                       lat: hotel.location.lat,
                       lng: hotel.location.lng,
                       type: 'hotel',
-                      photoUrl: hotel.image || undefined
+                      photoUrl: hotel.image && hotel.image.trim() !== '' ? hotel.image : undefined
                     }))
                   ]}
                 />
