@@ -19,16 +19,9 @@ export async function POST(req: Request) {
   try {
     const { userId } = await auth();
     
-    // Require authentication to generate itinerary
-    if (!userId) {
-      return NextResponse.json(
-        { 
-          success: false,
-          error: 'Unauthorized: You must be signed in to generate an itinerary' 
-        },
-        { status: 401 }
-      );
-    }
+    // Authentication is optional - allow users to generate itineraries without signing in
+    // userId will be undefined if not signed in, which is fine for generating itineraries
+    // Users can still use the service, but won't be able to save itineraries to their account
 
     const requestData: ItineraryRequest = await req.json();
 

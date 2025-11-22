@@ -14,6 +14,7 @@ export default authMiddleware({
     "/itinerary/(.*)",
     "/favorites",
     "/affiliate",
+    "/plan",
     "/api/(.*)",
     "/robots.txt",
     "/sitemap.xml",

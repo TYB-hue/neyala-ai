@@ -360,10 +360,8 @@ export default function PlanForm() {
         throw new Error('Please fill in all required fields');
       }
 
-      // Require authentication to generate itinerary
-      if (!user || !user.id) {
-        throw new Error('You must be signed in to generate an itinerary. Please sign in and try again.');
-      }
+      // Authentication is optional - allow users to generate itineraries without signing in
+      // userId will be undefined if not signed in, which is fine for generating itineraries
 
       // Use streaming API for real-time updates
       const response = await fetch(`${window.location.origin}/api/generate-itinerary-stream`, {
@@ -373,7 +371,7 @@ export default function PlanForm() {
         },
         body: JSON.stringify({
           ...formData,
-          userId: user.id
+          userId: user?.id || undefined // Optional - only include if user is signed in
         }),
       });
 
