@@ -28,7 +28,7 @@ export const metadata: Metadata = {
   },
   description: 'Plan smarter trips with AI. Generate itineraries, explore attractions, and save your favorites with Nyala.',
   verification: {
-    google: 'qbwa-1oRK5ELyxWHqt_6V1NbN1WTGdgw_jCeS45cPTQ',
+    google: 'cNMZJADogwcUzMspTwPKwZzWMwUOmc9N9fvzGxRO_Y8',
   },
   icons: {
     icon: [
