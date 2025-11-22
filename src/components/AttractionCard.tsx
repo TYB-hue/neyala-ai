@@ -319,12 +319,28 @@ export default function AttractionCard({
       title={`Click to explore ${activity} on Viator`}
     >
       <div className="relative h-48 group">
-        <Image
-          src={photoUrl}
-          alt={activity}
-          fill
-          className="object-cover"
-        />
+        {photoUrl && photoUrl.includes('maps.googleapis.com/maps/api/place/photo') ? (
+          // Use regular img tag for Google Places Photo URLs (bypass Next.js optimization)
+          <img
+            src={photoUrl}
+            alt={activity}
+            className="w-full h-full object-cover"
+            onError={(e) => {
+              // Fallback to a simple gray placeholder
+              const target = e.target as HTMLImageElement;
+              target.src = 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YzZjRmNiIvPjx0ZXh0IHg9IjUwJSIgeT0iNTAlIiBmb250LWZhbWlseT0iQXJpYWwiIGZvbnQtc2l6ZT0iMTYiIGZpbGw9IiM5Y2EzYWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGR5PSIuM2VtIj5ObyBJbWFnZTwvdGV4dD48L3N2Zz4=';
+            }}
+          />
+        ) : (
+          // Use Next.js Image for other URLs
+          <Image
+            src={photoUrl}
+            alt={activity}
+            fill
+            className="object-cover"
+            unoptimized={photoUrl?.includes('maps.googleapis.com')}
+          />
+        )}
         
         {/* Action Buttons */}
         <div className="absolute top-3 right-3 flex flex-col gap-2">

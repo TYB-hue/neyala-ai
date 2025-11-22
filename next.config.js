@@ -67,6 +67,12 @@ const nextConfig = {
         port: '',
         pathname: '/**',
       },
+      {
+        protocol: 'https',
+        hostname: 'maps.googleapis.com',
+        port: '',
+        pathname: '/**',
+      },
     ],
     unoptimized: process.env.NODE_ENV === 'development'
   },

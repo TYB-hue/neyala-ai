@@ -76,8 +76,9 @@ const MapComponent: React.FC<MapProps> = ({ center, places }) => {
       // Create Google Maps search link
       const googleMapsLink = `https://www.google.com/maps/search/?api=1&query=${place.lat},${place.lng}`;
 
-      // Get photo URL with fallback
-      const photoUrl = place.photoUrl || 'https://via.placeholder.com/260x180?text=No+Image';
+      // Get photo URL with fallback (use data URI for placeholder to avoid external dependencies)
+      const placeholderImage = 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjYwIiBoZWlnaHQ9IjE2MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMjYwIiBoZWlnaHQ9IjE2MCIgZmlsbD0iI2YzZjRmNiIvPjx0ZXh0IHg9IjUwJSIgeT0iNTAlIiBmb250LWZhbWlseT0iQXJpYWwiIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5Y2EzYWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGR5PSIuM2VtIj5ObyBJbWFnZTwvdGV4dD48L3N2Zz4=';
+      const photoUrl = place.photoUrl || placeholderImage;
 
       // Create info window with larger image and improved styling
       const infoWindow = new window.google.maps.InfoWindow({
@@ -87,7 +88,7 @@ const MapComponent: React.FC<MapProps> = ({ center, places }) => {
             <img src="${photoUrl}" 
                  style="width: 100%; height: 160px; object-fit: cover; display: block; margin: 0; padding: 0;" 
                  alt="${place.name}"
-                 onerror="this.src='https://via.placeholder.com/260x160?text=No+Image'" />
+                 onerror="this.src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjYwIiBoZWlnaHQ9IjE2MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMjYwIiBoZWlnaHQ9IjE2MCIgZmlsbD0iI2YzZjRmNiIvPjx0ZXh0IHg9IjUwJSIgeT0iNTAlIiBmb250LWZhbWlseT0iQXJpYWwiIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5Y2EzYWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGR5PSIuM2VtIj5ObyBJbWFnZTwvdGV4dD48L3N2Zz4='" />
             
             <!-- Content Section with improved spacing -->
             <div style="padding: 14px; background: white;">
