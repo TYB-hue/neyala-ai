@@ -53,11 +53,11 @@ export function HeroSection() {
       <div className="container mx-auto px-4 py-20 relative z-10">
         <div className="max-w-3xl mx-auto text-center">
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6">
-            Your AI-Powered Travel Companion
+            AI Travel Planner for Effortless Trip Planning
           </h1>
           <p className="text-xl md:text-2xl mb-10 text-blue-100">
-            Create personalized travel itineraries with the help of advanced AI. 
-            Discover new destinations, plan your perfect trip, and travel smarter.
+            Create personalized AI travel itineraries with our free AI travel planner. 
+            Discover new destinations, plan your perfect trip with our AI travel assistant, and travel smarter.
           </p>
           <div className="flex flex-col sm:flex-row justify-center gap-4 mb-16">
             <button 

@@ -142,7 +142,7 @@ export default function HotelOffers({ hotels, destination }: HotelOffersProps) {
             <div className="relative h-48">
               <Image
                 src={hotel.image}
-                alt={hotel.name}
+                alt={`${hotel.name} hotel - AI travel planner accommodation recommendation`}
                 fill
                 className="object-cover"
                 sizes="320px"

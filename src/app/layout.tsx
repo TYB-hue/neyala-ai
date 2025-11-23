@@ -23,10 +23,11 @@ function Loading() {
 export const metadata: Metadata = {
   metadataBase: new URL(process.env.NEXT_PUBLIC_APP_URL || 'http://localhost:3000'),
   title: {
-    default: 'Nyala – Your AI Travel Companion',
+    default: 'AI Travel Planner – Free Personalized Trip Itineraries | Nyala',
     template: '%s | Nyala'
   },
-  description: 'Plan smarter trips with AI. Generate itineraries, explore attractions, and save your favorites with Nyala.',
+  description: 'Free AI travel planner that creates personalized travel itineraries in seconds. Plan your perfect trip with our AI travel assistant and travel planning app. Generate custom AI travel itineraries with real attractions, hotels, and activities.',
+  keywords: 'travel planner ai, ai travel planner, ai travel itinerary, ai travel assistant, ai travel app, travel planning app, itinerary template, travel planning websites, best travel planning apps',
   verification: {
     google: 'aARyPYi7q-othGLSZGTdXnLmRBbmiYrD1EPI0uLMlkg',
   },
@@ -39,8 +40,8 @@ export const metadata: Metadata = {
   },
   openGraph: {
     type: 'website',
-    title: 'Nyala – Your AI Travel Companion',
-    description: 'Create beautiful, detailed itineraries with real attractions and maps.',
+    title: 'AI Travel Planner – Free Personalized Trip Itineraries | Nyala',
+    description: 'Free AI travel planner that creates personalized travel itineraries with real attractions, hotels, and activities. Plan your perfect trip with our AI travel assistant.',
     url: '/',
     siteName: 'Nyala',
     images: [
@@ -49,8 +50,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Nyala – Your AI Travel Companion',
-    description: 'Plan smarter trips with AI. Generate itineraries and explore real attractions.',
+    title: 'AI Travel Planner – Free Personalized Trip Itineraries | Nyala',
+    description: 'Free AI travel planner that creates personalized travel itineraries. Plan your perfect trip with our AI travel assistant and travel planning app.',
     images: ['/images/og-nyala.jpg']
   },
   alternates: {

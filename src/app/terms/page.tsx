@@ -1,3 +1,13 @@
+import type { Metadata } from 'next';
+
+export const metadata: Metadata = {
+  title: 'Terms of Service — AI Travel Planner | Nyala',
+  description: 'Terms of service for Nyala AI travel planner. Read our terms and conditions for using our free AI travel planner and travel planning app.',
+  alternates: {
+    canonical: '/terms',
+  },
+};
+
 export default function TermsOfServicePage() {
   return (
     <div className="min-h-screen bg-gray-50">

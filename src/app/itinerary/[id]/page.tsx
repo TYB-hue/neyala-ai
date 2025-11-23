@@ -519,7 +519,7 @@ export default function ItineraryPage({ params }: { params: { id: string } }) {
                 ? 'https://images.unsplash.com/photo-1488646953014-85cb44e25828?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
                 : itineraryData.headerImage
               }
-              alt={itineraryData.destination}
+              alt={`${itineraryData.destination} travel destination - AI travel planner itinerary`}
               className="w-full h-full object-cover"
               onLoad={(e) => {
                 // Silently mark as loaded - no console logs to prevent spam
@@ -579,13 +579,13 @@ export default function ItineraryPage({ params }: { params: { id: string } }) {
             ) : airportPhotos.length > 1 ? (
               <PhotoCarousel
                 photos={airportPhotos}
-                alt={itineraryData.airport.name}
+                alt={`${itineraryData.airport.name} airport - ${itineraryData.destination} travel itinerary`}
                 className="h-full"
               />
             ) : airportPhotos.length === 1 ? (
               <Image
                 src={airportPhotos[0]}
-                alt={itineraryData.airport.name}
+                alt={`${itineraryData.airport.name} airport - ${itineraryData.destination} travel itinerary`}
                 fill
                 className="object-cover"
               />
@@ -692,7 +692,7 @@ export default function ItineraryPage({ params }: { params: { id: string } }) {
                 <div className="flex items-center mb-2">
                   <img
                     src={transport.icon}
-                    alt={transport.type}
+                    alt={`${transport.type} transportation - ${itineraryData.destination} travel planning`}
                     className="w-6 h-6 mr-2"
                   />
                   <h3 className="text-lg font-semibold">{transport.type}</h3>

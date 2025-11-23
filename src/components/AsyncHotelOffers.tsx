@@ -262,7 +262,7 @@ export default function AsyncHotelOffers({
             <div className="relative h-48">
               <Image
                 src={hotel.images && hotel.images.length > 0 ? hotel.images[0] : 'https://cf.bstatic.com/xdata/images/hotel/square600/510565710.webp?k=dff438e940e280b0b5740485b7a0a6b9bd9adfa97f59a835c7f98536bc137080&o='}
-                alt={hotel.name}
+                alt={`${hotel.name} hotel - AI travel planner accommodation recommendation`}
                 fill
                 className="object-cover"
                 sizes="320px"

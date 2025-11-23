@@ -62,7 +62,7 @@ export function Header() {
         <Link href="/" className="relative flex items-center">
           <img 
             src="/images/neyala-logo.png" 
-            alt="Nyala" 
+            alt="Nyala - AI Travel Planner" 
             className="h-12 w-auto"
           />
         </Link>

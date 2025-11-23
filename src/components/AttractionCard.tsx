@@ -323,7 +323,7 @@ export default function AttractionCard({
           // Use regular img tag for Google Places Photo URLs (bypass Next.js optimization)
           <img
             src={photoUrl}
-            alt={activity}
+            alt={`${activity} attraction - AI travel planner recommendation`}
             className="w-full h-full object-cover"
             onError={(e) => {
               // Fallback to a simple gray placeholder
@@ -335,7 +335,7 @@ export default function AttractionCard({
           // Use Next.js Image for other URLs
           <Image
             src={photoUrl}
-            alt={activity}
+            alt={`${activity} attraction - AI travel planner recommendation`}
             fill
             className="object-cover"
             unoptimized={photoUrl?.includes('maps.googleapis.com')}

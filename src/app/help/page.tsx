@@ -10,10 +10,10 @@ export default function HelpCenterPage() {
             
             <div className="space-y-6">
               <div>
-                <h3 className="text-lg font-semibold text-gray-700 mb-2">How do I create a travel itinerary?</h3>
+                <h3 className="text-lg font-semibold text-gray-700 mb-2">How do I create a travel itinerary with the AI travel planner?</h3>
                 <p className="text-gray-600">
                   Simply go to the "Plan Trip" page, enter your destination, travel dates, and preferences. 
-                  Our AI will generate a personalized itinerary for you.
+                  Our AI travel planner will generate a personalized AI travel itinerary for you in seconds.
                 </p>
               </div>
               
