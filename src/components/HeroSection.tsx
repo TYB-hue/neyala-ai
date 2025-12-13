@@ -3,12 +3,9 @@
 import React, { useState } from 'react'
 import { MapPinIcon, CalendarIcon, PlaneTakeoffIcon } from 'lucide-react'
 import Link from 'next/link'
-import { useUser } from '@clerk/nextjs'
-import { toast } from 'react-hot-toast'
 import { useRouter } from 'next/navigation'
 
 export function HeroSection() {
-  const { isSignedIn } = useUser()
   const router = useRouter()
   const [destination, setDestination] = useState('')
   const [travelDates, setTravelDates] = useState('')
@@ -16,28 +13,15 @@ export function HeroSection() {
   const handleStartPlanning = (e: React.MouseEvent) => {
     e.preventDefault()
     
-    if (!isSignedIn) {
-      toast.error('Please sign in to start planning your trip!')
-      router.push('/sign-in')
-      return
-    }
-    
-    // If user is signed in, navigate to plan page
+    // Navigate to plan page - no authentication required
     router.push('/plan')
   }
 
   const handleSearch = (e: React.FormEvent) => {
     e.preventDefault()
     
-    if (!isSignedIn) {
-      toast.error('Please sign in to start planning your trip!')
-      router.push('/sign-in')
-      return
-    }
-    
-    // If user is signed in, proceed with search logic
-    // You can add actual search functionality here later
-    toast.success('Search functionality coming soon!')
+    // Navigate to plan page with search - no authentication required
+    router.push('/plan')
   }
 
   return (
