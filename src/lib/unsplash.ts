@@ -622,8 +622,48 @@ export async function getDestinationHeaderImage(destination: string): Promise<st
     }
   }
   
-  // Final fallback to our generic beautiful travel image
-  console.log('Using fallback header image');
+  // Before using generic fallback, try Google Places Photos API
+  try {
+    const { getGooglePlacePhoto, getGooglePlacePhotos } = await import('@/lib/google-places-photos');
+    
+    // Try city first (more specific)
+    if (city && city !== country) {
+      const cityPhoto = await getGooglePlacePhoto(`${city}, ${country}`);
+      if (cityPhoto) {
+        console.log(`✅ Found Google Places photo for city before fallback: ${city}`);
+        return cityPhoto;
+      }
+      
+      // Try multiple city photos
+      const cityPhotos = await getGooglePlacePhotos(`${city}, ${country}`, undefined, undefined, 3);
+      if (cityPhotos && cityPhotos.length > 0) {
+        console.log(`✅ Found Google Places photos for city before fallback: ${city}`);
+        return cityPhotos[0];
+      }
+    }
+    
+    // Fallback to country
+    if (country) {
+      const countryPhoto = await getGooglePlacePhoto(country);
+      if (countryPhoto) {
+        console.log(`✅ Found Google Places photo for country before fallback: ${country}`);
+        return countryPhoto;
+      }
+      
+      // Try multiple country photos
+      const countryPhotos = await getGooglePlacePhotos(country, undefined, undefined, 3);
+      if (countryPhotos && countryPhotos.length > 0) {
+        console.log(`✅ Found Google Places photos for country before fallback: ${country}`);
+        return countryPhotos[0];
+      }
+    }
+  } catch (error) {
+    console.error('Error fetching Google Places header image in getDestinationHeaderImage:', error);
+    // Continue to generic fallback
+  }
+  
+  // Final fallback to our generic beautiful travel image (only if Google Places also failed)
+  console.log('Using fallback header image - all sources exhausted');
   return getFallbackHeaderImage();
 }
 
@@ -658,13 +698,24 @@ function isInvalidHeaderImage(imageUrl: string | null | undefined): boolean {
     return true;
   }
 
-  // Check for default fallback image URLs
+  // Check for default fallback image URLs (generic travel photos)
   const defaultFallbackUrls = [
-    'photo-1502602898536-47ad22581b52', // Generic travel fallback
-    'photo-1488646953014-85cb44e25828', // Another fallback
+    'photo-1502602898536-47ad22581b52', // Generic travel fallback (map with travel items)
+    'photo-1488646953014-85cb44e25828', // Generic travel fallback (map with notebook, pencil, camera)
   ];
   
+  // Check if URL contains any fallback image IDs
   if (defaultFallbackUrls.some(fallback => url.includes(fallback))) {
+    console.log(`Detected generic fallback image: ${fallback} in URL`);
+    return true;
+  }
+  
+  // Also check the full fallback URL pattern
+  if (url.includes('photo-1488646953014') || 
+      url.includes('photo-1502602898536') ||
+      url === 'https://images.unsplash.com/photo-1488646953014-85cb44e25828?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' ||
+      url.includes('photo-1488646953014-85cb44e25828')) {
+    console.log('Detected generic travel planning fallback image - will replace with country photo');
     return true;
   }
 

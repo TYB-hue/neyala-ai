@@ -258,7 +258,8 @@ CRITICAL: Your response must be a single, valid JSON object. Do NOT use markdown
            currentHeaderImage === "URL to a representative image of the destination" || 
            currentHeaderImage === "placeholder") &&
           itineraryData.headerImage && 
-          itineraryData.headerImage.includes('photo-1502602898536-47ad22581b52')) {
+          (itineraryData.headerImage.includes('photo-1502602898536-47ad22581b52') ||
+           itineraryData.headerImage.includes('photo-1488646953014-85cb44e25828'))) {
         // Only use the fetched headerImage if validation returned default fallback
         itineraryData.headerImage = headerImage;
       }
