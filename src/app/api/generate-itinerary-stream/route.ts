@@ -1,6 +1,6 @@
 import { NextResponse } from 'next/server';
 import { auth } from '@clerk/nextjs';
-import { getDestinationHeaderImage, getAirportImage, getAirportPhotos, getActivityImage, generateESIMLink } from '@/lib/unsplash';
+import { getDestinationHeaderImage, getAirportImage, getAirportPhotos, getActivityImage, generateESIMLink, validateAndFixHeaderImage } from '@/lib/unsplash';
 import { getTransportationIcon } from '@/lib/transportation-icons';
 import { getGroqChatCompletion } from '@/lib/groq';
 
@@ -250,8 +250,13 @@ If you include any actual image URLs, the response will be rejected and you will
                 itineraryData = parsedData;
                 console.log(`Successfully generated itinerary on attempt ${attempt}`);
                 
-                // Replace placeholder images with real ones
-                if (itineraryData.headerImage === "placeholder") {
+                // Replace placeholder/invalid images (maps, placeholders) with real ones
+                // Validate header image - will use Google Places Photos API if current image is invalid
+                const validatedHeaderImage = await validateAndFixHeaderImage(itineraryData.headerImage, itineraryData.destination);
+                if (validatedHeaderImage !== itineraryData.headerImage) {
+                  console.log('Header image was invalid (map/placeholder), replaced with:', validatedHeaderImage.substring(0, 50) + '...');
+                  itineraryData.headerImage = validatedHeaderImage;
+                } else if (itineraryData.headerImage === "placeholder") {
                   console.log('Replacing header image placeholder for:', itineraryData.destination);
                   itineraryData.headerImage = await getDestinationHeaderImage(itineraryData.destination);
                   console.log('Header image replaced with:', itineraryData.headerImage);

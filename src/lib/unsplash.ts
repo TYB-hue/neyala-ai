@@ -627,6 +627,133 @@ export async function getDestinationHeaderImage(destination: string): Promise<st
   return getFallbackHeaderImage();
 }
 
+/**
+ * Check if an image URL is invalid (map image, placeholder, or default fallback)
+ * Returns true if the image should be replaced
+ */
+function isInvalidHeaderImage(imageUrl: string | null | undefined): boolean {
+  if (!imageUrl || typeof imageUrl !== 'string') {
+    return true;
+  }
+
+  const url = imageUrl.toLowerCase().trim();
+
+  // Check for placeholder values
+  if (url === 'placeholder' || 
+      url === 'url' || 
+      url === 'url to a representative image of the destination' ||
+      url.includes('placeholder') ||
+      url === '') {
+    return true;
+  }
+
+  // Check for map-related URLs (Google Maps, map images)
+  if (url.includes('google.com/maps') ||
+      url.includes('maps.googleapis.com') ||
+      url.includes('/map') ||
+      url.includes('satellite') ||
+      url.includes('streetview') ||
+      url.includes('mapview') ||
+      url.includes('googleusercontent.com/gps-cs-s')) {
+    return true;
+  }
+
+  // Check for default fallback image URLs
+  const defaultFallbackUrls = [
+    'photo-1502602898536-47ad22581b52', // Generic travel fallback
+    'photo-1488646953014-85cb44e25828', // Another fallback
+  ];
+  
+  if (defaultFallbackUrls.some(fallback => url.includes(fallback))) {
+    return true;
+  }
+
+  // Image looks valid
+  return false;
+}
+
+/**
+ * Fetch country/city header image from Google Places Photos API
+ * Only used as a fallback when existing image is invalid
+ */
+async function fetchGooglePlacesHeaderImage(destination: string): Promise<string | null> {
+  try {
+    // Import dynamically to avoid circular dependencies
+    const { getGooglePlacePhoto, getGooglePlacePhotos } = await import('@/lib/google-places-photos');
+    
+    // Extract city and country
+    const parts = destination.split(',').map(p => p.trim()).filter(p => p);
+    const city = parts[0] || '';
+    const country = parts.length > 1 ? parts[parts.length - 1] : destination;
+    
+    // Try city first (more specific)
+    if (city && city !== country) {
+      const cityPhoto = await getGooglePlacePhoto(`${city}, ${country}`);
+      if (cityPhoto) {
+        console.log(`✅ Found Google Places photo for city: ${city}`);
+        return cityPhoto;
+      }
+      
+      // Try multiple city photos and pick the first good one
+      const cityPhotos = await getGooglePlacePhotos(`${city}, ${country}`, undefined, undefined, 3);
+      if (cityPhotos && cityPhotos.length > 0) {
+        console.log(`✅ Found Google Places photos for city: ${city}`);
+        return cityPhotos[0];
+      }
+    }
+    
+    // Fallback to country
+    if (country) {
+      const countryPhoto = await getGooglePlacePhoto(country);
+      if (countryPhoto) {
+        console.log(`✅ Found Google Places photo for country: ${country}`);
+        return countryPhoto;
+      }
+      
+      // Try multiple country photos
+      const countryPhotos = await getGooglePlacePhotos(country, undefined, undefined, 3);
+      if (countryPhotos && countryPhotos.length > 0) {
+        console.log(`✅ Found Google Places photos for country: ${country}`);
+        return countryPhotos[0];
+      }
+    }
+    
+    return null;
+  } catch (error) {
+    console.error('Error fetching Google Places header image:', error);
+    return null;
+  }
+}
+
+/**
+ * Validate and fix header image - uses Google Places Photos API as fallback if image is invalid
+ * This function only replaces images that are clearly invalid (maps, placeholders, defaults)
+ * It will NOT touch valid images
+ */
+export async function validateAndFixHeaderImage(
+  headerImage: string | null | undefined,
+  destination: string
+): Promise<string> {
+  // If image is valid, return it as-is (DON'T TOUCH IT)
+  if (!isInvalidHeaderImage(headerImage)) {
+    console.log('Header image is valid, keeping it:', headerImage?.substring(0, 50) + '...');
+    return headerImage!;
+  }
+
+  console.log('Header image is invalid/missing, attempting to fetch from Google Places Photos API');
+  
+  // Try Google Places Photos API as fallback
+  const googlePhoto = await fetchGooglePlacesHeaderImage(destination);
+  if (googlePhoto) {
+    console.log('✅ Successfully fetched header image from Google Places Photos API');
+    return googlePhoto;
+  }
+
+  // If Google Places fails, use the standard fallback
+  console.log('Google Places Photos API failed, using standard fallback');
+  return getFallbackHeaderImage();
+}
+
 // Generate affiliate links for hotels
 export function generateHotelAffiliateLink(hotelName: string, destination: string): string {
   const searchQuery = encodeURIComponent(`${hotelName} ${destination}`);

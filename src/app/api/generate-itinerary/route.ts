@@ -1,7 +1,7 @@
                                                                                                                 import { NextResponse } from 'next/server';
 import { getSupabaseClient } from '@/lib/supabase';
 import { auth } from '@clerk/nextjs';
-import { getDestinationHeaderImage, getAirportImage, getAirportPhotos, getActivityImage, generateESIMLink } from '@/lib/unsplash';
+import { getDestinationHeaderImage, getAirportImage, getAirportPhotos, getActivityImage, generateESIMLink, validateAndFixHeaderImage } from '@/lib/unsplash';
 import { getTransportationIcon } from '@/lib/transportation-icons';
 import { getGroqChatCompletion } from '@/lib/groq';
 // Removed getConfig import as it can cause clientModules issues in newer Next.js versions
@@ -246,8 +246,20 @@ CRITICAL: Your response must be a single, valid JSON object. Do NOT use markdown
         getAirportPhotos(itineraryData.airport.name, itineraryData.destination)
       ]);
 
-      // Fix header image
-      if (!itineraryData.headerImage || itineraryData.headerImage === "URL to a representative image of the destination") {
+      // Fix header image - validate and use Google Places Photos API if current image is invalid (map/placeholder)
+      // Only replace if the current image is invalid (map, placeholder, default), otherwise keep it
+      const currentHeaderImage = itineraryData.headerImage;
+      // Validate header image - will replace if invalid (map, placeholder, default)
+      itineraryData.headerImage = await validateAndFixHeaderImage(currentHeaderImage, itineraryData.destination);
+      
+      // If validation didn't find a better image (still using fallback), try the fetched headerImage
+      // But only if the original was a placeholder/invalid
+      if ((!currentHeaderImage || 
+           currentHeaderImage === "URL to a representative image of the destination" || 
+           currentHeaderImage === "placeholder") &&
+          itineraryData.headerImage && 
+          itineraryData.headerImage.includes('photo-1502602898536-47ad22581b52')) {
+        // Only use the fetched headerImage if validation returned default fallback
         itineraryData.headerImage = headerImage;
       }
 
