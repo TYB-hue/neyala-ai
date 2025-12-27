@@ -35,7 +35,7 @@ export async function POST(req: Request) {
           // Generate itinerary with Groq AI
           controller.enqueue(new TextEncoder().encode('data: {"status": "generating", "message": "Creating your personalized itinerary..."}\n\n'));
 
-          const maxRetries = 5; // Increased from 3 to 5 for better rate limit handling
+          const maxRetries = 3; // Reduced from 5 to 3 to conserve API tokens
           let attempt = 0;
           let itineraryData = null;
           

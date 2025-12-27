@@ -53,6 +53,16 @@ Nyala is an AI-powered travel planning platform that creates personalized itiner
    # OpenAI
    OPENAI_API_KEY=your_openai_api_key
 
+   # Groq AI (for itinerary generation)
+   # Primary API key (required)
+   GROQ_API_KEY=your_groq_api_key
+   
+   # Backup API keys (optional, comma-separated)
+   # The system will automatically switch to backup keys when daily token limits are reached
+   GROQ_API_KEY_BACKUP=backup_key_1,backup_key_2
+   # OR use individual backup key:
+   # GROQ_API_KEY_2=backup_key
+
    # Google Maps Places API (for airport photos and hotel details)
    GOMAPS_API_KEY=your_google_maps_api_key
 

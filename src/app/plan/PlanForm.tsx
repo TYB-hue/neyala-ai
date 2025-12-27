@@ -421,18 +421,35 @@ export default function PlanForm() {
                 router.push(`/itinerary/${tempId}`);
                 return;
               } else if (data.status === 'error') {
+                const errorMessage = data.error || 'An error occurred while generating the itinerary.';
+                const errMsg = String(errorMessage).toLowerCase();
+                
+                // Don't try fallback for daily token limit errors
+                if (errMsg.includes('daily token limit') || errMsg.includes('tokens per day') || errMsg.includes('tpd')) {
+                  throw new Error(errorMessage);
+                }
+                
                 // Normalize common auth errors for clearer UX
-                const errMsg = String(data.error || '').toLowerCase();
                 if (errMsg.includes('invalid api key') || errMsg.includes('invalid_api_key') || errMsg.includes('unauthorized') || errMsg.includes('401')) {
                   throw new Error('Unauthorized: Invalid API key. Please set a valid key in your environment and restart the server.');
                 }
-                throw new Error(data.error || 'An error occurred while generating the itinerary.');
+                throw new Error(errorMessage);
               }
             } catch (parseError) {
               console.log('Parse error for line:', line.substring(0, 200) + '...', parseError);
               
-              // Detect auth/401 errors embedded in stream text
+              // Check for daily token limit errors first (don't try fallback)
               const lower = line.toLowerCase();
+              if (lower.includes('daily token limit') || lower.includes('tokens per day') || lower.includes('tpd')) {
+                // Extract the error message if possible
+                const errorMatch = line.match(/error["\']?\s*:\s*["\']([^"\']+)["\']/i);
+                if (errorMatch) {
+                  throw new Error(errorMatch[1]);
+                }
+                throw new Error('Daily token limit reached. Please try again later or upgrade your Groq plan.');
+              }
+              
+              // Detect auth/401 errors embedded in stream text
               if (lower.includes('invalid api key') || lower.includes('invalid_api_key') || lower.includes('unauthorized') || lower.includes('"401"') || lower.includes(' 401 ')) {
                 throw new Error('Unauthorized: Invalid API key. Please set a valid key in your environment and restart the server.');
               }
@@ -483,7 +500,15 @@ export default function PlanForm() {
     } catch (err) {
       console.error('Error generating itinerary:', err);
       
-      // Try fallback to regular API if streaming fails
+      // Don't try fallback for daily token limit errors (both APIs use same Groq key)
+      if (err instanceof Error && (err.message.includes('Daily token limit') || err.message.includes('tokens per day') || err.message.includes('TPD'))) {
+        // Token limit error - don't try fallback, just show the error
+        setError(err.message);
+        setLoading(false);
+        return;
+      }
+      
+      // Try fallback to regular API if streaming fails (only for non-token-limit errors)
       if (err instanceof Error && (err.message.includes('No itinerary was generated') || err.message.includes('Failed to parse'))) {
         try {
           console.log('Trying fallback to regular API...');
@@ -515,11 +540,36 @@ export default function PlanForm() {
           } else {
             console.error('Fallback API returned status:', fallbackResponse.status);
             
+            // Try to get error details from response
+            let errorDetails = null;
+            try {
+              const errorData = await fallbackResponse.json();
+              errorDetails = errorData.error || errorData.message || '';
+            } catch (e) {
+              // If response is not JSON, use status code
+            }
+            
             // Handle specific error statuses
             if (fallbackResponse.status === 429) {
               throw new Error('Rate limit exceeded. The API is currently busy. Please wait 1-2 minutes and try again.');
             } else if (fallbackResponse.status === 401) {
-              throw new Error('Unauthorized: Invalid API key. Please configure a valid key in your .env.local and restart.');
+              // Check if it's actually an API key issue or authentication issue
+              const errorMsg = (errorDetails || '').toLowerCase();
+              if (errorMsg.includes('groq api') || errorMsg.includes('api key') || errorMsg.includes('missing api key')) {
+                throw new Error('Unauthorized: Invalid or missing GROQ_API_KEY. Please configure a valid key in your .env.local and restart the server.');
+              } else if (errorMsg.includes('signed in') || errorMsg.includes('authentication')) {
+                throw new Error('Unauthorized: You must be signed in to use this feature.');
+              } else {
+                throw new Error('Unauthorized: Please check your API configuration or sign in to continue.');
+              }
+            } else if (fallbackResponse.status === 500) {
+              // Check if it's an API key configuration error
+              const errorMsg = (errorDetails || '').toLowerCase();
+              if (errorMsg.includes('groq api') || errorMsg.includes('api key') || errorMsg.includes('missing api key')) {
+                throw new Error('Server configuration error: Missing GROQ_API_KEY. Please configure a valid key in your .env.local and restart the server.');
+              } else {
+                throw new Error('Server error. Please try again later.');
+              }
             } else if (fallbackResponse.status >= 500) {
               throw new Error('Server error. Please try again later.');
             }

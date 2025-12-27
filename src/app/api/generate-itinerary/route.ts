@@ -127,24 +127,17 @@ export async function POST(req: Request) {
     if (!process.env.GROQ_API_KEY) {
       console.error('Groq API key not found');
       return NextResponse.json(
-        { success: false, error: 'Groq API configuration error: Missing API key' },
+        { success: false, error: 'Groq API configuration error: Missing API key. Please configure GROQ_API_KEY in your .env.local file.' },
         { status: 500 }
       );
     }
 
-    // Verify user authentication
+    // Verify user authentication - optional, allow unauthenticated users
     const { userId } = auth();
     
-    // Require authentication to generate itinerary
-    if (!userId) {
-      return NextResponse.json(
-        { 
-          success: false,
-          error: 'Unauthorized: You must be signed in to generate an itinerary' 
-        },
-        { status: 401 }
-      );
-    }
+    // Authentication is optional - allow users to generate itineraries without signing in
+    // userId will be undefined if not signed in, which is fine for generating itineraries
+    // Users can still use the service, but won't be able to save itineraries to their account
 
     // Parse and validate request data
     const requestData: ItineraryRequest = await req.json();
@@ -305,48 +298,52 @@ CRITICAL: Your response must be a single, valid JSON object. Do NOT use markdown
         price: "$5-15"
       };
 
-      // Try to save to Supabase, but don't fail if it doesn't work
+      // Try to save to Supabase, but only if user is authenticated
       let savedItineraryId = null;
-      try {
-      const supabase = getSupabaseClient();
-      
-      console.log('Attempting to save itinerary to Supabase:', {
-        clerk_user_id: userId,
-        destination: itineraryData.destination,
-        start_date: itineraryData.dates.start,
-        end_date: itineraryData.dates.end
-      });
+      if (userId) {
+        try {
+          const supabase = getSupabaseClient();
+          
+          console.log('Attempting to save itinerary to Supabase:', {
+            clerk_user_id: userId,
+            destination: itineraryData.destination,
+            start_date: itineraryData.dates.start,
+            end_date: itineraryData.dates.end
+          });
 
-      const { data: savedItinerary, error: saveError } = await supabase
-        .from('itineraries')
-        .insert([{
-          clerk_user_id: userId,
-          created_at: new Date().toISOString(),
-          data: itineraryData, // Store the entire itinerary as a JSON object
-          destination: itineraryData.destination, // Store destination separately for easy querying
-          start_date: itineraryData.dates.start, // Store dates separately for easy querying
-          end_date: itineraryData.dates.end
-        }])
-        .select()
-        .single();
+          const { data: savedItinerary, error: saveError } = await supabase
+            .from('itineraries')
+            .insert([{
+              clerk_user_id: userId,
+              created_at: new Date().toISOString(),
+              data: itineraryData, // Store the entire itinerary as a JSON object
+              destination: itineraryData.destination, // Store destination separately for easy querying
+              start_date: itineraryData.dates.start, // Store dates separately for easy querying
+              end_date: itineraryData.dates.end
+            }])
+            .select()
+            .single();
 
-      if (saveError) {
-        console.error('Error saving itinerary:', {
-          error: saveError,
-          code: saveError.code,
-          details: saveError.details,
-          hint: saveError.hint,
-          message: saveError.message
-        });
-          // Don't throw error, just log it and continue
+          if (saveError) {
+            console.error('Error saving itinerary:', {
+              error: saveError,
+              code: saveError.code,
+              details: saveError.details,
+              hint: saveError.hint,
+              message: saveError.message
+            });
+            // Don't throw error, just log it and continue
+            console.log('Continuing without saving to database');
+          } else if (savedItinerary) {
+            savedItineraryId = savedItinerary.id;
+            console.log('Successfully saved itinerary:', savedItineraryId);
+          }
+        } catch (dbError) {
+          console.error('Database connection error:', dbError);
           console.log('Continuing without saving to database');
-        } else if (savedItinerary) {
-          savedItineraryId = savedItinerary.id;
-          console.log('Successfully saved itinerary:', savedItineraryId);
         }
-      } catch (dbError) {
-        console.error('Database connection error:', dbError);
-        console.log('Continuing without saving to database');
+      } else {
+        console.log('User not authenticated - skipping database save');
       }
 
     return NextResponse.json({
