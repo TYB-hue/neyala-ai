@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import { useUser, useClerk } from "@clerk/nextjs";
-import { getUserPreferences, updateUserPreferences } from '@/lib/api';
+import { getUserPreferences, updateUserPreferences } from '@/lib/preferences-client';
 import type { UserPreferences } from '@/types';
 import { useRouter } from 'next/navigation';
 import { toast } from 'react-hot-toast';
@@ -43,8 +43,8 @@ export default function SettingsPage() {
   useEffect(() => {
     const loadPreferences = async () => {
       if (!user) return;
-      const prefs = await getUserPreferences(user.id);
-      setPreferences(prefs);
+      try { setPreferences(await getUserPreferences(user.id)); }
+      catch { toast.error('Unable to load preferences. Please reload the page.'); }
     };
     loadPreferences();
   }, [user]);
@@ -126,8 +126,9 @@ export default function SettingsPage() {
 
     setPreferences(newPreferences);
     setIsSaving(true);
-    await updateUserPreferences(user.id, newPreferences);
-    setIsSaving(false);
+    try { await updateUserPreferences(user.id, newPreferences); }
+    catch { setPreferences(preferences); toast.error('Preferences were not saved. Please try again.'); }
+    finally { setIsSaving(false); }
   };
 
   const handleDarkMode = async () => {
@@ -140,8 +141,9 @@ export default function SettingsPage() {
 
     setPreferences(newPreferences);
     setIsSaving(true);
-    await updateUserPreferences(user.id, newPreferences);
-    setIsSaving(false);
+    try { await updateUserPreferences(user.id, newPreferences); }
+    catch { setPreferences(preferences); toast.error('Preferences were not saved. Please try again.'); }
+    finally { setIsSaving(false); }
   };
 
   const handlePreferenceChange = async (
@@ -157,8 +159,9 @@ export default function SettingsPage() {
 
     setPreferences(newPreferences);
     setIsSaving(true);
-    await updateUserPreferences(user.id, newPreferences);
-    setIsSaving(false);
+    try { await updateUserPreferences(user.id, newPreferences); }
+    catch { setPreferences(preferences); toast.error('Preferences were not saved. Please try again.'); }
+    finally { setIsSaving(false); }
   };
 
   if (!preferences || !user) {

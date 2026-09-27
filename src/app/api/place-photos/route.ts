@@ -1,3 +1,4 @@
+import { limitedFetch } from '@/lib/limited-fetch';
 import { NextRequest, NextResponse } from 'next/server';
 import { getGooglePlacePhoto, getGooglePlacePhotos } from '@/lib/google-places-photos';
 
@@ -16,7 +17,7 @@ async function searchPlace(query: string, city?: string, country?: string) {
     ].join(',');
     let url = `${API_BASE}/places/search?query=${encodeURIComponent(query)}&limit=5&categories=${categories}`;
     if (city && country) url += `&near=${encodeURIComponent(`${city}, ${country}`)}`;
-    const res = await fetch(url, {
+    const res = await limitedFetch(url, {
       headers: {
         'Authorization': `Bearer ${FOURSQUARE_API_KEY}`,
         'Accept': 'application/json',
@@ -35,7 +36,7 @@ async function searchPlace(query: string, city?: string, country?: string) {
 async function getPhotos(fsqId: string, limit = 3): Promise<string[]> {
   if (!FOURSQUARE_API_KEY) return [];
   try {
-    const res = await fetch(`${API_BASE}/places/${fsqId}/photos?limit=${limit}`, {
+    const res = await limitedFetch(`${API_BASE}/places/${fsqId}/photos?limit=${limit}`, {
       headers: {
         'Authorization': `Bearer ${FOURSQUARE_API_KEY}`,
         'Accept': 'application/json',
@@ -60,6 +61,7 @@ export async function GET(req: NextRequest) {
     const lat = searchParams.get('lat') ? parseFloat(searchParams.get('lat')!) : undefined;
     const lng = searchParams.get('lng') ? parseFloat(searchParams.get('lng')!) : undefined;
 
+    if (name.length > 200 || destination.length > 200 || (lat !== undefined && (!Number.isFinite(lat) || Math.abs(lat) > 90)) || (lng !== undefined && (!Number.isFinite(lng) || Math.abs(lng) > 180)) || (lat === undefined) !== (lng === undefined)) return NextResponse.json({ error: 'Invalid place search parameters' }, { status: 400 });
     if (!name) {
       return NextResponse.json({ error: 'Missing name' }, { status: 400 });
     }

@@ -1,3 +1,4 @@
+import { withBodyValidation, bodySchemas } from '@/lib/request-validation';
 import { NextRequest, NextResponse } from 'next/server';
 import { getAffiliateLink } from '@/lib/breezesim-config';
 
@@ -101,7 +102,7 @@ export async function GET(request: NextRequest) {
     return NextResponse.json({
       success: true,
       data: responseData,
-      tracking: trackingData
+      pricingType: 'illustrative; verify with provider'
     });
 
   } catch (error) {
@@ -116,7 +117,7 @@ export async function GET(request: NextRequest) {
   }
 }
 
-export async function POST(request: NextRequest) {
+async function handlePOST(request: NextRequest) {
   try {
     const body = await request.json();
     const { action, destination, planId, userAgent, referer } = body;
@@ -143,7 +144,7 @@ export async function POST(request: NextRequest) {
     return NextResponse.json({
       success: true,
       message: 'Action tracked successfully',
-      tracking: trackingData
+      pricingType: 'illustrative; verify with provider'
     });
 
   } catch (error) {
@@ -157,3 +158,5 @@ export async function POST(request: NextRequest) {
     );
   }
 }
+
+export const POST = withBodyValidation(handlePOST, bodySchemas.esim, false);

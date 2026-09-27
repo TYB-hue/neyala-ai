@@ -1,7 +1,8 @@
+import { withBodyValidation, bodySchemas } from '@/lib/request-validation';
 import { NextRequest, NextResponse } from 'next/server';
 import { sendContactEmail } from '@/lib/email-service';
 
-export async function POST(request: NextRequest) {
+async function handlePOST(request: NextRequest) {
   try {
     const body = await request.json();
     const { firstName, lastName, email, phone, company, subject, message } = body;
@@ -34,20 +35,7 @@ export async function POST(request: NextRequest) {
       message
     });
 
-    if (!emailSent) {
-      console.warn('Failed to send email, but form submission was recorded');
-    }
-
-    console.log('Contact form submission:', {
-      firstName,
-      lastName,
-      email,
-      phone,
-      company,
-      subject,
-      message,
-      timestamp: new Date().toISOString()
-    });
+    if (!emailSent) return NextResponse.json({ success: false, error: 'Message could not be delivered. Please try again later.' }, { status: 502 });
 
     return NextResponse.json({
       success: true,
@@ -62,3 +50,5 @@ export async function POST(request: NextRequest) {
     );
   }
 }
+
+export const POST = withBodyValidation(handlePOST, bodySchemas.contact, false);

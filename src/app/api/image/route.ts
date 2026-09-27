@@ -1,11 +1,12 @@
+import { limitedFetch } from '@/lib/limited-fetch';
 import { NextRequest, NextResponse } from "next/server";
 
 const PEXELS_KEY = process.env.PEXELS_API_KEY!;
-const UNSPLASH_KEY = process.env.UNSPLASH_ACCESS_KEY!;
+const UNSPLASH_KEY = (process.env.UNSPLASH_ACCESS_KEY || process.env.NEXT_PUBLIC_UNSPLASH_ACCESS_KEY)!;
 
 async function fetchPexels(query: string) {
   try {
-    const res = await fetch(`https://api.pexels.com/v1/search?query=${encodeURIComponent(query)}&per_page=1&orientation=landscape`, {
+    const res = await limitedFetch(`https://api.pexels.com/v1/search?query=${encodeURIComponent(query)}&per_page=1&orientation=landscape`, {
       headers: { Authorization: PEXELS_KEY },
       cache: "no-store",
     });
@@ -21,7 +22,7 @@ async function fetchPexels(query: string) {
 
 async function fetchUnsplash(query: string) {
   try {
-    const res = await fetch(`https://api.unsplash.com/search/photos?query=${encodeURIComponent(query)}&per_page=1&content_filter=high&orientation=landscape`, {
+    const res = await limitedFetch(`https://api.unsplash.com/search/photos?query=${encodeURIComponent(query)}&per_page=1&content_filter=high&orientation=landscape`, {
       headers: { Authorization: `Client-ID ${UNSPLASH_KEY}` },
       cache: "no-store",
     });

@@ -1,3 +1,4 @@
+import { limitedFetch } from '@/lib/limited-fetch';
 const WIKI_API = 'https://en.wikipedia.org/w/api.php';
 
 export interface WikipediaResolveResult {
@@ -13,7 +14,7 @@ export async function resolveWikipediaByICAO(
 ): Promise<WikipediaResolveResult> {
   if (!icao || !resolverBaseUrl) return { title: null, url: null };
   const url = `${resolverBaseUrl}?icao=${encodeURIComponent(icao)}`;
-  const res = await fetch(url, {
+  const res = await limitedFetch(url, {
     headers: {
       'Accept': 'application/json',
       ...(apiKey ? { 'Authorization': `Bearer ${apiKey}` } : {})
@@ -37,7 +38,7 @@ export async function resolveWikipediaByICAOFromAirportDB(
 ): Promise<WikipediaResolveResult> {
   if (!icao || !apiToken) return { title: null, url: null };
   const url = `https://airportdb.io/api/v1/airport/${encodeURIComponent(icao)}?apiToken=${encodeURIComponent(apiToken)}`;
-  const res = await fetch(url, { headers: { 'Accept': 'application/json' }, cache: 'no-store' });
+  const res = await limitedFetch(url, { headers: { 'Accept': 'application/json' }, cache: 'no-store' });
   if (!res.ok) return { title: null, url: null };
   const data = await res.json();
   // Try a few common keys for the wikipedia page (AirportDB returns wikipedia_link)
@@ -49,17 +50,18 @@ export async function resolveWikipediaByICAOFromAirportDB(
 // Fallback: opensearch title resolution
 export async function resolveAirportTitle(airportName: string): Promise<string | null> {
   const params = new URLSearchParams({
-    action: 'opensearch',
+    action: 'query',
+    list: 'search',
     format: 'json',
     origin: '*',
-    search: airportName,
-    limit: '1',
-    namespace: '0'
+    srsearch: airportName.replace(/\([^)]*\)/g, '').replace(/[–—-]/g, ' ').trim(),
+    srlimit: '5',
+    srnamespace: '0'
   });
-  const res = await fetch(`${WIKI_API}?${params.toString()}`, { cache: 'no-store' });
+  const res = await limitedFetch(`${WIKI_API}?${params.toString()}`, { cache: 'no-store' });
   if (!res.ok) return null;
   const data = await res.json();
-  return data?.[1]?.[0] || null;
+  return data?.query?.search?.find((page: { title: string }) => /airport/i.test(page.title) && !/railway|station|attack|accident/i.test(page.title))?.title || null;
 }
 
 export function buildWikipediaPageUrl(title: string): string {
@@ -74,7 +76,7 @@ export async function fetchImageTitlesForPage(title: string): Promise<string[]> 
     prop: 'images',
     page: title
   });
-  const res = await fetch(`${WIKI_API}?${params.toString()}`, { cache: 'no-store' });
+  const res = await limitedFetch(`${WIKI_API}?${params.toString()}`, { cache: 'no-store' });
   if (!res.ok) return [];
   const data = await res.json();
   const images: string[] = data?.parse?.images || [];
@@ -92,7 +94,7 @@ export async function fetchImageUrls(imageTitles: string[] = [], limit = 6): Pro
     prop: 'imageinfo',
     iiprop: 'url|mime|size'
   });
-  const res = await fetch(`${WIKI_API}?${params.toString()}`, { cache: 'no-store' });
+  const res = await limitedFetch(`${WIKI_API}?${params.toString()}`, { cache: 'no-store' });
   if (!res.ok) return [];
   const data = await res.json();
   const pages = data?.query?.pages || {};

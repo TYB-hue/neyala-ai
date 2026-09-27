@@ -1,70 +1,48 @@
-'use client';
+"use client";
 
-import React from 'react';
+import { useEffect, useRef } from 'react';
+import L from 'leaflet';
+import 'leaflet/dist/leaflet.css';
 
 interface SimpleMapProps {
-  center: {
-    lat: number;
-    lng: number;
-  };
-  markers: Array<{
-    position: {
-      lat: number;
-      lng: number;
-    };
-    title: string;
-    type: 'activity' | 'hotel';
-  }>;
+  center: { lat: number; lng: number };
+  markers?: Array<{ position: { lat: number; lng: number }; title: string; type: string }>;
 }
-
-const SimpleMap: React.FC<SimpleMapProps> = ({ center, markers }) => {
-  // Create a simple map using Google Maps embed as fallback
-  const googleMapsApiKey = process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY;
-  
-  if (!googleMapsApiKey) {
-    return (
-      <div className="w-full h-64 bg-gray-100 rounded-lg flex items-center justify-center">
-        <div className="text-center">
-          <p className="text-gray-600">Google Maps API key not configured</p>
-        </div>
-      </div>
-    );
-  }
-  
-  const googleMapsUrl = `https://www.google.com/maps/embed/v1/view?key=${googleMapsApiKey}&center=${center.lat},${center.lng}&zoom=12`;
-
-  return (
-    <div className="w-full h-64 bg-gray-100 rounded-lg overflow-hidden">
-      <iframe
-        width="100%"
-        height="100%"
-        style={{ border: 0 }}
-        loading="lazy"
-        allowFullScreen
-        referrerPolicy="no-referrer-when-downgrade"
-        src={googleMapsUrl}
-        title="Location Map"
-      />
-      {markers.length > 0 && (
-        <div className="absolute top-2 left-2 bg-white bg-opacity-90 rounded-lg p-2 text-xs">
-          <p className="font-semibold">Locations:</p>
-          <ul className="mt-1">
-            {markers.slice(0, 3).map((marker, index) => (
-              <li key={index} className="flex items-center gap-1">
-                <span className={`w-2 h-2 rounded-full ${
-                  marker.type === 'hotel' ? 'bg-blue-500' : 'bg-green-500'
-                }`}></span>
-                {marker.title}
-              </li>
-            ))}
-            {markers.length > 3 && (
-              <li className="text-gray-500">+{markers.length - 3} more</li>
-            )}
-          </ul>
-        </div>
-      )}
-    </div>
-  );
-};
-
-export default SimpleMap;
+export default function SimpleMap({ center, markers = [] }: SimpleMapProps) {
+  const container = useRef<HTMLDivElement>(null);
+  const mapRef = useRef<L.Map | null>(null);
+  const layerRef = useRef<L.LayerGroup | null>(null);
+  const fitted = useRef(false);
+  useEffect(() => {
+    if (!container.current) return;
+    const map = L.map(container.current).setView([center.lat, center.lng], 12);
+    mapRef.current = map;
+    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+      maxZoom: 19,
+    }).addTo(map);
+    layerRef.current = L.layerGroup().addTo(map);
+    const observer = new ResizeObserver(() => map.invalidateSize());
+    observer.observe(container.current);
+    return () => { observer.disconnect(); map.remove(); mapRef.current = null; layerRef.current = null; fitted.current = false; };
+  }, [center.lat, center.lng]);
+  useEffect(() => {
+    const map = mapRef.current;
+    const layer = layerRef.current;
+    if (!map || !layer) return;
+    layer.clearLayers();
+    const valid = markers.filter(m => Number.isFinite(m.position?.lat) && Number.isFinite(m.position?.lng));
+    valid.forEach(m => {
+      const label = document.createElement('span');
+      label.textContent = m.title;
+      L.circleMarker([m.position.lat, m.position.lng], {
+        radius: 8, color: '#ffffff', weight: 2, fillColor: m.type === 'hotel' ? '#2563eb' : '#e85d3f', fillOpacity: 1,
+      }).bindPopup(label).addTo(layer);
+    });
+    if (valid.length && !fitted.current) {
+      map.fitBounds(L.latLngBounds(valid.map(m => [m.position.lat, m.position.lng])), { padding: [35, 35], maxZoom: 14 });
+      fitted.current = true;
+    }
+  }, [markers, center.lat, center.lng]);
+  return <div ref={container} aria-label="Itinerary map" className="relative z-0 h-full w-full min-h-64 rounded-lg" />;
+}

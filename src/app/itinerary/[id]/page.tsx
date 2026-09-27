@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useEffect, useState, useRef } from 'react';
+import React, { useEffect, useState } from 'react';
 import Image from 'next/image';
 import dynamic from 'next/dynamic';
 import Link from 'next/link';
@@ -89,6 +89,8 @@ interface ItineraryDay {
 }
 
 interface ItineraryData {
+  travelGroup?: string;
+  guestNationality?: string;
   destination: string;
   dates: {
     start: string;
@@ -132,7 +134,6 @@ export default function ItineraryPage({ params }: { params: { id: string } }) {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [headerImageError, setHeaderImageError] = useState(false);
-  const headerImageLoadAttempted = useRef<string | null>(null);
   const [saving, setSaving] = useState(false);
   const [saved, setSaved] = useState(false);
   
@@ -174,8 +175,8 @@ export default function ItineraryPage({ params }: { params: { id: string } }) {
         } catch {}
 
         // 1) Wikipedia via AirportDB (if we found ICAO)
-        if (icao) {
-          const wp = await fetch(`/api/airport-photos?airport=${encodeURIComponent(airportName)}&city=${encodeURIComponent(city)}&country=${encodeURIComponent(country)}&icao=${encodeURIComponent(icao)}`);
+        {
+          const wp = await fetch(`/api/airport-photos?airport=${encodeURIComponent(airportName)}&city=${encodeURIComponent(city)}&country=${encodeURIComponent(country)}&icao=${encodeURIComponent(icao || '')}`);
           if (wp.ok) {
             const d = await wp.json();
             if (Array.isArray(d.photos) && d.photos.length > 0) {
@@ -251,14 +252,13 @@ export default function ItineraryPage({ params }: { params: { id: string } }) {
     setIsReviewPanelOpen(true);
   };
 
-  // Reset error state and tracking when destination changes (new itinerary loaded)
+  // Debug logging for header image and reset error state
   useEffect(() => {
-    if (itineraryData?.headerImage && itineraryData?.destination) {
-      // Reset error state and tracking ref when destination changes
-      setHeaderImageError(false);
-      headerImageLoadAttempted.current = null;
+    if (itineraryData?.headerImage) {
+      console.log('Header image URL in component:', itineraryData.headerImage);
+      setHeaderImageError(false); // Reset error state when new image is loaded
     }
-  }, [itineraryData?.destination]); // Only reset when destination changes
+  }, [itineraryData?.headerImage]);
 
   // Add keyboard shortcut for printing (Ctrl+P / Cmd+P)
   useEffect(() => {
@@ -519,30 +519,18 @@ export default function ItineraryPage({ params }: { params: { id: string } }) {
                 ? 'https://images.unsplash.com/photo-1488646953014-85cb44e25828?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
                 : itineraryData.headerImage
               }
-              alt={`${itineraryData.destination} travel destination - AI travel planner itinerary`}
+              alt={itineraryData.destination}
               className="w-full h-full object-cover"
-              onLoad={(e) => {
-                // Silently mark as loaded - no console logs to prevent spam
-                const target = e.target as HTMLImageElement;
-                headerImageLoadAttempted.current = target.src;
+              onLoad={() => {
+                console.log('Header image loaded successfully');
+                setHeaderImageError(false);
               }}
               onError={(e) => {
-                // Only set error state once per image URL to prevent infinite loop
-                const target = e.target as HTMLImageElement;
-                const currentSrc = target.src;
-                const isFallbackImage = currentSrc.includes('photo-1488646953014-85cb44e25828');
-                const alreadyAttempted = headerImageLoadAttempted.current === currentSrc;
-                
-                // Only process error if:
-                // 1. Not already using fallback
-                // 2. Haven't attempted this exact URL before  
-                // 3. Error state not already set
-                if (!isFallbackImage && !alreadyAttempted && !headerImageError) {
-                  headerImageLoadAttempted.current = currentSrc;
+                console.error('Header image failed to load:', itineraryData.headerImage);
+                if (!headerImageError) {
                   setHeaderImageError(true);
                 }
               }}
-              key={`${itineraryData.destination}-${itineraryData.headerImage}`}
             />
             <div className="absolute inset-0 bg-black/40 flex items-center justify-center">
               <div className="text-center text-white">
@@ -579,13 +567,13 @@ export default function ItineraryPage({ params }: { params: { id: string } }) {
             ) : airportPhotos.length > 1 ? (
               <PhotoCarousel
                 photos={airportPhotos}
-                alt={`${itineraryData.airport.name} airport - ${itineraryData.destination} travel itinerary`}
+                alt={itineraryData.airport.name}
                 className="h-full"
               />
             ) : airportPhotos.length === 1 ? (
               <Image
                 src={airportPhotos[0]}
-                alt={`${itineraryData.airport.name} airport - ${itineraryData.destination} travel itinerary`}
+                alt={itineraryData.airport.name}
                 fill
                 className="object-cover"
               />
@@ -614,7 +602,8 @@ export default function ItineraryPage({ params }: { params: { id: string } }) {
               destination={itineraryData.destination}
               startDate={itineraryData.dates.start}
               endDate={itineraryData.dates.end}
-              travelGroup="2 adults"
+              travelGroup={itineraryData.travelGroup || 'couple'}
+              guestNationality={itineraryData.guestNationality}
             />
           )}
         </section>
@@ -692,7 +681,7 @@ export default function ItineraryPage({ params }: { params: { id: string } }) {
                 <div className="flex items-center mb-2">
                   <img
                     src={transport.icon}
-                    alt={`${transport.type} transportation - ${itineraryData.destination} travel planning`}
+                    alt={transport.type}
                     className="w-6 h-6 mr-2"
                   />
                   <h3 className="text-lg font-semibold">{transport.type}</h3>
@@ -762,7 +751,7 @@ export default function ItineraryPage({ params }: { params: { id: string } }) {
             <ul>
               {itineraryData.hotels.map((hotel, index) => (
                 <li key={index}>
-                  <strong>{hotel.name}</strong> - Rating: {hotel.rating}/5 - ${hotel.price}/4 nights
+                  <strong>{hotel.name}</strong> - Rating: {hotel.rating}/5 - ${hotel.price}/night
                 </li>
               ))}
             </ul>
@@ -1052,48 +1041,35 @@ Plan your own trip at: ${window.location.origin}/plan`;
         {/* Right Panel - Map */}
         <div className={`w-full md:w-1/2 h-[calc(100vh-64px-48px)] md:h-[calc(100vh-64px)] sticky top-16 ${
           mobileView === 'map' ? 'block' : 'hidden md:block'
-        }`} style={{ minHeight: '600px' }}>
+        }`}>
           <div className="h-full w-full">
             {itineraryData.itineraries && itineraryData.itineraries.length > 0 ? (
               <React.Suspense fallback={<MapFallback />}>
                 <Map
                   center={itineraryData.itineraries[0]?.morning?.location || { lat: 48.8566, lng: 2.3522 }}
-                  places={[
+                  markers={[
                     ...itineraryData.itineraries.flatMap(day => [
                       {
-                        name: day.morning.activity,
-                        lat: day.morning.location.lat,
-                        lng: day.morning.location.lng,
-                        type: 'activity',
-                        photoUrl: day.morning.image && day.morning.image.trim() !== '' ? day.morning.image : undefined
+                        position: day.morning.location,
+                        title: day.morning.activity,
+                        type: 'activity' as const
                       },
                       {
-                        name: day.afternoon.activity,
-                        lat: day.afternoon.location.lat,
-                        lng: day.afternoon.location.lng,
-                        type: 'activity',
-                        photoUrl: day.afternoon.image && day.afternoon.image.trim() !== '' ? day.afternoon.image : undefined
-                      },
-                      {
-                        name: day.restaurant.name,
-                        lat: day.restaurant.location.lat,
-                        lng: day.restaurant.location.lng,
-                        type: 'restaurant',
-                        photoUrl: undefined // Restaurants typically don't have images in itinerary data
+                        position: day.afternoon.location,
+                        title: day.afternoon.activity,
+                        type: 'activity' as const
                       }
                     ]),
                     ...itineraryData.hotels.map(hotel => ({
-                      name: hotel.name,
-                      lat: hotel.location.lat,
-                      lng: hotel.location.lng,
-                      type: 'hotel',
-                      photoUrl: hotel.image && hotel.image.trim() !== '' ? hotel.image : undefined
+                      position: hotel.location,
+                      title: hotel.name,
+                      type: 'hotel' as const
                     }))
                   ]}
                 />
               </React.Suspense>
             ) : (
-              <div className="h-full w-full bg-gray-100 flex items-center justify-center" style={{ minHeight: '600px' }}>
+              <div className="h-full w-full bg-gray-100 flex items-center justify-center">
                 <div className="text-center">
                   <div className="text-4xl mb-4">🗺️</div>
                   <p className="text-gray-600">Interactive Map</p>

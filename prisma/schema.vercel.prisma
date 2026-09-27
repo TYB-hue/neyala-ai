@@ -1,0 +1,186 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client-js"
+  output   = "../generated/prisma"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("SUPABASE_DATABASE_URL")
+}
+
+model User {
+  id                String    @id
+  firstName         String?
+  lastName          String?
+  email            String    @unique
+  phoneNumber      String?
+  createdAt        DateTime  @default(now())
+  trips            Trip[]
+  hotelBookings    HotelBooking[]
+  reviews          Review[]
+  favoriteDestinations FavoriteDestination[]
+  savedFavorites    SavedAttraction[] // Renamed from savedAttractions
+  savedItineraries  Itinerary[]
+  favorites         Favorite[] // New favorites with exact image URLs
+}
+
+model Trip {
+  id              String    @id @default(cuid())
+  userId          String
+  destination     String
+  startDate       DateTime
+  endDate         DateTime
+  status          TripStatus @default(PLANNED)
+  budget          String
+  travelStyle     String
+  activities      Activity[]
+  requirements    String    // Stored as JSON string
+  user            User      @relation(fields: [userId], references: [id])
+  createdAt       DateTime  @default(now())
+  updatedAt       DateTime  @updatedAt
+}
+
+model Activity {
+  id              String    @id @default(cuid())
+  tripId          String
+  name            String
+  type            ActivityType
+  date            DateTime
+  description     String?
+  trip            Trip      @relation(fields: [tripId], references: [id], onDelete: Cascade)
+}
+
+model Hotel {
+  id              String    @id @default(cuid())
+  name            String
+  location        String
+  description     String
+  rating          Float
+  pricePerNight   Float
+  amenities       String    // Stored as JSON string
+  image           String?
+  bookings        HotelBooking[]
+}
+
+model HotelBooking {
+  id              String    @id @default(cuid())
+  userId          String
+  hotelId         String
+  checkIn         DateTime
+  checkOut        DateTime
+  status          BookingStatus @default(CONFIRMED)
+  totalPrice      Float
+  user            User      @relation(fields: [userId], references: [id])
+  hotel           Hotel     @relation(fields: [hotelId], references: [id])
+  createdAt       DateTime  @default(now())
+}
+
+model Review {
+  id              String    @id @default(cuid())
+  userId          String
+  placeId         String    // SHA256 hash of place name + address
+  placeName       String    // Human-readable place name
+  placeType       String    // HOTEL, RESTAURANT, ATTRACTION, etc.
+  rating          Int       // 1-5 stars
+  comment         String?
+  user            User      @relation(fields: [userId], references: [id])
+  createdAt       DateTime  @default(now())
+  updatedAt       DateTime  @updatedAt
+
+  @@unique([userId, placeId]) // One review per user per place
+  @@index([placeId]) // For efficient queries by place
+}
+
+model FavoriteDestination {
+  id              String    @id @default(cuid())
+  userId          String
+  destination     String
+  user            User      @relation(fields: [userId], references: [id])
+  createdAt       DateTime  @default(now())
+
+  @@unique([userId, destination])
+}
+
+model SavedAttraction {
+  id              String    @id @default(cuid())
+  userId          String
+  attractionId    String
+  user            User      @relation(fields: [userId], references: [id])
+  attraction      Attraction @relation(fields: [attractionId], references: [id])
+  createdAt       DateTime  @default(now())
+
+  @@unique([userId, attractionId])
+}
+
+model Attraction {
+  id              String    @id @default(cuid())
+  name            String
+  type            String    // HOTEL, RESTAURANT, ATTRACTION, PLACE
+  location        String
+  description     String?
+  image           String?
+  rating          Float?
+  priceRange      String?
+  category        String?
+  savedBy         SavedAttraction[]
+  createdAt       DateTime  @default(now())
+  updatedAt       DateTime  @updatedAt
+}
+
+enum TripStatus {
+  PLANNED
+  ONGOING
+  COMPLETED
+  CANCELLED
+}
+
+enum ActivityType {
+  FLIGHT
+  HOTEL
+  TOUR
+  RESTAURANT
+  OTHER
+}
+
+enum BookingStatus {
+  PENDING
+  CONFIRMED
+  COMPLETED
+  CANCELLED
+}
+
+model Itinerary {
+  id              String    @id @default(cuid())
+  userId          String
+  title           String
+  itineraryData   String    // Stored as JSON string - contains entire itinerary object
+  user            User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  createdAt       DateTime  @default(now())
+  updatedAt       DateTime  @updatedAt
+
+  @@index([userId]) // For efficient queries by user
+  @@index([createdAt]) // For sorting by date
+}
+
+model Favorite {
+  id              String    @id @default(cuid())
+  userId          String
+  itemId          String?   // Original attraction/item ID if available
+  name            String
+  location        String
+  description     String?
+  imageUrl        String    // Exact URL captured at like time - never changes
+  meta            String?   // JSON string for additional metadata (rating, price, etc.)
+  user            User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  createdAt       DateTime  @default(now())
+
+  @@index([userId]) // For efficient queries by user
+  @@index([createdAt]) // For sorting by date
+  @@unique([userId, itemId]) // Prevent duplicates for same user+itemId (if itemId provided)
+}

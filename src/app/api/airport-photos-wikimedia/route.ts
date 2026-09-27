@@ -1,3 +1,4 @@
+import { limitedFetch } from '@/lib/limited-fetch';
 import { NextRequest, NextResponse } from 'next/server';
 
 const ENDPOINT = 'https://commons.wikimedia.org/w/api.php';
@@ -29,7 +30,7 @@ async function fetchCategoryTitle(airportName: string): Promise<string | null> {
       srnamespace: '14',
       srlimit: '1'
     });
-    const res = await fetch(`${ENDPOINT}?${params.toString()}`, { cache: 'no-store' });
+    const res = await limitedFetch(`${ENDPOINT}?${params.toString()}`, { cache: 'no-store' });
     if (!res.ok) continue;
     const data = await res.json();
     const title = data?.query?.search?.[0]?.title || null;
@@ -64,7 +65,7 @@ async function fetchCategoryImages(categoryTitle: string, limit: number, airport
     prop: 'imageinfo',
     iiprop: 'url|mime|size'
   });
-  const res = await fetch(`${ENDPOINT}?${params.toString()}`, { cache: 'no-store' });
+  const res = await limitedFetch(`${ENDPOINT}?${params.toString()}`, { cache: 'no-store' });
   if (!res.ok) return [];
   const data = await res.json();
   const pages = data?.query?.pages || {};
@@ -85,12 +86,13 @@ async function searchFallback(airportName: string, limit: number): Promise<strin
     format: 'json',
     origin: '*',
     generator: 'search',
-    gsrsearch: airportName,
+    gsrsearch: airportName.replace(/\([^)]*\)/g, '').replace(/[–—-]/g, ' ').trim(),
+    gsrnamespace: '6',
     gsrlimit: String(limit),
     prop: 'imageinfo',
     iiprop: 'url|mime|size'
   });
-  const res = await fetch(`${ENDPOINT}?${params.toString()}`, { cache: 'no-store', headers: { 'Accept': 'application/json' } });
+  const res = await limitedFetch(`${ENDPOINT}?${params.toString()}`, { cache: 'no-store', headers: { 'Accept': 'application/json' } });
   if (!res.ok) return [];
   const data = await res.json();
   const pages = data?.query?.pages || {};
@@ -110,7 +112,8 @@ export async function GET(req: NextRequest) {
     const { searchParams } = new URL(req.url);
     const name = (searchParams.get('name') || '').trim();
     const limit = Number(searchParams.get('limit') || '5');
-    if (!name) return NextResponse.json({ photos: [] }, { status: 200 });
+    if (!Number.isInteger(limit) || limit < 1 || limit > 10) return NextResponse.json({ error: 'Limit must be an integer from 1 to 10.' }, { status: 400 });
+    if (!name) return NextResponse.json({ error: 'Missing name' }, { status: 400 });
 
     const categoryTitle = await fetchCategoryTitle(name);
     let photos: string[] = [];

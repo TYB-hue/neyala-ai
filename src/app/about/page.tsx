@@ -1,20 +1,5 @@
 import React from 'react';
 import Link from 'next/link';
-import type { Metadata } from 'next';
-
-export const metadata: Metadata = {
-  title: 'About Nyala — AI Travel Planner & Trip Assistant',
-  description: 'Learn about Nyala, an innovative AI travel planner that combines artificial intelligence with cultural understanding to create personalized travel experiences. Discover our AI-powered travel planning features.',
-  keywords: 'ai travel planner, travel planning, ai travel assistant, travel planning app, ai travel itinerary',
-  openGraph: {
-    title: 'About Nyala — AI Travel Planner & Trip Assistant',
-    description: 'Learn about Nyala, an innovative AI travel planner that creates personalized travel experiences.',
-    url: '/about',
-  },
-  alternates: {
-    canonical: '/about',
-  },
-};
 
 export default function AboutPage() {
   return (
@@ -35,9 +20,9 @@ export default function AboutPage() {
             <h2 className="text-3xl font-semibold mb-6">Our Mission</h2>
             <p className="text-lg leading-relaxed">
               We believe that travel should be accessible and enjoyable for everyone, regardless of their 
-              specific needs or requirements. Our AI travel planner platform takes into account various factors 
+              specific needs or requirements. Our AI-powered platform takes into account various factors 
               such as dietary restrictions, accessibility needs, and cultural preferences to create the 
-              perfect AI travel itinerary for your journey.
+              perfect itinerary for your journey.
             </p>
           </section>
 
@@ -69,11 +54,11 @@ export default function AboutPage() {
               <ul className="space-y-4">
                 <li className="flex items-start">
                   <span className="text-blue-600 mr-2">•</span>
-                  AI-powered travel recommendations and AI travel itinerary generation
+                  AI-powered travel recommendations
                 </li>
                 <li className="flex items-start">
                   <span className="text-blue-600 mr-2">•</span>
-                  Detailed day-by-day AI travel itineraries
+                  Detailed day-by-day itineraries
                 </li>
                 <li className="flex items-start">
                   <span className="text-blue-600 mr-2">•</span>

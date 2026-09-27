@@ -34,7 +34,7 @@ class GroqKeyManager {
 
     // Pre-create Groq instances for all keys
     this.keys.forEach((key, index) => {
-      this.groqInstances.set(key, new Groq({ apiKey: key }));
+      this.groqInstances.set(key, new Groq({ apiKey: key, timeout: 90000, maxRetries: 1 }));
     });
   }
 
@@ -77,7 +77,7 @@ class GroqKeyManager {
 
       if (!this.exhaustedKeys.has(this.currentKeyIndex)) {
         const newKey = this.keys[this.currentKeyIndex];
-        console.log(`Switched to backup key ${this.currentKeyIndex + 1} (${newKey.substring(0, 10)}...)`);
+        console.log(`Switched to backup key ${this.currentKeyIndex + 1} `);
         return true;
       }
     }

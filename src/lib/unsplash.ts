@@ -1,3 +1,4 @@
+import { limitedFetch } from '@/lib/limited-fetch';
 import { getHeaderImageForDestination, getFallbackHeaderImage } from '@/lib/country-images';
 import { searchAirport } from '@/lib/foursquare';
 
@@ -170,7 +171,7 @@ async function fetchPexelsImageOptimized(query: string, orientation: 'landscape'
       ? query 
       : `${query} travel landscape`;
     
-    const response = await fetch(
+    const response = await limitedFetch(
       `https://api.pexels.com/v1/search?query=${encodeURIComponent(enhancedQuery)}&per_page=1&orientation=${orientation}`,
       { 
         headers: { Authorization: PEXELS_API_KEY },
@@ -206,7 +207,7 @@ export async function getAirportImage(airportName: string, destination?: string)
     const country = destination?.split(',')[1]?.trim();
     
     const baseUrl = process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}` : 'http://localhost:3000';
-    const wikiResponse = await fetch(`${baseUrl}/api/airport-photos?airport=${encodeURIComponent(airportName)}&city=${encodeURIComponent(city || '')}&country=${encodeURIComponent(country || '')}`);
+    const wikiResponse = await limitedFetch(`${baseUrl}/api/airport-photos?airport=${encodeURIComponent(airportName)}&city=${encodeURIComponent(city || '')}&country=${encodeURIComponent(country || '')}`);
     if (wikiResponse.ok) {
       const wikiData = await wikiResponse.json();
       if (wikiData.photos && wikiData.photos.length > 0) {
@@ -252,7 +253,7 @@ export async function getAirportPhotos(airportName: string, destination?: string
     const country = destination?.split(',')[1]?.trim();
     
     const baseUrl = process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}` : 'http://localhost:3000';
-    const wikiResponse = await fetch(`${baseUrl}/api/airport-photos?airport=${encodeURIComponent(airportName)}&city=${encodeURIComponent(city || '')}&country=${encodeURIComponent(country || '')}`);
+    const wikiResponse = await limitedFetch(`${baseUrl}/api/airport-photos?airport=${encodeURIComponent(airportName)}&city=${encodeURIComponent(city || '')}&country=${encodeURIComponent(country || '')}`);
     if (wikiResponse.ok) {
       const wikiData = await wikiResponse.json();
       if (wikiData.photos && wikiData.photos.length > 0) {
@@ -318,7 +319,7 @@ async function getGomapsAirportPhotos(airportName: string, destination?: string)
     for (const query of searchQueries) {
       const apiUrl = `https://maps.gomaps.pro/maps/api/place/textsearch/json?query=${encodeURIComponent(query)}&key=${process.env.GOMAPS_API_KEY}`;
       
-      const response = await fetch(apiUrl);
+      const response = await limitedFetch(apiUrl);
 
       if (!response.ok) {
         console.log(`GOMAPS.PRO API request failed for query "${query}": ${response.status}`);
@@ -361,7 +362,7 @@ async function getGomapsAirportPhotos(airportName: string, destination?: string)
       const destinationQuery = `${airportName} ${destination}`;
       const apiUrl = `https://maps.gomaps.pro/maps/api/place/textsearch/json?query=${encodeURIComponent(destinationQuery)}&key=${process.env.GOMAPS_API_KEY}`;
       
-      const response = await fetch(apiUrl);
+      const response = await limitedFetch(apiUrl);
 
       if (response.ok) {
         const data = await response.json();
@@ -516,7 +517,7 @@ async function fetchUnsplashImage(query: string): Promise<string | null> {
     // Use order_by=popular for trending, beautiful photos
     // content_filter=high for safer, higher-curation images
     // orientation=landscape for perfect banner/header images
-    const res = await fetch(
+    const res = await limitedFetch(
       `https://api.unsplash.com/search/photos?query=${encodeURIComponent(query)}&page=1&per_page=1&orientation=landscape&order_by=popular&content_filter=high`,
       {
         headers: { Authorization: `Client-ID ${UNSPLASH_KEY}` },
@@ -540,11 +541,15 @@ async function fetchUnsplashImage(query: string): Promise<string | null> {
 }
 
 export async function getDestinationHeaderImage(destination: string): Promise<string> {
+  // #region agent log
+  // #endregion
   console.log('getDestinationHeaderImage called for:', destination);
   
   // First, check if we have a manually set country/city image (DO NOT TOUCH THESE)
   const countryImage = getHeaderImageForDestination(destination);
   if (countryImage) {
+    // #region agent log
+    // #endregion
     console.log('Found manually set country/city image:', countryImage);
     return countryImage;
   }
@@ -554,6 +559,68 @@ export async function getDestinationHeaderImage(destination: string): Promise<st
   const city = parts[0] || '';
   const country = parts.length > 1 ? parts[parts.length - 1] : destination;
   
+  // #region agent log
+  // #endregion
+  
+  // PRIORITY: If no manual image exists, try Google Places Photos API FIRST
+  // This ensures countries without images in the system use Google Places API
+  try {
+    const { getGooglePlacePhoto, getGooglePlacePhotos } = await import('@/lib/google-places-photos');
+    
+    // Try city first (more specific)
+    if (city && city !== country) {
+      // #region agent log
+      // #endregion
+      const cityPhoto = await getGooglePlacePhoto(`${city}, ${country}`);
+      if (cityPhoto) {
+        // #region agent log
+        // #endregion
+        console.log(`✅ Found Google Places photo for city: ${city}`);
+        return cityPhoto;
+      }
+      
+      // Try multiple city photos
+      const cityPhotos = await getGooglePlacePhotos(`${city}, ${country}`, undefined, undefined, 3);
+      if (cityPhotos && cityPhotos.length > 0) {
+        // #region agent log
+        // #endregion
+        console.log(`✅ Found Google Places photos for city: ${city}`);
+        return cityPhotos[0];
+      }
+    }
+    
+    // Fallback to country
+    if (country) {
+      // #region agent log
+      // #endregion
+      const countryPhoto = await getGooglePlacePhoto(country);
+      if (countryPhoto) {
+        // #region agent log
+        // #endregion
+        console.log(`✅ Found Google Places photo for country: ${country}`);
+        return countryPhoto;
+      }
+      
+      // Try multiple country photos
+      const countryPhotos = await getGooglePlacePhotos(country, undefined, undefined, 3);
+      if (countryPhotos && countryPhotos.length > 0) {
+        // #region agent log
+        // #endregion
+        console.log(`✅ Found Google Places photos for country: ${country}`);
+        return countryPhotos[0];
+      }
+    }
+  } catch (error) {
+    // #region agent log
+    // #endregion
+    console.error('Error fetching Google Places header image in getDestinationHeaderImage:', error);
+    // Continue to Unsplash/Pexels fallback
+  }
+  
+  // #region agent log
+  // #endregion
+  
+  // Fallback to Unsplash/Pexels if Google Places fails
   // Create beautiful, tourism-focused search queries with aesthetic keywords
   // Prioritizing city-specific showcase images, then country
   const searchQueries = [
@@ -587,7 +654,7 @@ export async function getDestinationHeaderImage(destination: string): Promise<st
     `${country}`,
   ].filter(Boolean) as string[];
   
-  // Try Unsplash API first (more reliable, beautiful showcase images)
+  // Try Unsplash API (fallback after Google Places)
   const UNSPLASH_KEY = process.env.UNSPLASH_ACCESS_KEY;
   if (UNSPLASH_KEY) {
     for (const query of searchQueries) {
@@ -622,47 +689,9 @@ export async function getDestinationHeaderImage(destination: string): Promise<st
     }
   }
   
-  // Before using generic fallback, try Google Places Photos API
-  try {
-    const { getGooglePlacePhoto, getGooglePlacePhotos } = await import('@/lib/google-places-photos');
-    
-    // Try city first (more specific)
-    if (city && city !== country) {
-      const cityPhoto = await getGooglePlacePhoto(`${city}, ${country}`);
-      if (cityPhoto) {
-        console.log(`✅ Found Google Places photo for city before fallback: ${city}`);
-        return cityPhoto;
-      }
-      
-      // Try multiple city photos
-      const cityPhotos = await getGooglePlacePhotos(`${city}, ${country}`, undefined, undefined, 3);
-      if (cityPhotos && cityPhotos.length > 0) {
-        console.log(`✅ Found Google Places photos for city before fallback: ${city}`);
-        return cityPhotos[0];
-      }
-    }
-    
-    // Fallback to country
-    if (country) {
-      const countryPhoto = await getGooglePlacePhoto(country);
-      if (countryPhoto) {
-        console.log(`✅ Found Google Places photo for country before fallback: ${country}`);
-        return countryPhoto;
-      }
-      
-      // Try multiple country photos
-      const countryPhotos = await getGooglePlacePhotos(country, undefined, undefined, 3);
-      if (countryPhotos && countryPhotos.length > 0) {
-        console.log(`✅ Found Google Places photos for country before fallback: ${country}`);
-        return countryPhotos[0];
-      }
-    }
-  } catch (error) {
-    console.error('Error fetching Google Places header image in getDestinationHeaderImage:', error);
-    // Continue to generic fallback
-  }
-  
-  // Final fallback to our generic beautiful travel image (only if Google Places also failed)
+  // Final fallback to our generic beautiful travel image (only if all sources failed)
+  // #region agent log
+  // #endregion
   console.log('Using fallback header image - all sources exhausted');
   return getFallbackHeaderImage();
 }
@@ -705,8 +734,9 @@ function isInvalidHeaderImage(imageUrl: string | null | undefined): boolean {
   ];
   
   // Check if URL contains any fallback image IDs
-  if (defaultFallbackUrls.some(fallback => url.includes(fallback))) {
-    console.log(`Detected generic fallback image: ${fallback} in URL`);
+  const matchedFallback = defaultFallbackUrls.find(fallback => url.includes(fallback));
+  if (matchedFallback) {
+    console.log(`Detected generic fallback image: ${matchedFallback} in URL`);
     return true;
   }
   
@@ -840,7 +870,7 @@ async function getFoursquareAttractionImage(activityName: string, destination: s
       const searchUrl = `https://places-api.foursquare.com/places/search?query=${encodeURIComponent(query)}&limit=5`;
       const nearParam = city && country ? `&near=${encodeURIComponent(`${city}, ${country}`)}` : '';
       
-      const response = await fetch(`${searchUrl}${nearParam}`, {
+      const response = await limitedFetch(`${searchUrl}${nearParam}`, {
         headers: {
           'Authorization': `Bearer ${FOURSQUARE_API_KEY}`,
           'Accept': 'application/json',
@@ -865,7 +895,7 @@ async function getFoursquareAttractionImage(activityName: string, destination: s
           
           // Get photos for this place
           const photosUrl = `https://places-api.foursquare.com/places/${placeId}/photos?limit=1`;
-          const photosResponse = await fetch(photosUrl, {
+          const photosResponse = await limitedFetch(photosUrl, {
             headers: {
               'Authorization': `Bearer ${FOURSQUARE_API_KEY}`,
               'Accept': 'application/json',
@@ -913,7 +943,7 @@ async function getGomapsAttractionImage(activityName: string, destination: strin
     for (const query of searchQueries) {
       const apiUrl = `https://maps.gomaps.pro/maps/api/place/textsearch/json?query=${encodeURIComponent(query)}&key=${process.env.GOMAPS_API_KEY}`;
       
-      const response = await fetch(apiUrl);
+      const response = await limitedFetch(apiUrl);
 
       if (!response.ok) continue;
 
@@ -958,7 +988,7 @@ async function getFoursquareHotelImage(hotelName: string, destination: string): 
       const searchUrl = `https://places-api.foursquare.com/places/search?query=${encodeURIComponent(query)}&limit=5`;
       const nearParam = city && country ? `&near=${encodeURIComponent(`${city}, ${country}`)}` : '';
       
-      const response = await fetch(`${searchUrl}${nearParam}`, {
+      const response = await limitedFetch(`${searchUrl}${nearParam}`, {
         headers: {
           'Authorization': `Bearer ${FOURSQUARE_API_KEY}`,
           'Accept': 'application/json',
@@ -983,7 +1013,7 @@ async function getFoursquareHotelImage(hotelName: string, destination: string): 
           
           // Get photos for this place
           const photosUrl = `https://places-api.foursquare.com/places/${placeId}/photos?limit=1`;
-          const photosResponse = await fetch(photosUrl, {
+          const photosResponse = await limitedFetch(photosUrl, {
             headers: {
               'Authorization': `Bearer ${FOURSQUARE_API_KEY}`,
               'Accept': 'application/json',
@@ -1031,7 +1061,7 @@ async function getGomapsHotelImage(hotelName: string, destination: string): Prom
     for (const query of searchQueries) {
       const apiUrl = `https://maps.gomaps.pro/maps/api/place/textsearch/json?query=${encodeURIComponent(query)}&key=${process.env.GOMAPS_API_KEY}`;
       
-      const response = await fetch(apiUrl);
+      const response = await limitedFetch(apiUrl);
 
       if (!response.ok) continue;
 

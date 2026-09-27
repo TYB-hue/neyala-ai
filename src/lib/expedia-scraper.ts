@@ -32,25 +32,25 @@ export async function searchHotelsWithExpedia(
     console.log(`Searching hotels for ${location} using Expedia scraper...`);
     
     // Import the Expedia scraper dynamically
-    const { exec } = require('child_process');
+    const { execFile } = require('child_process');
     const { promisify } = require('util');
-    const execAsync = promisify(exec);
+    const execAsync = promisify(execFile);
     
     const maxHotels = options.maxHotels || 10;
     const headless = options.headless !== false;
     const useBrightData = options.useBrightData !== false;
     
     // Run the improved Expedia stealth scraper
-    const command = `node scripts/hotel_scraper_stealth_improved.js "${location}" ${maxHotels} ${headless} ${useBrightData}`;
+    const script = 'scripts/hotel_scraper_stealth_improved.js';
+    const args = [location, String(maxHotels), String(headless), String(useBrightData)];
     
-    console.log(`Executing: ${command}`);
     
-    const { stdout, stderr } = await execAsync(command, {
+    const { stdout, stderr } = await execAsync(process.execPath, [script, ...args], {
       timeout: 180000, // 3 minutes timeout
       env: {
         ...process.env,
         // Add Bright Data environment variables
-        BRIGHT_DATA_API_KEY: process.env.BRIGHT_DATA_API_KEY || 'c599910cc50aa538b352af88a6e04da8eb9275f0f96f86979027e0025f99b67d',
+        BRIGHT_DATA_API_KEY: process.env.BRIGHT_DATA_API_KEY || '',
         BRIGHT_DATA_ZONE: process.env.BRIGHT_DATA_ZONE || 'nyala_travel'
       }
     });

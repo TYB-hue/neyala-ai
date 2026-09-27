@@ -142,7 +142,7 @@ export default function HotelOffers({ hotels, destination }: HotelOffersProps) {
             <div className="relative h-48">
               <Image
                 src={hotel.image}
-                alt={`${hotel.name} hotel - AI travel planner accommodation recommendation`}
+                alt={hotel.name}
                 fill
                 className="object-cover"
                 sizes="320px"
@@ -187,7 +187,7 @@ export default function HotelOffers({ hotels, destination }: HotelOffersProps) {
                 <div className="text-xl font-bold text-gray-900">
                   {hotel.currency} {Math.round(hotel.price)}
                 </div>
-                <span className="text-sm text-gray-500">/4 nights</span>
+                <span className="text-sm text-gray-500">/night</span>
               </div>
               
               {/* Book Now Button */}

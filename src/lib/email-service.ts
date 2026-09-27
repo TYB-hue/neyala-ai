@@ -32,7 +32,8 @@ Submitted on: ${new Date().toLocaleString()}
     
     // Option 1: Use a webhook service like Zapier, Make.com, or n8n
     if (process.env.WEBHOOK_URL) {
-      await fetch(process.env.WEBHOOK_URL, {
+      const response = await fetch(process.env.WEBHOOK_URL, {
+        signal: AbortSignal.timeout(15000),
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -45,6 +46,7 @@ Submitted on: ${new Date().toLocaleString()}
           replyTo: data.email
         }),
       });
+      return response.ok;
     }
     
     // Option 2: Use Resend (recommended for production)
@@ -61,8 +63,7 @@ Submitted on: ${new Date().toLocaleString()}
         replyTo: data.email
       });
       
-      console.log('✅ Email sent via Resend:', result);
-      return true;
+      return !result.error;
     }
     
     // Option 3: Use SendGrid
@@ -77,12 +78,13 @@ Submitted on: ${new Date().toLocaleString()}
         text: emailContent,
         replyTo: data.email
       });
+      return true;
     }
     
     // Option 4: Use Nodemailer with SMTP
     if (process.env.SMTP_HOST) {
       const nodemailer = require('nodemailer');
-      const transporter = nodemailer.createTransporter({
+      const transporter = nodemailer.createTransport({
         host: process.env.SMTP_HOST,
         port: process.env.SMTP_PORT || 587,
         secure: false,
@@ -99,16 +101,10 @@ Submitted on: ${new Date().toLocaleString()}
         text: emailContent,
         replyTo: data.email
       });
+      return true;
     }
     
-    // Fallback: Log to console (for development)
-    console.log('📧 Email to send to nyala.trip@gmail.com:');
-    console.log('Subject:', `Contact Form: ${data.subject}`);
-    console.log('From:', data.email);
-    console.log('Content:', emailContent);
-    
-    return true;
-    
+    return false;
   } catch (error) {
     console.error('Error sending contact email:', error);
     return false;
@@ -117,6 +113,8 @@ Submitted on: ${new Date().toLocaleString()}
 
 // Helper function to format email content as HTML
 export function formatContactEmailHTML(data: ContactFormData): string {
+  const escape = (value: string) => value.replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]!));
+  data = Object.fromEntries(Object.entries(data).map(([key, value]) => [key, typeof value === 'string' ? escape(value) : value])) as unknown as ContactFormData;
   return `
     <div style="font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto;">
       <h2 style="color: #2563eb;">New Contact Form Submission</h2>

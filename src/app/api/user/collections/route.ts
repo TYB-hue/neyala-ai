@@ -1,3 +1,4 @@
+import { withBodyValidation, bodySchemas } from '@/lib/request-validation';
 import { auth } from "@clerk/nextjs";
 import { NextResponse } from "next/server";
 import { prisma } from "@/lib/prisma";
@@ -6,7 +7,7 @@ export async function GET() {
   try {
     const { userId } = auth();
     if (!userId) {
-      return new NextResponse("Unauthorized", { status: 401 });
+      return NextResponse.json({ success: false, error: "Unauthorized" }, { status: 401 });
     }
 
     // Get user's saved attractions/collections
@@ -33,15 +34,15 @@ export async function GET() {
     return NextResponse.json(collections);
   } catch (error) {
     console.error("[USER_COLLECTIONS_GET]", error);
-    return new NextResponse("Internal Error", { status: 500 });
+    return NextResponse.json({ success: false, error: "Internal Error" }, { status: 500 });
   }
 }
 
-export async function POST(req: Request) {
+async function handlePOST(req: Request) {
   try {
     const { userId } = auth();
     if (!userId) {
-      return new NextResponse("Unauthorized", { status: 401 });
+      return NextResponse.json({ success: false, error: "Unauthorized" }, { status: 401 });
     }
 
     const body = await req.json();
@@ -78,6 +79,8 @@ export async function POST(req: Request) {
       });
     }
 
+    await prisma.user.upsert({ where: { id: userId }, update: {}, create: { id: userId, email: `${userId}@clerk.dev` } });
+
     // Now save to collections
     const saved = await prisma.savedAttraction.create({
       data: {
@@ -92,7 +95,7 @@ export async function POST(req: Request) {
     return NextResponse.json(saved);
   } catch (error) {
     console.error("[USER_COLLECTIONS_POST]", error);
-    return new NextResponse("Internal Error", { status: 500 });
+    return NextResponse.json({ success: false, error: "Internal Error" }, { status: 500 });
   }
 }
 
@@ -100,14 +103,14 @@ export async function DELETE(req: Request) {
   try {
     const { userId } = auth();
     if (!userId) {
-      return new NextResponse("Unauthorized", { status: 401 });
+      return NextResponse.json({ success: false, error: "Unauthorized" }, { status: 401 });
     }
 
     const { searchParams } = new URL(req.url);
     const attractionId = searchParams.get('attractionId');
 
     if (!attractionId) {
-      return new NextResponse("Attraction ID required", { status: 400 });
+      return NextResponse.json({ success: false, error: "Attraction ID required" }, { status: 400 });
     }
 
     // Remove from collections
@@ -118,6 +121,8 @@ export async function DELETE(req: Request) {
     return NextResponse.json({ message: "Removed from collections" });
   } catch (error) {
     console.error("[USER_COLLECTIONS_DELETE]", error);
-    return new NextResponse("Internal Error", { status: 500 });
+    return NextResponse.json({ success: false, error: "Internal Error" }, { status: 500 });
   }
 }
+
+export const POST = withBodyValidation(handlePOST, bodySchemas.collection, true);

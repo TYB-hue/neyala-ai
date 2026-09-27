@@ -1,11 +1,12 @@
+import { withBodyValidation, bodySchemas } from '@/lib/request-validation';
 import { auth, clerkClient } from "@clerk/nextjs";
 import { NextResponse } from "next/server";
 
-export async function PATCH(req: Request) {
+async function handlePATCH(req: Request) {
   try {
     const { userId } = auth();
     if (!userId) {
-      return new NextResponse("Unauthorized", { status: 401 });
+      return NextResponse.json({ success: false, error: "Unauthorized" }, { status: 401 });
     }
 
     const body = await req.json();
@@ -21,7 +22,7 @@ export async function PATCH(req: Request) {
     return NextResponse.json(user);
   } catch (error) {
     console.error("[USER_UPDATE]", error);
-    return new NextResponse("Internal Error", { status: 500 });
+    return NextResponse.json({ success: false, error: "Internal Error" }, { status: 500 });
   }
 }
 
@@ -29,7 +30,7 @@ export async function DELETE(req: Request) {
   try {
     const { userId } = auth();
     if (!userId) {
-      return new NextResponse("Unauthorized", { status: 401 });
+      return NextResponse.json({ success: false, error: "Unauthorized" }, { status: 401 });
     }
 
     // Delete user from Clerk
@@ -38,6 +39,7 @@ export async function DELETE(req: Request) {
     return new NextResponse(null, { status: 204 });
   } catch (error) {
     console.error("[USER_DELETE]", error);
-    return new NextResponse("Internal Error", { status: 500 });
+    return NextResponse.json({ success: false, error: "Internal Error" }, { status: 500 });
   }
 } 
+export const PATCH = withBodyValidation(handlePATCH, bodySchemas.user, true);

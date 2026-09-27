@@ -3,9 +3,12 @@
 import React, { useState } from 'react'
 import { MapPinIcon, CalendarIcon, PlaneTakeoffIcon } from 'lucide-react'
 import Link from 'next/link'
+import { useUser } from '@clerk/nextjs'
+import { toast } from 'react-hot-toast'
 import { useRouter } from 'next/navigation'
 
 export function HeroSection() {
+  const { isSignedIn } = useUser()
   const router = useRouter()
   const [destination, setDestination] = useState('')
   const [travelDates, setTravelDates] = useState('')
@@ -13,21 +16,34 @@ export function HeroSection() {
   const handleStartPlanning = (e: React.MouseEvent) => {
     e.preventDefault()
     
-    // Navigate to plan page - no authentication required
+    if (!isSignedIn) {
+      toast.error('Please sign in to start planning your trip!')
+      router.push('/sign-in')
+      return
+    }
+    
+    // If user is signed in, navigate to plan page
     router.push('/plan')
   }
 
   const handleSearch = (e: React.FormEvent) => {
     e.preventDefault()
     
-    // Navigate to plan page with search - no authentication required
-    router.push('/plan')
+    if (!isSignedIn) {
+      toast.error('Please sign in to start planning your trip!')
+      router.push('/sign-in')
+      return
+    }
+    
+    // If user is signed in, proceed with search logic
+    // You can add actual search functionality here later
+    toast.success('Search functionality coming soon!')
   }
 
   return (
     <section className="relative bg-gradient-to-br from-blue-500 via-blue-600 to-blue-700 text-white overflow-hidden">
       {/* Background Pattern */}
-      <div className="absolute inset-0 opacity-10 bg-[url('/images/hero-bg.jpg')] bg-cover bg-center"></div>
+      <div className="absolute inset-0 opacity-10 bg-gradient-to-br from-sky-300 via-blue-200 to-indigo-300 bg-cover bg-center"></div>
       {/* Decorative elements */}
       <div className="absolute top-0 left-0 w-full h-full">
         <div className="absolute top-20 left-10 w-32 h-32 bg-white/10 rounded-full blur-xl"></div>
@@ -37,11 +53,11 @@ export function HeroSection() {
       <div className="container mx-auto px-4 py-20 relative z-10">
         <div className="max-w-3xl mx-auto text-center">
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6">
-            AI Travel Planner for Effortless Trip Planning
+            Your AI-Powered Travel Companion
           </h1>
           <p className="text-xl md:text-2xl mb-10 text-blue-100">
-            Create personalized AI travel itineraries with our free AI travel planner. 
-            Discover new destinations, plan your perfect trip with our AI travel assistant, and travel smarter.
+            Create personalized travel itineraries with the help of advanced AI. 
+            Discover new destinations, plan your perfect trip, and travel smarter.
           </p>
           <div className="flex flex-col sm:flex-row justify-center gap-4 mb-16">
             <button 

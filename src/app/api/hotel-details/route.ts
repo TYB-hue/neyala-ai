@@ -1,7 +1,8 @@
+import { withBodyValidation, bodySchemas } from '@/lib/request-validation';
 import { NextRequest, NextResponse } from 'next/server';
 import { getHotelDetails } from '@/lib/expedia';
 
-export async function POST(request: NextRequest) {
+async function handlePOST(request: NextRequest) {
   try {
     const { hotelName, destination } = await request.json();
 
@@ -30,3 +31,5 @@ export async function POST(request: NextRequest) {
     );
   }
 }
+
+export const POST = withBodyValidation(handlePOST, bodySchemas.hotelDetails, false);

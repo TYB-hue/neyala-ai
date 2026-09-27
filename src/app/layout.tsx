@@ -6,7 +6,6 @@ import { Footer } from '@/components/Footer';
 import './globals.css';
 import { Toaster } from 'react-hot-toast';
 import { AuthProvider } from '@/contexts/AuthContext';
-import { GoogleAnalytics } from '@/components/Analytics';
 import type { Metadata } from 'next';
 
 const inter = Inter({ subsets: ['latin'] });
@@ -23,14 +22,10 @@ function Loading() {
 export const metadata: Metadata = {
   metadataBase: new URL(process.env.NEXT_PUBLIC_APP_URL || 'http://localhost:3000'),
   title: {
-    default: 'AI Travel Planner – Free Personalized Trip Itineraries | Nyala',
+    default: 'Nyala – Your AI Travel Companion',
     template: '%s | Nyala'
   },
-  description: 'Free AI travel planner that creates personalized travel itineraries in seconds. Plan your perfect trip with our AI travel assistant and travel planning app. Generate custom AI travel itineraries with real attractions, hotels, and activities.',
-  keywords: 'travel planner ai, ai travel planner, ai travel itinerary, ai travel assistant, ai travel app, travel planning app, itinerary template, travel planning websites, best travel planning apps',
-  verification: {
-    google: 'aARyPYi7q-othGLSZGTdXnLmRBbmiYrD1EPI0uLMlkg',
-  },
+  description: 'Plan smarter trips with AI. Generate itineraries, explore attractions, and save your favorites with Nyala.',
   icons: {
     icon: [
       { url: '/favicon.ico' },
@@ -40,8 +35,8 @@ export const metadata: Metadata = {
   },
   openGraph: {
     type: 'website',
-    title: 'AI Travel Planner – Free Personalized Trip Itineraries | Nyala',
-    description: 'Free AI travel planner that creates personalized travel itineraries with real attractions, hotels, and activities. Plan your perfect trip with our AI travel assistant.',
+    title: 'Nyala – Your AI Travel Companion',
+    description: 'Create beautiful, detailed itineraries with real attractions and maps.',
     url: '/',
     siteName: 'Nyala',
     images: [
@@ -50,8 +45,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'AI Travel Planner – Free Personalized Trip Itineraries | Nyala',
-    description: 'Free AI travel planner that creates personalized travel itineraries. Plan your perfect trip with our AI travel assistant and travel planning app.',
+    title: 'Nyala – Your AI Travel Companion',
+    description: 'Plan smarter trips with AI. Generate itineraries and explore real attractions.',
     images: ['/images/og-nyala.jpg']
   },
   alternates: {
@@ -68,8 +63,6 @@ export default function RootLayout({
     <ClerkProvider>
       <html lang="en">
         <body className={inter.className}>
-          {/* Google Analytics - Uses Next.js Script component which loads in <head> automatically */}
-          <GoogleAnalytics />
           <AuthProvider>
             <Suspense fallback={<Loading />}>
               <div className="flex flex-col min-h-screen">

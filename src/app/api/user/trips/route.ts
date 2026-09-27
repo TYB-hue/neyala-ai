@@ -1,3 +1,4 @@
+import { withBodyValidation, bodySchemas } from '@/lib/request-validation';
 import { auth } from "@clerk/nextjs";
 import { NextResponse } from "next/server";
 import { getUserTrips, saveTrip } from "@/lib/api";
@@ -7,22 +8,22 @@ export async function GET() {
   try {
     const { userId } = auth();
     if (!userId) {
-      return new NextResponse("Unauthorized", { status: 401 });
+      return NextResponse.json({ success: false, error: "Unauthorized" }, { status: 401 });
     }
 
     const trips = await getUserTrips(userId);
     return NextResponse.json(trips);
   } catch (error) {
     console.error("[USER_TRIPS_GET]", error);
-    return new NextResponse("Internal Error", { status: 500 });
+    return NextResponse.json({ success: false, error: "Internal Error" }, { status: 500 });
   }
 }
 
-export async function POST(req: Request) {
+async function handlePOST(req: Request) {
   try {
     const { userId } = auth();
     if (!userId) {
-      return new NextResponse("Unauthorized", { status: 401 });
+      return NextResponse.json({ success: false, error: "Unauthorized" }, { status: 401 });
     }
 
     const body = await req.json();
@@ -62,7 +63,7 @@ export async function POST(req: Request) {
     return NextResponse.json({ success: true, trip: result });
   } catch (error) {
     console.error("[USER_TRIPS_POST]", error);
-    return new NextResponse("Internal Error", { status: 500 });
+    return NextResponse.json({ success: false, error: "Internal Error" }, { status: 500 });
   }
 }
 
@@ -71,3 +72,5 @@ export async function POST(req: Request) {
 
 
 
+
+export const POST = withBodyValidation(handlePOST, bodySchemas.trip, true);

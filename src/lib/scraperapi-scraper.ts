@@ -35,20 +35,20 @@ export async function searchHotelsWithScraperApi(
     console.log(`Searching hotels for ${location} using ScraperAPI scraper...`);
     
     // Import the ScraperAPI scraper dynamically
-    const { exec } = require('child_process');
+    const { execFile } = require('child_process');
     const { promisify } = require('util');
-    const execAsync = promisify(exec);
+    const execAsync = promisify(execFile);
     
     const maxHotels = options.maxHotels || 10;
     const headless = options.headless !== false;
     const useScraperApi = options.useScraperApi !== false;
     
     // Run the ScraperAPI scraper
-    const command = `node scripts/hotel_scraper_scraperapi.js "${location}" ${maxHotels} ${headless} ${useScraperApi}`;
+    const script = 'scripts/hotel_scraper_scraperapi.js';
+    const args = [location, String(maxHotels), String(headless), String(useScraperApi)];
     
-    console.log(`Executing: ${command}`);
     
-    const { stdout, stderr } = await execAsync(command, {
+    const { stdout, stderr } = await execAsync(process.execPath, [script, ...args], {
       timeout: 180000, // 3 minutes timeout
       env: {
         ...process.env,

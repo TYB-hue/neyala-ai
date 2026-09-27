@@ -16,6 +16,7 @@ interface MapProps {
     lng: number;
   };
   places: MapPlace[];
+  onUnavailable?: () => void;
 }
 
 declare global {
@@ -25,7 +26,7 @@ declare global {
   }
 }
 
-const MapComponent: React.FC<MapProps> = ({ center, places }) => {
+const MapComponent: React.FC<MapProps> = ({ center, places = [], onUnavailable }) => {
   const mapRef = useRef<HTMLDivElement>(null);
   const mapInstanceRef = useRef<any>(null);
   const markersRef = useRef<any[]>([]);
@@ -36,6 +37,10 @@ const MapComponent: React.FC<MapProps> = ({ center, places }) => {
   const [error, setError] = useState<string | null>(null);
   
   const googleMapsApiKey = process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY;
+
+  useEffect(() => {
+    if (error) onUnavailable?.();
+  }, [error, onUnavailable]);
 
   // Custom marker icon (Flaticon pin)
   const markerIcon = 'https://cdn-icons-png.flaticon.com/512/2776/2776067.png';
@@ -328,17 +333,12 @@ const MapComponent: React.FC<MapProps> = ({ center, places }) => {
   }
 
   return (
-    <div className="relative w-full h-full rounded-lg overflow-hidden" style={{ minHeight: '600px' }}>
+    <div className="relative w-full h-full min-h-64 rounded-lg overflow-hidden">
       {/* Map container - always rendered */}
       <div
         ref={mapRef}
         id="map"
         className="w-full h-full"
-        style={{
-          width: '100%',
-          height: '100%',
-          minHeight: '600px',
-        }}
       />
 
       {/* Loading overlay */}

@@ -1,3 +1,4 @@
+import { withBodyValidation, bodySchemas } from '@/lib/request-validation';
 import { NextRequest, NextResponse } from 'next/server';
 import { auth } from '@clerk/nextjs';
 import { prisma } from '@/lib/prisma';
@@ -10,7 +11,7 @@ function generatePlaceId(placeName: string, address?: string): string {
 }
 
 // POST /api/reviews - Add a new review
-export async function POST(request: NextRequest) {
+async function handlePOST(request: NextRequest) {
   try {
     const { userId } = await auth();
     
@@ -158,9 +159,6 @@ export async function GET(request: NextRequest) {
       orderBy: {
         createdAt: 'desc'
       }
-    }).catch((error) => {
-      console.error('Database error:', error);
-      return [];
     });
 
     // Calculate average rating
@@ -181,3 +179,5 @@ export async function GET(request: NextRequest) {
     );
   }
 }
+
+export const POST = withBodyValidation(handlePOST, bodySchemas.review, true);

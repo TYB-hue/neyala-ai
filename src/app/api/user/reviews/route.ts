@@ -6,7 +6,7 @@ export async function GET() {
   try {
     const { userId } = auth();
     if (!userId) {
-      return new NextResponse("Unauthorized", { status: 401 });
+      return NextResponse.json({ success: false, error: "Unauthorized" }, { status: 401 });
     }
 
     const reviews = await prisma.review.findMany({
@@ -17,7 +17,7 @@ export async function GET() {
     return NextResponse.json(reviews);
   } catch (error) {
     console.error("[USER_REVIEWS_GET]", error);
-    return new NextResponse("Internal Error", { status: 500 });
+    return NextResponse.json({ success: false, error: "Internal Error" }, { status: 500 });
   }
 }
 

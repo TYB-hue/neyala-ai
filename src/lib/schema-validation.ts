@@ -1,8 +1,8 @@
 import { z } from "zod";
 
 const LocationSchema = z.object({
-  lat: z.number(),
-  lng: z.number(),
+  lat: z.number().min(-90).max(90),
+  lng: z.number().min(-180).max(180),
 });
 
 const ItineraryDaySchema = z.object({
@@ -13,19 +13,19 @@ const ItineraryDaySchema = z.object({
     activity: z.string(),
     description: z.string(),
     time: z.string(),
-    location: LocationSchema,
+    location: LocationSchema.optional(),
   }),
   afternoon: z.object({
     activity: z.string(),
     description: z.string(),
     time: z.string(),
-    location: LocationSchema,
+    location: LocationSchema.optional(),
   }),
   restaurant: z.object({
     name: z.string(),
     cuisine: z.string(),
     description: z.string(),
-    location: LocationSchema,
+    location: LocationSchema.optional(),
   }),
 });
 
@@ -36,19 +36,19 @@ const OutputSchema = z.object({
   airport: z.object({ name: z.string(), info: z.string() }),
   hotels: z.array(z.object({
     name: z.string(),
-    rating: z.number(),
-    price: z.number(),
+    rating: z.number().nonnegative(),
+    price: z.number().nonnegative(),
     link: z.string().url(), // Only URLs allowed here
-    location: LocationSchema,
+    location: LocationSchema.optional(),
   })),
   itineraries: z.array(ItineraryDaySchema).min(1),
   transportation: z.array(z.object({ type: z.string(), description: z.string() })),
   estimatedCost: z.object({
-    accommodation: z.number(),
-    activities: z.number(),
-    transportation: z.number(),
-    food: z.number(),
-    total: z.number(),
+    accommodation: z.number().nonnegative(),
+    activities: z.number().nonnegative(),
+    transportation: z.number().nonnegative(),
+    food: z.number().nonnegative(),
+    total: z.number().nonnegative(),
   }),
 }).strict(); // Prevents any additional keys (like headerImage or images...)
 
@@ -69,7 +69,7 @@ function sanitizeUnknownUrls(obj: unknown): unknown {
   }
   if (typeof obj === "string") {
     // Forbidden any URL in text fields — except hotels[].link which schema allows
-    if (/https?:\/\//i.test(obj) || FORBIDDEN_URL_RE.test(obj)) return "";
+    if (FORBIDDEN_URL_RE.test(obj)) return "";
   }
   return obj;
 }
@@ -84,18 +84,14 @@ export function parseGroqJson(raw: string) {
   const sliced = raw.slice(start, end + 1);
 
   const data = JSON.parse(sliced);
-  console.log('Raw parsed data keys:', Object.keys(data));
   
   const sanitized = sanitizeUnknownUrls(data);
-  console.log('Sanitized data keys:', Object.keys(sanitized as object));
   
   // Schema will reject any additional keys or URLs in unauthorized places
   try {
     const result = OutputSchema.parse(sanitized);
-    console.log('Schema validation passed');
     return result;
   } catch (error) {
-    console.error('Schema validation failed:', error);
     throw error;
   }
 }

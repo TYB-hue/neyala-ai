@@ -1,8 +1,9 @@
+import { withBodyValidation, bodySchemas } from '@/lib/request-validation';
 import { auth } from "@clerk/nextjs";
 import { NextResponse } from "next/server";
 import { prisma } from "@/lib/prisma";
 
-export async function POST(req: Request) {
+async function handlePOST(req: Request) {
   try {
     console.log("[ITINERARY_SAVE] Starting save request...");
     
@@ -148,3 +149,5 @@ export async function POST(req: Request) {
   }
 }
 
+
+export const POST = withBodyValidation(handlePOST, bodySchemas.save, true);

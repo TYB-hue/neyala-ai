@@ -1,0 +1,14 @@
+node_modules
+.next
+.env*
+!.env.example
+.git
+venv
+prisma/*.db
+prisma/*.db-*
+*.tsbuildinfo
+booking_hotels_*.json
+expedia_hotels_*.json
+*test.png
+.DS_Store
+**/.DS_Store

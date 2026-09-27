@@ -191,6 +191,7 @@ export async function saveTrip(
     requirements: string[];
   }
 ) {
+  await prisma.user.upsert({ where: { id: userId }, update: {}, create: { id: userId, email: `${userId}@clerk.dev` } });
   return prisma.trip.create({
     data: {
       userId,

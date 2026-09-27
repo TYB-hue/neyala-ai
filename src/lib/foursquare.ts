@@ -1,3 +1,4 @@
+import { limitedFetch } from '@/lib/limited-fetch';
 // Foursquare Places API client for fetching airport photos
 // Requires FOURSQUARE_API_KEY environment variable
 
@@ -79,7 +80,7 @@ export async function searchAirport(
         searchUrl += `&near=${encodeURIComponent(`${city}, ${country}`)}`;
       }
       
-      const response = await fetch(searchUrl, {
+      const response = await limitedFetch(searchUrl, {
         headers: {
           'Authorization': `Bearer ${FOURSQUARE_API_KEY}`,
           'Accept': 'application/json',
@@ -120,14 +121,6 @@ export async function searchAirport(
         );
       }
 
-      // If still no match, try country filtering
-      if (!bestMatch && normalizedCountry) {
-        bestMatch = data.results.find(place => 
-          place.location.country?.toLowerCase() === normalizedCountry ||
-          place.location.country?.toLowerCase() === normalizedCountry.substring(0, 2)
-        );
-      }
-
       // If we found a good match, return it (keep both possible id fields)
       if (bestMatch) {
         console.log(`Found airport match: ${bestMatch.name} for query: ${query}`);
@@ -156,7 +149,7 @@ export async function getAirportPhotos(
   try {
     const photosUrl = `${API_BASE}/places/${fsqPlaceId}/photos?limit=${limit}`;
     
-    const response = await fetch(photosUrl, {
+    const response = await limitedFetch(photosUrl, {
       headers: {
         'Authorization': `Bearer ${FOURSQUARE_API_KEY}`,
         'Accept': 'application/json',

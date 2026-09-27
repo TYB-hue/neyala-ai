@@ -1,13 +1,3 @@
-import type { Metadata } from 'next';
-
-export const metadata: Metadata = {
-  title: 'Privacy Policy — AI Travel Planner | Nyala',
-  description: 'Privacy policy for Nyala AI travel planner. Learn how we protect your travel data and personal information when using our AI travel assistant and travel planning app.',
-  alternates: {
-    canonical: '/privacy',
-  },
-};
-
 export default function PrivacyPolicyPage() {
   return (
     <div className="min-h-screen bg-gray-50">

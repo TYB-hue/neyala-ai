@@ -53,7 +53,7 @@ export function GallerySection() {
             <div key={index} className="group relative overflow-hidden rounded-xl shadow-lg h-72">
               <Image
                 src={image.url}
-                alt={`Travel destination ${image.location} - ${image.description} - AI travel planner itinerary`}
+                alt={`${image.location} - ${image.description}`}
                 fill
                 className="object-cover transform transition-transform duration-300 group-hover:scale-110"
                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"

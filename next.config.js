@@ -7,6 +7,7 @@ const nextConfig = {
   swcMinify: true,
   images: {
     remotePatterns: [
+      { protocol: 'https', hostname: 'static.cupid.travel', pathname: '/**' },
       {
         protocol: 'https',
         hostname: 'unpkg.com',
